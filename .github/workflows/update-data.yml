@@ -1,7 +1,8 @@
 # Weekly data update: crawl -> extract (changed pages only) -> export, then open a pull
 # request when data changed. Merging it publishes the new data (Vercel redeploys main).
 #
-# Requires the repository secret CLAUDE_CODE_OAUTH_TOKEN (created with `claude setup-token`,
+# Requires the repository secret CLAUDE_CODE_OAUTH_TOKEN (or CLAUDE_CODE_AUTH_TOKEN), created
+# with `claude setup-token`,
 # tied to a Claude subscription: no paid API key) and, in Settings > Actions > General,
 # "Allow GitHub Actions to create and approve pull requests".
 name: Update data
@@ -47,7 +48,7 @@ jobs:
 
       - name: Check the Claude Code token
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN || secrets.CLAUDE_CODE_AUTH_TOKEN }}
         run: |
           if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
             echo "::error::Missing secret CLAUDE_CODE_OAUTH_TOKEN (run 'claude setup-token' and add it in Settings > Secrets and variables > Actions)."
@@ -77,7 +78,7 @@ jobs:
       - name: Extract (new and changed pages only)
         working-directory: pipeline
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN || secrets.CLAUDE_CODE_AUTH_TOKEN }}
         run: uv run pipeline extract --max-input-tokens "$MAX_INPUT_TOKENS"
 
       - name: Export
