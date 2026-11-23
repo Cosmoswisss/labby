@@ -24,7 +24,7 @@ from pipeline.fetch import now_utc
 from pipeline.models import Lab, PageExtraction
 
 PROMPTS_DIR = Path(__file__).parent / "prompts"
-PROMPT_NAME = "extract_v2"
+PROMPT_NAME = "extract_v3"
 MAX_PAGE_CHARS = 120_000  # ~30k tokens; longer pages are truncated (and flagged)
 EXTRACTIONS_VERSION = 1
 USAGE_LIMIT_RE = re.compile(r"usage limit|rate limit|limit reached|429|overloaded", re.I)

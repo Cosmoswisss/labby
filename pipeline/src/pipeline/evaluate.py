@@ -31,8 +31,16 @@ from pipeline.engines import Engine
 from pipeline.extract import build_user_prompt, load_prompt
 from pipeline.fetch import now_utc
 from pipeline.models import Lab, PageExtraction
+from pipeline.summaries import count_meta
 
 MATCH_THRESHOLD = 0.8
+
+
+def count_meta_summaries(projects: list[dict]) -> int:
+    """Summaries that talk about the page or missing information (see summaries.py)."""
+    return count_meta(projects)
+
+
 DEFAULT_STATUS = ["available", "unknown"]
 
 
@@ -250,6 +258,9 @@ class Evaluator:
             ps.error = pred.get("error")
             page_scores.append(ps)
         summary = summarize(page_scores, fields)
+        summary["meta_summaries"] = sum(
+            count_meta_summaries(p["projects"]) for p in run["predictions"].values()
+        )
         summary["input_tokens"] = sum(p["input_tokens"] for p in run["predictions"].values())
         summary["output_tokens"] = sum(p["output_tokens"] for p in run["predictions"].values())
         return summary, page_scores

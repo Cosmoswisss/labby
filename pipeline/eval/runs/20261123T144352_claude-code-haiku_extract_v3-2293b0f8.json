@@ -1,0 +1,2668 @@
+{
+ "engine": "claude-code:haiku",
+ "prompt": "extract_v3:2293b0f8",
+ "predictions": {
+  "cvlab-index": {
+   "input_tokens": 5840,
+   "output_tokens": 3128,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Interpretable and Controllable Neural Shape Parameterizations",
+     "lab_acronym": null,
+     "summary": "Develop neural representations that parameterize 2D and 3D shapes in a way that is interpretable and controllable, building on approaches such as DeepGeo that combine neural networks with mesh-based deformation. The aim is to make shape parameters predictable when they are changed.",
+     "project_types": [],
+     "domains": [
+      "computer vision",
+      "geometric deep learning",
+      "shape modeling"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Self-Supervised Learning of Flight Dynamics",
+     "lab_acronym": null,
+     "summary": "Learn how an aircraft responds to control inputs by observing flight data with self-supervised methods such as Joint-Embedding Predictive Architectures (JEPA), without manually labeled data.",
+     "project_types": [],
+     "domains": [
+      "self-supervised learning",
+      "robotics",
+      "flight dynamics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Structured 3D Shape Optimization with Part-Based Implicit Neural Representations",
+     "lab_acronym": null,
+     "summary": "Use part-based implicit neural representations, with an auto-decoder that decodes latent vectors and poses into shape parts, to generate, edit and optimize 3D shapes for engineering design.",
+     "project_types": [],
+     "domains": [
+      "implicit neural representations",
+      "3d shape optimization",
+      "computer-aided design"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Recovering Thin Structures in 3D Foundation Models",
+     "lab_acronym": null,
+     "summary": "Improve the reconstruction of thin structures by transformer-based 3D foundation models, which perform poorly on such structures because of coarse patchification.",
+     "project_types": [],
+     "domains": [
+      "3d reconstruction",
+      "computer vision",
+      "transformers"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Applied Deep Learning for Computer Aided Engineering",
+     "lab_acronym": null,
+     "summary": "Apply deep learning to automate computer aided engineering (CAE) processes in order to reduce the time and human resources needed and lower R&D costs for industry.",
+     "project_types": [],
+     "domains": [
+      "deep learning",
+      "computer aided engineering",
+      "scientific machine learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Real-Time 3D Tracking and Anomaly Detection for Maritime Kite Systems",
+     "lab_acronym": null,
+     "summary": "Build a 360° vision-based system for real-time 3D tracking and anomaly detection of kites for an automated maritime kite wing system developed by Aether Swiss Kite, extending a previous semester project on 2D detection and trajectory mapping.",
+     "project_types": [],
+     "domains": [
+      "computer vision",
+      "object tracking",
+      "anomaly detection"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Efficient Diffusion Models via Quantization and Compression",
+     "lab_acronym": null,
+     "summary": "Explore and systematically evaluate quantization and compression methods for diffusion models, such as Stable Diffusion, to reduce their memory and computational cost for deployment on resource-constrained devices.",
+     "project_types": [],
+     "domains": [
+      "generative models",
+      "diffusion models",
+      "model compression"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "3D Surface reconstruction using 3D Gaussians and SDF",
+     "lab_acronym": null,
+     "summary": "Investigate 3D surface reconstruction by combining 3D Gaussian Splatting with signed distance functions (SDF), building on methods such as SuGaR that either reconstruct surfaces from Gaussians directly or train a neural SDF alongside them.",
+     "project_types": [],
+     "domains": [
+      "3d reconstruction",
+      "gaussian splatting",
+      "neural implicit surfaces"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Computer Vision for Waste Management (CVLab x Wasteflow)",
+     "lab_acronym": null,
+     "summary": "Computer vision project for waste management, carried out by CVLAB in collaboration with Wasteflow.",
+     "project_types": [],
+     "domains": [
+      "computer vision",
+      "waste management",
+      "environmental applications"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "cvlab-sub": {
+   "input_tokens": 4553,
+   "output_tokens": 606,
+   "page_kind": "single_project",
+   "error": null,
+   "projects": [
+    {
+     "title": "Interpretable and Controllable Neural Shape Parameterizations",
+     "lab_acronym": null,
+     "summary": "The project aims to build on DeepGeo to make neural shape parameterizations more interpretable, controllable, and efficient to optimize. Research questions include automatically finding parameter directions for geometric properties such as airfoil thickness, camber, or wing twist, and building compact, adaptive parameter spaces that improve optimization convergence.",
+     "project_types": [],
+     "domains": [
+      "shape parameterization",
+      "geometric deep learning",
+      "mesh deformation",
+      "numerical optimization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "lap-available": {
+   "input_tokens": 6504,
+   "output_tokens": 2148,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Open-Source Work on Dynamic High-level Synthesis Compiler Targeting FPGAs",
+     "lab_acronym": null,
+     "summary": "Work on Dynamatic, an open-source dynamic high-level synthesis compiler based on MLIR that generates RTL for FPGAs from C/C++. Students can write compiler passes across the progressive lowering pipeline or contribute to debugging, visualisation, or benchmarking tools.",
+     "project_types": [],
+     "domains": [
+      "high-level synthesis",
+      "compilers",
+      "fpga",
+      "hardware design"
+     ],
+     "skills": [
+      "MLIR",
+      "C/C++",
+      "FPGA",
+      "RTL"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Guerrieri"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Accelerate FPGA Implementation Time",
+     "lab_acronym": null,
+     "summary": "Reduce the long bitstream generation time of FPGA implementation, aiming to cut it from several minutes to a few seconds for designs created with high-level synthesis from C/C++.",
+     "project_types": [],
+     "domains": [
+      "fpga",
+      "high-level synthesis",
+      "hardware design"
+     ],
+     "skills": [
+      "C/C++",
+      "FPGA"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Guerrieri"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Postquantum Cryptography Core Using High-Level Synthesis",
+     "lab_acronym": null,
+     "summary": "Explore and improve the quality of results of post-quantum cryptography hardware cores generated with high-level synthesis from C/C++, compared with RTL-based designs.",
+     "project_types": [],
+     "domains": [
+      "post-quantum cryptography",
+      "high-level synthesis",
+      "hardware design"
+     ],
+     "skills": [
+      "C/C++",
+      "HLS",
+      "FPGA"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Guerrieri"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Low-Level Optimization of Dynamically Scheduled Circuits",
+     "lab_acronym": null,
+     "summary": "Optimise dynamically scheduled circuits after the DHLS compiler output, working on RTL-to-FPGA implementation in Vivado during logic synthesis and place-and-route to address routing delays and congestion.",
+     "project_types": [],
+     "domains": [
+      "high-level synthesis",
+      "fpga",
+      "hardware design"
+     ],
+     "skills": [
+      "Vivado",
+      "RTL",
+      "FPGA"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Rouzbeh Pirayadi"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Toward Coarse-Grained Field Programmable Gate Arrays",
+     "lab_acronym": null,
+     "summary": "Study a coarser-grained version of FPGAs as a word-level reconfigurable computing fabric for data centre applications, with work on compiler optimisations, new architectural ideas, and physical implementation and modelling.",
+     "project_types": [],
+     "domains": [
+      "reconfigurable computing",
+      "computer architecture",
+      "compilers",
+      "fpga"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Louis Coulon"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimizing place and route for high frequency task parallel FPGA accelerators",
+     "lab_acronym": null,
+     "summary": "Analyse and raise the operating frequency of HardCilk-generated FPGA circuits by inserting elastic buffers into their ready-valid interfaces and evaluating the results with Vivado place and route.",
+     "project_types": [],
+     "domains": [
+      "fpga",
+      "task-level parallelism",
+      "hardware design"
+     ],
+     "skills": [
+      "Vivado",
+      "FPGA"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mohamed Shahawy"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "SOC-graphical configurator as VS-code plug-in",
+     "lab_acronym": null,
+     "summary": "Build a graphical SoC configurator as a VS Code plug-in, similar to Quartus QSYS, for the embedded systems used in CS-473 and CS-476, with export of SoC designs as TikZ pictures and PDF documentation.",
+     "project_types": [],
+     "domains": [
+      "embedded systems",
+      "soc design",
+      "developer tools"
+     ],
+     "skills": [
+      "VS Code",
+      "Verilog",
+      "TikZ"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Theo Kluter"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Hardware coherence on various wishbone bus-architectures",
+     "lab_acronym": null,
+     "summary": "Investigate and implement software-configurable hardware coherence protocols (such as MSI and MESI) on wishbone shared, crossbar, and ring bus architectures, for a system based on the Hazard3 RISC-V CPU.",
+     "project_types": [],
+     "domains": [
+      "cache coherence",
+      "embedded systems",
+      "computer architecture"
+     ],
+     "skills": [
+      "Wishbone",
+      "RISC-V",
+      "Hazard3",
+      "Verilog"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Theo Kluter"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "lap-main": {
+   "input_tokens": 5514,
+   "output_tokens": 172,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "lcn-master": {
+   "input_tokens": 7822,
+   "output_tokens": 1818,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "A Digital Twin for collective decision making",
+     "lab_acronym": null,
+     "summary": "Build on an existing pipeline that fits Digital Twins to zebrafish behaviour recorded in response to virtual conspecifics. The work starts with an auto-regressive generative model baseline, then uses interpretable approaches to understand decision making, ideally making predictions testable with real animals.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "computational neuroscience",
+      "machine learning",
+      "collective behaviour",
+      "decision making"
+     ],
+     "skills": [
+      "Python",
+      "deep learning",
+      "statistics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Spring 2026"
+    },
+    {
+     "title": "Implementing and extending a biologically inspired computational model of spatial navigation in rodents",
+     "lab_acronym": null,
+     "summary": "Implement a computational model of a virtual rat navigating environments, combining a taxon pathway (striatum-like stimulus-response learning) and a locale pathway (grid and place cells). The model is to be validated in reorientation and water-maze paradigms and then extended.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "computational neuroscience",
+      "spatial navigation",
+      "reinforcement learning",
+      "neural modelling"
+     ],
+     "skills": [
+      "Python",
+      "reinforcement learning",
+      "neuronal dynamics",
+      "computer graphics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Spring 2026"
+    },
+    {
+     "title": "Modeling perceptual rules of social interactions in single animal virtual reality",
+     "lab_acronym": null,
+     "summary": "Investigate whether zebrafish attraction to virtual objects mimicking conspecific swim kinetics comes from hard-wired motion tuning or from coupling to the fish's own swim cycle. The approach uses computational modelling and machine learning fitted to video-tracked behaviour, with possible extension to neural signals.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "computational neuroscience",
+      "social behaviour",
+      "machine learning",
+      "modelling"
+     ],
+     "skills": [
+      "Python",
+      "Julia",
+      "deep learning",
+      "statistics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Autumn 2025"
+    }
+   ]
+  },
+  "ipg-proposed": {
+   "input_tokens": 4186,
+   "output_tokens": 191,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "ipg-master": {
+   "input_tokens": 4409,
+   "output_tokens": 1035,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Quantum constraint satisfaction problems",
+     "lab_acronym": "SMILS",
+     "summary": "Investigate quantum versions of constraint satisfaction problems such as K-SAT, where N quantum bits (spin-1/2) are subject to M constraints acting on them.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "quantum computing",
+      "statistical mechanics",
+      "constraint satisfaction",
+      "combinatorial optimization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Message passing for Quantum Models",
+     "lab_acronym": "SMILS",
+     "summary": "Develop message passing techniques for simple quantum spin models on graphs.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "quantum computing",
+      "statistical mechanics",
+      "message passing",
+      "graphical models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Universal prediction and alpha-mutual information",
+     "lab_acronym": "LINX",
+     "summary": "Experimentally study the performance of a newly devised class of predictors that estimate data sequences when information about the generating distribution is limited. The predictors are based on a generalized definition of mutual information.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "information theory",
+      "universal prediction",
+      "mutual information",
+      "machine learning"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "ipg-bachelor": {
+   "input_tokens": 4224,
+   "output_tokens": 200,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "data": {
+   "input_tokens": 4731,
+   "output_tokens": 162,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "dcl-education": {
+   "input_tokens": 5510,
+   "output_tokens": 1332,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Scalable Distributed Cache Coherency",
+     "lab_acronym": null,
+     "summary": "Designing scalable distributed cache coherence protocols that keep copies of shared data consistent across many machines while reducing the communication overhead that currently limits scalability.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "distributed systems",
+      "cache coherence",
+      "consistency",
+      "cloud computing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Beatrice Shokry"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Accelerating Safe ML Systems",
+     "lab_acronym": null,
+     "summary": "Using RDMA (Remote Direct Memory Access) to build machine learning systems that are both fast and secure, for example for distributed training of large models with secure collaborative training or robust ML.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "machine learning",
+      "distributed computing",
+      "rdma",
+      "security"
+     ],
+     "skills": [
+      "RDMA"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Beatrice Shokry"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Distributed Resource Efficient Inference Engine",
+     "lab_acronym": null,
+     "summary": "Projects addressing the challenges of Anyd, a distributed inference engine that runs generative AI inference across heterogeneous hardware from different vendors and networks, automatically managing resources and handling failures.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "distributed systems",
+      "generative ai",
+      "inference systems",
+      "resource management"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Geovani Rizk"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "hexhive": {
+   "input_tokens": 5923,
+   "output_tokens": 994,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Improving Coverage Reliability in Cortex-M Firmware Rehosting",
+     "lab_acronym": null,
+     "summary": "Studies how the approximations of Cortex-M firmware rehosting systems (MMIO, interrupts, timers, DMA, initialization) affect the reliability of coverage reported by fuzzing. The project aims to build a framework that records coverage with execution context and to develop techniques that improve coverage-guided fuzzing of rehosted firmware.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "firmware security",
+      "fuzzing",
+      "embedded systems",
+      "binary analysis"
+     ],
+     "skills": [
+      "Ghidra",
+      "GDB",
+      "Python",
+      "C",
+      "C/C++",
+      "QEMU",
+      "Unicorn",
+      "fuzzing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Qinying Wang"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Ownership-Aware Bug Hunting in Rust Crates",
+     "lab_acronym": null,
+     "summary": "Aims to build an ownership-aware bug detection mechanism for Rust crates that models ownership transitions caused by unsafe APIs, such as acquisition, transfer, duplication and destruction of resources. The goal is to detect bugs like double frees that arise when the compiler cannot track ownership, for example after bitwise copies of nested types.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "program analysis",
+      "memory safety",
+      "rust",
+      "bug detection"
+     ],
+     "skills": [
+      "Rust",
+      "CodeQL",
+      "Semgrep",
+      "LLVM",
+      "static analysis",
+      "dynamic analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Yiwen Xu"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "ivrl": {
+   "input_tokens": 5402,
+   "output_tokens": 780,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Dataset Acquisition for Low-Light Image Denoising",
+     "lab_acronym": null,
+     "summary": "Capture a new dataset of noisy/clean image pairs and dark calibration frames at many exposure times, following the 2-Shots in the Dark protocol, to extend low-light noise modelling to a wider range of exposure times and sensor temperatures. The dataset will be preprocessed and published on Hugging Face with a dataset card.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "low-light image denoising",
+      "computational photography",
+      "noise modeling",
+      "image processing"
+     ],
+     "skills": [
+      "DSLR manual mode shooting",
+      "image and signal processing basics",
+      "Python",
+      "PyTorch"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Liying Lu",
+      "Raphael Achddou"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    }
+   ]
+  },
+  "sacs": {
+   "input_tokens": 7532,
+   "output_tokens": 1561,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Does Personalization in Medical Collaborative Learning Learn Site Shortcuts?",
+     "lab_acronym": null,
+     "summary": "Investigates whether standard personalized federated learning methods learn site-specific shortcuts (spurious correlations) when trained on medical data from multiple hospitals. The results are meant to inform a personalization method that keeps useful site-specific features while avoiding shortcuts.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "federated learning",
+      "medical imaging",
+      "machine learning",
+      "robustness"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "deep learning for image classification",
+      "federated learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Palak"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Whose bubble is it? Harvesting idle capacity in data-parallel, expert-parallel LLM serving",
+     "lab_acronym": null,
+     "summary": "Characterises where GPU idle capacity arises in data-parallel, expert-parallel Mixture-of-Experts LLM serving and under what conditions it can be harvested for parameter-efficient fine-tuning without violating service-level objectives through coupling between replicas.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "distributed systems",
+      "llm serving",
+      "scheduling",
+      "performance modeling"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Ramya Prabhu"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Noise or Lies? Distinguishing privacy protection from fairwashing in black-box audits",
+     "lab_acronym": null,
+     "summary": "Studies when an external auditor, who only queries a platform's model as a black box, can distinguish an honest privacy-preserving platform (random, publicly known noise) from a manipulative platform performing fairwashing (targeted alteration of answers to hide discrimination).",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "algorithmic fairness",
+      "privacy",
+      "ml auditing",
+      "hypothesis testing"
+     ],
+     "skills": [
+      "Python",
+      "machine learning",
+      "classification",
+      "model evaluation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Jade Bourrée"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Privacy Vulnerability Transfer in Model Merging",
+     "lab_acronym": null,
+     "summary": "Investigates how privacy vulnerabilities of constituent language models transfer into or are amplified within merged models obtained by model merging and task arithmetic, using membership inference and extraction attacks. Factors such as merging coefficients, number of merged models and task similarity are analysed.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "privacy",
+      "model merging",
+      "large language models",
+      "membership inference"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "decoder-based language models",
+      "fine-tuning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Milos Vujasinovic"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    }
+   ]
+  },
+  "tml": {
+   "input_tokens": 4310,
+   "output_tokens": 678,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "In-context learning as approximated Bayesian inference",
+     "lab_acronym": null,
+     "summary": "Studies in-context learning (ICL) in transformers, challenging the hypothesis that they emulate gradient descent on least-squares objectives for tasks such as in-context linear regression. The project aims to show that for more complex statistical problems and architectures, transformers learn more sophisticated mechanisms.",
+     "project_types": [],
+     "domains": [
+      "machine learning theory",
+      "in-context learning",
+      "transformers",
+      "statistical learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Francesco D'Angelo"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "lts2-list": {
+   "input_tokens": 6194,
+   "output_tokens": 2882,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Controlling the timbre of wind instruments with active control",
+     "lab_acronym": null,
+     "summary": "The project studies wind instruments modelled as axisymmetric hollow ducts with varying or constant cross-section, with the aim of controlling their timbre actively.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "active control",
+      "musical acoustics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Plasmacoustic headphones",
+     "lab_acronym": null,
+     "summary": "The project builds on the corona discharge principle, which can produce a linear acoustic flow velocity source without a conventional membrane, to develop headphones.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "plasma transducers",
+      "audio devices"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Development of a Graphical User Interface for Electroacoustic Absorbers",
+     "lab_acronym": null,
+     "summary": "The project aims to develop a graphical user interface for electroacoustic absorbers, which rely on a closed-box loudspeaker whose membrane is given a prescribed acoustic impedance.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "active absorption",
+      "user interfaces"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Exploration and improvement of a data-agnostic multimodal deep learning architecture relying on a novel fusion strategy",
+     "lab_acronym": null,
+     "summary": "The project explores and improves a data-agnostic multimodal deep learning architecture that learns from several information channels (modalities) using a novel fusion strategy.",
+     "project_types": [],
+     "domains": [
+      "machine learning",
+      "multimodal deep learning",
+      "data fusion"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Anaïs Betsabeh Haget"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Auditory distance perception",
+     "lab_acronym": null,
+     "summary": "The project studies auditory distance perception, the ability to estimate how far away a sound source is, which supports spatial awareness and obstacle avoidance.",
+     "project_types": [],
+     "domains": [
+      "spatial audio",
+      "auditory perception",
+      "acoustics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Qin Liu"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "3D Sound Localization",
+     "lab_acronym": null,
+     "summary": "The project addresses spatial hearing, the ability to localise sounds in three-dimensional space.",
+     "project_types": [],
+     "domains": [
+      "spatial audio",
+      "sound localization",
+      "acoustics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Qin Liu"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Design of unprecedented sound sources: a dream come true with plasma loudspeakers?",
+     "lab_acronym": null,
+     "summary": "The project investigates the design of novel sound sources based on a spherical geometry, which minimises scattering effects, using plasma loudspeakers.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "plasma transducers",
+      "sound source design"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimization of corona discharge loudspeakers",
+     "lab_acronym": null,
+     "summary": "The project aims to optimise corona discharge loudspeakers, which use the corona discharge principle to produce a linear acoustic flow velocity source without a conventional membrane.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "plasma transducers",
+      "optimization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Modeling translation elongation dynamics through Variational AutoEncoders",
+     "lab_acronym": null,
+     "summary": "The project uses Variational AutoEncoders to model translation elongation dynamics, building on ribosome profiling data that measures codon-specific ribosome dwell times.",
+     "project_types": [],
+     "domains": [
+      "machine learning",
+      "computational biology",
+      "generative models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Mohan Vamsi Nallapareddy",
+      "Francesco Craighero"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Enhancing Protein Design Through Advanced Graph Neural Networks",
+     "lab_acronym": null,
+     "summary": "The project applies advanced graph neural networks to improve protein design, in the context of machine learning applications in biology.",
+     "project_types": [],
+     "domains": [
+      "graph neural networks",
+      "protein design",
+      "computational biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Pengkang Guo"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Development and characterization of an acoustic matched source",
+     "lab_acronym": null,
+     "summary": "The project develops and characterises an acoustic matched source, drawing on nonlinear and time-varying systems to push the limits of conventional wave engineering materials.",
+     "project_types": [],
+     "domains": [
+      "acoustics",
+      "wave engineering",
+      "time-varying systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "VENOVA : an actively modified cylindrical cross-saxophone",
+     "lab_acronym": null,
+     "summary": "The project concerns an actively modified cylindrical cross-saxophone, building on a saxophone design developed by Yamaha engineers and on modelling and adjustment work.",
+     "project_types": [],
+     "domains": [
+      "musical acoustics",
+      "active control",
+      "acoustics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "lts2-146": {
+   "input_tokens": 4861,
+   "output_tokens": 699,
+   "page_kind": "single_project",
+   "error": null,
+   "projects": [
+    {
+     "title": "Controlling the timbre of wind instruments with active control",
+     "lab_acronym": null,
+     "summary": "Develop a scaled prototype of an active wind instrument: a cylindrical hollow duct surrounded by a ring of active electroacoustic absorbers that change the acoustic impedance at the bell and so alter the instrument's timbre. The work includes COMSOL FEM simulations and control design, building the scale-model prototype, and acoustic assessment of the resonators and the whole instrument.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "acoustics",
+      "electroacoustics",
+      "wind instruments",
+      "active control"
+     ],
+     "skills": [
+      "COMSOL Multiphysics",
+      "MATLAB",
+      "Simulink",
+      "Speedgoat programming",
+      "electroacoustics",
+      "audio engineering"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Hervé Lissek"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "lib-subjects": {
+   "input_tokens": 38908,
+   "output_tokens": 2822,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Continuous-Domain Phase Retrieval in Dimension One",
+     "lab_acronym": null,
+     "summary": "Study of phase retrieval for one-dimensional signals in a continuous-domain framework. The page lists it as an available master semester or bachelor project.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "phase retrieval",
+      "inverse problems",
+      "signal processing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Vincent Guillemet"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Training Complex-Valued Denoisers for Phase Retrieval",
+     "lab_acronym": null,
+     "summary": "Training denoisers that operate on complex-valued data and using them within phase retrieval algorithms. The page lists it as an available master semester project.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "phase retrieval",
+      "deep learning",
+      "image denoising"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Zhiyuan Hu",
+      "Jonathan Dong"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Exploring Global Youth Art Through AI: A Semantic Analysis of the IMAJ Collection",
+     "lab_acronym": null,
+     "summary": "Semantic analysis of the IMAJ / UNESCO youth art collection using artificial intelligence methods. The page lists it as an available master semester or bachelor project.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "digital humanities",
+      "computer vision",
+      "machine learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Julien Fageot",
+      "Daniel Sage"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "High-Dimensional Gaussian Sampling: Cholesky versus Markov",
+     "lab_acronym": null,
+     "summary": "Comparison of Cholesky-based and Markov-based approaches for sampling high-dimensional Gaussian distributions. The page lists it as an available master semester project or master thesis.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "sampling methods",
+      "numerical linear algebra",
+      "statistics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Martin Zach"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Sampling from Learned Regularizers",
+     "lab_acronym": null,
+     "summary": "Sampling methods based on learned regularizers for imaging inverse problems. The page lists it as a master semester project, currently marked reserved.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "inverse problems",
+      "machine learning",
+      "image reconstruction"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Stanislas Ducotterd",
+      "Youssef Haouchat",
+      "Bassam El Rawas"
+     ],
+     "status": "reserved",
+     "academic_period": null
+    },
+    {
+     "title": "Analysis of dendritic spine changes using deep-learning encoding in a latent space",
+     "lab_acronym": null,
+     "summary": "Analysis of changes in dendritic spines using deep-learning encodings in a latent space. The page lists it as a master semester project or master thesis, currently marked reserved.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microscopy image analysis",
+      "deep learning",
+      "neuroscience"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Aleix Boquet I Pujadas",
+      "Daniel Sage"
+     ],
+     "status": "reserved",
+     "academic_period": null
+    },
+    {
+     "title": "Automated image analysis of tau fibrils in the human Alzheimer's disease brain",
+     "lab_acronym": null,
+     "summary": "Automated image analysis of tau fibrils in human Alzheimer's disease brain tissue. The page lists it as a master semester project, currently marked reserved.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "biomedical imaging",
+      "image analysis",
+      "neurodegenerative disease"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Daniel Sage",
+      "Daniel Stähli"
+     ],
+     "status": "reserved",
+     "academic_period": null
+    }
+   ]
+  },
+  "mlo": {
+   "input_tokens": 11881,
+   "output_tokens": 3785,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Data curation and curriculum learning for pre-training, theory and practice",
+     "lab_acronym": null,
+     "summary": "Study data curation and curriculum learning for LLM pre-training, combining theoretical analysis with practical experiments. Part of the Apertus-related LLM project block.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "pre-training",
+      "data curation",
+      "curriculum learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Scaling to longer context windows through modifications of attention",
+     "lab_acronym": null,
+     "summary": "Explore modifications of the attention mechanism to scale large language models to longer context windows.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "attention mechanisms",
+      "deep learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Efficiency engineering for LLM pretraining and specifically MoE architectures",
+     "lab_acronym": null,
+     "summary": "Engineer efficiency improvements for LLM pre-training, with a focus on mixture-of-experts (MoE) architectures.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "mixture of experts",
+      "efficient training"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Tools-usage during pretraining & finetuning",
+     "lab_acronym": null,
+     "summary": "Investigate integrating tool usage into LLM pre-training and fine-tuning.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "tool use",
+      "fine-tuning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Safety and alignment during pretraining",
+     "lab_acronym": null,
+     "summary": "Study how safety and alignment can be addressed during the pre-training of large language models.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "ai safety",
+      "alignment"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Novel architectures (including efficient long context or MoE related mechanisms)",
+     "lab_acronym": null,
+     "summary": "Design and evaluate novel LLM architectures, including efficient long-context and mixture-of-experts mechanisms.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "neural architectures",
+      "mixture of experts"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Optimization dynamics for LLMs (Muon and AdEMAmix variants, and interactions with architecture)",
+     "lab_acronym": null,
+     "summary": "Study optimization dynamics of LLM training, such as Muon and AdEMAmix variants, and how they interact with model architecture.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "optimization",
+      "deep learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "LLM inference on old V100 GPUs",
+     "lab_acronym": null,
+     "summary": "Make recent large open-weight MoE models run on the EPFL cluster of V100 GPUs, applying quantization and communication-efficient parallelism, and compare with newer GPUs.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "llm inference",
+      "efficient machine learning",
+      "distributed systems"
+     ],
+     "skills": [
+      "vLLM",
+      "SGLang",
+      "multi-GPU parallelism",
+      "quantization"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Communication-efficient gossip methods for replacing all-reduce in distributed LLM training",
+     "lab_acronym": null,
+     "summary": "Replace all-reduce communication in distributed LLM pre-training with decentralized pairwise weight averaging, studying parallelism settings and communication compression.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "distributed training",
+      "decentralized optimization",
+      "large language models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "AI safety evaluations feeding back into Apertus Posttraining",
+     "lab_acronym": null,
+     "summary": "Incorporate findings from recent red-teaming studies into the safety SFT and RL post-training recipes of the next Apertus generation, in collaboration with UN agencies such as UNICC.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "ai safety",
+      "red teaming",
+      "large language models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "LLM Pretraining Data Curation",
+     "lab_acronym": null,
+     "summary": "Advance pre-training data curation beyond baselines such as FineWeb-2 HQ using new signal extraction, semantic filtering and synthetic rephrasing, possibly studying data quality and the curse of multilinguality.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "data curation",
+      "multilingual models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Learning to sample on the fly for SGD / curriculum learning",
+     "lab_acronym": null,
+     "summary": "Train an auxiliary network that assigns scores to training data points, and use these scores to select an improved set of training points for SGD.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "stochastic optimization",
+      "curriculum learning",
+      "deep learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "El Mahdi Chayti",
+      "Simin Fan"
+     ],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Improving factuality understanding for LLM training",
+     "lab_acronym": null,
+     "summary": "Add a factuality tag or masking to each training document to help LLMs distinguish factual from non-factual content, aiming to reduce hallucinations; post-training techniques may also be explored.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "factuality",
+      "hallucination"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2026"
+    },
+    {
+     "title": "Build decentralized LLMs in the browser",
+     "lab_acronym": null,
+     "summary": "Contribute to the DISCO team project building decentralized and federated training software, where clients such as phones or hospitals collaboratively train models while preserving data privacy; the practical work includes integrating the Burn framework in Rust.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "federated learning",
+      "decentralized learning",
+      "machine learning systems"
+     ],
+     "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Rust",
+      "Burn"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Martin Jaggi"
+     ],
+     "status": "available",
+     "academic_period": "2026"
+    }
+   ]
+  },
+  "mints": {
+   "input_tokens": 6083,
+   "output_tokens": 2316,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Contrastive latent alignment for multimodal reasoning",
+     "lab_acronym": null,
+     "summary": "Explore a contrastive latent alignment process that enforces cross-modal and preference alignment within continuous latent reasoning paths, so that conflicting multimodal signals (e.g. visual hallucinations contradicting audio or text) do not corrupt the model's latent representations.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "multimodal learning",
+      "latent reasoning",
+      "contrastive learning",
+      "preference alignment"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Locating and ablating circuit-level private attribute sub-networks",
+     "lab_acronym": null,
+     "summary": "Use activation-space dictionary learning to locate the circuits in a model that encode specific private attributes (PII), then ablate or orthogonalize those feature directions to remove PII while preserving zero-shot task performance, without retraining the model.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "privacy",
+      "machine unlearning",
+      "interpretability",
+      "large language models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Continuous latent flow matching for multimodal spatial reasoning",
+     "lab_acronym": null,
+     "summary": "Develop a single-step continuous latent flow architecture that maps multimodal inputs (video, audio, language instructions) directly to latent action-reasoning representations for Vision-Language-Action models, aiming at accurate spatial problem-solving in one forward pass.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "vision-language-action models",
+      "multimodal learning",
+      "robotics",
+      "flow matching"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Alignment-based conformance checking",
+     "lab_acronym": null,
+     "summary": "Build a neuro-symbolic conformance checking framework that translates natural language regulatory articles (e.g. EU AI Act, GDPR) into linear temporal logic specifications and evaluates them on execution traces of multi-agent systems to detect and explain compliance failures.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "conformance checking",
+      "temporal logic",
+      "regulatory compliance",
+      "multi-agent systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Visual stream parsing for compliance auditing",
+     "lab_acronym": null,
+     "summary": "Design a real-time legal-visual concept engine that fuses vision-language or audio-visual-language streaming transformers with ontology graph mapping to track entities, infer sensitive personal attributes in video streams, and map scene semantics to legal frameworks such as the EU AI Act and GDPR.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "computer vision",
+      "video analytics",
+      "regulatory compliance",
+      "ontologies"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Voice anonymization with preservation of emotional prosody in multilingual settings",
+     "lab_acronym": null,
+     "summary": "Design, implement and evaluate an AI-based acoustic transformation framework that hides speaker identity while preserving emotional prosody, semantic meaning and intelligibility, focused on French, Italian or German (including Swiss German), with evaluation on real-world data in collaboration with RTS.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "speech processing",
+      "privacy",
+      "voice anonymization",
+      "speech synthesis"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Linguistic and stylometric style transfer for long-form speech anonymization",
+     "lab_acronym": null,
+     "summary": "Use sequence-to-sequence style-transfer models to translate or obfuscate individual speaking styles, syntax, dialectal markers and phrasing habits in long-form recordings, so that speakers cannot be re-identified, focused on French, Italian or German (including Swiss German), with evaluation with RTS.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "speech processing",
+      "privacy",
+      "natural language processing",
+      "stylometry"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Privacy guarantees for speech anonymization",
+     "lab_acronym": null,
+     "summary": "Build a framework that explicitly bounds and minimises mutual information across acoustic, emotional and linguistic speech characteristics, providing information-theoretic privacy guarantees against adaptive adversaries that use AI models trained on modified speech, with evaluation with RTS.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "privacy",
+      "speech processing",
+      "information theory",
+      "generative models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Andrea Cavallaro"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "mlbio": {
+   "input_tokens": 7159,
+   "output_tokens": 1989,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Comparing Representational Hierarchies in Neural Networks",
+     "lab_acronym": null,
+     "summary": "Investigates how layer selection and aggregation affect conclusions about representational similarity between neural networks. The goal is a principled way to compare models across their full representational hierarchies and to reassess evidence for representational convergence.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "representation learning",
+      "deep learning",
+      "machine learning",
+      "optimal transport"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "linear algebra",
+      "machine learning",
+      "optimization",
+      "graph theory",
+      "optimal transport",
+      "statistical testing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Fabian Gröger"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "What Do Language Models Need from 3D Encoders?",
+     "lab_acronym": null,
+     "summary": "Studies what different pretrained 3D encoders (point clouds or Gaussian splats) contribute when connected to a language model, and explores how to make 3D representations more useful for LLMs in spatial reasoning. The question also extends to modeling the spatial organization of cells.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "3d vision",
+      "multimodal learning",
+      "vision-language models",
+      "deep learning"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "point clouds",
+      "Gaussian splatting",
+      "fine-tuning language or vision-language models"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Bin Ren"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Learning patient-level predictions from the spatial proteome",
+     "lab_acronym": null,
+     "summary": "Develops a multiple instance learning approach that aggregates information across spatial scales, from single cells to niches and whole tissue, to predict patient-level outcomes such as cancer survival from multiplexed imaging data. The project also examines how instance choice and spatial scale affect predictions and whether model attention agrees with known pathology.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "spatial proteomics",
+      "multiple instance learning",
+      "computational pathology",
+      "graph neural networks"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "graph neural networks",
+      "attention-based models",
+      "image analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Lucas Miranda"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Improving agents for single-cell genomics and biomedical discovery",
+     "lab_acronym": null,
+     "summary": "Aims to improve the reasoning capabilities of LLM-based agents for single-cell biology tasks by training them with agentic reinforcement learning. The agents act as co-scientists that formulate hypotheses, design validation strategies and run computational workflows.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "agentic ai",
+      "reinforcement learning",
+      "single-cell biology",
+      "large language models"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "agentic RL",
+      "GRPO",
+      "PPO",
+      "linear algebra",
+      "LLM training"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Siba Smarak Panigrahi"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    }
+   ]
+  },
+  "mathis": {
+   "input_tokens": 5311,
+   "output_tokens": 457,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "laser": {
+   "input_tokens": 4273,
+   "output_tokens": 182,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "ramdya": {
+   "input_tokens": 6568,
+   "output_tokens": 1723,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Use computational tools to study neural circuit activity",
+     "lab_acronym": null,
+     "summary": "Use computer vision and machine learning to extract neural activity patterns during behavior and predict links between behavioral and internal states.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "computer vision",
+      "machine learning",
+      "neuroscience"
+     ],
+     "skills": [
+      "Python",
+      "C/C++"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Build artificial neural networks to control a simulated fly",
+     "lab_acronym": null,
+     "summary": "Develop biorealistic neural controllers for a physics-based neuromechanical simulation of the fruit fly Drosophila melanogaster.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "neuroscience",
+      "physics-based simulation"
+     ],
+     "skills": [
+      "C/C++",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Use robotic systems to automate biological experimentation",
+     "lab_acronym": null,
+     "summary": "Develop automated vision-guided robotic systems that perform behavioral and/or neural experiments, making biological experimentation more accessible and repeatable.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "neuroscience",
+      "automation"
+     ],
+     "skills": [
+      "robotics",
+      "electronics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Use computational tools to study animal behavior",
+     "lab_acronym": null,
+     "summary": "Apply computational and machine learning methods to quantify and segment fly behaviors, and link the behavioral sequences to simultaneously acquired neuroimaging data.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "machine learning",
+      "computer vision",
+      "animal behavior",
+      "neuroscience"
+     ],
+     "skills": [
+      "C/C++",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Study the full graph (connectome) of the fly nervous system",
+     "lab_acronym": null,
+     "summary": "Improve and analyze the fly connectome graph to answer questions about neural circuit motifs underlying complex motor behaviors.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "network analysis",
+      "connectomics",
+      "neuroscience"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Behavioral studies in the laboratory",
+     "lab_acronym": null,
+     "summary": "Hands-on laboratory work with flies to examine how neural activation or other perturbations modulate behavior, including designing experiments and analysing the resulting data.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroscience",
+      "behavioral science"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Build a robotic fly",
+     "lab_acronym": null,
+     "summary": "Construct an insect-inspired robot and test bioinspired algorithms of limb control.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "biomechanics",
+      "control"
+     ],
+     "skills": [
+      "microfabrication",
+      "electronics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pavan Ramdya"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "indy-82": {
+   "input_tokens": 4447,
+   "output_tokens": 335,
+   "page_kind": "single_project",
+   "error": null,
+   "projects": [
+    {
+     "title": "Reusable Foundations for Probabilistic Proofs in Lean",
+     "lab_acronym": null,
+     "summary": "Develop a reusable Lean library on top of Mathlib that provides foundations for probability (such as Markov chains, random walks and couplings), so that probabilists can formalize their results more easily. If time allows, the library will be used to formalize a paper on random graphs and branching processes.",
+     "project_types": [],
+     "domains": [
+      "probability theory",
+      "formal verification",
+      "random graphs",
+      "stochastic processes"
+     ],
+     "skills": [
+      "Lean",
+      "Mathlib"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Raphaël Fua"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "entc": {
+   "input_tokens": 5112,
+   "output_tokens": 1093,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Tracking Novel Research Through the Publication Process: A Text-Embedding Approach",
+     "lab_acronym": null,
+     "summary": "Study scientific conservatism in peer review by measuring the novelty of submitted manuscripts with text embedding models. The student reviews recent embedding models for semantic similarity and builds a framework that matches rejected papers to their eventual publications, using anonymized manuscript metadata and peer review outcomes from more than 2,000 Elsevier journals.",
+     "project_types": [
+      "semester_master",
+      "other"
+     ],
+     "domains": [
+      "science of science",
+      "natural language processing",
+      "peer review",
+      "scientometrics"
+     ],
+     "skills": [
+      "NLP libraries",
+      "text embeddings"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Davide Bavato"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Measuring Entrepreneurial and Industry Identity in the Asteroid-Mining Industry with NLP",
+     "lab_acronym": null,
+     "summary": "Build an NLP pipeline to study how entrepreneurs and institutions describe themselves as the asteroid-mining industry takes shape. The student collects longitudinal text data by web scraping (including Internet Archive company websites, communications, interviews and media) and develops a model that separates general topics from individual and collective identity claims, validated against a manually annotated sample.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "space economy",
+      "natural language processing",
+      "entrepreneurship",
+      "machine learning"
+     ],
+     "skills": [
+      "Python",
+      "web scraping",
+      "text embeddings",
+      "supervised classification",
+      "LLM-based methods"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Angelina Frolova"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "lmd-pdf": {
+   "input_tokens": 5346,
+   "output_tokens": 2080,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Accelerating Geophysical Flow Simulation Using Machine Learning",
+     "lab_acronym": null,
+     "summary": "Develop and train a fast machine learning-based emulator of geophysical flows such as landslides, rockfalls and snow avalanches, using data from material point simulations and remote sensing data. The page links the project to the Blatten site.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "machine learning",
+      "geophysical flows",
+      "computational mechanics"
+     ],
+     "skills": [
+      "PyTorch",
+      "deep learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Digital Twin Simulation of Rockfall Hazards",
+     "lab_acronym": null,
+     "summary": "Build a computational framework based on the Discrete Element Method that predicts rockfall runout, taking into account boulder shape derived from drone imagery and the modeling of boulder fragmentation.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "geomechanics",
+      "discrete element method",
+      "natural hazards"
+     ],
+     "skills": [
+      "C++"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Discovering Internal Material Properties from Surface Observations",
+     "lab_acronym": null,
+     "summary": "Use physics-informed neural operators to infer internal material properties from data available on the boundary of a body, with applications in subsurface engineering and material testing.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "machine learning",
+      "physics-informed neural networks",
+      "materials mechanics"
+     ],
+     "skills": [
+      "PyTorch",
+      "deep learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Segregation in granular flows",
+     "lab_acronym": null,
+     "summary": "Study the mechanisms of segregation in granular flows and how particle shape affects this process, using the Discrete Element Method.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "granular flows",
+      "discrete element method",
+      "computational mechanics"
+     ],
+     "skills": [
+      "C++"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multiphysics Modeling of Fault Gouge",
+     "lab_acronym": null,
+     "summary": "Study the contact mechanics and the thermal and fluid multiphysics of fault gouge, from both discrete and continuum modeling perspectives, to better understand earthquakes.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "earthquake mechanics",
+      "contact mechanics",
+      "computational mechanics"
+     ],
+     "skills": [
+      "C++"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Experimental Investigation of Architected Granular Materials",
+     "lab_acronym": null,
+     "summary": "Experimentally explore architected granular materials, such as granular crystals and quasicrystals, for penetration applications.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "experimental mechanics",
+      "architected materials",
+      "granular materials"
+     ],
+     "skills": [
+      "3D printing",
+      "Digital Image Correlation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Phase-field Modeling of Fracture of Architected Structural Materials",
+     "lab_acronym": null,
+     "summary": "Develop a micromechanics-informed phase-field computational model, potentially combined with deep learning, to capture fracture in architected materials and compare it against ongoing experiments.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "fracture mechanics",
+      "phase-field modeling",
+      "architected materials"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "dedis-spring2025": {
+   "input_tokens": 7637,
+   "output_tokens": 175,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  }
+ },
+ "summary": {
+  "projects": {
+   "tp": 98,
+   "fp": 0,
+   "fn": 0,
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0
+  },
+  "fields": {
+   "project_types": {
+    "accuracy": 1.0,
+    "n": 38
+   },
+   "supervisors": {
+    "accuracy": 1.0,
+    "n": 98
+   },
+   "status": {
+    "accuracy": 0.99,
+    "n": 98
+   },
+   "lab_acronym": {
+    "accuracy": 1.0,
+    "n": 3
+   }
+  },
+  "pages_with_errors": 0,
+  "unexpected_names": 0,
+  "meta_summaries": 8,
+  "input_tokens": 190240,
+  "output_tokens": 35343
+ },
+ "pages": [
+  {
+   "page_id": "cvlab-index",
+   "tp": 9,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "cvlab-sub",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lap-available",
+   "tp": 8,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lap-main",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lcn-master",
+   "tp": 3,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "ipg-proposed",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "ipg-master",
+   "tp": 3,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "ipg-bachelor",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "data",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "dcl-education",
+   "tp": 3,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "hexhive",
+   "tp": 2,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "ivrl",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sacs",
+   "tp": 4,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "tml",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lts2-list",
+   "tp": 12,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lts2-146",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lib-subjects",
+   "tp": 7,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [
+    "status reserved: Sampling from Learned Regularizers"
+   ],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "mlo",
+   "tp": 14,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "mints",
+   "tp": 8,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "mlbio",
+   "tp": 4,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "mathis",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "laser",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "ramdya",
+   "tp": 7,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "indy-82",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "entc",
+   "tp": 2,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "lmd-pdf",
+   "tp": 7,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "dedis-spring2025",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  }
+ ]
+}

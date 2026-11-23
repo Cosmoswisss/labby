@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:35:56+00:00",
+ "generated_at": "2026-11-23T14:44:54+00:00",
  "projects": [
   {
    "id": "17b3a8212caa",
@@ -551,7 +551,7 @@
     "enac-eceo"
    ],
    "title": "3D Computer Vision for Underwater Videos of Reefs",
-   "summary": "Project applying 3D computer vision to underwater videos of coral reefs. The page gives only the title.",
+   "summary": "Project applying 3D computer vision to underwater videos of coral reefs.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -653,7 +653,7 @@
     "enac-eceo"
    ],
    "title": "Integrating phylogeny into species distribution models",
-   "summary": "Project on integrating phylogenetic information into species distribution models. The page gives only the title.",
+   "summary": "Project on integrating phylogenetic information into species distribution models.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -687,7 +687,7 @@
     "enac-eceo"
    ],
    "title": "KG4GEO: A Knowledge Graph for the World Geography",
-   "summary": "Project on building a knowledge graph of world geography. The page gives only the title.",
+   "summary": "Project on building a knowledge graph of world geography.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -755,7 +755,7 @@
     "enac-eceo"
    ],
    "title": "Self-Supervised Learning from Satellite Images with a Joint-Embedding Predictive Architecture",
-   "summary": "Project on self-supervised learning from satellite images using a joint-embedding predictive architecture. The page gives only the title.",
+   "summary": "Project on self-supervised learning from satellite images using a joint-embedding predictive architecture.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -790,7 +790,7 @@
     "enac-eceo"
    ],
    "title": "Self-supervised pretraining for deforestation drivers classification",
-   "summary": "Project on self-supervised pretraining for classifying the drivers of deforestation. The page gives only the title.",
+   "summary": "Project on self-supervised pretraining for classifying the drivers of deforestation.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -824,7 +824,7 @@
     "enac-eceo"
    ],
    "title": "Species distribution modelling with multi-modal deep learning",
-   "summary": "Project on species distribution modelling using multi-modal deep learning. The page gives only the title.",
+   "summary": "Project on species distribution modelling using multi-modal deep learning.",
    "description_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "project_types": [
     "semester_bachelor",
@@ -2742,7 +2742,7 @@
     "ent-imaging-ge"
    ],
    "title": "Dynamic wetting measurement with image analysis on synchrotron x-ray tomography data",
-   "summary": "Measure dynamic wetting using image analysis applied to synchrotron X-ray tomography data. The page gives only the title and project type.",
+   "summary": "Measure dynamic wetting using image analysis applied to synchrotron X-ray tomography data.",
    "description_url": "https://imaging.epfl.ch/students-projects",
    "project_types": [
     "master_thesis"
@@ -2773,7 +2773,7 @@
     "ent-imaging-ge"
    ],
    "title": "Event detection by signal processing to characterize optical fiber",
-   "summary": "Detect events in signals by signal processing to characterize an optical fiber. The page gives only the title and project level.",
+   "summary": "Detect events in signals by signal processing to characterize an optical fiber.",
    "description_url": "https://imaging.epfl.ch/students-projects",
    "project_types": [
     "semester_master"
@@ -2804,7 +2804,7 @@
     "ent-imaging-ge"
    ],
    "title": "Learning Molecular Anisotropic Diffusion with Self-Supervised Deep Learning",
-   "summary": "Learn molecular anisotropic diffusion using self-supervised deep learning. The page gives only the title and project level.",
+   "summary": "Learn molecular anisotropic diffusion using self-supervised deep learning.",
    "description_url": "https://imaging.epfl.ch/students-projects",
    "project_types": [
     "semester_master"
@@ -2836,7 +2836,7 @@
     "ent-imaging-ge"
    ],
    "title": "Python software development for automated single-cell protein isolation with a CryoWriter",
-   "summary": "Develop Python software to automate single-cell protein isolation with a CryoWriter. The page gives only the title and project type.",
+   "summary": "Develop Python software to automate single-cell protein isolation with a CryoWriter.",
    "description_url": "https://imaging.epfl.ch/students-projects",
    "project_types": [
     "master_thesis"
@@ -2866,7 +2866,7 @@
     "ent-imaging-ge"
    ],
    "title": "Semester Project: X-ray reconstruction corrections for mechanics and biology",
-   "summary": "Develop corrections for X-ray reconstruction applied to mechanics and biology data. The page gives only the title and project levels.",
+   "summary": "Develop corrections for X-ray reconstruction applied to mechanics and biology data.",
    "description_url": "https://imaging.epfl.ch/students-projects",
    "project_types": [
     "semester_master",
@@ -2898,7 +2898,7 @@
     "ent-sdsc-ge"
    ],
    "title": "AI and Agentic Driven Generation of State-of-the-Art Branch Predictors",
-   "summary": "Use AI and agentic systems to automatically generate state-of-the-art branch predictors. The page gives only the title and no further details.",
+   "summary": "Use AI and agentic systems to automatically generate state-of-the-art branch predictors.",
    "description_url": "https://datascience.ch/students-projects/",
    "project_types": [],
    "domains": [
@@ -2930,7 +2930,7 @@
     "ent-sdsc-ge"
    ],
    "title": "Learning Atmospheric Similarity for Retrieval-Augmented Weather Forecasting",
-   "summary": "Learn atmospheric similarity to support retrieval-augmented weather forecasting. The page gives only the title and no further details.",
+   "summary": "Learn atmospheric similarity to support retrieval-augmented weather forecasting.",
    "description_url": "https://datascience.ch/students-projects/",
    "project_types": [],
    "domains": [
@@ -3029,7 +3029,7 @@
     "ent-sdsc-ge"
    ],
    "title": "Post-Training Quantization of Weather Foundation Models: Attention Quantization and Long-Rollout Calibration",
-   "summary": "Apply post-training quantization to weather foundation models, focusing on attention quantization and calibration for long autoregressive rollouts. The page gives no further details.",
+   "summary": "Apply post-training quantization to weather foundation models, focusing on attention quantization and calibration for long autoregressive rollouts.",
    "description_url": "https://datascience.ch/students-projects/",
    "project_types": [],
    "domains": [
@@ -3097,7 +3097,7 @@
     "ent-sdsc-ge"
    ],
    "title": "Synthetic Data Generation and Quality Assessment for the Mountain Biodiversity Knowledge Graph",
-   "summary": "Generate synthetic data for the Mountain Biodiversity Knowledge Graph and assess its quality. The page gives only the title and no further details.",
+   "summary": "Generate synthetic data for the Mountain Biodiversity Knowledge Graph and assess its quality.",
    "description_url": "https://datascience.ch/students-projects/",
    "project_types": [],
    "domains": [
@@ -3132,7 +3132,7 @@
     "ic-aimm"
    ],
    "title": "Generative Artificial Intelligence for Therapy Planning and Design",
-   "summary": "Proposed master thesis or semester project on applying generative AI to therapy planning and design. The page gives only the title.",
+   "summary": "Proposed master thesis or semester project on applying generative AI to therapy planning and design.",
    "description_url": "https://aimm.epfl.ch/openings/",
    "project_types": [
     "master_thesis",
@@ -3165,7 +3165,7 @@
     "ic-aimm"
    ],
    "title": "Large-Scale Frontier Model for High-Dimensional Biological Imaging Data",
-   "summary": "Proposed master thesis on building a large-scale frontier model for high-dimensional biological imaging data. The page gives only the title.",
+   "summary": "Proposed master thesis on building a large-scale frontier model for high-dimensional biological imaging data.",
    "description_url": "https://aimm.epfl.ch/openings/",
    "project_types": [
     "master_thesis"
@@ -3198,7 +3198,7 @@
     "ic-aimm"
    ],
    "title": "Reasoning in Biological Foundation Models",
-   "summary": "Proposed master thesis on reasoning in biological foundation models. The page gives only the title.",
+   "summary": "Proposed master thesis on reasoning in biological foundation models.",
    "description_url": "https://aimm.epfl.ch/openings/",
    "project_types": [
     "master_thesis"
@@ -3230,7 +3230,7 @@
     "ic-aimm"
    ],
    "title": "Vision-Language Models for Biomedicine",
-   "summary": "Proposed master thesis on vision-language models applied to biomedicine. The page gives only the title.",
+   "summary": "Proposed master thesis on vision-language models applied to biomedicine.",
    "description_url": "https://aimm.epfl.ch/openings/",
    "project_types": [
     "master_thesis"
@@ -3263,7 +3263,7 @@
     "ic-coala"
    ],
    "title": "AI agents that foster learners' critical thinking through argumentation",
-   "summary": "Student project on AI agents designed to foster learners' critical thinking through argumentation. The page gives only the title and the list of open formats.",
+   "summary": "Student project on AI agents designed to foster learners' critical thinking through argumentation.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3301,7 +3301,7 @@
     "ic-coala"
    ],
    "title": "Designing real-time AI support for collaborative, inquiry-based science learning",
-   "summary": "Student project on designing real-time AI support for collaborative, inquiry-based science learning. The page gives only the title and the list of open formats.",
+   "summary": "Student project on designing real-time AI support for collaborative, inquiry-based science learning.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3339,7 +3339,7 @@
     "ic-coala"
    ],
    "title": "Human-AI co-orchestration of group collaborative argumentation and ideation",
-   "summary": "Student project on human-AI co-orchestration to support group collaborative argumentation and ideation. The page gives only the title and the list of open formats.",
+   "summary": "Student project on human-AI co-orchestration to support group collaborative argumentation and ideation.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3376,7 +3376,7 @@
     "ic-coala"
    ],
    "title": "Human-AI interactions that preserve and elevate human expertise in AI-augmented work",
-   "summary": "Student project on designing human-AI interactions that preserve and elevate human expertise in AI-augmented work. The page gives only the title and the list of open formats.",
+   "summary": "Student project on designing human-AI interactions that preserve and elevate human expertise in AI-augmented work.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3413,7 +3413,7 @@
     "ic-coala"
    ],
    "title": "Interactive tools to prepare citizens for democratic deliberation and policy co-creation",
-   "summary": "Student project on interactive tools that help citizens prepare for democratic deliberation and policy co-creation. The page gives only the title and the list of open formats.",
+   "summary": "Student project on interactive tools that help citizens prepare for democratic deliberation and policy co-creation.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3449,7 +3449,7 @@
     "ic-coala"
    ],
    "title": "Participatory and community-based approaches to AI development",
-   "summary": "Student project on participatory and community-based approaches to AI development. The page gives only the title and the list of open formats.",
+   "summary": "Student project on participatory and community-based approaches to AI development.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -3486,7 +3486,7 @@
     "ic-coala"
    ],
    "title": "Worker-centred design of workplace AI systems",
-   "summary": "Student project on designing workplace AI systems centred on the needs of workers. The page gives only the title and the list of open formats.",
+   "summary": "Student project on designing workplace AI systems centred on the needs of workers.",
    "description_url": "https://www.thecoalalab.com/",
    "project_types": [
     "semester_bachelor",
@@ -4035,7 +4035,7 @@
     "ic-dcl"
    ],
    "title": "Scalable Distributed Cache Coherency",
-   "summary": "Investigates how to reduce the communication overhead of distributed cache coherency protocols while keeping their performance, so that they scale to large distributed systems. The page frames this as a master project topic.",
+   "summary": "Investigates how to reduce the communication overhead of distributed cache coherency protocols while keeping their performance, so that they scale to large distributed systems.",
    "description_url": "https://dcl.epfl.ch/site/Education",
    "project_types": [
     "master_thesis"
@@ -5244,7 +5244,7 @@
     "ic-dhlab"
    ],
    "title": "Identification and Classification of Maps in Historical Newspapers",
-   "summary": "Train a binary map vs. non-map image classifier on Impresso newspaper pages, then a classifier for the country or region a map represents. The page states an annotated dataset for the first step already exists.",
+   "summary": "Train a binary map vs. non-map image classifier on Impresso newspaper pages, then a classifier for the country or region a map represents.",
    "description_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
    "project_types": [
     "semester_bachelor",
@@ -5363,7 +5363,7 @@
     "ic-dhlab"
    ],
    "title": "News Articles in Space and Time",
-   "summary": "A semester project on news articles in space and time. The page gives only the title and states that the description is coming soon.",
+   "summary": "A semester project on news articles in space and time.",
    "description_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
    "project_types": [
     "semester_bachelor",
@@ -5755,7 +5755,7 @@
     "ic-dhlab"
    ],
    "title": "Spatial Intelligence at Scale: Implicit Reconstruction",
-   "summary": "Prepare datasets and pipelines and research neural reconstruction methods for egocentric semantic understanding, as part of a SwissAI-funded open-vocabulary 3D model for city-scale scenes. The page mentions extending the VGGT paradigm.",
+   "summary": "Prepare datasets and pipelines and research neural reconstruction methods for egocentric semantic understanding, as part of a SwissAI-funded open-vocabulary 3D model for city-scale scenes.",
    "description_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
    "project_types": [
     "semester_bachelor",
@@ -8537,7 +8537,7 @@
     "ic-mobots"
    ],
    "title": "AI TOOLS – Understanding Learning Through Pipeline Transparency",
-   "summary": "Student project on AI tools for education, examining how pipeline transparency helps learners understand learning. The page gives only the title and a downloadable document, with no further description.",
+   "summary": "Student project on AI tools for education, examining how pipeline transparency helps learners understand learning.",
    "description_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
    "project_types": [],
    "domains": [
@@ -8677,7 +8677,7 @@
     "ic-rs3lab"
    ],
    "title": "Performance Modeling of eBPF Programs",
-   "summary": "Design a scalable and accurate performance model for eBPF programs, to support performance quantification, debugging, and checking of eBPF kernel extensions against functionally equivalent baselines. The page targets students who want to do a thesis or long-term research.",
+   "summary": "Design a scalable and accurate performance model for eBPF programs, to support performance quantification, debugging, and checking of eBPF kernel extensions against functionally equivalent baselines.",
    "description_url": "https://rs3lab.github.io/pages/projects.html",
    "project_types": [
     "master_thesis"
@@ -9524,7 +9524,7 @@
     "ic-systemf"
    ],
    "title": "Fused decompression and decoding",
-   "summary": "Explore fusing decompression with decoding (e.g. gzip+JSON) so that redundant data in the compressed stream is decoded once instead of once per repetition. The page suggests starting with a gzip compressor that places block boundaries at JSON object boundaries.",
+   "summary": "Explore fusing decompression with decoding (e.g. gzip+JSON) so that redundant data in the compressed stream is decoded once instead of once per repetition.",
    "description_url": "https://systemf.epfl.ch/research.html#open-projects",
    "project_types": [],
    "domains": [
@@ -11484,7 +11484,7 @@
     "sti-esl"
    ],
    "title": "Precision-Scalable Systolic Arrays for High-Efficiency LLM Inference Acceleration",
-   "summary": "Project on precision-scalable systolic arrays to accelerate LLM inference efficiently. Listed under both master and semester projects on the page.",
+   "summary": "Project on precision-scalable systolic arrays to accelerate LLM inference efficiently.",
    "description_url": "https://esl.epfl.ch/studentprojects/",
    "project_types": [
     "semester_bachelor",
@@ -12204,7 +12204,7 @@
     "sti-lben"
    ],
    "title": "DNA chips for SICS",
-   "summary": "Master project on DNA chips for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12237,7 +12237,7 @@
     "sti-lben"
    ],
    "title": "Engineering nanofluidic memories for brain-inspired ionic processes",
-   "summary": "Master project on engineering nanofluidic memory devices for brain-inspired ionic information processing, described in a PDF linked from the page.",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12270,7 +12270,7 @@
     "sti-lben"
    ],
    "title": "Hybrid nanopores for SICS",
-   "summary": "Master project on hybrid nanopores for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12304,7 +12304,7 @@
     "sti-lben"
    ],
    "title": "Master project proposal: AFM",
-   "summary": "Master project proposal involving atomic force microscopy (AFM), described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12337,7 +12337,7 @@
     "sti-lben"
    ],
    "title": "Master project proposal: single molecule",
-   "summary": "Master project proposal on single-molecule work, described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12369,7 +12369,7 @@
     "sti-lben"
    ],
    "title": "Multiplexing and benchmarking for SICS",
-   "summary": "Master project on multiplexing and benchmarking for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -12403,7 +12403,7 @@
     "sti-lben"
    ],
    "title": "Nanocapillary fabrication for SICS",
-   "summary": "Master project on fabricating nanocapillaries for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "summary": "",
    "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "project_types": [
     "master_thesis"
@@ -16167,7 +16167,7 @@
     "sti-miplab"
    ],
    "title": "Biophysical Modelling of Microstructural Diffusion MRI in the Rodent Brain",
-   "summary": "Uses advanced biophysical models of diffusion MRI to extract quantitative maps of brain microstructure in animal models of disease compared with healthy controls. Possible applications mentioned include Parkinson's disease and creatine-related conditions. The page text is truncated.",
+   "summary": "Uses advanced biophysical models of diffusion MRI to extract quantitative maps of brain microstructure in animal models of disease compared with healthy controls. Possible applications mentioned include Parkinson's disease and creatine-related conditions.",
    "description_url": "https://miplab.epfl.ch/teaching/open-projects-collaborations",
    "project_types": [],
    "domains": [
@@ -16413,7 +16413,7 @@
     "sti-miplab"
    ],
    "title": "Structural connectivity of the human brain: what can we learn from intracerebral electrophysiological recordings in epileptic patients?",
-   "summary": "Explores how intracerebral electrophysiological recordings in epileptic patients can inform the structural connectivity of the human brain, using a connectomics framework for healthy and pathological brain data. The page text is truncated.",
+   "summary": "Explores how intracerebral electrophysiological recordings in epileptic patients can inform the structural connectivity of the human brain, using a connectomics framework for healthy and pathological brain data.",
    "description_url": "https://miplab.epfl.ch/teaching/open-projects-collaborations",
    "project_types": [],
    "domains": [
@@ -16472,7 +16472,7 @@
     "sti-miplab"
    ],
    "title": "Unraveling the contrast mechanism of neuromelanin-sensitive MRI",
-   "summary": "Aims to understand the contrast mechanism of neuromelanin-sensitive MRI, a technique that detects pathological alterations in diseases such as Parkinson's disease and schizophrenia. The technique is thought to reflect catecholaminergic function rather than directly measuring neuromelanin. The page text is truncated.",
+   "summary": "Aims to understand the contrast mechanism of neuromelanin-sensitive MRI, a technique that detects pathological alterations in diseases such as Parkinson's disease and schizophrenia. The technique is thought to reflect catecholaminergic function rather than directly measuring neuromelanin.",
    "description_url": "https://miplab.epfl.ch/teaching/open-projects-collaborations",
    "project_types": [],
    "domains": [
@@ -16735,7 +16735,7 @@
     "sti-sycamore"
    ],
    "title": "Controlling a Multi-drone Fleet for Traffic Monitoring",
-   "summary": "Coordinate a fleet of UAVs that collect traffic data at multiple locations, deciding where and when each drone collects data based on road importance and previous visits. The page text is truncated.",
+   "summary": "Coordinate a fleet of UAVs that collect traffic data at multiple locations, deciding where and when each drone collects data based on road importance and previous visits.",
    "description_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "project_types": [],
    "domains": [
@@ -16764,7 +16764,7 @@
     "sti-sycamore"
    ],
    "title": "Hybrid soft-actor critic benchmark",
-   "summary": "Benchmark a hybrid variant of soft actor-critic (SAC) that learns to autonomously build an arch, a task with a mix of continuous and discrete actions, against existing methods such as hybrid PPO. The page text is truncated.",
+   "summary": "Benchmark a hybrid variant of soft actor-critic (SAC) that learns to autonomously build an arch, a task with a mix of continuous and discrete actions, against existing methods such as hybrid PPO.",
    "description_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "project_types": [],
    "domains": [
@@ -16793,7 +16793,7 @@
     "sti-sycamore"
    ],
    "title": "Multi-Agent Traffic Monitoring with Limited Information Sharing",
-   "summary": "Coordinate a UAV fleet that collects traffic data where fixed sensors are absent, prioritising important roads under limited information sharing between drones. The page text is truncated.",
+   "summary": "Coordinate a UAV fleet that collects traffic data where fixed sensors are absent, prioritising important roads under limited information sharing between drones.",
    "description_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "project_types": [],
    "domains": [
@@ -16822,7 +16822,7 @@
     "sti-sycamore"
    ],
    "title": "Multi-Objective Optimization for Automated Theorem Proving",
-   "summary": "Work on automated theorem proving, where large language models trained with reinforcement learning generate formal proofs checked by proof assistants such as Lean or Isabelle. The page text is truncated.",
+   "summary": "Work on automated theorem proving, where large language models trained with reinforcement learning generate formal proofs checked by proof assistants such as Lean or Isabelle.",
    "description_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "project_types": [],
    "domains": [
@@ -19136,7 +19136,7 @@
     "sv-upnae"
    ],
    "title": "Circadian clocks in disease states and cancer",
-   "summary": "A semester project studying circadian clocks in disease states and cancer. The page gives only the title and no further details.",
+   "summary": "A semester project studying circadian clocks in disease states and cancer.",
    "description_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "project_types": [
     "semester_bachelor",
@@ -19168,7 +19168,7 @@
     "sv-upnae"
    ],
    "title": "Deep Learning Analysis of Human Histology Images",
-   "summary": "A semester project applying deep learning to analyse human histology images, as listed under the available semester projects. The page gives only the title and no further details.",
+   "summary": "A semester project applying deep learning to analyse human histology images, as listed under the available semester projects.",
    "description_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "project_types": [
     "semester_bachelor",
@@ -19202,7 +19202,7 @@
     "sv-upnae"
    ],
    "title": "Latent space models for cyclic biomolecular processes and application to live microscopy imaging",
-   "summary": "A semester project developing latent space models for cyclic biomolecular processes, with application to live microscopy imaging. The page gives only the title and no further details.",
+   "summary": "A semester project developing latent space models for cyclic biomolecular processes, with application to live microscopy imaging.",
    "description_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "project_types": [
     "semester_bachelor",
@@ -19235,7 +19235,7 @@
     "sv-upnae"
    ],
    "title": "Machine learning multiomics data to identify gene regulatory networks across time, sex and tissues",
-   "summary": "A semester project using machine learning on multiomics data to identify gene regulatory networks across time, sex and tissues. The page gives only the title and no further details.",
+   "summary": "A semester project using machine learning on multiomics data to identify gene regulatory networks across time, sex and tissues.",
    "description_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "project_types": [
     "semester_bachelor",

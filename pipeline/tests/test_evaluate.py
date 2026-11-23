@@ -1,4 +1,11 @@
-from pipeline.evaluate import FieldScore, last_names, match_projects, score_page, title_similarity
+from pipeline.evaluate import (
+    FieldScore,
+    count_meta_summaries,
+    last_names,
+    match_projects,
+    score_page,
+    title_similarity,
+)
 
 
 def proj(title, types=(), sups=(), status="available", lab=None):
@@ -65,3 +72,30 @@ def test_score_page_counts_and_fields():
 def test_empty_gold_page():
     ps = score_page("x", [proj("Not a project")], [], fields())
     assert (ps.tp, ps.fp, ps.fn) == (0, 1, 0)
+
+
+def test_count_meta_summaries():
+    projects = [
+        {"summary": "Study coral reefs with 3D vision. The page gives only the title."},
+        {"summary": "No further details are provided."},
+        {"summary": "Build a perception stack for drones."},
+    ]
+    assert count_meta_summaries(projects) == 2
+
+
+def test_clean_summary_drops_meta_sentences():
+    from pipeline.summaries import clean_summary
+
+    assert (
+        clean_summary("Study coral reefs with 3D vision. The page gives only the title.")
+        == "Study coral reefs with 3D vision."
+    )
+    assert (
+        clean_summary("Train complex denoisers. The page lists it as an available master project.")
+        == "Train complex denoisers."
+    )
+    assert (
+        clean_summary("Build a perception stack for drones.")
+        == "Build a perception stack for drones."
+    )
+    assert clean_summary("No further details are provided.") == ""

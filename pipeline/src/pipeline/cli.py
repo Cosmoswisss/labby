@@ -183,7 +183,7 @@ def diff(
 def eval_cmd(
     snapshot: bool = typer.Option(False, help="Freeze current crawled texts into eval/pages/."),
     model: str = typer.Option("haiku", help="Claude model alias used by Claude Code."),
-    prompt: str = typer.Option("extract_v2", help="Prompt file name in prompts/."),
+    prompt: str = typer.Option("extract_v3", help="Prompt file name in prompts/."),
     page: list[str] = typer.Option(None, "--page", help="Only these eval page ids."),
     rescore: Path = typer.Option(None, help="Re-score a saved run file, no LLM call."),
     labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
@@ -234,6 +234,7 @@ def eval_cmd(
         typer.echo(f"  {name:14s} accuracy={f['accuracy']} (n={f['n']})")
     typer.echo(f"Unexpected names: {summary['unexpected_names']}  "
                f"pages in error: {summary['pages_with_errors']}")  # fmt: skip
+    typer.echo(f"Summaries mentioning the page / missing info: {summary.get('meta_summaries', 0)}")
     typer.echo(f"Tokens: {summary['input_tokens']:,} in / {summary['output_tokens']:,} out")
 
 
