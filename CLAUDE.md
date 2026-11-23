@@ -49,7 +49,7 @@ labs.yaml (liste des labos + URL de leur page projets)
 [4] Site web (statique en V1)  ──►  recherche + filtres côté client
 Points clés
 Pourquoi un LLM : les formats sont trop hétérogènes pour écrire un parser par labo. Le LLM lit la page (texte extrait, pas le HTML brut complet) et renvoie des projets structurés. Un parser dédié reste possible pour les rares sources très structurées (ex. une base de données de labo ou une source IS-Academia).
-Coût maîtrisé : on n'appelle le LLM que sur les pages qui ont changé (comparaison de hash du contenu nettoyé). Utiliser un modèle rapide et peu cher pour l'extraction (ex. Claude Haiku via l'API Anthropic). Logger le nombre de tokens et le coût estimé à chaque exécution.
+Coût maîtrisé : on n'appelle le LLM que sur les pages qui ont changé (comparaison de hash du contenu nettoyé). Pas de clé API payante (décision du 2026-11-23) : l'extraction passe par Claude Code en mode non interactif (`claude -p --json-schema …`, modèle rapide type Haiku, outils désactivés) avec mon abonnement Claude Pro. Le quota est limité : ne jamais relancer toutes les pages sans raison, logger le nombre de tokens à chaque exécution. Garder une abstraction de « moteur » dans extract.py pour pouvoir brancher une API gratuite (ex. Gemini) si besoin.
 Sorties structurées : utiliser le mode de sortie structurée / tool use de l'API avec le schéma pydantic, et rejeter/retenter les sorties invalides.
 Fiabilité : constituer un jeu d'évaluation (20-30 pages annotées à la main par moi, avec ton aide) et mesurer la qualité de l'extraction (projets manqués, champs faux) avant d'élargir. C'est la partie « vraie IA » du projet.
 5. Modèle de données (proposition — à ajuster après la phase 0)
@@ -93,10 +93,10 @@ Cache disque de tout ce qui est téléchargé ; ne jamais retélécharger inutil
 Uniquement le contenu public : si une page demande une connexion ou n'est accessible que depuis le réseau EPFL, on la marque restricted et on affiche seulement le lien vers le labo. Ne jamais utiliser mes identifiants EPFL.
 Exécution occasionnelle (manuelle, puis hebdomadaire pendant les périodes de recherche de projets), jamais en continu.
 7. Stack technique
-Crawler + extraction : Python 3.11+, httpx, beautifulsoup4 / trafilatura (extraction du texte principal), pypdf ou pdfplumber pour les PDF, pydantic, SDK anthropic, pytest. Dépendances avec uv.
+Crawler + extraction : Python 3.11+, httpx, beautifulsoup4 / trafilatura (extraction du texte principal), pypdf ou pdfplumber pour les PDF, pydantic, Claude Code CLI (`claude -p`), pytest. Dépendances avec uv.
 Site V1 : Next.js (App Router) + TypeScript + Tailwind CSS, en site statique qui importe data/projects.json au build ; recherche plein texte côté client (minisearch). Pas de backend en V1.
 Hébergement : Vercel (gratuit).
-Automatisation : GitHub Actions (exécution manuelle + planifiée) qui relance le pipeline et ouvre une PR si les données changent. La clé API est stockée dans les secrets GitHub.
+Automatisation : GitHub Actions (exécution manuelle + planifiée) qui relance le pipeline et ouvre une PR si les données changent. L'authentification Claude Code (jeton d'abonnement `claude setup-token`) est stockée dans les secrets GitHub.
 V2 (alertes) : Supabase (Postgres + Auth par magic link limité aux adresses @epfl.ch) + envoi d'emails (ex. Resend).
 
 Si tu as une meilleure proposition, argumente-la et demande-moi avant de changer.
@@ -171,7 +171,7 @@ Toujours renvoyer vers la page d'origine : notre site est un index, pas une copi
 [ ] Git, Python 3.11+, Node.js LTS, VS Code installés
 [ ] Compte GitHub + repo vide créé (licence MIT) et cloné
 [ ] Ce fichier enregistré comme CLAUDE.md à la racine
-[ ] Clé API Anthropic (console.anthropic.com) avec une limite de dépense configurée, dans .env (nécessaire dès la phase 2)
+[x] Pas de clé API Anthropic : extraction via Claude Code et mon abonnement Pro (décision du 2026-11-23)
 [ ] (Phase 3) Compte Vercel relié à GitHub
 [ ] (Phase 5) Compte Supabase
 
