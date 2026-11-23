@@ -53,6 +53,7 @@ class CrawlReport:
     pages_changed: int = 0
     pages_unchanged: int = 0
     pages_error: int = 0
+    pages_duplicate: int = 0  # same text as another page of the lab, skipped
     little_text_pages: list[str] = field(default_factory=list)
     errors: list[dict] = field(default_factory=list)
     fetcher: dict[str, int] = field(default_factory=dict)
@@ -167,7 +168,12 @@ class Crawler:
             lab_state["status"] = lab.source_type if lab.projects_url else "none"
             return lab_state
 
-        seed = self._visit(lab.projects_url, None, lab, outcomes, old_pages, new_pages, report)
+        # Hashes of the pages kept for this lab: the same content reached through another
+        # URL (index.html, ?view=card…) is skipped instead of being extracted twice.
+        lab_hashes: set[str] = set()
+        ctx = (lab, lab_hashes, outcomes, old_pages, new_pages, report)
+
+        seed, _ = self._visit(lab.projects_url, None, *ctx)
         lab_state["status"] = seed.status
         lab_state["error"] = seed.error
         lab_state["last_checked_at"] = seed.fetched_at
@@ -179,17 +185,24 @@ class Crawler:
             for link in find_subpage_links(
                 seed.html, seed.final_url or seed.url, self.max_subpages
             ):
-                sub = self._visit(link.url, seed.url, lab, outcomes, old_pages, new_pages, report)
-                if sub.status == "ok":
-                    lab_state["pages"].append(sub.url)
+                _, kept = self._visit(link.url, seed.url, *ctx)
+                if kept:
+                    lab_state["pages"].append(link.url)
         return lab_state
 
-    def _visit(self, url, parent, lab, outcomes, old_pages, new_pages, report) -> PageOutcome:
+    def _visit(
+        self, url, parent, lab, lab_hashes, outcomes, old_pages, new_pages, report
+    ) -> tuple[PageOutcome, bool]:
+        """Fetches and records a page. Returns (outcome, kept for this lab)."""
         if url in outcomes:  # page shared with another lab, already fetched this run
             outcome = outcomes[url]
-            if url in new_pages and lab.id not in new_pages[url]["lab_ids"]:
-                new_pages[url]["lab_ids"].append(lab.id)
-            return outcome
+            page = new_pages.get(url)
+            if page is None or page["content_hash"] in lab_hashes:
+                return outcome, False
+            if lab.id not in page["lab_ids"]:
+                page["lab_ids"].append(lab.id)
+            lab_hashes.add(page["content_hash"])
+            return outcome, True
 
         outcome = process_page(self.fetcher, url)
         outcomes[url] = outcome
@@ -198,9 +211,13 @@ class Crawler:
             report.errors.append(
                 {"lab": lab.id, "url": url, "status": outcome.status, "error": outcome.error}
             )
-            return outcome
+            return outcome, False
 
         digest = content_hash(outcome.text)
+        if digest in lab_hashes:
+            report.pages_duplicate += 1
+            return outcome, False
+        lab_hashes.add(digest)
         previous = old_pages.get(url)
         if previous is None:
             report.pages_new += 1
@@ -236,7 +253,7 @@ class Crawler:
             "last_checked_at": outcome.fetched_at,
             "last_changed_at": last_changed,
         }
-        return outcome
+        return outcome, True
 
 
 def load_state(path: Path) -> dict:

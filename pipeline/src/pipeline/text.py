@@ -101,10 +101,11 @@ SUBPAGE_HINT_RE = re.compile(
     r"offer|opening|topic|sujet",
     re.IGNORECASE,
 )
-# Archived / completed projects: never followed (no value, and they often list students).
+# Archived, completed or already-assigned (on-going) projects: never followed. They are
+# out of scope for Labby and often list the students working on them.
 ARCHIVE_RE = re.compile(
     r"(?<![a-z])(completed?|past|archived?|archives|finished|previous|former|alumni|"
-    r"termin[ée]s?|anciens?)(?![a-z])",
+    r"on-?going|in[- ]progress|assigned|taken|termin[ée]s?|anciens?|en[- ]cours)(?![a-z])",
     re.IGNORECASE,
 )
 SKIP_URL_RE = re.compile(
@@ -128,16 +129,28 @@ class Link:
 def site_scope(url: str) -> tuple[str, str]:
     """(host, path prefix) a lab's sub-pages must stay within.
 
-    www.epfl.ch hosts every lab, so we stay under the lab's own folder
-    (/labs/<lab>/ or /schools/<school>/<unit>/). Other hosts belong to one lab.
+    - www.epfl.ch hosts every lab: stay under the lab's own folder
+      (/labs/<lab>/ or /schools/<school>/<unit>/).
+    - Other hosts: stay under the folder of the projects page
+      (bigwww.epfl.ch/teaching/projects/subject.html -> /teaching/projects/), so that
+      tutorials, research pages or publications of the same site are not followed.
     """
     parts = urlsplit(url)
     host = parts.netloc.lower()
     if host not in EPFL_HOSTS:
-        return host, "/"
+        return host, parts.path[: parts.path.rfind("/") + 1] or "/"
     segments = [s for s in parts.path.split("/") if s]
-    depth = 2 if segments[:1] == ["labs"] else 3
-    return host, "/" + "/".join(segments[:depth]) + "/" if segments else "/"
+    if not segments:
+        return host, "/"
+    depth = 2 if segments[0] == "labs" else 3
+    return host, "/" + "/".join(segments[:depth]) + "/"
+
+
+def _path_key(url: str) -> str:
+    """URL path compared without trailing slash or index file: /a/ == /a/index.php."""
+    path = urlsplit(url).path
+    path = re.sub(r"/(index|default)\.(html?|php|aspx?)$", "/", path, flags=re.IGNORECASE)
+    return path.rstrip("/")
 
 
 def _canonical(url: str) -> str:
@@ -159,17 +172,20 @@ def find_subpage_links(html: str, page_url: str, limit: int = 25) -> list[Link]:
     soup = BeautifulSoup(html, "lxml")
     scope = site_scope(page_url)
     page = _canonical(page_url).rstrip("/")
+    page_path = _path_key(page_url)
     seen: set[str] = set()
     links: list[Link] = []
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
-        if href.startswith(("mailto:", "tel:", "javascript:", "#")):
-            continue
+        if href.startswith(("mailto:", "tel:", "javascript:", "#")) or "@" in href:
+            continue  # "@": e-mail addresses written without mailto:
         url = _canonical(urljoin(page_url, href))
         text = normalize_text(a.get_text(" "))
         key = url.rstrip("/")  # ".../aether-kite" and ".../aether-kite/" are the same page
         if key == page or key in seen:
             continue
+        if _path_key(url) == page_path:
+            continue  # same page with other query parameters (filters, views, sorting)
         if not in_scope(url, scope) or SKIP_URL_RE.search(url):
             continue
         if ARCHIVE_RE.search(url) or ARCHIVE_RE.search(text):

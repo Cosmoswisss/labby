@@ -86,7 +86,8 @@ def crawl(
     typer.echo(f"Labs: {report.labs_total}  {report.labs_by_status}")
     typer.echo(
         f"Pages: {report.pages_total}  new={report.pages_new} changed={report.pages_changed} "
-        f"unchanged={report.pages_unchanged} errors={report.pages_error}"
+        f"unchanged={report.pages_unchanged} errors={report.pages_error} "
+        f"duplicates_skipped={report.pages_duplicate}"
     )
     typer.echo(f"Fetcher: {report.fetcher}  duration={report.duration_s}s")
     for err in report.errors:

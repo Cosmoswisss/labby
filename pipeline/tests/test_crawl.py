@@ -158,3 +158,21 @@ def test_network_error_is_reported(make_fetcher, tmp_path, web):
     )
     assert crawler.state["labs"]["ic-gone"]["status"] == "error"
     assert "ConnectError" in crawler.state["labs"]["ic-gone"]["error"]
+
+
+def test_duplicate_content_under_another_url_is_skipped(web, make_fetcher, tmp_path):
+    body = (
+        f"<html><body><main><p>{LONG}</p>"
+        + '<a href="/projects/subject.html">All projects</a>'
+        + '<a href="/projects/p1.html">Project one</a></main></body></html>'
+    )
+    web.add("https://lib.lab.ch/projects/", body)
+    web.add("https://lib.lab.ch/projects/subject.html", body)  # same page, other name
+    web.add("https://lib.lab.ch/projects/p1.html", f"<main><p>{LONG} one</p></main>")
+    factory = make_crawler_factory(make_fetcher, tmp_path)
+    crawler, report = run(factory, [lab("sti-lib", "https://lib.lab.ch/projects/")])
+    assert crawler.state["labs"]["sti-lib"]["pages"] == [
+        "https://lib.lab.ch/projects/",
+        "https://lib.lab.ch/projects/p1.html",
+    ]
+    assert report.pages_duplicate == 1

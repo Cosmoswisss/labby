@@ -52,7 +52,15 @@ def test_site_scope_on_epfl_www_stays_in_lab_folder():
         "www.epfl.ch",
         "/schools/ic/ipg/",
     )
-    assert site_scope("https://dlab.epfl.ch/openings/") == ("dlab.epfl.ch", "/")
+
+
+def test_site_scope_on_other_hosts_stays_in_page_folder():
+    assert site_scope("https://dlab.epfl.ch/openings/") == ("dlab.epfl.ch", "/openings/")
+    assert site_scope("https://indy.epfl.ch/projects") == ("indy.epfl.ch", "/")
+    assert site_scope("http://bigwww.epfl.ch/teaching/projects/subject.html") == (
+        "bigwww.epfl.ch",
+        "/teaching/projects/",
+    )
 
 
 def test_in_scope():
@@ -85,6 +93,20 @@ def test_find_subpage_links_filters_scope_archives_and_duplicates():
     ]
 
 
+def test_find_subpage_links_skips_views_emails_ongoing_and_out_of_folder():
+    page = "http://bigwww.epfl.ch/teaching/projects/subject.html"
+    html = """
+    <a href="subject.html?view=card">Card view of projects</a>
+    <a href="abstract.html?f=00474">Phase retrieval project</a>
+    <a href="ongoing.html">On-going projects</a>
+    <a href="leyla.candogan@epfl.ch">Contact for the project</a>
+    <a href="/tutorials/unser_mads_2020.pdf">Tutorial</a>
+    <a href="/research/projects/">Research projects</a>
+    """
+    urls = [link.url for link in find_subpage_links(html, page)]
+    assert urls == ["http://bigwww.epfl.ch/teaching/projects/abstract.html?f=00474"]
+
+
 def test_find_subpage_links_uses_anchor_text():
     html = '<a href="/labs/lcn/student-html/page-28063-en-html/">Semester Projects</a>'
     links = find_subpage_links(html, "https://www.epfl.ch/labs/lcn/student-html/")
@@ -102,3 +124,9 @@ def test_looks_like_login():
     assert looks_like_login("https://tequila.epfl.ch/cgi-bin/tequila/auth")
     assert not looks_like_login("https://www.epfl.ch/labs/cvlab/projects/")
     assert not looks_like_login(None)
+
+
+def test_find_subpage_links_treats_index_file_as_folder():
+    html = '<a href="index.php?keyword=4">Robotics projects</a><a href="p.php?id=1">Project</a>'
+    links = find_subpage_links(html, "https://biorob.epfl.ch/students/projects/")
+    assert [link.url for link in links] == ["https://biorob.epfl.ch/students/projects/p.php?id=1"]
