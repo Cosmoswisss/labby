@@ -21,6 +21,7 @@ from urllib.robotparser import RobotFileParser
 import httpx
 import truststore
 
+from pipeline import tls
 from pipeline.config import USER_AGENT
 
 MAX_BODY_BYTES = 20 * 1024 * 1024
@@ -136,6 +137,8 @@ class Fetcher:
         client: httpx.Client | None = None,
         rate_limiter: RateLimiter | None = None,
         sleep: Callable[[float], None] = time.sleep,
+        chain_fixer: Callable[[str], ssl.SSLContext | None] = tls.completed_chain_context,
+        client_factory: Callable[[ssl.SSLContext], httpx.Client] | None = None,
     ) -> None:
         self.cache = DiskCache(cache_dir)
         self.offline = offline
@@ -155,9 +158,41 @@ class Fetcher:
                 verify=ssl_ctx,
             )
         self.client = client
+        self._timeout = timeout
+        # Hosts whose certificate chain is incomplete get their own client trusting the
+        # missing intermediate (see tls.py); everything else uses self.client.
+        self._chain_fixer = chain_fixer
+        self._client_factory = client_factory or self._default_client
+        self._host_clients: dict[str, httpx.Client] = {}
+        self._chain_fix_tried: set[str] = set()
+
+    def _default_client(self, ssl_ctx: ssl.SSLContext) -> httpx.Client:
+        return httpx.Client(
+            headers={"User-Agent": USER_AGENT},
+            follow_redirects=True,
+            timeout=self._timeout,
+            verify=ssl_ctx,
+        )
+
+    def _client_for(self, url: str) -> httpx.Client:
+        return self._host_clients.get(host_of(url), self.client)
+
+    def _try_chain_fix(self, url: str) -> bool:
+        """Once per host: build a client that trusts the site's missing intermediate."""
+        host = host_of(url)
+        if host in self._chain_fix_tried:
+            return False
+        self._chain_fix_tried.add(host)
+        ctx = self._chain_fixer(host.split(":")[0])
+        if ctx is None:
+            return False
+        self._host_clients[host] = self._client_factory(ctx)
+        return True
 
     def close(self) -> None:
         self.client.close()
+        for client in self._host_clients.values():
+            client.close()
 
     def __enter__(self) -> Fetcher:
         return self
@@ -254,9 +289,11 @@ class Fetcher:
             self.rate_limiter.wait(host_of(url))
             self.stats["network"] += 1
             try:
-                response = self.client.get(url, headers=headers)
+                response = self._client_for(url).get(url, headers=headers)
             except httpx.TransportError as exc:
                 last_error = f"{type(exc).__name__}: {exc}"[:300]
+                if tls.is_missing_issuer_error(exc) and self._try_chain_fix(url):
+                    continue  # retry at once with the completed chain
                 if attempt < self.max_retries:
                     self._sleep(2**attempt)
                 continue

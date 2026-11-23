@@ -499,6 +499,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "beautifulsoup4" },
+    { name = "cryptography" },
     { name = "httpx" },
     { name = "lxml" },
     { name = "pdfplumber" },
@@ -518,6 +519,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.12" },
+    { name = "cryptography", specifier = ">=50.0.2" },
     { name = "httpx", specifier = ">=0.27" },
     { name = "lxml", specifier = ">=5.0" },
     { name = "pdfplumber", specifier = ">=0.11" },
