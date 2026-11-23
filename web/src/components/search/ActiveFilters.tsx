@@ -4,10 +4,19 @@ import type { Filters } from "@/lib/filters";
 import { LANGUAGE_LABELS, PROJECT_TYPE_LABELS, STATUS_LABELS } from "@/lib/types";
 import { Icon } from "../ui/Icon";
 
-export type ListFacet = "types" | "faculties" | "domains" | "skills" | "languages" | "statuses" | "labs";
+export type ListFacet =
+  | "types"
+  | "topics"
+  | "faculties"
+  | "domains"
+  | "skills"
+  | "languages"
+  | "statuses"
+  | "labs";
 
 const LABELERS: Record<ListFacet, (v: string, labNames: Record<string, string>) => string> = {
   types: (v) => PROJECT_TYPE_LABELS[v as keyof typeof PROJECT_TYPE_LABELS] ?? v,
+  topics: (v) => v,
   faculties: (v) => v,
   domains: (v) => v,
   skills: (v) => v,

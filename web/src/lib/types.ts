@@ -13,6 +13,7 @@ export interface Project {
   description_url: string;
   project_types: ProjectType[];
   domains: string[];
+  topics: string[];
   skills: string[];
   language: Language;
   supervisors: string[];
@@ -48,6 +49,7 @@ export interface SearchProject {
   faculties: string[];
   types: ProjectType[];
   domains: string[];
+  topics: string[];
   skills: string[];
   language: Language;
   supervisors: string[];

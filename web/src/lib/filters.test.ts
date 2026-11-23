@@ -21,6 +21,7 @@ function project(over: Partial<SearchProject>): SearchProject {
     faculties: ["IC"],
     types: [],
     domains: [],
+    topics: [],
     skills: [],
     language: "EN",
     supervisors: [],
@@ -88,6 +89,19 @@ describe("applyFilters", () => {
     expect(applyFilters(projects, f, NOW).map((p) => p.id)).toEqual(["a", "b"]);
     const g = { ...f, faculties: ["STI"] };
     expect(applyFilters(projects, g, NOW).map((p) => p.id)).toEqual(["b"]);
+  });
+
+  it("filters by topic", () => {
+    const withTopics = [
+      project({ id: "t1", topics: ["Machine learning & AI"] }),
+      project({ id: "t2", topics: ["Hardware & circuits"] }),
+    ];
+    const f = { ...EMPTY_FILTERS, topics: ["Hardware & circuits"] };
+    expect(applyFilters(withTopics, f, NOW).map((p) => p.id)).toEqual(["t2"]);
+    expect(serializeFilters(f)).toBe("topic=Hardware+%26+circuits");
+    expect(parseFilters(new URLSearchParams("topic=Hardware+%26+circuits")).topics).toEqual([
+      "Hardware & circuits",
+    ]);
   });
 
   it("filters by status and lab", () => {

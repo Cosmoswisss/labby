@@ -6,6 +6,7 @@ import type { Language, ProjectStatus, ProjectType, SearchProject } from "./type
 export interface Filters {
   q: string;
   types: ProjectType[];
+  topics: string[];
   faculties: string[];
   domains: string[];
   skills: string[];
@@ -19,6 +20,7 @@ export interface Filters {
 export const EMPTY_FILTERS: Filters = {
   q: "",
   types: [],
+  topics: [],
   faculties: [],
   domains: [],
   skills: [],
@@ -30,6 +32,7 @@ export const EMPTY_FILTERS: Filters = {
 
 const LIST_KEYS = {
   types: "type",
+  topics: "topic",
   faculties: "faculty",
   domains: "domain",
   skills: "skill",
@@ -116,6 +119,7 @@ export function applyFilters(
   return projects.filter(
     (p) =>
       intersects(filters.types, p.types) &&
+      intersects(filters.topics, p.topics) &&
       intersects(filters.faculties, p.faculties) &&
       intersects(filters.domains, p.domains) &&
       intersects(filters.skills, p.skills) &&
@@ -152,6 +156,7 @@ export function toggleValue<T>(values: T[], value: T): T[] {
 export function activeFilterCount(filters: Filters): number {
   return (
     filters.types.length +
+    filters.topics.length +
     filters.faculties.length +
     filters.domains.length +
     filters.skills.length +

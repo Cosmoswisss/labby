@@ -25,6 +25,7 @@ from pipeline.evaluate import MATCH_THRESHOLD, norm, title_similarity
 from pipeline.extract import load_extractions
 from pipeline.fetch import now_utc
 from pipeline.models import Lab
+from pipeline.topics import normalize_domains, topics_for
 
 LIST_FIELDS = ("project_types", "domains", "skills", "supervisors")
 
@@ -89,7 +90,7 @@ def build_projects(labs: list[Lab], crawl_state: dict, extractions: dict) -> lis
                 "summary": raw["summary"].strip(),
                 "description_url": url,
                 "project_types": raw["project_types"],
-                "domains": [d.lower() for d in raw["domains"]],
+                "domains": normalize_domains(raw["domains"]),
                 "skills": raw["skills"],
                 "language": raw["language"],
                 "supervisors": raw["supervisors"],
@@ -112,6 +113,7 @@ def build_projects(labs: list[Lab], crawl_state: dict, extractions: dict) -> lis
     projects = []
     for record in merged.values():
         record.pop("_specific")
+        record["topics"] = topics_for(record["domains"])
         record["id"] = project_id(record["lab_ids"], record["title"])
         projects.append({"id": record.pop("id"), **record})
     return sorted(projects, key=lambda p: (p["lab_ids"], norm(p["title"])))

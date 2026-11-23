@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:02:49+00:00",
+ "generated_at": "2026-11-23T14:35:56+00:00",
  "projects": [
   {
    "id": "17b3a8212caa",
@@ -36,6 +36,11 @@
    "last_seen_at": "2026-11-23T13:47:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/entc/research/our-student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -71,6 +76,10 @@
    "last_seen_at": "2026-11-23T13:47:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/entc/research/our-student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -105,6 +114,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -142,6 +155,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -161,7 +178,7 @@
     "robot control",
     "particle swarm optimization",
     "reinforcement learning",
-    "neural networks"
+    "deep learning"
    ],
    "skills": [
     "TensorFlow",
@@ -180,6 +197,11 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control",
+    "Theory & algorithms"
    ]
   },
   {
@@ -220,6 +242,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control"
    ]
   },
   {
@@ -258,6 +284,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Robotics & control"
    ]
   },
   {
@@ -296,6 +326,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/academic-year-2025-2026/",
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control"
    ]
   },
   {
@@ -332,6 +366,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Hardware & circuits"
    ]
   },
   {
@@ -373,6 +411,10 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Hardware & circuits"
    ]
   },
   {
@@ -410,6 +452,11 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Signal processing & acoustics",
+    "Physics & materials"
    ]
   },
   {
@@ -450,6 +497,9 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -488,6 +538,11 @@
    "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Vision & imaging",
+    "Robotics & control"
    ]
   },
   {
@@ -518,6 +573,10 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -549,6 +608,10 @@
    "last_seen_at": "2026-11-23T13:47:32+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/ai-for-topographic-mapping/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -578,6 +641,10 @@
    "last_seen_at": "2026-11-23T13:47:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/an-ai-assistant-to-interact-with-remote-sensing-images/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -608,6 +675,10 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -638,6 +709,9 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Environment & civil engineering"
    ]
   },
   {
@@ -668,6 +742,11 @@
    "last_seen_at": "2026-11-23T13:47:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/572-2/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -698,6 +777,11 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -728,6 +812,10 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -758,6 +846,10 @@
    "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -784,6 +876,10 @@
    "last_seen_at": "2026-11-23T13:47:40+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/projects/axa/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -818,6 +914,11 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Physics & materials"
    ]
   },
   {
@@ -856,6 +957,9 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -892,6 +996,12 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Health & life sciences",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -936,6 +1046,10 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Data science"
    ]
   },
   {
@@ -970,6 +1084,9 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -1004,6 +1121,11 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Physics & materials"
    ]
   },
   {
@@ -1038,6 +1160,11 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Physics & materials"
    ]
   },
   {
@@ -1074,6 +1201,10 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -1103,6 +1234,10 @@
    "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Robotics & control"
    ]
   },
   {
@@ -1142,6 +1277,10 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -1177,6 +1316,9 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -1216,6 +1358,11 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -1253,6 +1400,10 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Systems & networks"
    ]
   },
   {
@@ -1293,6 +1444,12 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Environment & civil engineering",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -1331,6 +1488,10 @@
    "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -1379,6 +1540,11 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/accelerating-geophysical-simulations-with-ai.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering",
+    "Physics & materials"
    ]
   },
   {
@@ -1430,6 +1596,11 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/ai-characterization-of-internal-material-properties.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -1478,6 +1649,11 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/digital-twin-simulation-of-rockfall-hazards.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering",
+    "Physics & materials"
    ]
   },
   {
@@ -1523,6 +1699,9 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/experimental-investigation-of-architected-granular-materials.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Physics & materials"
    ]
   },
   {
@@ -1568,6 +1747,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/frictional-instabilities-in-topologically-interlocked-structures.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
+   ],
+   "topics": [
+    "Physics & materials"
    ]
   },
   {
@@ -1610,6 +1792,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/gnn-for-granular-mechanics.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Physics & materials"
    ]
   },
   {
@@ -1657,6 +1844,10 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/multiphysics-modeling-of-fault-gouge.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Environment & civil engineering",
+    "Physics & materials"
    ]
   },
   {
@@ -1702,6 +1893,10 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/12/phase-field-modeling-of-fracture-of-architected-structural-materials.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Physics & materials"
    ]
   },
   {
@@ -1744,6 +1939,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/pino-for-solid-mechanics.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering",
+    "Physics & materials"
    ]
   },
   {
@@ -1788,6 +1988,9 @@
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/segregation-in-granular-flows.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"
+   ],
+   "topics": [
+    "Physics & materials"
    ]
   },
   {
@@ -1819,6 +2022,12 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Systems & networks",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -1850,6 +2059,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -1881,6 +2094,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -1910,6 +2128,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -1942,6 +2165,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society"
    ]
   },
   {
@@ -1974,6 +2201,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2005,6 +2236,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -2037,6 +2273,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society"
    ]
   },
   {
@@ -2068,6 +2308,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2099,6 +2344,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2128,6 +2378,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2161,6 +2415,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -2192,6 +2451,9 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -2223,6 +2485,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2253,6 +2519,10 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2285,6 +2555,11 @@
    "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2317,6 +2592,11 @@
    "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -2334,7 +2614,7 @@
    "domains": [
     "metabolic imaging",
     "magnetic resonance fingerprinting",
-    "mri"
+    "magnetic resonance imaging"
    ],
    "skills": [],
    "language": "EN",
@@ -2348,6 +2628,9 @@
    "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -2379,6 +2662,9 @@
    "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -2410,6 +2696,10 @@
    "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -2425,7 +2715,7 @@
    ],
    "domains": [
     "medical imaging",
-    "mri",
+    "magnetic resonance imaging",
     "data processing"
    ],
    "skills": [],
@@ -2440,6 +2730,10 @@
    "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -2468,6 +2762,9 @@
    "last_seen_at": "2026-11-23T10:50:21+00:00",
    "source_pages": [
     "https://imaging.epfl.ch/students-projects"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -2495,6 +2792,10 @@
    "last_seen_at": "2026-11-23T10:50:21+00:00",
    "source_pages": [
     "https://imaging.epfl.ch/students-projects"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Physics & materials"
    ]
   },
   {
@@ -2523,6 +2824,10 @@
    "last_seen_at": "2026-11-23T10:50:21+00:00",
    "source_pages": [
     "https://imaging.epfl.ch/students-projects"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -2552,7 +2857,8 @@
    "last_seen_at": "2026-11-23T10:50:21+00:00",
    "source_pages": [
     "https://imaging.epfl.ch/students-projects"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "1652084ce437",
@@ -2581,6 +2887,9 @@
    "last_seen_at": "2026-11-23T10:50:21+00:00",
    "source_pages": [
     "https://imaging.epfl.ch/students-projects"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -2609,6 +2918,10 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -2635,6 +2948,9 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -2666,6 +2982,11 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering",
+    "Data science"
    ]
   },
   {
@@ -2696,6 +3017,10 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -2724,6 +3049,9 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -2757,6 +3085,10 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -2789,6 +3121,9 @@
    "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -2818,6 +3153,10 @@
    "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -2846,6 +3185,11 @@
    "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -2874,6 +3218,10 @@
    "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -2902,6 +3250,11 @@
    "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Vision & imaging"
    ]
   },
   {
@@ -2935,6 +3288,11 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -2968,6 +3326,11 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3001,6 +3364,10 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3034,6 +3401,10 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3067,6 +3438,9 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3100,6 +3474,10 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3133,6 +3511,10 @@
    "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -3164,6 +3546,10 @@
    "last_seen_at": "2026-11-23T13:48:49+00:00",
    "source_pages": [
     "https://compsec.epfl.ch/"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Theory & algorithms"
    ]
   },
   {
@@ -3196,6 +3582,11 @@
    "last_seen_at": "2026-11-23T13:48:49+00:00",
    "source_pages": [
     "https://compsec.epfl.ch/"
+   ],
+   "topics": [
+    "Security & privacy",
+    "Programming languages & verification",
+    "Theory & algorithms"
    ]
   },
   {
@@ -3235,6 +3626,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/3d-surface-reconstruction-using-3d-gaussians-and-sdf/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -3282,6 +3676,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/applied-deep-learning-for-computer-aided-engineering/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -3319,6 +3717,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/computer-vision-for-waste-management/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -3353,6 +3756,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/efficient-diffusion-models-via-quantization-and-compression/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -3387,6 +3793,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/interpretable-and-controllable-neural-shape-parameterizations/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Theory & algorithms"
    ]
   },
   {
@@ -3424,6 +3835,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/aether-kite",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Robotics & control"
    ]
   },
   {
@@ -3460,6 +3875,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/recovering-thin-structures-in-3d-foundation-models/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -3491,6 +3910,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/self-supervised-learning-of-flight-dynamics/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control"
    ]
   },
   {
@@ -3531,6 +3954,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/structured-3d-shape-optimization-with-part-based-implicit-neural-representations/",
     "https://www.epfl.ch/labs/cvlab/projects/"
+   ],
+   "topics": [
+    "Theory & algorithms"
    ]
   },
   {
@@ -3562,6 +3988,11 @@
    "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Security & privacy"
    ]
   },
   {
@@ -3592,6 +4023,10 @@
    "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks"
    ]
   },
   {
@@ -3622,6 +4057,9 @@
    "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -3660,6 +4098,11 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Signal processing & acoustics",
+    "Humanities & society"
    ]
   },
   {
@@ -3699,6 +4142,9 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -3739,6 +4185,9 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -3779,6 +4228,10 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Humanities & society"
    ]
   },
   {
@@ -3819,6 +4272,10 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Humanities & society"
    ]
   },
   {
@@ -3861,6 +4318,10 @@
    "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Humanities & society"
    ]
   },
   {
@@ -3896,6 +4357,10 @@
    "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
+   ],
+   "topics": [
+    "Security & privacy",
+    "Programming languages & verification"
    ]
   },
   {
@@ -3933,6 +4398,9 @@
    "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -3968,6 +4436,9 @@
    "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -4002,6 +4473,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4039,6 +4513,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4075,6 +4552,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -4113,6 +4594,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -4149,6 +4633,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -4165,7 +4653,7 @@
    "domains": [
     "epigraphy",
     "cultural heritage",
-    "nlp"
+    "natural language processing"
    ],
    "skills": [
     "Python",
@@ -4184,6 +4672,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -4201,7 +4693,7 @@
     "llm bias",
     "text classification",
     "cultural heritage",
-    "nlp"
+    "natural language processing"
    ],
    "skills": [
     "strong Python",
@@ -4224,6 +4716,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -4257,6 +4753,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Vision & imaging"
    ]
   },
   {
@@ -4292,6 +4793,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -4328,6 +4833,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Human-computer interaction & design",
+    "Data science"
    ]
   },
   {
@@ -4362,6 +4872,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Vision & imaging"
    ]
   },
   {
@@ -4400,6 +4914,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -4439,6 +4957,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4474,6 +4995,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -4510,6 +5035,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -4547,6 +5076,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -4581,6 +5114,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4618,6 +5154,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -4649,6 +5189,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -4687,6 +5231,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -4721,6 +5270,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -4759,6 +5312,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4796,6 +5352,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4828,6 +5387,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -4869,6 +5431,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -4910,6 +5476,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -4950,6 +5520,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -4984,6 +5559,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Systems & networks"
    ]
   },
   {
@@ -5018,6 +5597,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5049,6 +5632,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -5080,6 +5667,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -5116,7 +5707,8 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "c4926d1064d1",
@@ -5152,6 +5744,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -5184,6 +5779,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -5220,6 +5818,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -5256,6 +5858,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5295,6 +5901,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -5333,6 +5943,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5368,6 +5983,9 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society"
    ]
   },
   {
@@ -5384,7 +6002,7 @@
    "domains": [
     "cultural heritage",
     "wikipedia analysis",
-    "nlp"
+    "natural language processing"
    ],
    "skills": [
     "Python",
@@ -5403,6 +6021,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -5434,6 +6056,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5468,6 +6094,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Vision & imaging",
+    "Systems & networks"
    ]
   },
   {
@@ -5507,6 +6138,11 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5541,6 +6177,10 @@
    "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -5578,6 +6218,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2018/11/cost-models.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Theory & algorithms"
    ]
   },
   {
@@ -5618,6 +6262,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/concurrent-interval-container.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -5654,6 +6301,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2024/09/remote-codegen.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -5692,6 +6342,12 @@
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/memory_aware_hash_joins-1-Gosha.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks",
+    "Data science",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -5734,6 +6390,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/global-serializability-violation.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -5772,6 +6431,9 @@
    "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -5807,6 +6469,9 @@
    "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -5844,6 +6509,10 @@
    "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks"
    ]
   },
   {
@@ -5884,6 +6553,10 @@
    "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -5921,6 +6594,11 @@
    "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -5960,6 +6638,11 @@
    "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -6002,7 +6685,8 @@
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/proposal_multi_tension_elements_Junyu_Yuanpeng.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "83fe3be39733",
@@ -6044,6 +6728,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/2026_semester_cone_singularity.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -6092,6 +6779,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/semester_project_elaslink_YP_JD.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
+   ],
+   "topics": [
+    "Physics & materials"
    ]
   },
   {
@@ -6135,6 +6825,9 @@
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/08/ProjectProposalMetamaterialsTencersUnitCellGeneration.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
+   ],
+   "topics": [
+    "Theory & algorithms"
    ]
   },
   {
@@ -6173,6 +6866,10 @@
    "last_seen_at": "2026-11-23T13:49:51+00:00",
    "source_pages": [
     "https://hexhive.epfl.ch/epflprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Security & privacy"
    ]
   },
   {
@@ -6209,6 +6906,10 @@
    "last_seen_at": "2026-11-23T13:49:51+00:00",
    "source_pages": [
     "https://hexhive.epfl.ch/epflprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -6242,6 +6943,12 @@
    "source_pages": [
     "https://indy.epfl.ch/project/78",
     "https://indy.epfl.ch/projects"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Theory & algorithms",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -6283,6 +6990,10 @@
    "source_pages": [
     "https://indy.epfl.ch/project/81",
     "https://indy.epfl.ch/projects"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Theory & algorithms"
    ]
   },
   {
@@ -6320,6 +7031,10 @@
    "source_pages": [
     "https://indy.epfl.ch/project/79",
     "https://indy.epfl.ch/projects"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -6358,6 +7073,10 @@
    "source_pages": [
     "https://indy.epfl.ch/project/82",
     "https://indy.epfl.ch/projects"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Theory & algorithms"
    ]
   },
   {
@@ -6396,6 +7115,9 @@
    "last_seen_at": "2026-11-23T13:49:58+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ivrl/available-projects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -6424,6 +7146,9 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -6457,6 +7182,9 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -6487,6 +7215,9 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -6520,6 +7251,10 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -6550,6 +7285,9 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -6581,6 +7319,11 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Security & privacy",
+    "Physics & materials"
    ]
   },
   {
@@ -6613,6 +7356,9 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -6641,6 +7387,10 @@
    "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -6674,6 +7424,10 @@
    "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -6708,6 +7462,11 @@
    "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control",
+    "Health & life sciences"
    ]
   },
   {
@@ -6742,6 +7501,11 @@
    "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences",
+    "Humanities & society"
    ]
   },
   {
@@ -6771,6 +7535,11 @@
    "last_seen_at": "2026-11-23T13:50:14+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -6802,6 +7571,10 @@
    "last_seen_at": "2026-11-23T13:50:14+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -6832,6 +7605,10 @@
    "last_seen_at": "2026-11-23T13:50:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/message-passing-for-quantum-models-lthc/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -6864,6 +7641,10 @@
    "last_seen_at": "2026-11-23T13:50:23+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/markov-chain-monte-carlo"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -6899,6 +7680,10 @@
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/universal-prediction-and-alpha-mutual-information/",
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -6935,6 +7720,11 @@
    "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -6972,6 +7762,10 @@
    "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Data science"
    ]
   },
   {
@@ -7008,6 +7802,11 @@
    "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Data science"
    ]
   },
   {
@@ -7042,6 +7841,10 @@
    "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -7078,6 +7881,10 @@
    "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -7114,6 +7921,10 @@
    "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7149,6 +7960,9 @@
    "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -7186,6 +8000,10 @@
    "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -7215,6 +8033,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7250,6 +8072,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Security & privacy"
    ]
   },
   {
@@ -7279,6 +8105,12 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Systems & networks",
+    "Theory & algorithms"
    ]
   },
   {
@@ -7308,6 +8140,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7337,6 +8173,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7366,6 +8206,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7398,6 +8242,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -7432,6 +8280,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7461,6 +8313,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7490,6 +8346,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7519,6 +8379,11 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Theory & algorithms"
    ]
   },
   {
@@ -7548,6 +8413,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7577,6 +8446,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7606,6 +8479,10 @@
    "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -7647,6 +8524,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/12/DT_PdS_AITools-2026-1.pdf",
     "https://www.epfl.ch/labs/mobots/education/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -7673,6 +8555,11 @@
    "last_seen_at": "2026-11-23T13:50:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mobots/education/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -7706,6 +8593,9 @@
    "last_seen_at": "2026-11-23T13:50:49+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nal/semester-projects/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -7740,6 +8630,11 @@
    "last_seen_at": "2026-11-23T13:50:49+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nal/semester-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -7771,6 +8666,9 @@
    "last_seen_at": "2026-11-23T13:50:52+00:00",
    "source_pages": [
     "https://rs3lab.github.io/pages/projects.html"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -7802,6 +8700,9 @@
    "last_seen_at": "2026-11-23T13:50:52+00:00",
    "source_pages": [
     "https://rs3lab.github.io/pages/projects.html"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -7839,6 +8740,12 @@
    "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Security & privacy",
+    "Health & life sciences"
    ]
   },
   {
@@ -7879,6 +8786,10 @@
    "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
+   ],
+   "topics": [
+    "Security & privacy",
+    "Theory & algorithms"
    ]
   },
   {
@@ -7918,6 +8829,10 @@
    "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Security & privacy"
    ]
   },
   {
@@ -7955,6 +8870,9 @@
    "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -7984,6 +8902,10 @@
    "last_seen_at": "2026-11-23T13:50:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -8013,6 +8935,10 @@
    "last_seen_at": "2026-11-23T13:50:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -8055,6 +8981,11 @@
    "last_seen_at": "2026-11-23T13:50:59+00:00",
    "source_pages": [
     "https://www.spring.mpi-sp.org/student_projects.html"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Security & privacy"
    ]
   },
   {
@@ -8092,6 +9023,9 @@
    "last_seen_at": "2026-11-23T13:50:59+00:00",
    "source_pages": [
     "https://www.spring.mpi-sp.org/student_projects.html"
+   ],
+   "topics": [
+    "Security & privacy"
    ]
   },
   {
@@ -8120,7 +9054,8 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "7b54dbb44ae9",
@@ -8146,6 +9081,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -8172,6 +9110,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8201,6 +9142,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -8229,6 +9174,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -8257,7 +9205,8 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "23aad4678a0a",
@@ -8286,6 +9235,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8315,6 +9267,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8342,6 +9297,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8370,6 +9328,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -8396,6 +9358,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -8425,6 +9391,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8453,6 +9422,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8479,6 +9451,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8508,6 +9483,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8537,7 +9515,8 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "089baf07fdd0",
@@ -8563,6 +9542,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8589,6 +9571,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -8618,6 +9604,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8646,6 +9635,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -8674,6 +9667,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8701,6 +9697,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8729,6 +9728,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8755,6 +9757,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -8783,6 +9789,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8809,6 +9818,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Programming languages & verification"
    ]
   },
   {
@@ -8835,6 +9848,10 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -8863,6 +9880,9 @@
    "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -8892,6 +9912,10 @@
    "last_seen_at": "2026-11-23T13:51:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -8927,6 +9951,10 @@
    "last_seen_at": "2026-11-23T13:51:09+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/schrimpflab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -8962,6 +9990,10 @@
    "last_seen_at": "2026-11-23T13:51:09+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/schrimpflab/projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -8998,7 +10030,8 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "9e43f1db567f",
@@ -9033,6 +10066,10 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Hardware & circuits"
    ]
   },
   {
@@ -9068,6 +10105,10 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -9103,6 +10144,9 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -9131,6 +10175,10 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Health & life sciences"
    ]
   },
   {
@@ -9168,6 +10216,9 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -9201,6 +10252,9 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -9232,6 +10286,10 @@
    "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control"
    ]
   },
   {
@@ -9263,6 +10321,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -9296,6 +10357,11 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits",
+    "Theory & algorithms"
    ]
   },
   {
@@ -9331,6 +10397,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -9364,6 +10434,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -9397,6 +10470,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9429,6 +10505,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -9463,6 +10543,12 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics",
+    "Health & life sciences",
+    "Data science"
    ]
   },
   {
@@ -9496,6 +10582,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9529,6 +10618,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -9562,6 +10655,11 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -9593,6 +10691,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9626,6 +10727,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -9657,6 +10762,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -9691,6 +10800,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9724,6 +10836,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9758,6 +10873,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -9790,6 +10908,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -9823,6 +10944,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -9855,6 +10980,11 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Data science"
    ]
   },
   {
@@ -9887,6 +11017,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Programming languages & verification"
    ]
   },
   {
@@ -9903,7 +11037,7 @@
    ],
    "domains": [
     "fpga",
-    "deep neural networks",
+    "deep learning",
     "hardware accelerators"
    ],
    "skills": [
@@ -9922,6 +11056,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -9955,6 +11093,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Environment & civil engineering"
    ]
   },
   {
@@ -9987,6 +11128,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10019,6 +11163,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10052,6 +11199,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10097,6 +11247,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/esl/wp-content/uploads/2024/11/Microarchitectural-explorations-for-biomedical-applications.pdf",
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -10130,6 +11284,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Data science"
    ]
   },
   {
@@ -10164,6 +11322,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -10199,6 +11361,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10232,6 +11397,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -10265,6 +11433,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -10302,6 +11473,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10337,6 +11511,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10371,6 +11548,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10403,6 +11583,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10435,6 +11618,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -10468,6 +11654,11 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -10499,6 +11690,9 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -10532,6 +11726,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Hardware & circuits"
    ]
   },
   {
@@ -10564,6 +11762,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Data science"
    ]
   },
   {
@@ -10595,6 +11797,10 @@
    "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -10630,6 +11836,11 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -10667,6 +11878,10 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -10702,6 +11917,10 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -10736,6 +11955,11 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -10748,7 +11972,7 @@
    "description_url": "https://www.epfl.ch/labs/inl/inl/student-projects/",
    "project_types": [],
    "domains": [
-    "eeg",
+    "electroencephalography",
     "brain-computer interfaces",
     "speech decoding",
     "neuroscience"
@@ -10769,6 +11993,10 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Health & life sciences"
    ]
   },
   {
@@ -10803,6 +12031,10 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -10839,6 +12071,10 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -10874,6 +12110,11 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -10909,6 +12150,12 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -10943,6 +12190,12 @@
    "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -10972,6 +12225,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11001,6 +12258,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11031,6 +12292,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11059,6 +12324,11 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11087,6 +12357,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11117,6 +12391,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11146,6 +12424,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
     "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -11176,6 +12458,10 @@
    "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -11214,6 +12500,11 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00453",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -11252,6 +12543,10 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00452",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -11286,6 +12581,10 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00474",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -11324,6 +12623,13 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00470",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Vision & imaging",
+    "Humanities & society",
+    "Data science"
    ]
   },
   {
@@ -11360,6 +12666,9 @@
    "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -11391,6 +12700,9 @@
    "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -11429,6 +12741,11 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00468",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Theory & algorithms"
    ]
   },
   {
@@ -11466,6 +12783,12 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00466",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Theory & algorithms",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -11502,6 +12825,11 @@
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00473",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
     "https://bigwww.epfl.ch/teaching/projects/index.html?view=all"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Theory & algorithms"
    ]
   },
   {
@@ -11537,6 +12865,11 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -11573,6 +12906,11 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -11609,6 +12947,11 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -11649,6 +12992,12 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Health & life sciences",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -11685,6 +13034,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Environment & civil engineering"
    ]
   },
   {
@@ -11719,6 +13071,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -11754,7 +13110,8 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
-   ]
+   ],
+   "topics": []
   },
   {
    "id": "5cfb83fde852",
@@ -11789,6 +13146,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -11826,6 +13186,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -11862,6 +13225,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -11899,6 +13265,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -11936,6 +13305,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -11969,6 +13341,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -12004,6 +13380,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -12039,6 +13418,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -12076,6 +13459,12 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Vision & imaging",
+    "Security & privacy"
    ]
   },
   {
@@ -12109,6 +13498,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Humanities & society"
    ]
   },
   {
@@ -12143,6 +13536,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -12177,6 +13574,11 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -12211,6 +13613,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -12247,6 +13653,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -12282,6 +13691,11 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -12315,6 +13729,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -12349,6 +13766,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Health & life sciences"
    ]
   },
   {
@@ -12383,6 +13804,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -12419,6 +13843,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -12454,6 +13881,12 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Theory & algorithms",
+    "Health & life sciences"
    ]
   },
   {
@@ -12489,6 +13922,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech"
    ]
   },
   {
@@ -12524,6 +13960,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -12563,6 +14002,12 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Robotics & control",
+    "Health & life sciences"
    ]
   },
   {
@@ -12598,6 +14043,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -12637,6 +14086,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Humanities & society",
+    "Human-computer interaction & design"
    ]
   },
   {
@@ -12672,6 +14125,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -12708,6 +14165,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Humanities & society"
    ]
   },
   {
@@ -12743,6 +14204,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -12760,7 +14225,7 @@
     "physiological signals",
     "self-supervised learning",
     "sleep medicine",
-    "eeg"
+    "electroencephalography"
    ],
    "skills": [
     "Python",
@@ -12779,6 +14244,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -12813,6 +14282,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -12847,6 +14320,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -12882,6 +14358,10 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -12916,6 +14396,9 @@
    "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -12950,6 +14433,11 @@
    "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Theory & algorithms"
    ]
   },
   {
@@ -12983,6 +14471,10 @@
    "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -13013,6 +14505,10 @@
    "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -13044,6 +14540,10 @@
    "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -13085,6 +14585,10 @@
    "source_pages": [
     "https://www.epfl.ch/labs/lions/wp-content/uploads/2026/01/ESLM_MScProject.pdf",
     "https://www.epfl.ch/labs/lions/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -13127,6 +14631,9 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/136",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -13166,6 +14673,9 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/137",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -13205,6 +14715,10 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/146",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Humanities & society"
    ]
   },
   {
@@ -13245,6 +14759,10 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/131",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Physics & materials"
    ]
   },
   {
@@ -13285,6 +14803,9 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/123",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -13324,6 +14845,9 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/143",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -13363,6 +14887,11 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/125",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -13401,6 +14930,9 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/142",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -13439,6 +14971,10 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/126",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -13480,6 +15016,11 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/130",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Signal processing & acoustics",
+    "Physics & materials"
    ]
   },
   {
@@ -13519,6 +15060,10 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/145",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Physics & materials"
    ]
   },
   {
@@ -13558,6 +15103,10 @@
    "source_pages": [
     "https://lts2.epfl.ch/projects/75",
     "https://lts2.epfl.ch/projects/list"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Humanities & society"
    ]
   },
   {
@@ -13587,6 +15136,10 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -13622,6 +15175,10 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -13652,6 +15209,9 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -13689,6 +15249,11 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Humanities & society"
    ]
   },
   {
@@ -13721,6 +15286,9 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -13757,6 +15325,10 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -13794,6 +15366,10 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech"
    ]
   },
   {
@@ -13824,6 +15400,10 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks"
    ]
   },
   {
@@ -13861,6 +15441,11 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms",
+    "Environment & civil engineering"
    ]
   },
   {
@@ -13891,6 +15476,11 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Physics & materials"
    ]
   },
   {
@@ -13921,6 +15511,11 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Health & life sciences"
    ]
   },
   {
@@ -13952,6 +15547,9 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -13990,6 +15588,11 @@
    "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences",
+    "Data science"
    ]
   },
   {
@@ -14026,6 +15629,9 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14061,6 +15667,10 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging"
    ]
   },
   {
@@ -14099,6 +15709,11 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -14139,6 +15754,11 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -14171,6 +15791,9 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14211,6 +15834,11 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -14246,6 +15874,10 @@
    "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Health & life sciences"
    ]
   },
   {
@@ -14277,6 +15909,9 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Programming languages & verification"
    ]
   },
   {
@@ -14308,6 +15943,12 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Language & speech",
+    "Vision & imaging",
+    "Robotics & control"
    ]
   },
   {
@@ -14339,6 +15980,9 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -14370,6 +16014,10 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Security & privacy"
    ]
   },
   {
@@ -14401,6 +16049,10 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Security & privacy"
    ]
   },
   {
@@ -14432,6 +16084,11 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Security & privacy",
+    "Theory & algorithms"
    ]
   },
   {
@@ -14463,6 +16120,10 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Data science"
    ]
   },
   {
@@ -14494,6 +16155,10 @@
    "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
+   ],
+   "topics": [
+    "Language & speech",
+    "Security & privacy"
    ]
   },
   {
@@ -14521,6 +16186,10 @@
    "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -14547,6 +16216,10 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -14575,6 +16248,9 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14603,6 +16279,9 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14629,6 +16308,10 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -14655,6 +16338,10 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -14681,6 +16368,10 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Health & life sciences"
    ]
   },
   {
@@ -14711,6 +16402,9 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14738,6 +16432,9 @@
    "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14764,6 +16461,9 @@
    "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -14776,7 +16476,7 @@
    "description_url": "https://miplab.epfl.ch/teaching/open-projects-collaborations",
    "project_types": [],
    "domains": [
-    "mri",
+    "magnetic resonance imaging",
     "neuroimaging",
     "neuromelanin",
     "psychiatric and neurological disorders"
@@ -14791,6 +16491,10 @@
    "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -14827,6 +16531,9 @@
    "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
+   ],
+   "topics": [
+    "Machine learning & AI"
    ]
   },
   {
@@ -14862,6 +16569,11 @@
    "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Systems & networks",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -14898,6 +16610,10 @@
    "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Security & privacy"
    ]
   },
   {
@@ -14936,6 +16652,9 @@
    "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
+   ],
+   "topics": [
+    "Security & privacy"
    ]
   },
   {
@@ -14973,6 +16692,9 @@
    "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
+   ],
+   "topics": [
+    "Vision & imaging"
    ]
   },
   {
@@ -15001,6 +16723,10 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Theory & algorithms",
+    "Business & entrepreneurship"
    ]
   },
   {
@@ -15027,6 +16753,9 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -15052,6 +16781,10 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Robotics & control"
    ]
   },
   {
@@ -15078,6 +16811,9 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Robotics & control"
    ]
   },
   {
@@ -15104,6 +16840,10 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -15131,6 +16871,10 @@
    "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -15165,6 +16909,10 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits"
    ]
   },
   {
@@ -15199,6 +16947,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15231,6 +16982,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -15266,6 +17021,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15301,6 +17059,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -15335,6 +17097,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15367,6 +17132,9 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15399,6 +17167,9 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15432,6 +17203,10 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -15466,6 +17241,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15500,6 +17278,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Theory & algorithms"
    ]
   },
   {
@@ -15512,7 +17294,7 @@
    "description_url": "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf",
    "project_types": [],
    "domains": [
-    "iot",
+    "internet of things",
     "wireless communications",
     "hardware design"
    ],
@@ -15533,6 +17315,10 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -15566,6 +17352,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15597,6 +17386,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15628,6 +17420,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15661,6 +17456,9 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15696,6 +17494,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15730,6 +17531,11 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Security & privacy",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -15763,6 +17569,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Theory & algorithms"
    ]
   },
   {
@@ -15801,6 +17611,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15815,7 +17628,7 @@
    "domains": [
     "wireless communication",
     "software-defined radio",
-    "iot"
+    "internet of things"
    ],
    "skills": [
     "C++",
@@ -15835,6 +17648,9 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -15866,6 +17682,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -15899,6 +17718,11 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks",
+    "Physics & materials"
    ]
   },
   {
@@ -15935,6 +17759,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Theory & algorithms"
    ]
   },
   {
@@ -15966,6 +17794,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16004,6 +17835,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -16037,6 +17872,9 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16073,6 +17911,11 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Theory & algorithms",
+    "Physics & materials"
    ]
   },
   {
@@ -16087,7 +17930,7 @@
    "domains": [
     "machine learning",
     "wireless localization",
-    "iot"
+    "internet of things"
    ],
    "skills": [
     "Python",
@@ -16106,6 +17949,10 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks"
    ]
   },
   {
@@ -16136,6 +17983,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -16168,6 +18018,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16201,6 +18054,10 @@
    "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Hardware & circuits"
    ]
   },
   {
@@ -16236,6 +18093,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16272,6 +18132,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16306,6 +18169,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16339,6 +18205,11 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -16352,7 +18223,7 @@
    "project_types": [],
    "domains": [
     "software-defined radio",
-    "iot",
+    "internet of things",
     "wireless communications"
    ],
    "skills": [
@@ -16371,6 +18242,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -16384,7 +18258,7 @@
    "project_types": [],
    "domains": [
     "software-defined radio",
-    "iot",
+    "internet of things",
     "wireless communications"
    ],
    "skills": [
@@ -16402,6 +18276,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -16435,6 +18312,11 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Signal processing & acoustics",
+    "Health & life sciences"
    ]
   },
   {
@@ -16471,6 +18353,11 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -16484,7 +18371,7 @@
    "project_types": [],
    "domains": [
     "software-defined radio",
-    "iot",
+    "internet of things",
     "wireless communications"
    ],
    "skills": [
@@ -16504,6 +18391,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Systems & networks"
    ]
   },
   {
@@ -16535,6 +18425,10 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -16547,7 +18441,7 @@
    "description_url": "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf",
    "project_types": [],
    "domains": [
-    "iot",
+    "internet of things",
     "wireless communications",
     "embedded systems"
    ],
@@ -16566,6 +18460,10 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Systems & networks"
    ]
   },
   {
@@ -16599,6 +18497,11 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks",
+    "Signal processing & acoustics"
    ]
   },
   {
@@ -16634,6 +18537,10 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits",
+    "Theory & algorithms"
    ]
   },
   {
@@ -16666,6 +18573,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16698,6 +18608,9 @@
    "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16732,6 +18645,9 @@
    "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
+   ],
+   "topics": [
+    "Hardware & circuits"
    ]
   },
   {
@@ -16769,6 +18685,11 @@
    "last_seen_at": "2026-11-23T13:53:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lbm/openings/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -16802,6 +18723,9 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -16835,6 +18759,10 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Health & life sciences"
    ]
   },
   {
@@ -16870,6 +18798,11 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Health & life sciences",
+    "Physics & materials"
    ]
   },
   {
@@ -16904,6 +18837,10 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Systems & networks",
+    "Health & life sciences"
    ]
   },
   {
@@ -16940,6 +18877,11 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -16975,6 +18917,11 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -17010,6 +18957,10 @@
    "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "topics": [
+    "Robotics & control",
+    "Health & life sciences"
    ]
   },
   {
@@ -17048,6 +18999,10 @@
    "last_seen_at": "2026-11-23T13:53:21+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/barth-lab/page-149655-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Health & life sciences"
    ]
   },
   {
@@ -17087,6 +19042,9 @@
    "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -17126,6 +19084,9 @@
    "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -17164,6 +19125,9 @@
    "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -17193,6 +19157,9 @@
    "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
+   ],
+   "topics": [
+    "Health & life sciences"
    ]
   },
   {
@@ -17222,6 +19189,11 @@
    "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -17251,6 +19223,10 @@
    "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
+   ],
+   "topics": [
+    "Vision & imaging",
+    "Health & life sciences"
    ]
   },
   {
@@ -17280,6 +19256,10 @@
    "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
+   ],
+   "topics": [
+    "Machine learning & AI",
+    "Systems & networks"
    ]
   }
  ]

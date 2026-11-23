@@ -165,6 +165,13 @@ export function SearchApp({
         onToggle={(v) => toggle("types", v)}
       />
       <FacetGroup
+        title="Topic"
+        options={options("topics", (p) => p.topics, (v) => v)}
+        selected={filters.topics}
+        onToggle={(v) => toggle("topics", v)}
+        initiallyShown={8}
+      />
+      <FacetGroup
         title="Faculty"
         options={options("faculties", (p) => p.faculties, (v) => v).sort(byOrder(FACULTY_ORDER))}
         selected={filters.faculties}

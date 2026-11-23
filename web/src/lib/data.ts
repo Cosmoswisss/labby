@@ -44,6 +44,7 @@ export function getSearchProjects(): SearchProject[] {
       faculties: [...new Set(projectLabs.flatMap((l) => [l.faculty, ...l.joint_faculties]))],
       types: p.project_types,
       domains: [...new Set(p.domains.map(normalizeTag))],
+      topics: p.topics ?? [],
       skills: [...new Set(p.skills.map((s) => s.trim()).filter(Boolean))],
       language: p.language,
       supervisors: p.supervisors,
