@@ -1,7 +1,7 @@
 {
- "started_at": "2026-11-23T11:06:25+00:00",
- "finished_at": "2026-11-23T11:06:48+00:00",
- "duration_s": 22.3,
+ "started_at": "2026-11-23T11:27:04+00:00",
+ "finished_at": "2026-11-23T11:27:28+00:00",
+ "duration_s": 24.2,
  "offline": true,
  "labs_total": 114,
  "labs_by_status": {
@@ -13,11 +13,13 @@
  },
  "pages_total": 299,
  "pages_new": 0,
- "pages_changed": 0,
- "pages_unchanged": 294,
+ "pages_changed": 248,
+ "pages_unchanged": 46,
  "pages_error": 2,
  "pages_duplicate": 3,
- "little_text_pages": [],
+ "little_text_pages": [
+  "https://www.epfl.ch/labs/dcsl/ma-ba-projects/"
+ ],
  "errors": [
   {
    "lab": "ic-cvlab",

@@ -130,3 +130,30 @@ def test_find_subpage_links_treats_index_file_as_folder():
     html = '<a href="index.php?keyword=4">Robotics projects</a><a href="p.php?id=1">Project</a>'
     links = find_subpage_links(html, "https://biorob.epfl.ch/students/projects/")
     assert [link.url for link in links] == ["https://biorob.epfl.ch/students/projects/p.php?id=1"]
+
+
+def test_page_title_is_prepended_when_missing_from_content():
+    html = (
+        "<html><head><title>INDY Lab - Probabilistic Proofs in Lean</title></head>"
+        f"<body><main><p>{LONG}</p></main></body></html>"
+    )
+    text = html_to_text(html)
+    assert text.splitlines()[0] == "INDY Lab - Probabilistic Proofs in Lean"
+    assert "Federated learning" in text
+
+
+def test_h1_outside_main_is_kept_and_title_not_duplicated():
+    html = (
+        "<html><head><title>Projects</title></head><body><h1>Drone perception</h1>"
+        "<main><h2>Projects</h2><p>Short.</p></main></body></html>"
+    )
+    assert html_to_text(html).splitlines() == ["Drone perception", "Projects", "Short."]
+
+
+def test_short_main_is_trusted_over_site_menus():
+    html = (
+        "<html><body><nav>" + "Menu item " * 100 + "</nav>"
+        "<main><a href='a'>Master projects</a> <a href='b'>Bachelor projects</a></main>"
+        "</body></html>"
+    )
+    assert "Menu item" not in html_to_text(html)

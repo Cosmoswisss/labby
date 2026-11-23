@@ -24,3 +24,6 @@ out/
 Thumbs.db
 .vscode/
 .idea/
+
+# Eval page snapshots (copies of third-party pages)
+pipeline/eval/pages/

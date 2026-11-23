@@ -23,8 +23,6 @@ with warnings.catch_warnings():
     warnings.simplefilter("ignore")
     import trafilatura
 
-# Below this many characters, the <main> extraction is considered a miss.
-MIN_MAIN_CHARS = 200
 MAX_PDF_PAGES = 30
 
 NOISE_TAGS = ["script", "style", "noscript", "nav", "aside", "form", "header", "footer", "svg"]
@@ -42,12 +40,32 @@ def content_hash(text: str) -> str:
 
 
 def html_to_text(html: str) -> str:
-    """Main content of an HTML page as plain text.
+    """Main content of an HTML page as plain text, headed by the page title.
 
     EPFL's WordPress sites wrap the content in <main>, which is the most reliable
     signal; other sites fall back to trafilatura (generic main-content extraction).
+    The page title is prepended when the content does not contain it: on many lab
+    sites a project page's only title is in <title> or in an <h1> outside <main>.
     """
     soup = BeautifulSoup(html, "lxml")
+    titles = _page_titles(soup)
+    text = _main_text(soup, html)
+    missing = [t for t in titles if t not in text]
+    return normalize_text("\n".join(missing + [text])) if missing else text
+
+
+def _page_titles(soup: BeautifulSoup) -> list[str]:
+    titles = []
+    if soup.title:
+        titles.append(normalize_text(soup.title.get_text(" ")).replace("\n", " "))
+    main = soup.find("main")
+    for h1 in soup.find_all("h1"):
+        if main is None or main not in h1.parents:
+            titles.append(normalize_text(h1.get_text(" ")).replace("\n", " "))
+    return [t for t in dict.fromkeys(titles) if t]
+
+
+def _main_text(soup: BeautifulSoup, html: str) -> str:
     main = soup.find("main") or soup.find(attrs={"role": "main"})
     main_text = ""
     if main is not None:
@@ -56,16 +74,17 @@ def html_to_text(html: str) -> str:
         for tag in main.select('[class*="breadcrumb"]'):
             tag.decompose()
         main_text = normalize_text(main.get_text("\n"))
-        if len(main_text) >= MIN_MAIN_CHARS:
+        # A non-empty <main> is trusted even when short (e.g. an index page with two
+        # links): trafilatura would rather pick up the site menus.
+        if main_text:
             return main_text
 
-    extracted = trafilatura.extract(
-        html, include_tables=True, include_comments=False, favor_recall=True
+    extracted = normalize_text(
+        trafilatura.extract(html, include_tables=True, include_comments=False, favor_recall=True)
+        or ""
     )
-    candidates = [main_text, normalize_text(extracted or "")]
-    best = max(candidates, key=len)
-    if best:
-        return best
+    if extracted:
+        return extracted
 
     body = soup.body or soup
     for tag in body.find_all(NOISE_TAGS):
