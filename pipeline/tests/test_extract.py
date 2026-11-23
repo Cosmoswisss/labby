@@ -173,3 +173,22 @@ def test_pages_no_longer_crawled_are_pruned(tmp_path):
     make_extractor(tmp_path, FakeEngine([RESPONSE])).run([lab("ic-vis")])
     store = json.loads((tmp_path / "state" / "extractions.json").read_text(encoding="utf-8"))
     assert list(store["pages"]) == ["https://b.ch/p"]
+
+
+def test_token_budget_stops_the_run(tmp_path):
+    pages = {f"https://a.ch/p{i}": (["ic-vis"], "text", f"h{i}") for i in range(4)}
+    setup_state(tmp_path, pages)
+    engine = FakeEngine([RESPONSE] * 4)  # 100 input tokens each
+    report = make_extractor(tmp_path, engine).run([lab("ic-vis")], max_input_tokens=150)
+    assert len(engine.calls) == 2  # 0 < 150, 100 < 150, then 200 >= 150: stop
+    assert report.pages_left == 2 and "budget" in report.stopped_reason
+
+
+def test_usage_limit_error_stops_the_run(tmp_path):
+    pages = {f"https://a.ch/p{i}": (["ic-vis"], "text", f"h{i}") for i in range(3)}
+    setup_state(tmp_path, pages)
+    limit = EngineResult(None, error="claude error: Claude usage limit reached")
+    engine = FakeEngine([limit, limit, RESPONSE])
+    report = make_extractor(tmp_path, engine).run([lab("ic-vis")])
+    assert len(engine.calls) == 2  # two attempts on the first page, then stop
+    assert report.pages_left == 2 and report.stopped_reason.startswith("usage limit")

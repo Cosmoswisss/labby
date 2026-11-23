@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import time
 from dataclasses import dataclass, field
 from datetime import date
@@ -26,6 +27,7 @@ PROMPTS_DIR = Path(__file__).parent / "prompts"
 PROMPT_NAME = "extract_v2"
 MAX_PAGE_CHARS = 120_000  # ~30k tokens; longer pages are truncated (and flagged)
 EXTRACTIONS_VERSION = 1
+USAGE_LIMIT_RE = re.compile(r"usage limit|rate limit|limit reached|429|overloaded", re.I)
 
 
 def load_prompt(name: str = PROMPT_NAME) -> tuple[str, str]:
@@ -72,7 +74,8 @@ class ExtractReport:
     pages_up_to_date: int = 0
     pages_extracted: int = 0
     pages_failed: int = 0
-    pages_left: int = 0  # still to do because of --limit
+    pages_left: int = 0  # still to do because of --limit / budget / usage limit
+    stopped_reason: str | None = None
     projects_found: int = 0
     input_tokens: int = 0
     output_tokens: int = 0
@@ -127,6 +130,7 @@ class Extractor:
         *,
         lab_ids: set[str] | None = None,
         limit: int | None = None,
+        max_input_tokens: int | None = None,
         dry_run: bool = False,
     ) -> ExtractReport:
         t0 = time.monotonic()
@@ -161,6 +165,10 @@ class Extractor:
             return report
 
         for n, url in enumerate(todo, 1):
+            if max_input_tokens is not None and report.input_tokens >= max_input_tokens:
+                report.stopped_reason = f"token budget reached ({max_input_tokens:,})"
+                report.pages_left += len(todo) - n + 1
+                break
             page = self.crawl_state["pages"][url]
             page_labs = [labs_by_id[i] for i in page["lab_ids"] if i in labs_by_id]
             self.log(f"[{n}/{len(todo)}] {url}")
@@ -168,6 +176,11 @@ class Extractor:
             self.store["pages"][url] = entry
             # Save after every page: a run interrupted by the quota keeps its progress.
             self._save()
+            if entry["error"] and USAGE_LIMIT_RE.search(entry["error"]):
+                # Subscription limit hit: stop instead of failing every remaining page.
+                report.stopped_reason = f"usage limit: {entry['error'][:120]}"
+                report.pages_left += len(todo) - n
+                break
 
         report.finished_at = now_utc().isoformat(timespec="seconds")
         report.duration_s = round(time.monotonic() - t0, 1)

@@ -101,6 +101,9 @@ def crawl(
 def extract(
     lab: list[str] = typer.Option(None, "--lab", help="Only pages of these lab ids."),
     limit: int = typer.Option(None, help="Max pages sent to the LLM in this run (quota)."),
+    max_input_tokens: int = typer.Option(
+        None, help="Stop once this many input tokens were used in this run (quota guard)."
+    ),
     model: str = typer.Option("haiku", help="Claude model alias used by Claude Code."),
     dry_run: bool = typer.Option(False, "--dry-run", help="Count pending pages, call nothing."),
     labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
@@ -112,7 +115,13 @@ def extract(
 
     labs = load_labs(labs_file)
     extractor = Extractor(ClaudeCodeEngine(model=model), config.CACHE_DIR, config.STATE_DIR)
-    report = extractor.run(labs, lab_ids=set(lab) if lab else None, limit=limit, dry_run=dry_run)
+    report = extractor.run(
+        labs,
+        lab_ids=set(lab) if lab else None,
+        limit=limit,
+        max_input_tokens=max_input_tokens,
+        dry_run=dry_run,
+    )
     typer.echo("")
     typer.echo(f"Engine: {report.engine}  prompt: {report.prompt}")
     typer.echo(
@@ -125,6 +134,8 @@ def extract(
         return
     typer.echo(f"Projects found: {report.projects_found}")
     typer.echo(f"Tokens: {report.input_tokens:,} in / {report.output_tokens:,} out")
+    if report.stopped_reason:
+        typer.echo(f"Stopped early: {report.stopped_reason}")
     for err in report.errors:
         typer.echo(f"  ! {err['url']}: {err['error']}")
 
@@ -148,6 +159,24 @@ def export(
     typer.echo(f"Extraction tokens so far: {report['extraction_tokens_in']:,} in / "
                f"{report['extraction_tokens_out']:,} out")  # fmt: skip
     typer.echo(f"Wrote {config.REPO_DIR / 'data'}")
+
+
+@app.command()
+def diff(
+    old: Path = typer.Option(None, help="Previous data/projects.json (missing = empty)."),
+    new: Path = typer.Option(config.REPO_DIR / "data" / "projects.json"),
+    output: Path = typer.Option(None, help="Write the Markdown here instead of stdout."),
+) -> None:
+    """Markdown summary of a data update (body of the automatic pull request)."""
+    from pipeline.report import render_markdown
+
+    text = render_markdown(
+        old, new, config.STATE_DIR / "crawl_report.json", config.STATE_DIR / "extract_report.json"
+    )
+    if output:
+        output.write_text(text, encoding="utf-8", newline="\n")
+    else:
+        typer.echo(text)
 
 
 @app.command(name="eval")
