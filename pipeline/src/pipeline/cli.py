@@ -97,5 +97,37 @@ def crawl(
     typer.echo(f"State written to {config.STATE_DIR}")
 
 
+@app.command()
+def extract(
+    lab: list[str] = typer.Option(None, "--lab", help="Only pages of these lab ids."),
+    limit: int = typer.Option(None, help="Max pages sent to the LLM in this run (quota)."),
+    model: str = typer.Option("haiku", help="Claude model alias used by Claude Code."),
+    dry_run: bool = typer.Option(False, "--dry-run", help="Count pending pages, call nothing."),
+    labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
+) -> None:
+    """Extract projects from crawled pages with Claude Code (only new/changed pages)."""
+    from pipeline.engines import ClaudeCodeEngine
+    from pipeline.extract import Extractor
+    from pipeline.labs import load_labs
+
+    labs = load_labs(labs_file)
+    extractor = Extractor(ClaudeCodeEngine(model=model), config.CACHE_DIR, config.STATE_DIR)
+    report = extractor.run(labs, lab_ids=set(lab) if lab else None, limit=limit, dry_run=dry_run)
+    typer.echo("")
+    typer.echo(f"Engine: {report.engine}  prompt: {report.prompt}")
+    typer.echo(
+        f"Pages: {report.pages_considered} considered, {report.pages_up_to_date} up to date, "
+        f"{report.pages_extracted} extracted, {report.pages_failed} failed, "
+        f"{report.pages_left} left"
+    )
+    if dry_run:
+        typer.echo(f"Dry run: ~{report.input_tokens:,} input tokens would be sent.")
+        return
+    typer.echo(f"Projects found: {report.projects_found}")
+    typer.echo(f"Tokens: {report.input_tokens:,} in / {report.output_tokens:,} out")
+    for err in report.errors:
+        typer.echo(f"  ! {err['url']}: {err['error']}")
+
+
 if __name__ == "__main__":
     app()
