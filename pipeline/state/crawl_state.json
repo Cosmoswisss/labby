@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T11:27:28+00:00",
+ "updated_at": "2026-11-23T11:29:08+00:00",
  "labs": {
   "ic-cvlab": {
    "status": "ok",
@@ -1238,6 +1238,7 @@
     "sti-lib"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/subject.html",
    "content_hash": "33e72353fef3d9708bebf0ee4c148ddfef13af32b36639ef471f8d6d839da7ce",
@@ -1252,6 +1253,7 @@
     "ic-aimm"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://aimm.epfl.ch/openings/",
    "content_hash": "5ecaca4bfcd19c91ab6d0b8ce27609df0ebc54c9f6ed3112b12ea68ff4145c82",
@@ -1266,6 +1268,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00452",
    "content_hash": "ae6c9e53baed935dac052e664d86e40399c08dc8cdc1790745b242ccf6667ebe",
@@ -1280,6 +1283,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00453",
    "content_hash": "c588a7c1236f062b145f23123ac5d7cada4b60ec687fb65e1b81891b2db4550b",
@@ -1294,6 +1298,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "From PDE to Cell Imaging: A Multiresolution Framework for Fourier Ptychography",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00454",
    "content_hash": "27ea3128f003c2f20cea8cd620e76876aa712bbd978f63981b67a9a30b341e2b",
@@ -1308,6 +1313,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Multigrid Solver For Non-Uniform Sampling With TV Regularization",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00457",
    "content_hash": "0a7a3da4fdf9b384a2bc95de5631aaa9808364833c1a08f3c15112aca60f6d3b",
@@ -1322,6 +1328,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Penalized Maximum Likelihood Approach for Deconvolution of Microscopy with Learned Convex Regularizer",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00458",
    "content_hash": "96629930650732c9dc3ce40e7d1a8b21828777e3e075dbd9352729863b41416d",
@@ -1336,6 +1343,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Prediction and survival analysis of ovarian cancer through multimodal fusion of radiomic and multiomic data.",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00459",
    "content_hash": "3fa2d1374634f9186e3f6dba533b8631393df5b0a39d0205fd6b6f84d3799d72",
@@ -1350,6 +1358,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00460",
    "content_hash": "0dee1d1abc0c0abfb9ee5bde083e4892641445703eb09d9f62812d08193dd52a",
@@ -1364,6 +1373,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Sparse Unrolled Auto-Encoders for Interpretable Analysis of Neural Data",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00461",
    "content_hash": "513ff3cee61df8468e84e81a5c5fcfea7527d2e8771f6b437ea3582f7a11b3d9",
@@ -1378,6 +1388,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Diffusion Models for Magnetic Resonance Imaging Reconstruction",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00462",
    "content_hash": "568953609cb95cd5349c7667b3b7143626389cbf122b41390fd591a7bc371feb",
@@ -1392,6 +1403,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Inverse Problems with ℓ1 Regularization: Extreme Points of the Regularization Polytope and Analysis vs Synthesis Formulations",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00463",
    "content_hash": "1267b7e13891aec5405fc46f7cb307e6fae9a82924806077e3e94bd56d2bb9e6",
@@ -1406,6 +1418,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Discretization of Non-Uniform Sampling Problems with Exponential Splines",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00464",
    "content_hash": "02c6f0135ed6fd9ecff37ff456768ed81e49a8d4e4857b262fb48bac9103149f",
@@ -1420,6 +1433,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Likelihoods for Hawkes Processes",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00465",
    "content_hash": "6ce636917b04255f2e26eb91cd5650952ffd5c4c668feb8edf791b37234675b8",
@@ -1434,6 +1448,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00466",
    "content_hash": "bad4f57b2409274b3fa67e6064c50d1b3c92d10c177f6f740527872b1507763a",
@@ -1448,6 +1463,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Improving Optimization Algorithms for Ptychography Phase Retrieval",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00467",
    "content_hash": "e4352139665cace72749df5e2425afde8ab9b141f6571b6aa2d65d6a523e0745",
@@ -1462,6 +1478,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00468",
    "content_hash": "ec85a18b9ef4c4ac31e3fab804010c999d4044e140df32c5255f9bdbc20ffbeb",
@@ -1476,6 +1493,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Vector-Valued Inverse Problems: B-Spline Discretization and Identification of Matrix Differential Operators for Regularization",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00469",
    "content_hash": "bf0f1f24dc0cbee7d4b93b8d490f8acde378907862979004ce70af943a9cb952",
@@ -1490,6 +1508,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00470",
    "content_hash": "d335a3fc6d64cdbe71e4ef26cd1f4be1a75bb09a47011db8d5822b6087b46502",
@@ -1504,6 +1523,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": "Investigating steerable wavelets to build Parseval frames",
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00471",
    "content_hash": "f6a800e03f93ca135e7714e43a2085377cce9ed727d1b33d2bd1c15253fe8325",
@@ -1518,6 +1538,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00472",
    "content_hash": "688a833d15a4e6ccd084f4be1db8bdac08486e7fa0628d6cfb27a98f087f2de0",
@@ -1532,6 +1553,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00473",
    "content_hash": "8efbb214c0cce4d317f33a9405ab38b90363d3aca74602f03a5304fc5e9b74d7",
@@ -1546,6 +1568,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00474",
    "content_hash": "71fd5a3463c774737a9ad192568c780de91ab9315792c9d88ac1c63eafbecaa2",
@@ -1560,6 +1583,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00475",
    "content_hash": "7ceb5342a4685ba571964fbcef9b17b44c5e622067cd145a48c1e564ac6b5684",
@@ -1574,6 +1598,7 @@
     "sti-lib"
    ],
    "parent_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/index.html?view=all",
    "content_hash": "4c3c296219aef3a36a6226b3e1d358054a0e080cc0c188e91ce036c0d7667a1c",
@@ -1588,6 +1613,7 @@
     "sti-biorob"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://biorob.epfl.ch/students/projects/",
    "content_hash": "02eb85780f52a84aed50dd27d692600f62d725b838348d954eaa6cf51cab98a0",
@@ -1602,6 +1628,7 @@
     "ic-mlbio"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://brbiclab.epfl.ch/join-us/",
    "content_hash": "88650b396b8bd511d6d5950f7358d9bd5434cf44c8d4381c53a999d80283b26d",
@@ -1616,6 +1643,7 @@
     "ent-cibm-ait"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://cibm.ch/open-positions/",
    "content_hash": "6c3e33ab423fce7bb2617b5305149a383fc278f49008673584a0e5e71ac442f5",
@@ -1630,6 +1658,7 @@
     "ic-compsec"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://compsec.epfl.ch/",
    "content_hash": "4bf814fd8662480ca238702e108c19bf67ead317b3ab171d41ece549987749cf",
@@ -1644,6 +1673,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": "https://datascience.ch/students-projects/",
+   "link_text": "National Call for projects",
    "kind": "html",
    "final_url": "https://datascience.ch/call-for-projects-2026",
    "content_hash": "4798ee3784120a518d3a0e56a22acd045ac38a79fc63f6310853163b6b26e8e5",
@@ -1658,6 +1688,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": "https://datascience.ch/students-projects/",
+   "link_text": "Canton Vaud Innovation Program",
    "kind": "html",
    "final_url": "https://datascience.ch/call-for-projects/call-for-vaud-projects",
    "content_hash": "feb423201cc938f7afd6c4722f96ba4ec73142adb9c4f8c05ce1108b8371d38f",
@@ -1672,6 +1703,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": "https://datascience.ch/students-projects/",
+   "link_text": "Engineering",
    "kind": "html",
    "final_url": "https://datascience.ch/domains/engineering-topic",
    "content_hash": "eeee2ae9b593b14ce1a8d5fab902fa37fc110a44cce4c87a3f5fdd59f7c5c56f",
@@ -1686,6 +1718,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": "https://datascience.ch/students-projects/",
+   "link_text": "Projects",
    "kind": "html",
    "final_url": "https://datascience.ch/projects",
    "content_hash": "070a404172becc628e29f97c6129055494df71b239b005463bd1b8b38e06c6dd",
@@ -1700,6 +1733,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": "https://datascience.ch/students-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://datascience.ch/projects/aicades",
    "content_hash": "67bcc149a123f6c0cb7e0e1516b1ee2d039dbd54af68bf9da249293dc837a71e",
@@ -1714,6 +1748,7 @@
     "ent-sdsc-ge"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://datascience.ch/student-projects",
    "content_hash": "b06fc77725a8e2662dc41fcec6f37a18a441cf15c7da67f88a053f286c56e24d",
@@ -1728,6 +1763,7 @@
     "ic-dcl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://dcl.epfl.ch/site/Education",
    "content_hash": "e87f2c1cad25d68870b217ce5d605a8082d9ba95e5f49cb652d4bd16fda78fdc",
@@ -1742,6 +1778,7 @@
     "ic-dcl"
    ],
    "parent_url": "https://dcl.epfl.ch/site/Education",
+   "link_text": "Secure Distributed Computing (Fall semester 2009)",
    "kind": "html",
    "final_url": "https://dcl.epfl.ch/site/education/secure_distributed_computing",
    "content_hash": "ba671605ff85cd76045d872ec40791906f9a5bb37618e9086d5b1c6be876740e",
@@ -1756,6 +1793,7 @@
     "ic-dcl"
    ],
    "parent_url": "https://dcl.epfl.ch/site/Education",
+   "link_text": "ERC/AOC Project",
    "kind": "html",
    "final_url": "https://dcl.epfl.ch/site/erc-aoc_project",
    "content_hash": "011d91d7edf444f5be2701c25ba6d73c3fc0350e2665474b244eb7bd3c4c6a22",
@@ -1770,6 +1808,7 @@
     "ic-dslab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://dslab.epfl.ch/projects/",
    "content_hash": "cfa050383f69fffdcb763de0e4fe1102d75fff5fc9ea9a85a9b6ace960abf634",
@@ -1784,6 +1823,7 @@
     "ic-dslab"
    ],
    "parent_url": "https://dslab.epfl.ch/projects/",
+   "link_text": "our projects guide",
    "kind": "html",
    "final_url": "https://dslab.epfl.ch/projects/guide",
    "content_hash": "436b5ef95b27b28779a7b1530dab6d86daf99fb6cf35a88c74d73e36303bcb1b",
@@ -1798,6 +1838,7 @@
     "sti-esl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/esl/studentprojects/",
    "content_hash": "e4810e5cf7ed46427cd060f672836cf62dee0b574328ddbbd34f70245373e5cb",
@@ -1812,6 +1853,7 @@
     "ic-hexhive"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://hexhive.epfl.ch/epflprojects/",
    "content_hash": "99db6339ef53b63c8960f8a9a4c5ba30fe9e73407bacd51ed60813968bae1b68",
@@ -1826,6 +1868,7 @@
     "ent-imaging-ge"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://imaging.epfl.ch/students-projects",
    "content_hash": "fd8ab52512fe6efeb6bb0608324945e17dbd668737bd46d7700999185322b145",
@@ -1841,6 +1884,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Few-Shot Learning",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/28",
    "content_hash": "5a98f85280dca1fa30015da415612684d358efc31f6dd880daa034c40d32cfd0",
@@ -1856,6 +1900,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Collecting a large dataset on human similarity and preference perception",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/34",
    "content_hash": "f93cfab8431df95c90e64151fd001f9e13557668ec61451c103f5db4df51f7ea",
@@ -1871,6 +1916,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Generating random graphs with a given treewidth of k",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/54",
    "content_hash": "7ef483822165687d999210a15732e2b4bfccf29ac97fecedcc5cfcb5f1a30909",
@@ -1886,6 +1932,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Analyzing Network Cascades to Infer Graph Properties",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/59",
    "content_hash": "69f4e41794231f67eb9b267cbaee76a9d1ab9920c3fd7ec6c474c6f3bb6c30b5",
@@ -1901,6 +1948,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Stochastic proximal first-order algorithm",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/60",
    "content_hash": "5b0ebab0b72dd4bff1f6835994ff2a3632a82201bc62cca0a767eb0bec295109",
@@ -1916,6 +1964,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Computational methods for Chance Constraint Optimization",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/61",
    "content_hash": "0eeb382c7bebb70991cac497ce6716aa37c60b08860b6b3fa971ea278c09af00",
@@ -1931,6 +1980,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "SIS Model Simulator with Dynamic Vaccination and Visualization",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/62",
    "content_hash": "086dfb7d4be243b7195e179a1896b297924ef527e9f77bf61908f490dab7a1f6",
@@ -1946,6 +1996,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Distinguishing Random Graphs via Distance Measures",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/63",
    "content_hash": "0dd0d5e715c7207ad294dd40c3502c3c303f217814219cc62da9740a59973c5e",
@@ -1961,6 +2012,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Estimation the Number of Clusters in Mixture Models using Data Thinning",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/64",
    "content_hash": "09547111fcd36784e079539d2c26cef17ad85f0b8690029d132b245c3e4f153e",
@@ -1976,6 +2028,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Exploring good transformations of edge weights for spectral clustering",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/65",
    "content_hash": "1fef2f5ec14eb066a09fc3efea1e3e2d49b9ae251267319f835bb99654b066c2",
@@ -1991,6 +2044,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Matrix Factorisation With Comparison Data",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/66",
    "content_hash": "7a7bdce879712b076fa1fbca034eed32650f1ab0bc3039704a6813901679f4f8",
@@ -2006,6 +2060,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Bayesian Optimization for Soft Clustering",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/69",
    "content_hash": "49a2efc7193f49bc8d2cb6beaa2c89964ead0b9d7d42860fa5434fdccc45c569",
@@ -2021,6 +2076,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Web scrapping for hierarchical clustering",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/70",
    "content_hash": "0cd9448fae21842354ebb5738f31e5825bf09260919597b4cd802f19e8f11549",
@@ -2036,6 +2092,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Robust Collaborative Filtering",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/71",
    "content_hash": "6c1856c68447747618cf1084e283b9b9ac75d17113cc02bbcf8df96a20d4a648",
@@ -2051,6 +2108,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "SAT‑Driven Exact and Heuristic Treewidth & Decomposition",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/72",
    "content_hash": "e8ba7e7fe9b81206f95e62e785ad89d7c0b4f721a058767898902bcccd5b1772",
@@ -2066,6 +2124,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Robustness and Performance of Spectral Clustering Methods for Community Detection",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/73",
    "content_hash": "19ecd9796b204728afc0158199495ab630fce26d5410b15dc8556f81cf303aec",
@@ -2081,6 +2140,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Recommender System with hierarchical structure",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/74",
    "content_hash": "5425ce7ffccb2bea3f19aea612810adf9bb85c8e59ebe3ca046d1d5e0e9f43db",
@@ -2096,6 +2156,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "When does effective-resistance sparsification preserve infection dynamics?",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/75",
    "content_hash": "e702c59902cd9f155f7d386e333f9298ec53eb833e26f306d266425db38648c9",
@@ -2111,6 +2172,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "ER Graph Discovery via Independent Distance Measurements",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/76",
    "content_hash": "8bee217e85e1ff9fe568efb0e2c9b7f7bf1fd624aaedcb9351f521107c8a7cd6",
@@ -2126,6 +2188,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Causal Subgoal Discovery for Hierarchical Reinforcement Learning",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/77",
    "content_hash": "6ca108135fc42268ee011307499bcb73ad61736b02d677fa96d703a9d1a0e64a",
@@ -2141,6 +2204,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Accelerating ecological connectivity analysis with graph neural networks",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/78",
    "content_hash": "ae8ee63c5d0de66bc4e2e37c03481f2943c81c3d37b7bd05a89535dd7df6d432",
@@ -2156,6 +2220,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "High-performance differentiable AMG in JAX with GPU acceleration",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/79",
    "content_hash": "4db415d08fe23626453822b756eef059f089b9d20951ad217055248736eda384",
@@ -2171,6 +2236,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Evaluating Multiview Structure Preservation in Dimensionality Reduction",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/80",
    "content_hash": "28d724e8ede4d918bc526d880f186637b8c31240d169e00be6692dcdaaa0bdc7",
@@ -2186,6 +2252,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Finding Slow Components in a Graph",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/81",
    "content_hash": "f1e153b44c42e3c73692ed03ed559413fd1f3842cdef7c44b9836c60db5f0000",
@@ -2201,6 +2268,7 @@
     "ic-indy2"
    ],
    "parent_url": "https://indy.epfl.ch/projects",
+   "link_text": "Reusable Foundations for Probabilistic Proofs in Lean",
    "kind": "html",
    "final_url": "https://indy.epfl.ch/project/82",
    "content_hash": "df00e82f70bac834cd75f32371b51ff042f59b242b3bdd3a7295833c71dd343e",
@@ -2216,6 +2284,7 @@
     "ic-indy2"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://indy.epfl.ch/projects",
    "content_hash": "25ba0bdb3d341cdac0e5a4e819dbf8e90c586822ab55290e4ea5317ef878dff0",
@@ -2230,6 +2299,7 @@
     "ic-lasec"
    ],
    "parent_url": "https://lasec.epfl.ch/teaching.php",
+   "link_text": "available",
    "kind": "html",
    "final_url": "https://lasec.epfl.ch/projects/available.php",
    "content_hash": "5cebf95fd341d55af67ed1075f3b1ce391796b2f2a54d3b471f57e96582f4ccc",
@@ -2244,6 +2314,7 @@
     "ic-lasec"
    ],
    "parent_url": "https://lasec.epfl.ch/teaching.php",
+   "link_text": "guidelines",
    "kind": "html",
    "final_url": "https://lasec.epfl.ch/projects/guidelines.php",
    "content_hash": "50907e9c28bb9e118beaae630e617bdc911e841dec7eef74b64fc5a477b59bfe",
@@ -2258,6 +2329,7 @@
     "ic-lasec"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://lasec.epfl.ch/teaching.php",
    "content_hash": "eea7c940456adc0c700fb7db65ce83bbc729517fc865a7cfe6c0f78a3f106d9d",
@@ -2272,6 +2344,7 @@
     "ic-laser"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://laser.epfl.ch/pages/apply.html",
    "content_hash": "6a72b88845852cd07416573dfbf0234dc5a01eb0aca1b099852b6ad3327d3e20",
@@ -2286,6 +2359,7 @@
     "ic-lcn"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lcn/student-html/",
    "content_hash": "5ab4571a1293164745767c21a669493efa96ef084b99076e4ae59619c1d1fb46",
@@ -2300,6 +2374,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Granular synthesis applied to car sound design",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/110",
    "content_hash": "4ce507e2aa29c66648543c92522020e1b1123341eaa3b0834679dc9d1e5dbc99",
@@ -2314,6 +2389,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Traffic noise Radar: Tracking and estimation of individual vehicle noise emission",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/111",
    "content_hash": "6c63e30c3cb82c05c8a6190bac77807e44362b9b9480824235d90d283e569763",
@@ -2328,6 +2404,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Development and characterization of an acoustic matched source",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/123",
    "content_hash": "57c56c774858585009bf81618b0504c0038422f919406cb325e753e404822e92",
@@ -2342,6 +2419,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Enhancing Protein Design Through Advanced Graph Neural Networks",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/125",
    "content_hash": "9d2de0497811b5e5a64400342ef96d43ae6f143ab289306a7c100107fb065ca7",
@@ -2356,6 +2434,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Modeling translation elongation dynamics through Variational AutoEncoders",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/126",
    "content_hash": "0a04ab4b8d734c6850201b0fcb94013979b0394adb8a3e5a36eabbc4c0b2a363",
@@ -2370,6 +2449,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Wavefunction collapse algorithm for de novo molecular design",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/127",
    "content_hash": "b75ec2830161e33d78c31769cadf2dd117703c48a410f1bf2bd2f0a7ab2df003",
@@ -2384,6 +2464,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Implicit Neural Representations of Molecular Surfaces",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/128",
    "content_hash": "f358c85bf36a7322ec378e0df6f48a9ba35e15292365c1a97c578380ab2f5d94",
@@ -2398,6 +2479,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Optimization of corona discharge loudspeakers",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/130",
    "content_hash": "c56c5e07153ec9906488b3bec50f3321f81a8726961d49ba689d422879df2ed5",
@@ -2412,6 +2494,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Design of unprecedented sound sources: a dream come true with plasma loudspeakers?",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/131",
    "content_hash": "fc6a7f50e59b7725e8aeb5c7126e92fe0dd2dcbc75c1dc17dec27c9eb42ce0c9",
@@ -2426,6 +2509,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Plasma headphones",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/132",
    "content_hash": "bb39ca405ff139ab0c1bf2b3d2bd31e9d94f49b18c84fbed3de249c5494991b2",
@@ -2440,6 +2524,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Design of an annular array of active plasma sound absorbers",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/133",
    "content_hash": "3c05486c668e7330f80669b8f8370edf550ae526c7033c0034884096c6ce5d45",
@@ -2454,6 +2539,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Arc Suppression System for High-Voltage Corona Discharge Acoustic Transducers",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/134",
    "content_hash": "87ef98e40ee1a33e56b26d155fad9efc1dce38d256f9e61a74f603134fa6545a",
@@ -2468,6 +2554,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Development of a fully transparent active noise reduction device",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/135",
    "content_hash": "f0d3133f7c4e3f1af130dee749100fe8defc8d9f8c274ac809076f78a73b1ac9",
@@ -2482,6 +2569,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "3D Sound Localization",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/136",
    "content_hash": "91234832e4ef67806c66e9a69a3b4208e27f01fd868c6839c9e9a6bd561467ce",
@@ -2496,6 +2584,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Auditory distance perception",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/137",
    "content_hash": "31a33ad3a66b8d31e16f19aea6bb583da47e6708c164e586eb3065cf4aee449c",
@@ -2510,6 +2599,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Novel Geometric Deep Learning methods for biological networks",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/139",
    "content_hash": "04f5a15737fa7f981f321f73a38ea15ba908380edb3abe38428ba6d3e3dd34a1",
@@ -2524,6 +2614,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Exploiting simultaneous image and LIDAR data for point-cloud classification",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/140",
    "content_hash": "ca087775f133591581a2b8f2c8d5095302d3899e4db4b860733194267efb44ab",
@@ -2538,6 +2629,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Exploration and improvement of a data-agnostic multimodal deep learning architecture relying on a novel fusion strategy",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/142",
    "content_hash": "4383f35ee9231aeb12f6210379de56555a81099bf9531cf3b85962963149b12f",
@@ -2552,6 +2644,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Development of a Graphical User Interface for Electroacoustic Absorbers",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/143",
    "content_hash": "dca5ea3c98cc5f4287869aedb26947efb363108939e13aee655166988c1c5304",
@@ -2566,6 +2659,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Towards making Electroacoustic Absorbers self-adaptive to their acoustic environment",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/144",
    "content_hash": "80bb57c3356b401617ac035f28b882306c62f7c3e2f32b013fb168127fa18465",
@@ -2580,6 +2674,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Plasmacoustic headphones",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/145",
    "content_hash": "7e8df435cff02caf289d63fb792b61945a45bfe56fc564211cb4e4b0a06c4ee8",
@@ -2594,6 +2689,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Controlling the timbre of wind instruments with active control",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/146",
    "content_hash": "8fb75b5d6dea156dc5c6c6828c7794175e5b33937e419ae4fdfc12843f8bc3b2",
@@ -2608,6 +2704,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Digging into the physics of \"Plasmacoustic transducers\"",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/147",
    "content_hash": "2c26af70eb67457f9bd1c18950b0ea1903288a3d1de53fdf9a9d585c243f81fa",
@@ -2622,6 +2719,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "Exploring Long-Range Dependencies in Biological Networks Using Graph Neural Networks",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/148",
    "content_hash": "b3a32ef0d13e6a00f3bbabc141a0dcecbba2243a64c63ecb07083518270d7155",
@@ -2636,6 +2734,7 @@
     "sti-lts2"
    ],
    "parent_url": "https://lts2.epfl.ch/projects/list",
+   "link_text": "VENOVA : an actively modified cylindrical cross-saxophone",
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/75",
    "content_hash": "3ba6f8d17734023b0b4fde49ec69cd2eec9409568a8a70c98764b79c672ccf2b",
@@ -2650,6 +2749,7 @@
     "sti-lts2"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://lts2.epfl.ch/projects/list",
    "content_hash": "87f257bc50dff297abe551a37d891168450624c4c915be143757f7ea74a4651e",
@@ -2664,6 +2764,7 @@
     "sti-miplab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://miplab.epfl.ch/",
    "content_hash": "6aeb7ab96faa6bcd21ee7ac66b1ac3979b944691c5a9f4244e421cbddb4e010e",
@@ -2678,6 +2779,7 @@
     "sti-miplab"
    ],
    "parent_url": "https://miplab.epfl.ch/",
+   "link_text": "Open Projects",
    "kind": "html",
    "final_url": "https://miplab.epfl.ch/teaching/open-projects",
    "content_hash": "d93da6daf3386fee15843a1c49a47a0e98b18217423f766622813c194c01333b",
@@ -2692,6 +2794,7 @@
     "sti-miplab"
    ],
    "parent_url": "https://miplab.epfl.ch/",
+   "link_text": "Open Projects (Collaborations)",
    "kind": "html",
    "final_url": "https://miplab.epfl.ch/teaching/open-projects-collaborations",
    "content_hash": "1535424214b75da070d93111d3f7a468fa853a6b8e9a1cd77b5e8ce5fbd3a807",
@@ -2706,6 +2809,7 @@
     "sv-upmwmathis"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://mlabofai.org/join.html",
    "content_hash": "43b3371d995ec37857a6b9e9f93e2a95f5b088cc426d2ec470d43eb7232c242a",
@@ -2720,6 +2824,7 @@
     "ic-teacher-fassl-mathias"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://n0g.at/",
    "content_hash": "1e60b3cdf505a04c585797112ca44a01e11ab145e841def5b55a1402c7f90c58",
@@ -2734,6 +2839,7 @@
     "ic-teacher-fassl-mathias"
    ],
    "parent_url": "https://n0g.at/",
+   "link_text": "Usable Authentication Ceremonies in Secure Instant Messaging",
    "kind": "html",
    "final_url": "https://n0g.at/publications/authentication-ceremonies-thesis-tuwien2018.html",
    "content_hash": "de62670ca5a7f210500ef9471c970642f382f5c21c61c3d5afd8b901a77d7227",
@@ -2748,6 +2854,7 @@
     "ic-rs3lab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://rs3lab.github.io/pages/projects.html",
    "content_hash": "b359a51772430ff50a8062f522c390ce6ab428adfe9d2c16b6a3f291a5be7ba1",
@@ -2762,6 +2869,7 @@
     "sb-liac"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://schwallergroup.github.io/openings.html",
    "content_hash": "41d08ed3ae5b309f3170c676318ae3b8e81278c635671a9136d67e086140176e",
@@ -2776,6 +2884,7 @@
     "ic-sens"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://sens.epfl.ch/student_projects.html",
    "content_hash": "d6bcfdb50c11e74114613dd6eb9e97126e501db8b9ee0ef81a4a3914411f1a3f",
@@ -2790,6 +2899,7 @@
     "ic-systemf"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://systemf.epfl.ch/research.html#open-projects",
    "content_hash": "cd9816389a9113e9d67cefb33cb3cae841152f28800764dad6e0c4b014d5047e",
@@ -2806,6 +2916,7 @@
     "ic-thl5"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://theory.epfl.ch/",
    "content_hash": "07c3c97253e1f16a91e82fa6dd37f1d7676b3952e6b7d6fb31db9084a3b16fb2",
@@ -2820,6 +2931,7 @@
     "ic-mil"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://theory.epfl.ch/yanina/",
    "content_hash": "685694267a68f4888d0b7403db46aa0428ac4e3989936b20b344f11e95e6030a",
@@ -2834,6 +2946,7 @@
     "ent-cede"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/education/educational-initiatives/cede/campusanalytics/studentsprojects/",
    "content_hash": "7f89386cbf102c4e2f45ebbf854d3eb418fcf0b18895dd376954b0bc9049f0db",
@@ -2848,6 +2961,7 @@
     "sv-upamathis"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/alexandermathis-lab/student-projects/",
    "content_hash": "5a501c35fa9e6cea956a74ea0275de1a5af4f5720022c53a786359e3f974d971",
@@ -2862,6 +2976,7 @@
     "cdm-ban"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ban/research/",
    "content_hash": "a17dca4eb3429597dc3f5f1f0b456d1a1ac98230091a4b076edc0065474a9ab1",
@@ -2876,6 +2991,7 @@
     "sv-upbarth"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/barth-lab/page-149655-en-html/",
    "content_hash": "495051fc01c4579766bf19c1345d1e7e4a231196f39e8ea07d9393b0056e2c3a",
@@ -2890,6 +3006,7 @@
     "sb-csft"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/csft/research/",
    "content_hash": "824bd8b18c6c38259dbbd133c2f838cfe1988528f85c21823a7f74ef2b4dd754",
@@ -2904,6 +3021,7 @@
     "ic-cvlab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/",
    "content_hash": "73f07d9ca67e7598f4a2e8fb4329affb877f837dde7cec7170a8b4bb9805472a",
@@ -2918,6 +3036,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "3D Surface reconstruction using 3D Gaussians and SDF",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/3d-surface-reconstruction-using-3d-gaussians-and-sdf/",
    "content_hash": "382ef406a0704c2cc9e265e3551d4da975ebd3af0fe6df284cd7999acd793a65",
@@ -2932,6 +3051,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Real-Time 3D Tracking and Anomaly Detection for Maritime Kite Systems",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/aether-kite/",
    "content_hash": "3271640b3f9e28cf9164252ea6eb6c8af47aa2f83c3c051927b624edeaba3b35",
@@ -2946,6 +3066,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Applied Deep Learning for Computer Aided Engineering",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/applied-deep-learning-for-computer-aided-engineering/",
    "content_hash": "c2aae1a5e96b094615bb78595b32e7643136b78374ba01f75c6d644c88fe1465",
@@ -2960,6 +3081,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/applying-machine-learning-to-4d-5d-neuroimaging-data-to-advance-motor-control-research/",
    "content_hash": "6259cde33db5407265b7592c63229283ddd9910158dd1c0d921190f7982a3f87",
@@ -2974,6 +3096,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Computer Vision for Waste Management (CVLab x Wasteflow)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/computer-vision-for-waste-management/",
    "content_hash": "8556e1db4fae42bfb13acd218f09b41aed7eb54105e519c80b511e3de1b47142",
@@ -2988,6 +3111,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/digging-into-the-transformers-of-3d-foundation-model/",
    "content_hash": "35a2c378846eab78012978f6bd302554af9523b714df06ffb2eb4f501d607a6f",
@@ -3002,6 +3126,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Efficient Diffusion Models via Quantization and Compression",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/efficient-diffusion-models-via-quantization-and-compression/",
    "content_hash": "70a4c943710df4b15e6193cf109c76f619f3f01ea7b4efcfca439c43b6a6fc78",
@@ -3016,6 +3141,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Interpretable and Controllable Neural Shape Parameterizations",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/interpretable-and-controllable-neural-shape-parameterizations/",
    "content_hash": "71c79f8098864673e90099282d29aed234b9c76f9326a8444e2e961f8719201c",
@@ -3030,6 +3156,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/proton-irradiation-of-nvidia-gpu/",
    "content_hash": "0736a4405ee62b5bebd3cd27e6a8af6e7d7fc7a8a89bd9939cc3b70504dedea4",
@@ -3044,6 +3171,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Recovering Thin Structures in 3D Foundation Models",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/recovering-thin-structures-in-3d-foundation-models/",
    "content_hash": "708bf43431d3182c8878ed84040e1d706d563c63fbebf1b7a948ddea6c2dfb60",
@@ -3058,6 +3186,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Self-Supervised Learning of Flight Dynamics",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/self-supervised-learning-of-flight-dynamics/",
    "content_hash": "ec32cf4d9177738cffc80e072fa71a79ee81efad6c0941de072882d3a352fc3b",
@@ -3072,6 +3201,7 @@
     "ic-cvlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/cvlab/projects/",
+   "link_text": "Structured 3D Shape Optimization with Part-Based Implicit Neural Representations",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/cvlab/projects/structured-3d-shape-optimization-with-part-based-implicit-neural-representations/",
    "content_hash": "1db3bf10a7e8b43be81528ddc95bd9c2a732d71acb1034cde9f003cc1dc75bdb",
@@ -3086,6 +3216,7 @@
     "ic-data"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/data/teaching/student-projects/",
    "content_hash": "b0f7ca46ef9ef7eb42e67da8fb4687a2024ee8912a1f658d345dedb510ba1714",
@@ -3100,6 +3231,7 @@
     "ic-dcml"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcml/open-positions/students/",
    "content_hash": "91a25ecd338278d71a85728fad3c900d7210a1c0eb243d67b0498f146ac21f01",
@@ -3114,6 +3246,7 @@
     "ic-dcml"
    ],
    "parent_url": "https://www.epfl.ch/labs/dcml/open-positions/students/",
+   "link_text": "Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcml/projects/",
    "content_hash": "3567da139fadd550d2e2bdf5c2f8a019e54272a9c64cfdad8b0290b7622bccaa",
@@ -3128,6 +3261,7 @@
     "ic-dcml"
    ],
    "parent_url": "https://www.epfl.ch/labs/dcml/open-positions/students/",
+   "link_text": "Teaching",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcml/teaching-student-projects/",
    "content_hash": "f5afbee6cf4f5fe444cb67962c14015ea5ac466b6577d25323721443eb074ea2",
@@ -3142,6 +3276,7 @@
     "ic-dcsl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
    "content_hash": "8571b362f8787f452500d011d92f43059d41956f64719c4d05ed33445f2f6e8e",
@@ -3156,6 +3291,7 @@
     "ic-dcsl"
    ],
    "parent_url": "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
+   "link_text": "Master Theses",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcsl/master-theses/",
    "content_hash": "bd18d55cfdaddd4c521505792619256805f27e99b5ff1d2f9313dd503f983803",
@@ -3170,6 +3306,7 @@
     "ic-dcsl"
    ],
    "parent_url": "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
+   "link_text": "Semester Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dcsl/semester-projects/",
    "content_hash": "2af802a076e1660db0484775f8aa11c38c9f4b87633027b21259b04b087d03af",
@@ -3184,6 +3321,7 @@
     "ic-dedis"
    ],
    "parent_url": "https://www.epfl.ch/labs/dedis/student-projects/",
+   "link_text": "2025",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dedis/past-student-projects/student-projects-spring-2025/",
    "content_hash": "c68ee8f02a01ecb3427a3e23f1c7b5444ecb52cce3f23533523df3d41c474d14",
@@ -3198,6 +3336,7 @@
     "ic-dedis"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dedis/student-projects/",
    "content_hash": "a9b6cb6c24142a3fa195acd9428673135f9a5548ed2e2c0dba6c2ea60ff30b9b",
@@ -3212,6 +3351,7 @@
     "ic-dedis"
    ],
    "parent_url": "https://www.epfl.ch/labs/dedis/student-projects/",
+   "link_text": "Guidelines",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dedis/student-projects/page-140017-en-html/",
    "content_hash": "7126a9947c90509fbe3b51ae022edd24e1727c4c35e7c6191af5efb81f21d307",
@@ -3226,6 +3366,7 @@
     "ic-dhlab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
    "content_hash": "fd20d24f24eb9a28eea4d36b5b402913abb582bd244e8d59138e46ac1b67db53",
@@ -3240,6 +3381,7 @@
     "ic-dhlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
+   "link_text": "PhD Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dhlab/phd-projects/",
    "content_hash": "32266e7ac82443ad7d9578930ef579e3bee75baa2b56aa898960503edd89ef00",
@@ -3254,6 +3396,7 @@
     "ic-dhlab"
    ],
    "parent_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
+   "link_text": "Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dhlab/projects/",
    "content_hash": "377cb45c7858ecef6c691ef6156efb0471b1fd20dc479c0074ca924532686951",
@@ -3268,6 +3411,7 @@
     "ic-dias"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dias/for-students/",
    "content_hash": "2d43d57796e8eb5dcc26c24e6f89a2132c09535b71581998ac9dfbef3d43929a",
@@ -3282,6 +3426,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Cost models & tuning the query optimizer of a JIT analytical engine",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2018/11/cost-models.pdf",
    "content_hash": "fea33fab9ea595e28f8874de1a8fd26156a678747efbb118af53be9129d48fef",
@@ -3296,6 +3441,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Limiting interference of code generation to analytical query execution through remote JIT-ing",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2024/09/remote-codegen.pdf",
    "content_hash": "a94110dc5a0d4ace4d2b0fd99e66a81695abdc5b67698b1a4bc6638df38409f2",
@@ -3310,6 +3456,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Efficient Concurrent Interval Container for Multicore Systems",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/concurrent-interval-container.pdf",
    "content_hash": "f1393bb56296d49a9e8305b60e6ac39716f074edea7e7c193154b146da6b12f2",
@@ -3324,6 +3471,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Understanding and Mitigating Real-World Global Serializability Violations",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/global-serializability-violation.pdf",
    "content_hash": "000dc5bb91969d859c375e2b29cc4108d20cbab21a84f160f7068c70bd547d76",
@@ -3338,6 +3486,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Memory-Aware Hash Joins for Heterogeneous Memory Environments",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/memory_aware_hash_joins-1-Gosha.pdf",
    "content_hash": "da2997317e1590e1d024f6a335d0466ca2d8fce05c23433e985a9a81472a358f",
@@ -3352,6 +3501,7 @@
     "ic-dias"
    ],
    "parent_url": "https://www.epfl.ch/labs/dias/for-students/",
+   "link_text": "Cross-Query Reuse for Efficient Semantic Query Processing",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/10/2026-Yuhao-Deng-project_description.pdf",
    "content_hash": "707b1438278cc73cbeee48140b77be839dad1d62b56175b88a4a348d47d9f502",
@@ -3366,6 +3516,7 @@
     "enac-disal"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "content_hash": "4d74876e725e20c3401446709d8ba57aa0d7adc8b678dc3f5f71104672a611ec",
@@ -3380,6 +3531,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2025-2026",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/academic-year-2025-2026/",
    "content_hash": "dff44199e306edda905f6682ed7946fe47889142f39533da26150ec55532edf9",
@@ -3394,6 +3546,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2019-2020",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay-2019-2020/",
    "content_hash": "f6243fb769d24cc3e7200b8cb1667b321b3195fdd08be16396ffeb0f96a24612",
@@ -3408,6 +3561,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2014-2015",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay_2014-2015/",
    "content_hash": "2e8d4780ecf6a9c6510777924360af12c60c39da4127e77efc57112a2cdda1f6",
@@ -3422,6 +3576,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2015-2016",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay_2015-2016/",
    "content_hash": "17455a93553d6223ab8095196fd60d1cb8aafcd06e8f91ceb067128f00147366",
@@ -3436,6 +3591,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2016-2017",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay_2016-2017/",
    "content_hash": "08d84277ca5966e1e8a9c68d4467629b776dbde0bf9103bd0e31277504a3f36e",
@@ -3450,6 +3606,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2017-2018",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay_2017-2018/",
    "content_hash": "8ee037cfb22db4fe61a07cbe90625882efbf2cf44b89b464579cb95a0d2927f4",
@@ -3464,6 +3621,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Academic Year 2018-2019",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/ay_2018-2019/",
    "content_hash": "b6bac42eb82dd57d6c2c1bcdf5d19834d47fffe66413920bb2d4c59cd85cfbb1",
@@ -3478,6 +3636,7 @@
     "enac-disal"
    ],
    "parent_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
+   "link_text": "Topics in Autonomous Robotics",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disal/teaching/topics_autonomous_robots/",
    "content_hash": "8742c2e1cd0463751c60c24c0a871b5fa8c5a14169b4130edec31767f6f97b46",
@@ -3492,6 +3651,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Semester/Bachelor/Master projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/page-10546-en-html/",
    "content_hash": "a962291b0f511e3760fae215e183570930dca9660faf14452ec8f1d5073a64ea",
@@ -3506,6 +3666,7 @@
     "sb-disopt"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/",
    "content_hash": "a54ddb265fd48e7e92b97d3f01d8f65670c7d5ce1cefaa4ebc911d46145420dd",
@@ -3520,6 +3681,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Research areas",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/areas/",
    "content_hash": "90adb62f3e0bf9ad78db496c007027d665c5e4600155c16675418f67e5b3f059",
@@ -3534,6 +3696,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Applied Optimization",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/areas/applied/",
    "content_hash": "02728c82daff92cbce7fd3fc11f23d8aadd69ee954b89083c5def0fdfea71462",
@@ -3548,6 +3711,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Combinatorial Optimization",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/areas/combinatorial-optimization/",
    "content_hash": "6fa62139e2e7fe3a0738e76d8a687d7a3d7273f2801a82a619c4ef149d125f58",
@@ -3562,6 +3726,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Integer Programming",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/areas/integer-programming/",
    "content_hash": "d1a11864e6798ac5a20f3e1ac8662ac70678a5492a5b06ca8f6f37a039169f40",
@@ -3576,6 +3741,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Current projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/current/",
    "content_hash": "fc3fde95a9b9f3a46ee9991a3e6cbdf79fa1ddd0207fbc927e84418dd3e74ac5",
@@ -3590,6 +3756,7 @@
     "sb-disopt"
    ],
    "parent_url": "https://www.epfl.ch/labs/disopt/projects/",
+   "link_text": "Lattice Algorithms and Integer Programming",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/current/lattice-algorithms/",
    "content_hash": "d458586c3748275e48a705eafa04986c276d1c6b71b313145fb187784bccd784",
@@ -3604,6 +3771,7 @@
     "sb-dola"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/dola/",
    "content_hash": "7fe0f1bd36746cbe6e5030961e3847cdf642deda84bcdac5fda76a259155dbad",
@@ -3618,6 +3786,7 @@
     "enac-eceo"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
    "content_hash": "3ebf86f84ed93f3433e16142000b42590f36a17c10b6f7738d9b9ad4e66b1e69",
@@ -3632,6 +3801,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "4forests",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/4forests/",
    "content_hash": "3912aaf51fc9e576340f11eea74d4e986be0fa0f850842cb7ab9d390e7433376",
@@ -3646,6 +3816,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "Knowledge-guided Explanations for Satellite Images",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/572-2/",
    "content_hash": "f591e9b3c80fc3a19c38b0c437696826084deeedab2efe1b0e21684a24aa20d9",
@@ -3660,6 +3831,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "AI for topographic mapping",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/ai-for-topographic-mapping/",
    "content_hash": "87654c4f2c86359c5b2a1fd15ef03f532a7355100803a6ef53606b60073dc633",
@@ -3674,6 +3846,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "An AI assistant to interact with remote sensing images",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/an-ai-assistant-to-interact-with-remote-sensing-images/",
    "content_hash": "07f6c9b037633865bf30bd412f8b333cf73e561f86586f63169fa20a57a48d36",
@@ -3688,6 +3861,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "Shedding light on the darkening of the Greenland Ice Sheet: from microbes to ice melt\nGreenLIGHT",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/greenlight/",
    "content_hash": "b1ca45ec950980ba699cd07e9fbd640c54c2fc6e48111e23fccc8d23eafa7cdb",
@@ -3702,6 +3876,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "Mapping vulnerable populations with AI",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/popai/",
    "content_hash": "0c879b61e7b45360040c19e2092281273a412cae367a1e3d617b3d3d07f6f383",
@@ -3716,6 +3891,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "repreSent: non-supervised representation learning for Sentinel Images\nEuropean Space Agency",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/represent/",
    "content_hash": "49a534abc2a573e4de40cd7be0521ef70d5f76df0460b54e38d91dc3c0218882",
@@ -3730,6 +3906,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "WildAI",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/wildai/",
    "content_hash": "89550e7fccf5bfe21b03b8f7df5de6022d78d132a06d552acc64fb77408a1c2d",
@@ -3744,6 +3921,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "Teaching and thesis topics",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/teaching/",
    "content_hash": "56c2e3041ff8c3702faa0f4193f21b14eacb33c4087e7913b8e6e595a1db3212",
@@ -3758,6 +3936,7 @@
     "enac-eceo"
    ],
    "parent_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
+   "link_text": "Transforming Underwriting for Commercial Insurance with High-Resolution Remote Sensing\nAXA",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/eceo/eceo/projects/axa/",
    "content_hash": "47557ea94fa989b329e90c9adfb6056f34a84a97192d20f3e210a110a3e693e1",
@@ -3772,6 +3951,7 @@
     "ic-emplus"
    ],
    "parent_url": "https://www.epfl.ch/labs/emplus/student-projects/",
+   "link_text": "Research Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/emplus/projects/",
    "content_hash": "70d9fd08ca8cb701ab63f4f9b1190672413cd7c065bd73d28e070da8e3fdab91",
@@ -3786,6 +3966,7 @@
     "ic-emplus"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/emplus/student-projects/",
    "content_hash": "8ff1697eec282b6db7378f3762a92f1db505c72ae84950b6cd8af6f7b8291762",
@@ -3800,6 +3981,7 @@
     "cdm-entc"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/entc/research/our-student-projects/",
    "content_hash": "d611f5a156bd0e12c633cb82379714d921c53f11cb03401a18ecf028f2329684",
@@ -3814,6 +3996,7 @@
     "sti-esl"
    ],
    "parent_url": "https://esl.epfl.ch/studentprojects/",
+   "link_text": "Flagship Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/esl/research/flagship-projects/",
    "content_hash": "a78963493e28a61c9ad73e8252f1adb56708b87cb9fc1c4640c364f7fbcdcfaf",
@@ -3828,6 +4011,7 @@
     "sti-esl"
    ],
    "parent_url": "https://esl.epfl.ch/studentprojects/",
+   "link_text": null,
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/esl/wp-content/uploads/2024/11/Microarchitectural-explorations-for-biomedical-applications.pdf",
    "content_hash": "d86ef05af713883a98ecd720aa5a65785a9ed7bbaa653f206b6812e781ab275e",
@@ -3842,6 +4026,7 @@
     "ic-gcm"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
    "content_hash": "55f7029e7ddaf2c3596b9c66e360aad1bea8e2e1007f3d40078d73518d297ed4",
@@ -3856,6 +4041,7 @@
     "ic-gcm"
    ],
    "parent_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
+   "link_text": "Research Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/gcm/research-projects/",
    "content_hash": "891e07adbff8fa5354e067b44f3a6bf479bd822dea77f66c75b5485e0434d966",
@@ -3870,6 +4056,7 @@
     "ic-gcm"
    ],
    "parent_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
+   "link_text": null,
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/08/ProjectProposalMetamaterialsTencersUnitCellGeneration.pdf",
    "content_hash": "c76110807b8ce12c9b98dc3c4aa6dae2320604dcda51c944ed3bb38fbb916ccd",
@@ -3884,6 +4071,7 @@
     "ic-gcm"
    ],
    "parent_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
+   "link_text": null,
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/2026_semester_cone_singularity.pdf",
    "content_hash": "f69626b536473ea4c0f880140e6188ccfa81ba9796979e85d905f165a9f79e95",
@@ -3898,6 +4086,7 @@
     "ic-gcm"
    ],
    "parent_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
+   "link_text": null,
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/proposal_multi_tension_elements_Junyu_Yuanpeng.pdf",
    "content_hash": "13e6d8c8415164d7c2d46e11ba8679d1d48f86a19ce12fe8a3eddb50e1363a0c",
@@ -3912,6 +4101,7 @@
     "ic-gcm"
    ],
    "parent_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
+   "link_text": null,
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/semester_project_elaslink_YP_JD.pdf",
    "content_hash": "fad2a85b0ed0f931697ccd0a018030408ff8c04a051859f47248074800279708",
@@ -3926,6 +4116,7 @@
     "sti-lidiap"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/idiap/student-projects/",
    "content_hash": "15b20ed4decd89f953fe4f3538e9f9861ddbec806cbd35e7ce30c423114c09d7",
@@ -3940,6 +4131,7 @@
     "enac-imos"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/imos/student-projects/",
    "content_hash": "0dd2404b1badabdf313a4b53ef00b9199d86bb3d50c07526c8f61e9503c62882",
@@ -3954,6 +4146,7 @@
     "sti-inl"
    ],
    "parent_url": "https://www.epfl.ch/labs/inl/inl/student-projects/",
+   "link_text": "Openings",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/inl/inl/openings/",
    "content_hash": "ddc8c415585812bbbc9a45eff3abe57941fe93d262f3cc823a83f0c430db778c",
@@ -3968,6 +4161,7 @@
     "sti-inl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/inl/inl/student-projects/",
    "content_hash": "16207390d9ecaae232fe3978545c21b159973f85b41f102a13b18753c7386126",
@@ -3982,6 +4176,7 @@
     "sti-inl"
    ],
    "parent_url": "https://www.epfl.ch/labs/inl/inl/student-projects/",
+   "link_text": "Project Description",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/inl/wp-content/uploads/2026/01/New-Project_-Indiveri_Shoaran.pdf",
    "content_hash": "4b31fa8e13d06162f991f132f8831ebd6cc02e2aa36145b341dae4daf4c6c045",
@@ -3996,6 +4191,7 @@
     "ic-ivrl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ivrl/available-projects/",
    "content_hash": "97a9d9870581757a3a67ad12e184195717aafaf9b42af5a5146ac880a9c668b1",
@@ -4010,6 +4206,7 @@
     "ic-ivrl"
    ],
    "parent_url": "https://www.epfl.ch/labs/ivrl/available-projects/",
+   "link_text": "this page",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ivrl/teaching/teaching-projects/page-78860-en-html/",
    "content_hash": "07e55f9c14785a503f50c3960a164c0159a6bebe9ab5d8f1a4e2723fb90c9149",
@@ -4025,6 +4222,7 @@
     "ic-scala"
    ],
    "parent_url": "https://www.epfl.ch/labs/lamp/teaching/teaching-projects/",
+   "link_text": "Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lamp/projects/",
    "content_hash": "f11cf8310735360f1378bd0e82d33f9a6c803beb43b7fb189bd446e921bc1ccf",
@@ -4040,6 +4238,7 @@
     "ic-scala"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lamp/teaching/teaching-projects/",
    "content_hash": "f51dcbfa475c82e236d807a753802c6815136cfbf18aeba466310a3f868bed3b",
@@ -4054,6 +4253,7 @@
     "ic-lap"
    ],
    "parent_url": "https://www.epfl.ch/labs/lap/students-projets/",
+   "link_text": "project database",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/",
    "content_hash": "90b8f78e2ea1e5d6979828df8b2a33f26237e0059f7ae686f4be186f6a819b2b",
@@ -4068,6 +4268,7 @@
     "ic-lap"
    ],
    "parent_url": "https://www.epfl.ch/labs/lap/students-projets/",
+   "link_text": "Life as a PhD Student",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lap/phd/",
    "content_hash": "b50d7b573d857f578aa7a114dec450a326af289f37d7b2f0f8914bfb50ca9801",
@@ -4082,6 +4283,7 @@
     "ic-lap"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lap/students-projets/",
    "content_hash": "fa54df84726ccdfa1d381670b7179f4513af8fd87b6f6260666674065b6fb90e",
@@ -4096,6 +4298,7 @@
     "enac-tmu"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/",
    "content_hash": "8b97b6fb4c93784ad974d845f1f7f10a6ba864a57d64fa0bc427df3ac0bcff77",
@@ -4110,6 +4313,7 @@
     "sti-lben"
    ],
    "parent_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
+   "link_text": "Openings ( Postdoctoral and PhD position available)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lben/page-47826-en-html/",
    "content_hash": "739be836756ef1db074a46cae885e66ea5876362029e21295d432b1ff0b3fd8b",
@@ -4124,6 +4328,7 @@
     "sti-lben"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
    "content_hash": "9fe2c972f750bfcf28606624c8933bc32ba2d66b35950debc8f72a9333ded8f8",
@@ -4138,6 +4343,7 @@
     "sti-lben"
    ],
    "parent_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
+   "link_text": "Current Master projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
    "content_hash": "693bc9b7684282f7e909059e48ede9082e7dc3299901c0d5a50272fafe5e65b1",
@@ -4152,6 +4358,7 @@
     "sti-lben"
    ],
    "parent_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
+   "link_text": "Current Semester projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/",
    "content_hash": "71b5fc102944d12b23e0edda790625f16587d88b97ed6d351e33bb1a533a3fad",
@@ -4166,6 +4373,7 @@
     "sti-lben"
    ],
    "parent_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
+   "link_text": "Research Topics",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lben/research/",
    "content_hash": "b53180caaff91d51a3f63f26b718e6a195a6fc0b99a7e6da12823e99f99313af",
@@ -4180,6 +4388,7 @@
     "sv-lbm"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lbm/openings/",
    "content_hash": "c94ed3044e5eda22588b44b6dda715119d7c05dd7c88006133ffab14f00ea452",
@@ -4194,6 +4403,7 @@
     "ic-lcn"
    ],
    "parent_url": "https://lcn.epfl.ch/student-html/",
+   "link_text": "Semester Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/",
    "content_hash": "f94accd0359b984befaf27fdcb59ba9a860b16bf146e1c6ece22acab464dcadd",
@@ -4208,6 +4418,7 @@
     "ic-lcn"
    ],
    "parent_url": "https://lcn.epfl.ch/student-html/",
+   "link_text": "PhD Students",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lcn/student-html/page-28065-en-html/",
    "content_hash": "bf474540489dadf0ed632ef9bb861cc65de98873aa23be088f6640a9e052b63b",
@@ -4222,6 +4433,7 @@
     "ic-lcn"
    ],
    "parent_url": "https://lcn.epfl.ch/student-html/",
+   "link_text": "Master Thesis Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/",
    "content_hash": "45f41262b02b0ab9f5a98d92df2b31b59686dfdf807035c6ed2fd183553c6ecd",
@@ -4236,6 +4448,7 @@
     "enac-lhst"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/",
    "content_hash": "47e7df1a003cc8c31cc2d55bbb5938b942a79abd3740d11a15931b4f231e9b41",
@@ -4250,6 +4463,7 @@
     "sti-lions"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lions/student-projects/",
    "content_hash": "8695577b532800407af6ac7cb078cbf5470baa795abc5165119527f1ce689357",
@@ -4264,6 +4478,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Details of the above projects can be found here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2019/11/Student-projects-at-LIONS.pdf",
    "content_hash": "deed6e859fd07f488b531ae2a2d2733daa443e0416ce5a02acffcea37a33f194",
@@ -4278,6 +4493,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Neural Network Based Hardware Decoder Design",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2019/12/Neural-network-based-hardware-decoder-design.pdf",
    "content_hash": "a645decc1df351194215e0da3fbc1393cbacd0d36d0d548d0852a7b3d3f3188c",
@@ -4292,6 +4508,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Project Proposal Data Processing",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2019/12/Project-proposal_data_processing-.pdf",
    "content_hash": "c779c02ef48314f32de7cc3cefa141cdf9521951daf5d11c29efb7a9ad7edad3",
@@ -4306,6 +4523,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Details of the project can be found here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2021/04/project_proposal_conditional_sampling.pdf",
    "content_hash": "4064737474b20dc5d9604a6257f6dc1b7031c86d3cf4d057613921803509af00",
@@ -4320,6 +4538,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Details of the project can be found here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2021/04/project_proposal_mri_2021.pdf",
    "content_hash": "a3fd333bbfd533e9193ac626f0c044c87ff4220e401e0f6c8abf98fb95db12a6",
@@ -4334,6 +4553,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "Project details in PDF",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2021/09/isochronic_strategy_v1.pdf",
    "content_hash": "837859c6a02af7b3e2cc68790e4eae3398e490d7652d47264a93abb1640cbe6b",
@@ -4348,6 +4568,7 @@
     "sti-lions"
    ],
    "parent_url": "https://www.epfl.ch/labs/lions/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lions/wp-content/uploads/2026/01/ESLM_MScProject.pdf",
    "content_hash": "7a8715ebecb0fb51652fb233fa1d528dec5d421d70887653c8e60c3fb4ccac39",
@@ -4362,6 +4583,7 @@
     "enac-lmd"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "content_hash": "c9fc7dac976d7c259ccac2c4827a6ef2dd66cb79c1348f97aab05dbd8e6e59a7",
@@ -4376,6 +4598,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/frictional-instabilities-in-topologically-interlocked-structures.pdf",
    "content_hash": "f375aa4f8f8ca3bf6e5e26a2f968aef2b5f876da629853731cbe933331202fbf",
@@ -4390,6 +4613,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/gnn-for-granular-mechanics.pdf",
    "content_hash": "9dcd33c5272dc25fb407d0700e45bfb2852eb1636545e411809aa0826a2d68f5",
@@ -4404,6 +4628,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/multiphysics-modeling-of-fault-gouge.pdf",
    "content_hash": "92eeea341550a66a043d7b39ba4134e68047edb9d3380736e0043db874a221c5",
@@ -4418,6 +4643,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/pino-for-solid-mechanics.pdf",
    "content_hash": "58d5a0cd82cd66f90b8ffd588102eb880dbf69a14e777edf4766b25473dca9eb",
@@ -4432,6 +4658,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/segregation-in-granular-flows.pdf",
    "content_hash": "1d8128080d8f14ea2decffa020560c221ce72397adeac0938b84b56786655394",
@@ -4446,6 +4673,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/accelerating-geophysical-simulations-with-ai.pdf",
    "content_hash": "6b31696f328a34e663650c3d2957d66f72359a6d8a80b2c979c770000019d2ac",
@@ -4460,6 +4688,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/ai-characterization-of-internal-material-properties.pdf",
    "content_hash": "1c6d0c08cab44a9145db12e6355d0ffaecbe995bf2ea526a7d0dda0a94896a94",
@@ -4474,6 +4703,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/digital-twin-simulation-of-rockfall-hazards.pdf",
    "content_hash": "09b9da8b392c66c2d894ebcf587692e9ea83c8db66cce37c31f7a284991c4b09",
@@ -4488,6 +4718,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/experimental-investigation-of-architected-granular-materials.pdf",
    "content_hash": "eb71892cf8a0869076da20e3a9b0ec059bf77befd78ccfb124e7e1a5e633b94b",
@@ -4502,6 +4733,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "here",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/12/phase-field-modeling-of-fracture-of-architected-structural-materials.pdf",
    "content_hash": "d171b5788a429daa73648238e9cacbdacb250fbc050db0f266d507e54b522b84",
@@ -4516,6 +4748,7 @@
     "enac-lmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "link_text": "this",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf",
    "content_hash": "b1aa87df14cd4871523e876c791259ee67f761eb13635400fcd84810eac45eed",
@@ -4530,6 +4763,7 @@
     "sti-lpdi"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lpdi/",
    "content_hash": "baa3da87a8b308077da471e30f926ab9be619cd7ea07177755cfa377e1aab90b",
@@ -4544,6 +4778,7 @@
     "sv-lsens"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lsens/master-projects/",
    "content_hash": "85b16d43c2d2e139107ec97a7922479eebfee956a600e9e6a52374cac8ab20b3",
@@ -4558,6 +4793,7 @@
     "sti-lts4"
    ],
    "parent_url": "https://www.epfl.ch/labs/lts4/sprojects/",
+   "link_text": "Openings",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lts4/openings/",
    "content_hash": "753c43babbad5c6d6f5a75f101b4d072623ec541ad30f623ae2fde736cf2f5e2",
@@ -4572,6 +4808,7 @@
     "sti-lts4"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lts4/sprojects/",
    "content_hash": "16347e13bdf7b3ff6b2f540b5b02d598b3e8ba4a0ec2430e001370c324d635a7",
@@ -4586,6 +4823,7 @@
     "sti-lts4"
    ],
    "parent_url": "https://www.epfl.ch/labs/lts4/sprojects/",
+   "link_text": "Open Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lts4/studentprojects/",
    "content_hash": "ba72b624cf3d5b1e952f44ea9678b8eb41aeb7a3ec46422ad26326cc3fe3977c",
@@ -4600,6 +4838,7 @@
     "sti-lts5"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lts5/student_projects-html/",
    "content_hash": "b941d473e164276bea4fc68596ea4786d61a77a13ba84dc94a9b543eaac795f5",
@@ -4614,6 +4853,7 @@
     "ic-mds2"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mds/",
    "content_hash": "d55546dc2aba41fc157730492445e5083623d190deb164f0baa4db8790f7e069",
@@ -4628,6 +4868,7 @@
     "sti-mints"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mints/student-projects/",
    "content_hash": "ee7563e2c65e50568ae60ec73321a5e1f3ef47fcd2c3a38863b03e10c1b3272c",
@@ -4642,6 +4883,7 @@
     "ic-ml4ed"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ml4ed/students-projects/",
    "content_hash": "43c180776c14ae888bc34767f1b6f1e6946c78980ea1a1de8f9337645549e681",
@@ -4656,6 +4898,7 @@
     "ic-ml4ed"
    ],
    "parent_url": "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/",
+   "link_text": "Thesis & Project Guidelines",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ml4ed/guidelines-for-theses-projects/",
    "content_hash": "5890a63414a34c935ccfec5d3d09090f2bac836f39360751d8aeac27ffe9d719",
@@ -4670,6 +4913,7 @@
     "ic-mlo"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mlo/page-135359-en-html/",
    "content_hash": "03c7ed0a9f1f1dfd0c9c5993bf7f71e019e92c41860f548e08ee2d891acb5e5d",
@@ -4684,6 +4928,7 @@
     "sti-mmspg"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mmspg/studentprojects/",
    "content_hash": "128608e4d240a89b4dedc7076aa7e249010443e0fee0c4bcb323f91a059b1ed2",
@@ -4698,6 +4943,7 @@
     "ic-mobots"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
    "content_hash": "584f4a0f5f92690e07aeb9d22bf39d9b6bbb945f11d6782918a9394cca8c6011",
@@ -4712,6 +4958,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "Development-of-grading-tool-with-GPT-Enhancing-Efficiency-and-Consistency-in-Education",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/Development-of-grading-tool-with-GPT-Enhancing-Efficiency-and-Consistency-in-Education.pdf",
    "content_hash": "9f383d92649c4cb18d640a70a2425e5c786cf08cf89fc5ece48ee8427ef4a28f",
@@ -4726,6 +4973,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "Enhancing-Debugging-Skills-in-Education-From-Task-Design-to-Learning-Analytics",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/Enhancing-Debugging-Skills-in-Education-From-Task-Design-to-Learning-Analytics.pdf",
    "content_hash": "bc488c0c7e087922da6a212bb7e074bff17a0b3e3e8196ef5beb5c6d33a83b0f",
@@ -4740,6 +4988,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "UnpluggedAItools",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/UnpluggedAItools.pdf",
    "content_hash": "a1b819caa215f9e25552d9035b0085ad81fbab6fc3bdf8517ea0a99482b9315f",
@@ -4754,6 +5003,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "PdS-25a-Weatherproof-data-logging-system",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/12/PdS-25a-Weatherproof-data-logging-system.pdf",
    "content_hash": "537f67493d7e11aef7eda06d413d3126c976457e8940891d0a589391816ada8c",
@@ -4768,6 +5018,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "20250405 UX&GUI For Educational Robotics",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/04/20250405_UXGUI_for_educational_robotics.pdf",
    "content_hash": "bbc8f7db9799fe51ce28d8496ebf4cc1e7a6041f837284829d76421fddbf8d35",
@@ -4782,6 +5033,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "DT_PdS_AITools-2026",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/12/DT_PdS_AITools-2026-1.pdf",
    "content_hash": "706b697b1420b078434f13b9ffde47ddb31150ebf46a7de8ba558ddb1f4cab72",
@@ -4796,6 +5048,7 @@
     "ic-mobots"
    ],
    "parent_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
+   "link_text": "20260707 ThinkAloud AITools",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/mobots/wp-content/uploads/2026/07/20260707_ThinkAloud_AITools.pdf",
    "content_hash": "8c5eb9c9e4dfcb2d47894eb52935f6ceb296345c3d0433e56c3177462db16281",
@@ -4810,6 +5063,7 @@
     "sv-upnae"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "content_hash": "5920e8acde9942c4ceb1d1e26e3e4fc523fcba7704318f801cf5656ea04e38dd",
@@ -4824,6 +5078,7 @@
     "sv-upnae"
    ],
    "parent_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
+   "link_text": "Openings",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/naef-lab/page-34749-en-html/",
    "content_hash": "db83567ee6e3b6975257dabc955f5701f1d0196d09c9332b23a631c0cebcf0c6",
@@ -4838,6 +5093,7 @@
     "ic-nal"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/nal/semester-projects/",
    "content_hash": "3c9d174561ede692c04594e8e0965a516dc2192a7e1b00e132c8d0ce273dcb5e",
@@ -4852,6 +5108,7 @@
     "sv-uplamanno"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/",
    "content_hash": "9171d98621b9e2618d9578839ba3594c0e31726d8bda5da60eda3e37ea025e37",
@@ -4866,6 +5123,7 @@
     "ic-qcc"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/qcc/research/",
    "content_hash": "fe5395bdc5d48cd0b54ccc094d420b8683d47e25a56268b0d10a6a89955dfa7a",
@@ -4880,6 +5138,7 @@
     "sv-ramdya-lab"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/ramdya-lab/available-projects/",
    "content_hash": "f5f8d1ee09514606b50255d06154e6c105a6401ea9b4e749e01c6289b9fa3c43",
@@ -4894,6 +5153,7 @@
     "ic-sacs"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sacs/student-projects/",
    "content_hash": "4b4e9916a8444d31825e2f3788a37eda8c5df34e7d21ba006a824a030e6abcfc",
@@ -4908,6 +5168,7 @@
     "ic-upschrimpf2"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/schrimpflab/#prospective",
    "content_hash": "089045dcaec5426c7be3530091fb25ee726666260eecce62a7c71a3227e29247",
@@ -4922,6 +5183,7 @@
     "ic-upschrimpf2"
    ],
    "parent_url": "https://www.epfl.ch/labs/schrimpflab/#prospective",
+   "link_text": "list of projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/schrimpflab/projects/",
    "content_hash": "b82a6847554445ea992622d3bf7bf67726b7b6e4617d7fd720a4ef6dc0ef99d8",
@@ -4936,6 +5198,7 @@
     "ic-spoc2"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/spoc/open-positions/",
    "content_hash": "f86edb5c5c1c92b1614c919674d0936e07d90221b929db8788090e101dc2ceb8",
@@ -4950,6 +5213,7 @@
     "ic-spoc2"
    ],
    "parent_url": "https://www.epfl.ch/labs/spoc/open-positions/",
+   "link_text": "postdoc opening call",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/spoc/wp-content/uploads/2026/09/EPFL_SPOC_Postdoctoral_Positions.pdf",
    "content_hash": "6a9c3e7e5fdb6c14b4bad1baadc7d0b82ebdb98d71c6541ad0c4d0ffabe8eb2e",
@@ -4964,6 +5228,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/action-space-reduction-for-learning-robotic-manipulation-semester-project/",
    "content_hash": "ea11b5448bbc6e6ccddc0e5c92a61f5ff8ff9558bc77c1052e85472bedfd5895",
@@ -4978,6 +5243,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/augmented-robot-reality-projecting-the-virtual-into-the-real-world/",
    "content_hash": "d2837c30bab29ec6824a674f567c4090aa4865db80743022018ad4c0eacc2e28",
@@ -4992,6 +5258,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/controlling-soft-robotic-arm-via-mpc-and-reinforcement-learning-semester-project-master-thesis/",
    "content_hash": "6c5613a3391a44b611b3afbe4e974469b836f5bc1098cb5decd2aac02e508af9",
@@ -5006,6 +5273,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/fine-tuning-of-vision-language-action-models-for-real-world-robotic-manipulation-tasks-semester-project-master-thesis/",
    "content_hash": "e40fabde94cea47e424859c61b94e23c865213defb0d27979747003858be5e2a",
@@ -5020,6 +5288,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/imitation-learning-inverse-reinforcement-learning-for-dexterous-robotic-manipulation-master-thesis/",
    "content_hash": "b00c4adfd6af56078a5d231c526eecda285050aa288ede8ef02f68da538e0389",
@@ -5034,6 +5303,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": "Information Design in Local Energy Markets (Semester Project)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/information-design-in-local-energy-markets/",
    "content_hash": "3365c34c6168233258f6ec59628b51c5c0d9fe1c460b9579472403969c5f6809",
@@ -5048,6 +5318,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/learning-robotic-manipulation-with-tunable-compliance-master-thesis/",
    "content_hash": "2618644aa3a5fa04d225d4f26ceb7dd750073e5571d8d1731376f5af9a58c15e",
@@ -5062,6 +5333,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/sim-to-real-transfer-for-jetbot-via-domain-randomization-and-adaptation-master-thesis/",
    "content_hash": "9298d9da30afaf8b0b66d3e664d9ee72297bb52e2380cda336ee965dfefa345f",
@@ -5076,6 +5348,7 @@
     "sti-sycamore"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "content_hash": "12e73d7e35adf87b3749c891ff996b28c60c6be08ed3d31ac127d130cb3fcca3",
@@ -5090,6 +5363,7 @@
     "sti-sycamore"
    ],
    "parent_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
+   "link_text": "Open positions",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/sycamore/students/",
    "content_hash": "bbae182210bd8eea9bfd1a264bc999d6aab35009a22fe50beb97c7bb6ff23c69",
@@ -5104,6 +5378,7 @@
     "sti-tcl"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/tcl/page-87315-en-html/",
    "content_hash": "d70a47eab268735bb160e39a1c33e887f97372ef187a89b3ca299177729640fc",
@@ -5118,6 +5393,7 @@
     "sti-tcl"
    ],
    "parent_url": "https://www.epfl.ch/labs/tcl/page-87315-en-html/",
+   "link_text": "Project Proposals 2024 PDF",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf",
    "content_hash": "9fdfffcbdd1d57dd90f79b616b108160e1403c4cb15e49de5e161f531cfeeb39",
@@ -5132,6 +5408,7 @@
     "sti-tcl"
    ],
    "parent_url": "https://www.epfl.ch/labs/tcl/page-87315-en-html/",
+   "link_text": "Project Proposals 2025 PDF",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf",
    "content_hash": "4306a1fdc68a58f53e90b25f2832cb4fb3d817b9e6de18d5b282e9cf2aa6d28b",
@@ -5146,6 +5423,7 @@
     "sti-tcl"
    ],
    "parent_url": "https://www.epfl.ch/labs/tcl/page-87315-en-html/",
+   "link_text": "Project Proposals 2026 PDF",
    "kind": "pdf",
    "final_url": "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf",
    "content_hash": "94585fbf714d15badd78509b39b3c99917d3ade45e12a003bb930e3dc230eef4",
@@ -5160,6 +5438,7 @@
     "ic-tml"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/",
    "content_hash": "c1d00fb7b846c2d28635773eab13b89864d603e0b9ac2ccfa7a531553df7ac20",
@@ -5174,6 +5453,7 @@
     "enac-transp-or"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/transp-or/",
    "content_hash": "27b96e24fde2aa073ac44fde6c126e8afc1f07032a35da571512f3b0f096c8a2",
@@ -5188,6 +5468,7 @@
     "enac-eso"
    ],
    "parent_url": "https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/laboratories-and-groups-3/environmental-sensing-observatory/student-projects/",
+   "link_text": "See more",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/enac/education/interdisciplinary-teaching/master-in-urban-systems/",
    "content_hash": "aed698ff70c94c651ca93f6973b47abe8690c02814a0e1ce80bee5a0a8f09eb1",
@@ -5202,6 +5483,7 @@
     "enac-eso"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/enac/",
    "content_hash": "9eed95221710455266d6ef224da9176870721007cb707905101b62365b292cb1",
@@ -5219,6 +5501,7 @@
     "ic-smils"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Proposed Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/proposed-projects/",
    "content_hash": "39faa87dfcd721226c9529c09d41ab968e47709e3eca404c598d8671c55344ff",
@@ -5236,6 +5519,7 @@
     "ic-smils"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Research",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/research-topics/",
    "content_hash": "b5f785b5caff7853b4805aa8dfbe736bb1c5b37ee857d1a258f7b8f7257c03a4",
@@ -5253,6 +5537,7 @@
     "ic-smils"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Student Projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/",
    "content_hash": "1a7f50eb93908ad648390613c9653073dfb60498e301c53235fb1f278bf4a1c4",
@@ -5270,6 +5555,7 @@
     "ic-smils"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Bachelor semester projects",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/bachelor-projects/",
    "content_hash": "bbe158ed54de313d0df681701134709a54ec65c04f661bf9a4e57bfc039582d7",
@@ -5287,6 +5573,7 @@
     "ic-smils"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
    "content_hash": "faa123a04990f5e72b0502bc72ed8147783be43a9b1762f4d5b9d649b9a8d22f",
@@ -5301,6 +5588,7 @@
     "ic-linx"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Quantum constraint satisfaction problems (SMILS)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/markov-chain-monte-carlo/",
    "content_hash": "c7e2928fea0e6f1157fb0162f9d5074fb516c690cf3f3641041af2be37d5b860",
@@ -5315,6 +5603,7 @@
     "ic-linx"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Message passing for Quantum Models (SMILS)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/message-passing-for-quantum-models-lthc/",
    "content_hash": "8291c3b19b8e01f4208bf3b8b3c00c730c08277899337b8a395d52cbabfee169",
@@ -5329,6 +5618,7 @@
     "ic-linx"
    ],
    "parent_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
+   "link_text": "Universal prediction and alpha-mutual information (LINX)",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/universal-prediction-and-alpha-mutual-information/",
    "content_hash": "66f566515d50a3318c97a14571126ee2aae8ce69ec5ceb5cec3fee5634433fd5",
@@ -5343,6 +5633,7 @@
     "ic-sci-ic-dgp"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.idiap.ch/en/education/courses#student-projects",
    "content_hash": "d1f3199b96faeb04214341c9d67b0b1575309f00f633edc0a139dacb1365b3bb",
@@ -5357,6 +5648,7 @@
     "ic-light"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.light-laboratory.org/",
    "content_hash": "977fd7ac6df5a0c21bc42e6b118cb41d3a070db3515ad40b9789169826ba378c",
@@ -5371,6 +5663,7 @@
     "ic-spring"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.spring.mpi-sp.org/student_projects.html",
    "content_hash": "083d564496513dee0b43fbe3778f93921cc7e53caa984bea5ad5da260505d0a7",
@@ -5385,6 +5678,7 @@
     "ic-coala"
    ],
    "parent_url": null,
+   "link_text": null,
    "kind": "html",
    "final_url": "https://www.thecoalalab.com/",
    "content_hash": "1b68f5ab0f6efd4de750f2ef4a341331ce6f4d6db7e4c6396cee26ea3a0c2f34",

@@ -80,7 +80,9 @@ def test_crawl_follows_subpages_and_skips_archives(web, make_fetcher, tmp_path):
     assert saved["pages"]["https://www.epfl.ch/labs/vision/projects/drones/"]["lab_ids"] == [
         "ic-vision"
     ]
-    text_file = saved["pages"]["https://www.epfl.ch/labs/vision/projects/drones/"]["text_file"]
+    drones = saved["pages"]["https://www.epfl.ch/labs/vision/projects/drones/"]
+    assert drones["link_text"] == "Drone perception"
+    text_file = drones["text_file"]
     assert "Drones" in (tmp_path / "cache" / "text" / text_file).read_text(encoding="utf-8")
 
 

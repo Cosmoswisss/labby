@@ -150,3 +150,15 @@ def test_parse_claude_output():
     assert parse_claude_output(1, "Not logged in", "").error.startswith("exit 1")
     err = json.dumps({"is_error": True, "result": "Usage limit reached", "usage": {}})
     assert "Usage limit" in parse_claude_output(1, err, "").error
+
+
+def test_link_text_is_given_as_title_hint_for_subpages():
+    prompt = build_user_prompt(
+        "https://lts2.epfl.ch/projects/146",
+        "Supervision: ...",
+        [lab("sti-lts2", "LTS2")],
+        "https://lts2.epfl.ch/projects/list",
+        date(2026, 1, 1),
+        link_text="Controlling the timbre of wind instruments",
+    )
+    assert '"Controlling the timbre of wind instruments"' in prompt

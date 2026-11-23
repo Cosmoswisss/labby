@@ -173,7 +173,7 @@ class Crawler:
         lab_hashes: set[str] = set()
         ctx = (lab, lab_hashes, outcomes, old_pages, new_pages, report)
 
-        seed, _ = self._visit(lab.projects_url, None, *ctx)
+        seed, _ = self._visit(lab.projects_url, None, None, *ctx)
         lab_state["status"] = seed.status
         lab_state["error"] = seed.error
         lab_state["last_checked_at"] = seed.fetched_at
@@ -185,15 +185,19 @@ class Crawler:
             for link in find_subpage_links(
                 seed.html, seed.final_url or seed.url, self.max_subpages
             ):
-                _, kept = self._visit(link.url, seed.url, *ctx)
+                _, kept = self._visit(link.url, seed.url, link.text, *ctx)
                 if kept:
                     lab_state["pages"].append(link.url)
         return lab_state
 
     def _visit(
-        self, url, parent, lab, lab_hashes, outcomes, old_pages, new_pages, report
+        self, url, parent, link_text, lab, lab_hashes, outcomes, old_pages, new_pages, report
     ) -> tuple[PageOutcome, bool]:
-        """Fetches and records a page. Returns (outcome, kept for this lab)."""
+        """Fetches and records a page. Returns (outcome, kept for this lab).
+
+        `link_text` is the anchor text of the link that led to a sub-page: often the
+        project title, which some project pages do not repeat.
+        """
         if url in outcomes:  # page shared with another lab, already fetched this run
             outcome = outcomes[url]
             page = new_pages.get(url)
@@ -244,6 +248,7 @@ class Crawler:
         new_pages[url] = {
             "lab_ids": lab_ids,
             "parent_url": parent,
+            "link_text": link_text or None,
             "kind": outcome.kind,
             "final_url": outcome.final_url,
             "content_hash": digest,

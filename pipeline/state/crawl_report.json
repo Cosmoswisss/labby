@@ -1,7 +1,7 @@
 {
- "started_at": "2026-11-23T11:27:04+00:00",
- "finished_at": "2026-11-23T11:27:28+00:00",
- "duration_s": 24.2,
+ "started_at": "2026-11-23T11:28:43+00:00",
+ "finished_at": "2026-11-23T11:29:08+00:00",
+ "duration_s": 24.3,
  "offline": true,
  "labs_total": 114,
  "labs_by_status": {
@@ -13,8 +13,8 @@
  },
  "pages_total": 299,
  "pages_new": 0,
- "pages_changed": 248,
- "pages_unchanged": 46,
+ "pages_changed": 0,
+ "pages_unchanged": 294,
  "pages_error": 2,
  "pages_duplicate": 3,
  "little_text_pages": [

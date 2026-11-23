@@ -35,11 +35,18 @@ def load_prompt(name: str = PROMPT_NAME) -> tuple[str, str]:
 
 
 def build_user_prompt(
-    page_url: str, text: str, labs: list[Lab], parent_url: str | None, today: date
+    page_url: str,
+    text: str,
+    labs: list[Lab],
+    parent_url: str | None,
+    today: date,
+    link_text: str | None = None,
 ) -> str:
     lab_lines = "\n".join(f"- {lab.acronym}: {lab.name}" for lab in labs)
     shared = "yes" if len(labs) > 1 else "no"
     position = f"sub-page linked from {parent_url}" if parent_url else "main projects page"
+    if parent_url and link_text:
+        position += f'\nText of the link to this page on the parent page: "{link_text}"'
     truncated = ""
     if len(text) > MAX_PAGE_CHARS:
         text = text[:MAX_PAGE_CHARS]
@@ -163,7 +170,9 @@ class Extractor:
 
     def _extract_page(self, url: str, page: dict, labs: list[Lab], report) -> dict:
         text = (self.text_dir / page["text_file"]).read_text(encoding="utf-8")
-        user_prompt = build_user_prompt(url, text, labs, page.get("parent_url"), self.today)
+        user_prompt = build_user_prompt(
+            url, text, labs, page.get("parent_url"), self.today, page.get("link_text")
+        )
         entry = {
             "key": self._key(page),
             "lab_ids": page["lab_ids"],
