@@ -25,8 +25,8 @@ jobs:
           echo "token length: ${#CLAUDE_CODE_OAUTH_TOKEN}"
           echo "token prefix ok: $([[ "$CLAUDE_CODE_OAUTH_TOKEN" == sk-ant-oat* ]] && echo yes || echo no)"
           echo "token has whitespace: $([[ "$CLAUDE_CODE_OAUTH_TOKEN" =~ [[:space:]] ]] && echo yes || echo no)"
-      - name: Call from bash
-        run: echo "Reply with OK." | claude -p --model haiku --output-format json --tools "" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('is_error'), repr(d.get('result'))[:120])"
+      - name: Call from bash (whitespace stripped)
+        run: echo "Reply with OK." | CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '[:space:]')" claude -p --model haiku --output-format json --tools "" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('is_error'), repr(d.get('result'))[:120])"
       - name: Call from Python subprocess
         run: |
           python3 - <<'EOF'
