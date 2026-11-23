@@ -1,49 +1,29 @@
 {
- "started_at": "2026-11-23T10:58:53+00:00",
- "finished_at": "2026-11-23T10:59:14+00:00",
- "duration_s": 21.2,
- "offline": false,
+ "started_at": "2026-11-23T11:06:25+00:00",
+ "finished_at": "2026-11-23T11:06:48+00:00",
+ "duration_s": 22.3,
+ "offline": true,
  "labs_total": 114,
  "labs_by_status": {
-  "ok": 98,
-  "none": 11,
+  "ok": 92,
+  "none": 16,
   "js_rendered": 1,
-  "restricted": 2,
+  "restricted": 3,
   "blocked": 2
  },
- "pages_total": 315,
+ "pages_total": 299,
  "pages_new": 0,
  "pages_changed": 0,
- "pages_unchanged": 307,
- "pages_error": 5,
+ "pages_unchanged": 294,
+ "pages_error": 2,
  "pages_duplicate": 3,
- "little_text_pages": [
-  "http://www.mackenziemathislab.org/contactus"
- ],
+ "little_text_pages": [],
  "errors": [
   {
    "lab": "ic-cvlab",
    "url": "https://www.epfl.ch/labs/cvlab/projects/stacked-objects-counting-segmenting-reconstructing/",
    "status": "error",
    "error": "HTTP 404"
-  },
-  {
-   "lab": "ic-dlab",
-   "url": "https://dlab.epfl.ch/openings/projects",
-   "status": "restricted",
-   "error": "HTTP 401"
-  },
-  {
-   "lab": "ic-rgl",
-   "url": "https://rgl.epfl.ch/projects",
-   "status": "blocked",
-   "error": "HTTP 403"
-  },
-  {
-   "lab": "ic-salathe-lab",
-   "url": "https://www.digitalepidemiologylab.org/projects#apply",
-   "status": "blocked",
-   "error": "HTTP 403"
   },
   {
    "lab": "sti-lidiap",
@@ -54,7 +34,7 @@
  ],
  "fetcher": {
   "network": 0,
-  "cache_hits": 315,
+  "cache_hits": 299,
   "not_modified": 0,
   "errors": 0
  }

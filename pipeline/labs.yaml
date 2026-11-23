@@ -576,10 +576,10 @@ labs:
   - Wikipedia
   - Web and social media analysis
   projects_url: https://dlab.epfl.ch/openings/
-  source_type: auto
+  source_type: restricted
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Openings page links to a project list that requires EPFL credentials (HTTP 401)
 - id: ic-dslab
   acronym: DSLAB
   name: Dependable Systems
@@ -841,11 +841,11 @@ labs:
   - formal semantics
   - domain-specific languages
   - network verification
-  projects_url: https://laser.epfl.ch/
+  projects_url: https://laser.epfl.ch/pages/apply.html
   source_type: auto
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Apply page announces master/semester projects from Fall 2026
 - id: ic-lcn
   acronym: LCN
   name: Computational Neuroscience
@@ -892,10 +892,10 @@ labs:
   - experience design
   - design theory
   projects_url: https://ldm.epfl.ch/contact
-  source_type: auto
+  source_type: none
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Contact page only; lab site shows past studios, no project list
 - id: ic-light
   acronym: LIGHT
   name: Intelligent Global Health & Humanitarian Response Technologies
@@ -1064,11 +1064,11 @@ labs:
   - graph representation learning
   - explainable AI
   - single-cell genomics
-  projects_url: https://brbiclab.epfl.ch/projects/lamer/
+  projects_url: https://brbiclab.epfl.ch/join-us/
   source_type: auto
   listed_in:
   - ic-mcs
-  notes: null
+  notes: IC list linked a research project page; student projects are on 'Join us'
 - id: ic-mlo
   acronym: MLO
   name: Machine Learning and Optimization
@@ -1150,10 +1150,10 @@ labs:
   - neuro-symbolic AI
   - natural language generation
   projects_url: https://nlp.epfl.ch/contact.html
-  source_type: auto
+  source_type: none
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Contact page only, no public student-project list
 - id: ic-parsa
   acronym: PARSA
   name: Parallel Systems Architecture
@@ -1173,10 +1173,10 @@ labs:
   - machine learning systems
   - cloud computing
   projects_url: https://parsa.epfl.ch/
-  source_type: auto
+  source_type: none
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Homepage only (research), no public student-project list
 - id: ic-qcc
   acronym: QCC
   name: Quantum Complexity and Cryptography
@@ -1213,10 +1213,10 @@ labs:
   - graphics systems and compilers
   - physically based rendering
   projects_url: https://rgl.epfl.ch/projects
-  source_type: auto
+  source_type: blocked
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Site answers HTTP 403 to our crawler
 - id: ic-rs3lab
   acronym: RS3LAB
   name: Robust Scalable Systems Software
@@ -1277,10 +1277,10 @@ labs:
   - epidemiology
   - digital cohorts
   projects_url: https://www.digitalepidemiologylab.org/projects#apply
-  source_type: auto
+  source_type: blocked
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Site answers HTTP 403 to our crawler
 - id: ic-scala
   acronym: SCALA
   name: Scala Center
@@ -1758,10 +1758,10 @@ labs:
   - programming languages
   - computer architecture and formal hardware verification
   projects_url: https://vca.epfl.ch/
-  source_type: auto
+  source_type: none
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Homepage only; 'Projects' page lists research artifacts
 - id: ic-vilab
   acronym: VILAB
   name: Visual Intelligence and Learning
@@ -1781,10 +1781,10 @@ labs:
   - self/unsupervised learning
   - visual robustness and adaptation
   projects_url: https://vilab.epfl.ch/
-  source_type: auto
+  source_type: none
   listed_in:
   - ic-mcs
-  notes: null
+  notes: Homepage only (research projects), no student-project list
 - id: sb-csft
   acronym: CSFT
   name: Statistical Field Theory
@@ -2120,11 +2120,11 @@ labs:
   - audio processing
   - robot perception
   - privacy
-  projects_url: https://sti.epfl.ch/
+  projects_url: https://www.epfl.ch/labs/mints/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
-  notes: null
+  notes: IC list linked the STI homepage; corrected to the lab's student-projects page
 - id: sti-miplab
   acronym: MIPLAB
   name: Medical Image Processing
@@ -2339,11 +2339,11 @@ labs:
   - animal behavior
   - machine learning
   - neural data analysis
-  projects_url: http://www.mackenziemathislab.org/contactus
+  projects_url: https://mlabofai.org/join.html
   source_type: auto
   listed_in:
   - ic-mcs
-  notes: null
+  notes: IC list linked a contact page; 'Join' page describes semester projects and theses
 - id: sv-upnae
   acronym: UPNAE
   name: Computational and Systems Biology

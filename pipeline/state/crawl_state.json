@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T10:59:14+00:00",
+ "updated_at": "2026-11-23T11:06:48+00:00",
  "labs": {
   "ic-cvlab": {
    "status": "ok",
@@ -76,8 +76,8 @@
    "status": "blocked",
    "projects_url": "https://rgl.epfl.ch/projects",
    "pages": [],
-   "last_checked_at": "2026-11-23T10:47:05+00:00",
-   "error": "HTTP 403"
+   "last_checked_at": null,
+   "error": null
   },
   "cdm-ban": {
    "status": "ok",
@@ -361,12 +361,10 @@
    "error": null
   },
   "ic-dlab": {
-   "status": "ok",
+   "status": "restricted",
    "projects_url": "https://dlab.epfl.ch/openings/",
-   "pages": [
-    "https://dlab.epfl.ch/openings/"
-   ],
-   "last_checked_at": "2026-11-23T10:51:08+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "ic-dslab": {
@@ -520,22 +518,18 @@
   },
   "ic-laser": {
    "status": "ok",
-   "projects_url": "https://laser.epfl.ch/",
+   "projects_url": "https://laser.epfl.ch/pages/apply.html",
    "pages": [
-    "https://laser.epfl.ch/"
+    "https://laser.epfl.ch/pages/apply.html"
    ],
-   "last_checked_at": "2026-11-23T10:51:56+00:00",
+   "last_checked_at": "2026-11-23T11:05:25+00:00",
    "error": null
   },
   "ic-ldm": {
-   "status": "ok",
+   "status": "none",
    "projects_url": "https://ldm.epfl.ch/contact",
-   "pages": [
-    "https://ldm.epfl.ch/contact",
-    "https://www.epfl.ch/labs/ldm/circular-kyoto-flows/",
-    "https://www.epfl.ch/labs/ldm/circular-gangbuk/"
-   ],
-   "last_checked_at": "2026-11-23T10:51:58+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "ic-light": {
@@ -593,11 +587,11 @@
   },
   "ic-mlbio": {
    "status": "ok",
-   "projects_url": "https://brbiclab.epfl.ch/projects/lamer/",
+   "projects_url": "https://brbiclab.epfl.ch/join-us/",
    "pages": [
-    "https://brbiclab.epfl.ch/projects/lamer/"
+    "https://brbiclab.epfl.ch/join-us/"
    ],
-   "last_checked_at": "2026-11-23T10:52:08+00:00",
+   "last_checked_at": "2026-11-23T11:05:23+00:00",
    "error": null
   },
   "ic-mlo": {
@@ -635,21 +629,17 @@
    "error": null
   },
   "ic-nlp": {
-   "status": "ok",
+   "status": "none",
    "projects_url": "https://nlp.epfl.ch/contact.html",
-   "pages": [
-    "https://nlp.epfl.ch/contact.html"
-   ],
-   "last_checked_at": "2026-11-23T10:52:39+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "ic-parsa": {
-   "status": "ok",
+   "status": "none",
    "projects_url": "https://parsa.epfl.ch/",
-   "pages": [
-    "https://parsa.epfl.ch/"
-   ],
-   "last_checked_at": "2026-11-23T10:52:41+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "ic-qcc": {
@@ -683,8 +673,8 @@
    "status": "blocked",
    "projects_url": "https://www.digitalepidemiologylab.org/projects#apply",
    "pages": [],
-   "last_checked_at": "2026-11-23T10:52:45+00:00",
-   "error": "HTTP 403"
+   "last_checked_at": null,
+   "error": null
   },
   "ic-scala": {
    "status": "ok",
@@ -882,24 +872,17 @@
    "error": null
   },
   "ic-vca": {
-   "status": "ok",
+   "status": "none",
    "projects_url": "https://vca.epfl.ch/",
-   "pages": [
-    "https://vca.epfl.ch/",
-    "https://vca.epfl.ch/projects",
-    "https://vca.epfl.ch/papers/asplos26_fvo.pdf",
-    "https://vca.epfl.ch/papers/cpp26_tcp.pdf"
-   ],
-   "last_checked_at": "2026-11-23T10:52:56+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "ic-vilab": {
-   "status": "ok",
+   "status": "none",
    "projects_url": "https://vilab.epfl.ch/",
-   "pages": [
-    "https://vilab.epfl.ch/"
-   ],
-   "last_checked_at": "2026-11-23T10:53:06+00:00",
+   "pages": [],
+   "last_checked_at": null,
    "error": null
   },
   "sb-csft": {
@@ -1118,13 +1101,11 @@
   },
   "sti-mints": {
    "status": "ok",
-   "projects_url": "https://sti.epfl.ch/",
+   "projects_url": "https://www.epfl.ch/labs/mints/student-projects/",
    "pages": [
-    "https://sti.epfl.ch/",
-    "https://sti.epfl.ch/overview-bachelor-and-master/",
-    "https://sti.epfl.ch/pdme/"
+    "https://www.epfl.ch/labs/mints/student-projects/"
    ],
-   "last_checked_at": "2026-11-23T10:55:12+00:00",
+   "last_checked_at": "2026-11-23T11:06:23+00:00",
    "error": null
   },
   "sti-miplab": {
@@ -1233,11 +1214,11 @@
   },
   "sv-upmwmathis": {
    "status": "ok",
-   "projects_url": "http://www.mackenziemathislab.org/contactus",
+   "projects_url": "https://mlabofai.org/join.html",
    "pages": [
-    "http://www.mackenziemathislab.org/contactus"
+    "https://mlabofai.org/join.html"
    ],
-   "last_checked_at": "2026-11-23T10:55:43+00:00",
+   "last_checked_at": "2026-11-23T11:05:28+00:00",
    "error": null
   },
   "sv-upnae": {
@@ -1265,20 +1246,6 @@
    "first_seen_at": "2026-11-23T10:53:57+00:00",
    "last_checked_at": "2026-11-23T10:53:57+00:00",
    "last_changed_at": "2026-11-23T10:53:57+00:00"
-  },
-  "http://www.mackenziemathislab.org/contactus": {
-   "lab_ids": [
-    "sv-upmwmathis"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://mlabofai.org/contactus",
-   "content_hash": "5d71de7958aa3305fb629b222884b177edf2296bc0688be449301f9cded5a45f",
-   "text_chars": 27,
-   "text_file": "476e5aa3ff92b3a8f4570648.txt",
-   "first_seen_at": "2026-11-23T10:55:43+00:00",
-   "last_checked_at": "2026-11-23T10:55:43+00:00",
-   "last_changed_at": "2026-11-23T10:55:43+00:00"
   },
   "https://aimm.epfl.ch/openings/": {
    "lab_ids": [
@@ -1630,19 +1597,19 @@
    "last_checked_at": "2026-11-23T10:53:19+00:00",
    "last_changed_at": "2026-11-23T10:53:19+00:00"
   },
-  "https://brbiclab.epfl.ch/projects/lamer/": {
+  "https://brbiclab.epfl.ch/join-us/": {
    "lab_ids": [
     "ic-mlbio"
    ],
    "parent_url": null,
    "kind": "html",
-   "final_url": "https://brbiclab.epfl.ch/projects/lamer/",
-   "content_hash": "c5659032afcc1b2def6963ad49648e86d64175b324b34da821c033e16919b3a6",
-   "text_chars": 6955,
-   "text_file": "f733a1199bde489fa060a2bd.txt",
-   "first_seen_at": "2026-11-23T10:52:08+00:00",
-   "last_checked_at": "2026-11-23T10:52:08+00:00",
-   "last_changed_at": "2026-11-23T10:52:08+00:00"
+   "final_url": "https://brbiclab.epfl.ch/join-us/",
+   "content_hash": "d629555fdf5a192ce46adf1c655992544cc51cb9833d470a66298d225aed884e",
+   "text_chars": 9915,
+   "text_file": "d44845f1900baf1485ca4377.txt",
+   "first_seen_at": "2026-11-23T11:05:23+00:00",
+   "last_checked_at": "2026-11-23T11:05:23+00:00",
+   "last_changed_at": "2026-11-23T11:05:23+00:00"
   },
   "https://cibm.ch/open-positions/": {
    "lab_ids": [
@@ -1797,20 +1764,6 @@
    "first_seen_at": "2026-11-23T10:50:41+00:00",
    "last_checked_at": "2026-11-23T10:50:41+00:00",
    "last_changed_at": "2026-11-23T10:50:41+00:00"
-  },
-  "https://dlab.epfl.ch/openings/": {
-   "lab_ids": [
-    "ic-dlab"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://dlab.epfl.ch/openings/",
-   "content_hash": "09c42430662935b22512e3fcc812b06b4066bf2d62d78c422418f01ee3a7e73d",
-   "text_chars": 909,
-   "text_file": "8f8dc28bf0135c64b8f1fdec.txt",
-   "first_seen_at": "2026-11-23T10:51:08+00:00",
-   "last_checked_at": "2026-11-23T10:51:08+00:00",
-   "last_changed_at": "2026-11-23T10:51:08+00:00"
   },
   "https://dslab.epfl.ch/projects/": {
    "lab_ids": [
@@ -2314,19 +2267,19 @@
    "last_checked_at": "2026-11-23T10:51:53+00:00",
    "last_changed_at": "2026-11-23T10:51:53+00:00"
   },
-  "https://laser.epfl.ch/": {
+  "https://laser.epfl.ch/pages/apply.html": {
    "lab_ids": [
     "ic-laser"
    ],
    "parent_url": null,
    "kind": "html",
-   "final_url": "https://laser.epfl.ch/",
-   "content_hash": "34f4da53b9d2aa743b1789d75c667c1b81ea9d3f956450a9c0175d34abaaeb2b",
-   "text_chars": 1686,
-   "text_file": "fa2310f0514108d32c6bb559.txt",
-   "first_seen_at": "2026-11-23T10:51:56+00:00",
-   "last_checked_at": "2026-11-23T10:51:56+00:00",
-   "last_changed_at": "2026-11-23T10:51:56+00:00"
+   "final_url": "https://laser.epfl.ch/pages/apply.html",
+   "content_hash": "9de6d091aaf05b1f944b49d5f81407315e0e70ba3731e0422580525badb557d7",
+   "text_chars": 739,
+   "text_file": "809d6f0016e40448f873bce1.txt",
+   "first_seen_at": "2026-11-23T11:05:25+00:00",
+   "last_checked_at": "2026-11-23T11:05:25+00:00",
+   "last_changed_at": "2026-11-23T11:05:25+00:00"
   },
   "https://lcn.epfl.ch/student-html/": {
    "lab_ids": [
@@ -2341,20 +2294,6 @@
    "first_seen_at": "2026-11-23T10:46:01+00:00",
    "last_checked_at": "2026-11-23T10:46:01+00:00",
    "last_changed_at": "2026-11-23T10:46:01+00:00"
-  },
-  "https://ldm.epfl.ch/contact": {
-   "lab_ids": [
-    "ic-ldm"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://www.epfl.ch/labs/ldm/",
-   "content_hash": "bfdbd1d27cba8a451d8c1acd29c0d619660e8abacf17aa59e7ef0d0cb2dcda9a",
-   "text_chars": 1798,
-   "text_file": "1a0a9b4fe88727350eef82fe.txt",
-   "first_seen_at": "2026-11-23T10:51:58+00:00",
-   "last_checked_at": "2026-11-23T10:51:58+00:00",
-   "last_changed_at": "2026-11-23T10:51:58+00:00"
   },
   "https://lts2.epfl.ch/projects/110": {
    "lab_ids": [
@@ -2762,6 +2701,20 @@
    "last_checked_at": "2026-11-23T10:55:18+00:00",
    "last_changed_at": "2026-11-23T10:55:18+00:00"
   },
+  "https://mlabofai.org/join.html": {
+   "lab_ids": [
+    "sv-upmwmathis"
+   ],
+   "parent_url": null,
+   "kind": "html",
+   "final_url": "https://mlabofai.org/join.html",
+   "content_hash": "4a6f956bd1f82f7bdcaee7755631f976fd1ccbbf81a1855c87511e595b029ef2",
+   "text_chars": 3386,
+   "text_file": "f6734276081ea49b77eb3354.txt",
+   "first_seen_at": "2026-11-23T11:05:28+00:00",
+   "last_checked_at": "2026-11-23T11:05:28+00:00",
+   "last_changed_at": "2026-11-23T11:05:28+00:00"
+  },
   "https://n0g.at/": {
    "lab_ids": [
     "ic-teacher-fassl-mathias"
@@ -2789,34 +2742,6 @@
    "first_seen_at": "2026-11-23T10:52:53+00:00",
    "last_checked_at": "2026-11-23T10:52:53+00:00",
    "last_changed_at": "2026-11-23T10:52:53+00:00"
-  },
-  "https://nlp.epfl.ch/contact.html": {
-   "lab_ids": [
-    "ic-nlp"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://nlp.epfl.ch/contact.html",
-   "content_hash": "26ca66268b110674ad52834acd7314258664a2587f36767298542a563674565e",
-   "text_chars": 1455,
-   "text_file": "37166a4aa9ddd3771c32d6b7.txt",
-   "first_seen_at": "2026-11-23T10:52:39+00:00",
-   "last_checked_at": "2026-11-23T10:52:39+00:00",
-   "last_changed_at": "2026-11-23T10:52:39+00:00"
-  },
-  "https://parsa.epfl.ch/": {
-   "lab_ids": [
-    "ic-parsa"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://parsa.epfl.ch/",
-   "content_hash": "dbd7b172d1114e91a84a72700ae8b2373f9185930dd69f674f9361877e09e53c",
-   "text_chars": 8823,
-   "text_file": "ec86f5f2cc29244aa33e3e8d.txt",
-   "first_seen_at": "2026-11-23T10:52:41+00:00",
-   "last_checked_at": "2026-11-23T10:52:41+00:00",
-   "last_changed_at": "2026-11-23T10:52:41+00:00"
   },
   "https://rs3lab.github.io/pages/projects.html": {
    "lab_ids": [
@@ -2859,48 +2784,6 @@
    "first_seen_at": "2026-11-23T10:52:47+00:00",
    "last_checked_at": "2026-11-23T10:52:47+00:00",
    "last_changed_at": "2026-11-23T10:52:47+00:00"
-  },
-  "https://sti.epfl.ch/": {
-   "lab_ids": [
-    "sti-mints"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://sti.epfl.ch/",
-   "content_hash": "b801834aae8175a828b1060508b380a6b9450ef8b13b9a875c1f3606898b9234",
-   "text_chars": 20461,
-   "text_file": "26cc3676a0ec6eac61236060.txt",
-   "first_seen_at": "2026-11-23T10:55:12+00:00",
-   "last_checked_at": "2026-11-23T10:55:12+00:00",
-   "last_changed_at": "2026-11-23T10:55:12+00:00"
-  },
-  "https://sti.epfl.ch/overview-bachelor-and-master/": {
-   "lab_ids": [
-    "sti-mints"
-   ],
-   "parent_url": "https://sti.epfl.ch/",
-   "kind": "html",
-   "final_url": "https://sti.epfl.ch/overview-bachelor-and-master/",
-   "content_hash": "4d6b435d3795361a3ca70e6f3575292dc21c6cd6c47be2db83dea98cfb03bdd3",
-   "text_chars": 395,
-   "text_file": "87a5ed240941d159d86ad80b.txt",
-   "first_seen_at": "2026-11-23T10:55:13+00:00",
-   "last_checked_at": "2026-11-23T10:55:13+00:00",
-   "last_changed_at": "2026-11-23T10:55:13+00:00"
-  },
-  "https://sti.epfl.ch/pdme/": {
-   "lab_ids": [
-    "sti-mints"
-   ],
-   "parent_url": "https://sti.epfl.ch/",
-   "kind": "html",
-   "final_url": "https://sti.epfl.ch/pdme/",
-   "content_hash": "5b190f3abc6c6b91cffb4eeb221da4e8b99df1078db9a6f3b29b48d2913cb17e",
-   "text_chars": 4340,
-   "text_file": "774b0ffd5e92cce202c33219.txt",
-   "first_seen_at": "2026-11-23T10:55:14+00:00",
-   "last_checked_at": "2026-11-23T10:55:14+00:00",
-   "last_changed_at": "2026-11-23T10:55:14+00:00"
   },
   "https://systemf.epfl.ch/research.html#open-projects": {
    "lab_ids": [
@@ -2945,76 +2828,6 @@
    "first_seen_at": "2026-11-23T10:52:05+00:00",
    "last_checked_at": "2026-11-23T10:52:05+00:00",
    "last_changed_at": "2026-11-23T10:52:05+00:00"
-  },
-  "https://vca.epfl.ch/": {
-   "lab_ids": [
-    "ic-vca"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://vca.epfl.ch/",
-   "content_hash": "eb18c55e168ae479902c42000aad2b306cff3ee3194114bd18e52f6e601980f5",
-   "text_chars": 4657,
-   "text_file": "f678dea2a0c8dbae9e4af849.txt",
-   "first_seen_at": "2026-11-23T10:52:56+00:00",
-   "last_checked_at": "2026-11-23T10:52:56+00:00",
-   "last_changed_at": "2026-11-23T10:52:56+00:00"
-  },
-  "https://vca.epfl.ch/papers/asplos26_fvo.pdf": {
-   "lab_ids": [
-    "ic-vca"
-   ],
-   "parent_url": "https://vca.epfl.ch/",
-   "kind": "pdf",
-   "final_url": "https://vca.epfl.ch/papers/asplos26_fvo.pdf",
-   "content_hash": "031cee6ff7baaf8f522a353dce90dad3956900669d2ff931f8875e30cd679bfb",
-   "text_chars": 78999,
-   "text_file": "26630a9b0f3fce6aaa771fa1.txt",
-   "first_seen_at": "2026-11-23T10:52:58+00:00",
-   "last_checked_at": "2026-11-23T10:52:58+00:00",
-   "last_changed_at": "2026-11-23T10:52:58+00:00"
-  },
-  "https://vca.epfl.ch/papers/cpp26_tcp.pdf": {
-   "lab_ids": [
-    "ic-vca"
-   ],
-   "parent_url": "https://vca.epfl.ch/",
-   "kind": "pdf",
-   "final_url": "https://vca.epfl.ch/papers/cpp26_tcp.pdf",
-   "content_hash": "c1c03c880b50e0c3c27b8462c391f3a83b5fdd9c1d391a9a5c13ed683a0e07d8",
-   "text_chars": 60609,
-   "text_file": "ed7aaac0ff3b62a927c89578.txt",
-   "first_seen_at": "2026-11-23T10:53:02+00:00",
-   "last_checked_at": "2026-11-23T10:53:02+00:00",
-   "last_changed_at": "2026-11-23T10:53:02+00:00"
-  },
-  "https://vca.epfl.ch/projects": {
-   "lab_ids": [
-    "ic-vca"
-   ],
-   "parent_url": "https://vca.epfl.ch/",
-   "kind": "html",
-   "final_url": "https://vca.epfl.ch/projects/",
-   "content_hash": "98d546429243118ec2db54f7765be95f73935de0b096505e35b3d407431ff6a3",
-   "text_chars": 866,
-   "text_file": "8f132ff4f999006d173657d3.txt",
-   "first_seen_at": "2026-11-23T10:52:57+00:00",
-   "last_checked_at": "2026-11-23T10:52:57+00:00",
-   "last_changed_at": "2026-11-23T10:52:57+00:00"
-  },
-  "https://vilab.epfl.ch/": {
-   "lab_ids": [
-    "ic-vilab"
-   ],
-   "parent_url": null,
-   "kind": "html",
-   "final_url": "https://vilab.epfl.ch/",
-   "content_hash": "678c2e28fac4f9fd859012924a358d48a3308e6ae8527db8ef7736c09834c22a",
-   "text_chars": 8018,
-   "text_file": "2300b301755b69908c9dc254.txt",
-   "first_seen_at": "2026-11-23T10:53:06+00:00",
-   "last_checked_at": "2026-11-23T10:53:06+00:00",
-   "last_changed_at": "2026-11-23T10:53:06+00:00"
   },
   "https://www.epfl.ch/education/educational-initiatives/cede/campusanalytics/studentsprojects/": {
    "lab_ids": [
@@ -4418,34 +4231,6 @@
    "last_checked_at": "2026-11-23T10:46:01+00:00",
    "last_changed_at": "2026-11-23T10:46:01+00:00"
   },
-  "https://www.epfl.ch/labs/ldm/circular-gangbuk/": {
-   "lab_ids": [
-    "ic-ldm"
-   ],
-   "parent_url": "https://ldm.epfl.ch/contact",
-   "kind": "html",
-   "final_url": "https://www.epfl.ch/labs/ldm/circular-gangbuk/",
-   "content_hash": "480838f29c43562430a1ee7e64edf6e33aaf623da55d1dbc2e676b90b6361330",
-   "text_chars": 5156,
-   "text_file": "33bc58d1417cee7bbab9ff37.txt",
-   "first_seen_at": "2026-11-23T10:51:59+00:00",
-   "last_checked_at": "2026-11-23T10:51:59+00:00",
-   "last_changed_at": "2026-11-23T10:51:59+00:00"
-  },
-  "https://www.epfl.ch/labs/ldm/circular-kyoto-flows/": {
-   "lab_ids": [
-    "ic-ldm"
-   ],
-   "parent_url": "https://ldm.epfl.ch/contact",
-   "kind": "html",
-   "final_url": "https://www.epfl.ch/labs/ldm/circular-kyoto-flows/",
-   "content_hash": "51b005066c8608467daf62d9564289d544f0f0338b3d58c0cdaa02dee41c66bb",
-   "text_chars": 1948,
-   "text_file": "27a1b33939620358e56ebb65.txt",
-   "first_seen_at": "2026-11-23T10:51:58+00:00",
-   "last_checked_at": "2026-11-23T10:51:58+00:00",
-   "last_changed_at": "2026-11-23T10:51:58+00:00"
-  },
   "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/": {
    "lab_ids": [
     "enac-lhst"
@@ -4837,6 +4622,20 @@
    "first_seen_at": "2026-11-23T10:52:04+00:00",
    "last_checked_at": "2026-11-23T10:52:04+00:00",
    "last_changed_at": "2026-11-23T10:52:04+00:00"
+  },
+  "https://www.epfl.ch/labs/mints/student-projects/": {
+   "lab_ids": [
+    "sti-mints"
+   ],
+   "parent_url": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mints/student-projects/",
+   "content_hash": "bd4682667d0484161be1e8baaba8b1694ba4d6110c765050dbd9d841c9c23005",
+   "text_chars": 6505,
+   "text_file": "9659687ada241fe09e98af2a.txt",
+   "first_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_checked_at": "2026-11-23T11:06:23+00:00",
+   "last_changed_at": "2026-11-23T11:06:23+00:00"
   },
   "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/": {
    "lab_ids": [
