@@ -157,3 +157,41 @@ def test_short_main_is_trusted_over_site_menus():
         "</body></html>"
     )
     assert "Menu item" not in html_to_text(html)
+
+
+CARDS = """<html><head><title>INDY Lab - Projects</title></head><body>
+<nav>Home Projects People</nav>
+<ul><li><a href="#available">Available</a></li><li><a href="#ongoing">Ongoing</a></li></ul>
+<div class="tab-content">
+  <div class="tab-pane active" id="available">
+    <div class="card"><h5 class="card-title"><a href="/project/82">Proofs in Lean</a></h5>
+      <p>{long}</p></div>
+    <div class="card"><h5 class="card-title"><a href="/project/81">Slow graph components</a></h5>
+      <p>{long}</p></div>
+    <div class="card"><h5 class="card-title"><a href="/project/80">AMG solver in JAX</a></h5>
+      <p>{long}</p></div>
+  </div>
+  <div class="tab-pane" id="ongoing">
+    <div class="card"><h5><a href="/project/12">Assigned project</a></h5><p>Student: John</p></div>
+  </div>
+  <div class="tab-pane" id="completed">
+    <div class="card"><h5><a href="/project/3">Old project</a></h5></div>
+  </div>
+</div></body></html>""".replace("{long}", LONG)
+
+
+def test_card_titles_kept_and_ongoing_completed_panes_removed():
+    text = html_to_text(CARDS)
+    for title in ("Proofs in Lean", "Slow graph components", "AMG solver in JAX"):
+        assert title in text
+    assert "Assigned project" not in text and "Old project" not in text
+    assert "Student: John" not in text
+
+
+def test_links_inside_ongoing_or_completed_panes_are_not_followed():
+    urls = [link.url for link in find_subpage_links(CARDS, "https://indy.epfl.ch/projects")]
+    assert urls == [
+        "https://indy.epfl.ch/project/82",
+        "https://indy.epfl.ch/project/81",
+        "https://indy.epfl.ch/project/80",
+    ]

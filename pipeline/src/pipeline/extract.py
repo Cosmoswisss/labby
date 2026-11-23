@@ -146,6 +146,11 @@ class Extractor:
         report.pages_up_to_date = len(considered) - len(pending)
         todo = pending[:limit] if limit is not None else pending
         report.pages_left = len(pending) - len(todo)
+        if not dry_run and not lab_ids:
+            # Forget pages the crawler no longer visits (removed links, scope changes).
+            for url in set(self.store["pages"]) - set(self.crawl_state["pages"]):
+                del self.store["pages"][url]
+            self._save()
 
         if dry_run:
             chars = sum(self.crawl_state["pages"][u]["text_chars"] for u in todo)

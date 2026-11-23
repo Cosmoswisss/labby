@@ -162,3 +162,14 @@ def test_link_text_is_given_as_title_hint_for_subpages():
         link_text="Controlling the timbre of wind instruments",
     )
     assert '"Controlling the timbre of wind instruments"' in prompt
+
+
+def test_pages_no_longer_crawled_are_pruned(tmp_path):
+    setup_state(tmp_path, {"https://a.ch/p": (["ic-vis"], "text", "h1")})
+    make_extractor(tmp_path, FakeEngine([RESPONSE])).run([lab("ic-vis")])
+    (tmp_path / "cache" / "text" / "p0.txt").unlink()
+    (tmp_path / "cache" / "text").rmdir()
+    setup_state(tmp_path, {"https://b.ch/p": (["ic-vis"], "text", "h2")})
+    make_extractor(tmp_path, FakeEngine([RESPONSE])).run([lab("ic-vis")])
+    store = json.loads((tmp_path / "state" / "extractions.json").read_text(encoding="utf-8"))
+    assert list(store["pages"]) == ["https://b.ch/p"]

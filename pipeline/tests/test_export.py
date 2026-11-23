@@ -107,3 +107,43 @@ def test_project_ids_are_stable():
     first = build_projects(labs, crawl, ext)[0]["id"]
     ext2 = {"pages": {"https://a/": extraction([raw("my project")])}}
     assert build_projects(labs, crawl, ext2)[0]["id"] == first
+
+
+def test_parent_list_is_authoritative_for_subpages():
+    labs = [lab("sti-lib", "LIB")]
+    crawl = {
+        "pages": {
+            "https://lib/list": page(["sti-lib"]),
+            "https://lib/a?f=1": page(["sti-lib"], parent="https://lib/list"),
+            "https://lib/a?f=2": page(["sti-lib"], parent="https://lib/list"),
+        }
+    }
+    ext = {
+        "pages": {
+            "https://lib/list": extraction([raw("Phase retrieval in dimension one")]),
+            "https://lib/a?f=1": extraction(
+                [raw("Continuous-Domain Phase Retrieval in Dimension One", status="available")]
+            ),
+            "https://lib/a?f=2": extraction([raw("An on-going project", status="available")]),
+        }
+    }
+    projects = build_projects(labs, crawl, ext)
+    assert len(projects) == 1  # the on-going project's abstract is dropped
+    assert projects[0]["description_url"] == "https://lib/a?f=1"
+
+
+def test_subpages_of_link_only_index_are_kept():
+    labs = [lab("ic-lcn", "LCN")]
+    crawl = {
+        "pages": {
+            "https://lcn/": page(["ic-lcn"]),
+            "https://lcn/semester": page(["ic-lcn"], parent="https://lcn/"),
+        }
+    }
+    ext = {
+        "pages": {
+            "https://lcn/": extraction([]),
+            "https://lcn/semester": extraction([raw("Digital twin"), raw("Navigation model")]),
+        }
+    }
+    assert len(build_projects(labs, crawl, ext)) == 2

@@ -49,6 +49,7 @@ def html_to_text(html: str) -> str:
     """
     soup = BeautifulSoup(html, "lxml")
     titles = _page_titles(soup)
+    _remove_archive_blocks(soup)
     text = _main_text(soup, html)
     missing = [t for t in titles if t not in text]
     return normalize_text("\n".join(missing + [text])) if missing else text
@@ -65,6 +66,27 @@ def _page_titles(soup: BeautifulSoup) -> list[str]:
     return [t for t in dict.fromkeys(titles) if t]
 
 
+def _remove_archive_blocks(soup: BeautifulSoup) -> None:
+    """Drops blocks whose id/class says they hold completed or on-going projects.
+
+    E.g. tab panes <div id="ongoing">, <div id="completed">, <section class="past-projects">:
+    out of scope for Labby, and they often name the students working on them.
+    """
+    for tag in soup.find_all(True):
+        if tag.name in ("html", "body", "main") or tag.decomposed:
+            continue
+        attrs = " ".join([tag.get("id") or ""] + list(tag.get("class") or []))
+        if attrs.strip() and ARCHIVE_RE.search(attrs.replace("-", " ").replace("_", " ")):
+            tag.decompose()
+
+
+def _cleaned_body_text(soup: BeautifulSoup) -> str:
+    body = soup.body or soup
+    for tag in body.find_all(NOISE_TAGS):
+        tag.decompose()
+    return normalize_text(body.get_text("\n"))
+
+
 def _main_text(soup: BeautifulSoup, html: str) -> str:
     main = soup.find("main") or soup.find(attrs={"role": "main"})
     main_text = ""
@@ -79,17 +101,23 @@ def _main_text(soup: BeautifulSoup, html: str) -> str:
         if main_text:
             return main_text
 
+    headings = [
+        normalize_text(h.get_text(" ")).replace("\n", " ")
+        for h in (soup.body or soup).find_all(["h2", "h3", "h4", "h5", "h6"])
+    ]
+    body_text = _cleaned_body_text(soup)
     extracted = normalize_text(
-        trafilatura.extract(html, include_tables=True, include_comments=False, favor_recall=True)
+        trafilatura.extract(
+            str(soup), include_tables=True, include_comments=False, favor_recall=True
+        )
         or ""
     )
-    if extracted:
+    # trafilatura drops headings inside "card" layouts (often the project titles): when it
+    # loses several headings, the cleaned body text (menus removed) is the safer choice.
+    lost = sum(1 for h in headings if h and h not in extracted)
+    if extracted and lost < 3:
         return extracted
-
-    body = soup.body or soup
-    for tag in body.find_all(NOISE_TAGS):
-        tag.decompose()
-    return normalize_text(body.get_text("\n"))
+    return body_text or extracted
 
 
 def pdf_to_text(data: bytes, max_pages: int = MAX_PDF_PAGES) -> str:
@@ -189,6 +217,7 @@ def in_scope(url: str, scope: tuple[str, str]) -> bool:
 def find_subpage_links(html: str, page_url: str, limit: int = 25) -> list[Link]:
     """Links from a lab's project page that probably lead to project descriptions."""
     soup = BeautifulSoup(html, "lxml")
+    _remove_archive_blocks(soup)
     scope = site_scope(page_url)
     page = _canonical(page_url).rstrip("/")
     page_path = _path_key(page_url)

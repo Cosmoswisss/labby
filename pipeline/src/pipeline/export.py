@@ -7,6 +7,10 @@ state/extractions.json (projects extracted per page).
   (same normalised title within the lab); the sub-page becomes its description URL.
 - On pages shared by several labs, a project goes to the lab named by `lab_acronym`;
   without it, it is attributed to all the labs sharing the page.
+- When a sub-page's parent list contains projects, the list is authoritative about what
+  is open: a project found only on a sub-page (e.g. the abstract of an on-going or
+  completed project linked from the list) is dropped. Sub-pages of index pages that list
+  no project themselves (links only) remain the source.
 - Students' names are never present: the extraction only returns supervisors.
 """
 
@@ -17,7 +21,7 @@ from collections import Counter
 from pathlib import Path
 
 from pipeline.crawl import load_state, save_json
-from pipeline.evaluate import norm
+from pipeline.evaluate import MATCH_THRESHOLD, norm, title_similarity
 from pipeline.extract import load_extractions
 from pipeline.fetch import now_utc
 from pipeline.models import Lab
@@ -64,10 +68,18 @@ def build_projects(labs: list[Lab], crawl_state: dict, extractions: dict) -> lis
         page = crawl_state["pages"].get(url)
         if page is None or entry.get("error"):
             continue  # page no longer crawled, or extraction failed
+        parent = extractions["pages"].get(page.get("parent_url") or "")
+        parent_titles = [p["title"] for p in parent["projects"]] if parent else []
         for raw in entry["projects"]:
             lab_ids = [i for i in _attribute(raw, page["lab_ids"], labs_by_id) if i in labs_by_id]
             if not lab_ids:
                 continue
+            merge_title = raw["title"]
+            if parent_titles:
+                best = max(parent_titles, key=lambda t: title_similarity(t, raw["title"]))
+                if title_similarity(best, raw["title"]) < MATCH_THRESHOLD:
+                    continue  # not offered on the parent list: probably taken or past
+                merge_title = best  # merge with the list entry even if worded differently
             record = {
                 "lab_ids": lab_ids,
                 "title": raw["title"].strip(),
@@ -86,7 +98,7 @@ def build_projects(labs: list[Lab], crawl_state: dict, extractions: dict) -> lis
                 "source_pages": [url],
                 "_specific": page.get("parent_url") is not None,
             }
-            key = ("+".join(sorted(lab_ids)), norm(record["title"]))
+            key = ("+".join(sorted(lab_ids)), norm(merge_title))
             if key not in merged:
                 merged[key] = record
             elif record["_specific"] and not merged[key]["_specific"]:
