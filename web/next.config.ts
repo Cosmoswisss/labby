@@ -5,8 +5,8 @@ const nextConfig: NextConfig = {
   output: "export",
   // /projects/abc -> out/projects/abc/index.html, served without rewrites on any host.
   trailingSlash: true,
-  cacheComponents: true,
-  partialPrefetching: true,
+  // cacheComponents / partialPrefetching (create-next-app defaults) need a server
+  // ("PPR cannot be enabled in export mode"): not used for this static site.
   turbopack: {
     rules: {
       "*.css": {
