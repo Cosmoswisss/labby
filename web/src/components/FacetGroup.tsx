@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useId, useState } from "react";
+import { Icon } from "./ui/Icon";
 
 export interface FacetOption {
   value: string;
@@ -14,7 +15,7 @@ export function FacetGroup({
   options,
   selected,
   onToggle,
-  initiallyShown = 8,
+  initiallyShown = 6,
   searchable = false,
 }: {
   title: string;
@@ -26,6 +27,7 @@ export function FacetGroup({
 }) {
   const [expanded, setExpanded] = useState(false);
   const [needle, setNeedle] = useState("");
+  const id = useId();
 
   const matching = needle
     ? options.filter((o) => o.label.toLowerCase().includes(needle.toLowerCase()))
@@ -42,47 +44,74 @@ export function FacetGroup({
   if (options.length === 0 && selected.length === 0) return null;
 
   return (
-    <fieldset className="min-w-0 border-b border-stone-200 py-4 dark:border-stone-800">
-      <legend className="mb-2 text-xs font-semibold tracking-wide text-stone-500 uppercase dark:text-stone-400">
+    <fieldset className="min-w-0 border-b border-border py-5 last:border-b-0">
+      <legend className="float-left mb-3 w-full text-sm font-semibold text-fg">
         {title}
+        {selected.length > 0 && (
+          <span className="ml-2 rounded-full bg-primary-soft px-2 py-0.5 text-xs font-medium text-primary-soft-fg">
+            {selected.length}
+          </span>
+        )}
       </legend>
+
       {searchable && options.length > initiallyShown && (
-        <input
-          type="search"
-          value={needle}
-          onChange={(e) => setNeedle(e.target.value)}
-          placeholder={`Filter ${title.toLowerCase()}…`}
-          aria-label={`Filter ${title.toLowerCase()}`}
-          className="mb-2 w-full rounded-md border border-stone-300 bg-white px-2 py-1 text-sm dark:border-stone-700 dark:bg-stone-900"
-        />
+        <div className="relative clear-both mb-2">
+          <label htmlFor={`${id}-filter`} className="sr-only">
+            Filter {title.toLowerCase()} options
+          </label>
+          <Icon
+            name="search"
+            className="pointer-events-none absolute top-1/2 left-2.5 size-4 -translate-y-1/2 text-fg-subtle"
+          />
+          <input
+            id={`${id}-filter`}
+            type="search"
+            value={needle}
+            onChange={(e) => setNeedle(e.target.value)}
+            placeholder={`Find in ${title.toLowerCase()}…`}
+            className="h-9 w-full rounded-lg border border-border bg-surface pr-2 pl-8 text-sm text-fg transition-all duration-200 placeholder:text-fg-subtle hover:border-border-strong focus:border-primary focus:outline-none"
+          />
+        </div>
       )}
-      <ul className="space-y-1">
+
+      <ul className="clear-both space-y-0.5">
         {visible.map((option) => {
           const checked = selected.includes(option.value);
+          const inputId = `${id}-${option.value}`;
           return (
             <li key={option.value}>
-              <label className="flex cursor-pointer items-center gap-2 text-sm">
+              <label
+                htmlFor={inputId}
+                className="group flex cursor-pointer items-center gap-3 rounded-lg px-2 py-1.5 text-sm transition-colors duration-200 hover:bg-surface-muted"
+              >
                 <input
+                  id={inputId}
                   type="checkbox"
                   checked={checked}
                   onChange={() => onToggle(option.value)}
-                  className="size-4 rounded border-stone-300 accent-accent-600"
+                  className="size-4 shrink-0 cursor-pointer accent-[var(--primary)]"
                 />
-                <span className={`flex-1 truncate ${checked ? "font-medium" : ""}`}>
+                <span
+                  className={`min-w-0 flex-1 leading-snug ${
+                    checked ? "font-medium text-fg" : "text-fg-muted group-hover:text-fg"
+                  }`}
+                >
                   {option.label}
                 </span>
-                <span className="text-xs text-stone-400 tabular-nums">{option.count}</span>
+                <span className="text-xs text-fg-subtle tabular-nums">{option.count}</span>
               </label>
             </li>
           );
         })}
-        {visible.length === 0 && <li className="text-sm text-stone-400">No match</li>}
+        {visible.length === 0 && <li className="px-2 py-1.5 text-sm text-fg-subtle">No match</li>}
       </ul>
+
       {!needle && matching.length > initiallyShown && (
         <button
           type="button"
           onClick={() => setExpanded(!expanded)}
-          className="mt-2 text-sm font-medium text-accent-700 hover:underline dark:text-accent-400"
+          aria-expanded={expanded}
+          className="mt-2 rounded-md px-2 py-1 text-sm font-medium text-primary-text transition-colors duration-200 hover:bg-primary-soft"
         >
           {expanded ? "Show less" : `Show all ${matching.length}`}
         </button>

@@ -1,7 +1,8 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useId, useMemo, useState } from "react";
+import { useClientNow } from "@/lib/client";
 import {
   EMPTY_FILTERS,
   type Filters,
@@ -13,7 +14,6 @@ import {
   serializeFilters,
   toggleValue,
 } from "@/lib/filters";
-import { useClientNow } from "@/lib/client";
 import { buildIndex, searchIds } from "@/lib/search";
 import {
   LANGUAGE_LABELS,
@@ -26,6 +26,13 @@ import {
 } from "@/lib/types";
 import { FacetGroup, type FacetOption } from "./FacetGroup";
 import { ProjectCard } from "./ProjectCard";
+import { ActiveFilters, type ListFacet } from "./search/ActiveFilters";
+import { MobileFiltersDrawer } from "./search/MobileFiltersDrawer";
+import { HeroShell, SearchBox, Suggestions } from "./search/SearchHero";
+import { Button } from "./ui/Button";
+import { Icon } from "./ui/Icon";
+import { Container } from "./ui/Layout";
+import { EmptyState } from "./ui/States";
 
 const PAGE_SIZE = 30;
 const FACULTY_ORDER = ["IC", "STI", "SB", "SV", "ENAC", "CDM", "CDH", "ENT", "OTHER"];
@@ -38,7 +45,30 @@ function byOrder(order: string[]) {
   return (a: FacetOption, b: FacetOption) => order.indexOf(a.value) - order.indexOf(b.value);
 }
 
-type ListFacet = "types" | "faculties" | "domains" | "skills" | "languages" | "statuses" | "labs";
+/** "Include past semesters" switch; rendered in both the sidebar and the mobile drawer. */
+function PastToggle({ checked, onChange }: { checked: boolean; onChange: () => void }) {
+  const id = useId();
+  return (
+    <div className="py-5">
+      <label
+        htmlFor={id}
+        className="flex cursor-pointer items-start gap-3 rounded-lg px-2 py-1.5 text-sm transition-colors duration-200 hover:bg-surface-muted"
+      >
+        <input
+          id={id}
+          type="checkbox"
+          checked={checked}
+          onChange={onChange}
+          className="mt-0.5 size-4 shrink-0 cursor-pointer accent-[var(--primary)]"
+        />
+        <span>
+          <span className="font-medium text-fg">Include past semesters</span>
+          <span className="mt-0.5 block text-fg-subtle">Offers listed for a semester that is over</span>
+        </span>
+      </label>
+    </div>
+  );
+}
 
 export function SearchApp({
   projects,
@@ -50,11 +80,15 @@ export function SearchApp({
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
-  const filters = useMemo(() => parseFilters(new URLSearchParams(searchParams.toString())), [searchParams]);
+  const filters = useMemo(
+    () => parseFilters(new URLSearchParams(searchParams.toString())),
+    [searchParams],
+  );
 
   // The text box updates instantly; the URL (and the results) follow after a short pause.
   const [query, setQuery] = useState(filters.q);
   const [shown, setShown] = useState(PAGE_SIZE);
+  const [drawerOpen, setDrawerOpen] = useState(false);
   const now = useClientNow();
 
   function update(next: Filters) {
@@ -87,114 +121,166 @@ export function SearchApp({
   );
 
   /** Counts for one facet = results of every *other* filter (standard drill-down). */
-  function options(key: ListFacet, pick: (p: SearchProject) => string[], label: (v: string) => string, min = 1): FacetOption[] {
+  function options(
+    key: ListFacet,
+    pick: (p: SearchProject) => string[],
+    label: (v: string) => string,
+  ): FacetOption[] {
     const base = applyFilters(textMatches, { ...filters, [key]: [] }, reference);
-    return facetCounts(base, pick, min).map((c) => ({ ...c, label: label(c.value) }));
+    return facetCounts(base, pick).map((c) => ({ ...c, label: label(c.value) }));
   }
 
   function toggle(key: ListFacet, value: string) {
     update({ ...filters, [key]: toggleValue(filters[key] as string[], value) });
   }
 
-  const facultyOptions = options("faculties", (p) => p.faculties, (v) => v).sort(byOrder(FACULTY_ORDER));
-  const typeOptions = options("types", (p) => p.types, (v) => PROJECT_TYPE_LABELS[v as ProjectType]).sort(byOrder(TYPE_ORDER));
-  const statusOptions = options("statuses", (p) => [p.status], (v) => STATUS_LABELS[v as ProjectStatus]).sort(byOrder(STATUS_ORDER));
-  const languageOptions = options("languages", (p) => [p.language], (v) => LANGUAGE_LABELS[v as Language]).sort(byOrder(LANGUAGE_ORDER));
-  const domainOptions = options("domains", (p) => p.domains, (v) => v);
-  const skillOptions = options("skills", (p) => p.skills, (v) => v);
-  const labOptions = options("labs", (p) => p.labs.map((l) => l.id), (v) => labNames[v] ?? v);
+  const togglePast = () => update({ ...filters, includePast: !filters.includePast });
+  const clearAll = () => {
+    setQuery("");
+    update(EMPTY_FILTERS);
+  };
+  const closeDrawer = useCallback(() => setDrawerOpen(false), []);
+
+  const popularDomains = useMemo(
+    () => facetCounts(projects, (p) => p.domains).slice(0, 6).map((c) => c.value),
+    [projects],
+  );
 
   const active = activeFilterCount(filters);
   const pastHidden = useMemo(
-    () => (filters.includePast || !now ? 0 : applyFilters(textMatches, { ...filters, includePast: true }, now).length - results.length),
+    () =>
+      filters.includePast || !now
+        ? 0
+        : applyFilters(textMatches, { ...filters, includePast: true }, now).length -
+          results.length,
     [filters, textMatches, results.length, now],
   );
 
   const facetPanel = (
     <div>
-      <FacetGroup title="Project type" options={typeOptions} selected={filters.types} onToggle={(v) => toggle("types", v)} />
-      <FacetGroup title="Faculty" options={facultyOptions} selected={filters.faculties} onToggle={(v) => toggle("faculties", v)} />
-      <FacetGroup title="Domain" options={domainOptions} selected={filters.domains} onToggle={(v) => toggle("domains", v)} searchable />
-      <FacetGroup title="Skills" options={skillOptions} selected={filters.skills} onToggle={(v) => toggle("skills", v)} searchable />
-      <FacetGroup title="Lab" options={labOptions} selected={filters.labs} onToggle={(v) => toggle("labs", v)} searchable initiallyShown={6} />
-      <FacetGroup title="Status" options={statusOptions} selected={filters.statuses} onToggle={(v) => toggle("statuses", v)} />
-      <FacetGroup title="Language" options={languageOptions} selected={filters.languages} onToggle={(v) => toggle("languages", v)} />
-      <label className="flex cursor-pointer items-center gap-2 py-4 text-sm">
-        <input
-          type="checkbox"
-          checked={filters.includePast}
-          onChange={() => update({ ...filters, includePast: !filters.includePast })}
-          className="size-4 accent-accent-600"
-        />
-        Include offers from past semesters
-      </label>
+      <FacetGroup
+        title="Project type"
+        options={options("types", (p) => p.types, (v) => PROJECT_TYPE_LABELS[v as ProjectType]).sort(byOrder(TYPE_ORDER))}
+        selected={filters.types}
+        onToggle={(v) => toggle("types", v)}
+      />
+      <FacetGroup
+        title="Faculty"
+        options={options("faculties", (p) => p.faculties, (v) => v).sort(byOrder(FACULTY_ORDER))}
+        selected={filters.faculties}
+        onToggle={(v) => toggle("faculties", v)}
+      />
+      <FacetGroup
+        title="Domain"
+        options={options("domains", (p) => p.domains, (v) => v)}
+        selected={filters.domains}
+        onToggle={(v) => toggle("domains", v)}
+        searchable
+      />
+      <FacetGroup
+        title="Skills"
+        options={options("skills", (p) => p.skills, (v) => v)}
+        selected={filters.skills}
+        onToggle={(v) => toggle("skills", v)}
+        searchable
+      />
+      <FacetGroup
+        title="Lab"
+        options={options("labs", (p) => p.labs.map((l) => l.id), (v) => labNames[v] ?? v)}
+        selected={filters.labs}
+        onToggle={(v) => toggle("labs", v)}
+        searchable
+      />
+      <FacetGroup
+        title="Status"
+        options={options("statuses", (p) => [p.status], (v) => STATUS_LABELS[v as ProjectStatus]).sort(byOrder(STATUS_ORDER))}
+        selected={filters.statuses}
+        onToggle={(v) => toggle("statuses", v)}
+      />
+      <FacetGroup
+        title="Language"
+        options={options("languages", (p) => [p.language], (v) => LANGUAGE_LABELS[v as Language]).sort(byOrder(LANGUAGE_ORDER))}
+        selected={filters.languages}
+        onToggle={(v) => toggle("languages", v)}
+      />
+      <PastToggle checked={filters.includePast} onChange={togglePast} />
     </div>
   );
 
   return (
-    <div>
-      <section className="mb-6">
-        <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
-          Find a semester project or master thesis
-        </h1>
-        <p className="mt-1 text-stone-600 dark:text-stone-400">
-          {projects.length} projects from {Object.keys(labNames).length} EPFL labs, searchable in one place.
-        </p>
-        <div className="relative mt-4">
-          <svg viewBox="0 0 24 24" className="pointer-events-none absolute top-1/2 left-3 size-5 -translate-y-1/2 text-stone-400" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
-            <circle cx="11" cy="11" r="7" />
-            <path d="m20 20-3.5-3.5" />
-          </svg>
-          <input
-            type="search"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder='Try "machine learning python", "robotics", "FPGA"…'
-            aria-label="Search projects"
-            autoFocus
-            className="w-full rounded-xl border border-stone-300 bg-white py-3 pr-4 pl-11 text-base shadow-sm placeholder:text-stone-400 focus:border-accent-500 focus:outline-none dark:border-stone-700 dark:bg-stone-900"
-          />
-        </div>
-      </section>
+    <Container>
+      <HeroShell
+        subtitle={`${projects.length} projects · ${Object.keys(labNames).length} labs · updated weekly`}
+      >
+        <SearchBox value={query} onChange={setQuery} />
+        <Suggestions
+          items={popularDomains}
+          onPick={(d) => update({ ...filters, domains: toggleValue(filters.domains, d) })}
+        />
+      </HeroShell>
 
-      <div className="grid gap-6 lg:grid-cols-[16rem_1fr]">
-        <aside className="min-w-0">
-          <details className="rounded-xl border border-stone-200 bg-white px-4 lg:hidden dark:border-stone-800 dark:bg-stone-900">
-            <summary className="cursor-pointer py-3 text-sm font-semibold">
-              Filters{active > 0 && ` (${active})`}
-            </summary>
+      <div className="grid gap-10 lg:grid-cols-[16.5rem_minmax(0,1fr)]">
+        <aside aria-label="Filters" className="hidden lg:block">
+          <div className="sticky top-24 -mt-5 max-h-[calc(100vh-7rem)] overflow-y-auto pr-3 [scrollbar-width:thin]">
             {facetPanel}
-          </details>
-          <div className="hidden lg:block">{facetPanel}</div>
+          </div>
         </aside>
 
-        <section aria-live="polite" className="min-w-0">
-          <div className="mb-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-stone-600 dark:text-stone-400">
-            <span>
-              <strong className="text-stone-900 dark:text-white">{results.length}</strong>{" "}
-              {results.length === 1 ? "project" : "projects"}
-            </span>
-            {pastHidden > 0 && <span>· {pastHidden} from past semesters hidden</span>}
-            {(active > 0 || filters.q) && (
-              <button
-                type="button"
-                onClick={() => {
-                  setQuery("");
-                  update(EMPTY_FILTERS);
-                }}
-                className="font-medium text-accent-700 hover:underline dark:text-accent-400"
-              >
-                Clear all
-              </button>
-            )}
+        <section aria-labelledby="results-heading" className="min-w-0">
+          <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
+            <div>
+              <h2 id="results-heading" className="text-xl font-semibold tracking-tight">
+                {results.length} {results.length === 1 ? "project" : "projects"}
+              </h2>
+              {pastHidden > 0 && (
+                <p className="mt-0.5 text-sm text-fg-subtle">
+                  {pastHidden} from past semesters hidden ·{" "}
+                  <button
+                    type="button"
+                    onClick={togglePast}
+                    className="font-medium text-primary-text underline-offset-2 hover:underline"
+                  >
+                    show them
+                  </button>
+                </p>
+              )}
+            </div>
+            <Button
+              variant="secondary"
+              className="lg:hidden"
+              onClick={() => setDrawerOpen(true)}
+              aria-haspopup="dialog"
+            >
+              <Icon name="filter" className="size-4" />
+              Filters
+              {active > 0 && (
+                <span className="rounded-full bg-primary px-1.5 text-xs leading-5 text-primary-fg">
+                  {active}
+                </span>
+              )}
+            </Button>
           </div>
 
+          <ActiveFilters
+            filters={filters}
+            labNames={labNames}
+            onRemove={toggle}
+            onTogglePast={togglePast}
+            onClearAll={clearAll}
+          />
+
           {results.length === 0 ? (
-            <p className="rounded-xl border border-dashed border-stone-300 p-8 text-center text-stone-500 dark:border-stone-700">
-              No project matches. Try fewer filters or other words.
-            </p>
+            <EmptyState
+              title="No project matches your search"
+              description="Try fewer filters, other keywords, or include past semesters."
+              action={
+                <Button variant="secondary" onClick={clearAll}>
+                  Clear search and filters
+                </Button>
+              }
+            />
           ) : (
-            <ul className="space-y-3">
+            <ul className="space-y-4">
               {results.slice(0, shown).map((p) => (
                 <li key={p.id}>
                   <ProjectCard project={p} past={now ? isPastPeriod(p.period, now) : false} />
@@ -204,16 +290,21 @@ export function SearchApp({
           )}
 
           {shown < results.length && (
-            <button
-              type="button"
-              onClick={() => setShown(shown + PAGE_SIZE)}
-              className="mt-4 w-full rounded-xl border border-stone-300 bg-white py-2.5 text-sm font-medium hover:bg-stone-100 dark:border-stone-700 dark:bg-stone-900 dark:hover:bg-stone-800"
-            >
-              Show more ({results.length - shown} left)
-            </button>
+            <div className="mt-8 flex flex-col items-center gap-2">
+              <Button variant="secondary" size="lg" onClick={() => setShown(shown + PAGE_SIZE)}>
+                Show more projects
+              </Button>
+              <p className="text-sm text-fg-subtle">
+                Showing {shown} of {results.length}
+              </p>
+            </div>
           )}
         </section>
       </div>
-    </div>
+
+      <MobileFiltersDrawer open={drawerOpen} onClose={closeDrawer} resultCount={results.length}>
+        {facetPanel}
+      </MobileFiltersDrawer>
+    </Container>
   );
 }
