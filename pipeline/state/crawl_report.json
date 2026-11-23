@@ -1,8 +1,8 @@
 {
- "started_at": "2026-11-23T11:28:43+00:00",
- "finished_at": "2026-11-23T11:29:08+00:00",
- "duration_s": 24.3,
- "offline": true,
+ "started_at": "2026-11-23T13:03:45+00:00",
+ "finished_at": "2026-11-23T13:04:11+00:00",
+ "duration_s": 25.6,
+ "offline": false,
  "labs_total": 114,
  "labs_by_status": {
   "ok": 92,
@@ -11,14 +11,15 @@
   "restricted": 3,
   "blocked": 2
  },
- "pages_total": 299,
+ "pages_total": 278,
  "pages_new": 0,
- "pages_changed": 0,
- "pages_unchanged": 294,
+ "pages_changed": 10,
+ "pages_unchanged": 263,
  "pages_error": 2,
  "pages_duplicate": 3,
  "little_text_pages": [
-  "https://www.epfl.ch/labs/dcsl/ma-ba-projects/"
+  "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
+  "https://www.epfl.ch/schools/ic/ipg/research-topics/"
  ],
  "errors": [
   {
@@ -36,7 +37,7 @@
  ],
  "fetcher": {
   "network": 0,
-  "cache_hits": 299,
+  "cache_hits": 278,
   "not_modified": 0,
   "errors": 0
  }

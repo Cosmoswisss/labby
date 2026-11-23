@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T11:29:08+00:00",
+ "updated_at": "2026-11-23T13:04:11+00:00",
  "labs": {
   "ic-cvlab": {
    "status": "ok",
@@ -418,28 +418,7 @@
     "https://indy.epfl.ch/project/82",
     "https://indy.epfl.ch/project/81",
     "https://indy.epfl.ch/project/79",
-    "https://indy.epfl.ch/project/78",
-    "https://indy.epfl.ch/project/80",
-    "https://indy.epfl.ch/project/77",
-    "https://indy.epfl.ch/project/72",
-    "https://indy.epfl.ch/project/54",
-    "https://indy.epfl.ch/project/34",
-    "https://indy.epfl.ch/project/28",
-    "https://indy.epfl.ch/project/76",
-    "https://indy.epfl.ch/project/75",
-    "https://indy.epfl.ch/project/74",
-    "https://indy.epfl.ch/project/73",
-    "https://indy.epfl.ch/project/71",
-    "https://indy.epfl.ch/project/70",
-    "https://indy.epfl.ch/project/69",
-    "https://indy.epfl.ch/project/66",
-    "https://indy.epfl.ch/project/65",
-    "https://indy.epfl.ch/project/64",
-    "https://indy.epfl.ch/project/63",
-    "https://indy.epfl.ch/project/62",
-    "https://indy.epfl.ch/project/61",
-    "https://indy.epfl.ch/project/60",
-    "https://indy.epfl.ch/project/59"
+    "https://indy.epfl.ch/project/78"
    ],
    "last_checked_at": "2026-11-23T10:51:24+00:00",
    "error": null
@@ -452,28 +431,7 @@
     "https://indy.epfl.ch/project/82",
     "https://indy.epfl.ch/project/81",
     "https://indy.epfl.ch/project/79",
-    "https://indy.epfl.ch/project/78",
-    "https://indy.epfl.ch/project/80",
-    "https://indy.epfl.ch/project/77",
-    "https://indy.epfl.ch/project/72",
-    "https://indy.epfl.ch/project/54",
-    "https://indy.epfl.ch/project/34",
-    "https://indy.epfl.ch/project/28",
-    "https://indy.epfl.ch/project/76",
-    "https://indy.epfl.ch/project/75",
-    "https://indy.epfl.ch/project/74",
-    "https://indy.epfl.ch/project/73",
-    "https://indy.epfl.ch/project/71",
-    "https://indy.epfl.ch/project/70",
-    "https://indy.epfl.ch/project/69",
-    "https://indy.epfl.ch/project/66",
-    "https://indy.epfl.ch/project/65",
-    "https://indy.epfl.ch/project/64",
-    "https://indy.epfl.ch/project/63",
-    "https://indy.epfl.ch/project/62",
-    "https://indy.epfl.ch/project/61",
-    "https://indy.epfl.ch/project/60",
-    "https://indy.epfl.ch/project/59"
+    "https://indy.epfl.ch/project/78"
    ],
    "last_checked_at": "2026-11-23T10:51:24+00:00",
    "error": null
@@ -1241,8 +1199,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/subject.html",
-   "content_hash": "33e72353fef3d9708bebf0ee4c148ddfef13af32b36639ef471f8d6d839da7ce",
-   "text_chars": 76046,
+   "content_hash": "cf9599ff945f23f9bcfb1db6bbf134a0623096a031e51fb02ea4729f7ea403cd",
+   "text_chars": 76027,
    "text_file": "9e4e210f79d62ba66a266e67.txt",
    "first_seen_at": "2026-11-23T10:53:57+00:00",
    "last_checked_at": "2026-11-23T10:53:57+00:00",
@@ -1601,8 +1559,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://bigwww.epfl.ch/teaching/projects/index.html?view=all",
-   "content_hash": "4c3c296219aef3a36a6226b3e1d358054a0e080cc0c188e91ce036c0d7667a1c",
-   "text_chars": 76126,
+   "content_hash": "fc496f1557370d1d9f79c2070f4e95e0eb5dfa829756df7181746cd2c4adec77",
+   "text_chars": 76107,
    "text_file": "0269b720a46ae6ddb5b61854.txt",
    "first_seen_at": "2026-11-23T10:54:11+00:00",
    "last_checked_at": "2026-11-23T10:54:11+00:00",
@@ -1661,8 +1619,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://compsec.epfl.ch/",
-   "content_hash": "4bf814fd8662480ca238702e108c19bf67ead317b3ab171d41ece549987749cf",
-   "text_chars": 3221,
+   "content_hash": "21b87ac06857a79d2a08c2cba08cfd1a2552f0ee7db351a27cf19dca97a7d98a",
+   "text_chars": 4230,
    "text_file": "855412fddeaf1ac7f534ad18.txt",
    "first_seen_at": "2026-11-23T10:50:37+00:00",
    "last_checked_at": "2026-11-23T10:50:37+00:00",
@@ -1691,8 +1649,8 @@
    "link_text": "Canton Vaud Innovation Program",
    "kind": "html",
    "final_url": "https://datascience.ch/call-for-projects/call-for-vaud-projects",
-   "content_hash": "feb423201cc938f7afd6c4722f96ba4ec73142adb9c4f8c05ce1108b8371d38f",
-   "text_chars": 5692,
+   "content_hash": "c2da164a471b4221a4b0aa9596dcb7026e1ea6994a8710b3820f0a6337e9fa46",
+   "text_chars": 5263,
    "text_file": "e9250250c8232e13f95eb83e.txt",
    "first_seen_at": "2026-11-23T10:50:28+00:00",
    "last_checked_at": "2026-11-23T10:50:28+00:00",
@@ -1878,326 +1836,6 @@
    "last_checked_at": "2026-11-23T10:50:21+00:00",
    "last_changed_at": "2026-11-23T10:50:21+00:00"
   },
-  "https://indy.epfl.ch/project/28": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Few-Shot Learning",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/28",
-   "content_hash": "5a98f85280dca1fa30015da415612684d358efc31f6dd880daa034c40d32cfd0",
-   "text_chars": 896,
-   "text_file": "f0c1bce0b221dde3469d7496.txt",
-   "first_seen_at": "2026-11-23T10:51:33+00:00",
-   "last_checked_at": "2026-11-23T10:51:33+00:00",
-   "last_changed_at": "2026-11-23T10:51:33+00:00"
-  },
-  "https://indy.epfl.ch/project/34": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Collecting a large dataset on human similarity and preference perception",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/34",
-   "content_hash": "f93cfab8431df95c90e64151fd001f9e13557668ec61451c103f5db4df51f7ea",
-   "text_chars": 1472,
-   "text_file": "cb167bd0ae0378811a206900.txt",
-   "first_seen_at": "2026-11-23T10:51:32+00:00",
-   "last_checked_at": "2026-11-23T10:51:32+00:00",
-   "last_changed_at": "2026-11-23T10:51:32+00:00"
-  },
-  "https://indy.epfl.ch/project/54": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Generating random graphs with a given treewidth of k",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/54",
-   "content_hash": "7ef483822165687d999210a15732e2b4bfccf29ac97fecedcc5cfcb5f1a30909",
-   "text_chars": 1088,
-   "text_file": "16fc7dcbce57bdde1277e7ba.txt",
-   "first_seen_at": "2026-11-23T10:51:31+00:00",
-   "last_checked_at": "2026-11-23T10:51:31+00:00",
-   "last_changed_at": "2026-11-23T10:51:31+00:00"
-  },
-  "https://indy.epfl.ch/project/59": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Analyzing Network Cascades to Infer Graph Properties",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/59",
-   "content_hash": "69f4e41794231f67eb9b267cbaee76a9d1ab9920c3fd7ec6c474c6f3bb6c30b5",
-   "text_chars": 1349,
-   "text_file": "46aae302f74273a0d0b81eac.txt",
-   "first_seen_at": "2026-11-23T10:51:48+00:00",
-   "last_checked_at": "2026-11-23T10:51:48+00:00",
-   "last_changed_at": "2026-11-23T10:51:48+00:00"
-  },
-  "https://indy.epfl.ch/project/60": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Stochastic proximal first-order algorithm",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/60",
-   "content_hash": "5b0ebab0b72dd4bff1f6835994ff2a3632a82201bc62cca0a767eb0bec295109",
-   "text_chars": 600,
-   "text_file": "d4ce5355546de6ab38a1c57f.txt",
-   "first_seen_at": "2026-11-23T10:51:47+00:00",
-   "last_checked_at": "2026-11-23T10:51:47+00:00",
-   "last_changed_at": "2026-11-23T10:51:47+00:00"
-  },
-  "https://indy.epfl.ch/project/61": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Computational methods for Chance Constraint Optimization",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/61",
-   "content_hash": "0eeb382c7bebb70991cac497ce6716aa37c60b08860b6b3fa971ea278c09af00",
-   "text_chars": 1479,
-   "text_file": "c0b2bef3e7ae9d62f9469779.txt",
-   "first_seen_at": "2026-11-23T10:51:46+00:00",
-   "last_checked_at": "2026-11-23T10:51:46+00:00",
-   "last_changed_at": "2026-11-23T10:51:46+00:00"
-  },
-  "https://indy.epfl.ch/project/62": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "SIS Model Simulator with Dynamic Vaccination and Visualization",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/62",
-   "content_hash": "086dfb7d4be243b7195e179a1896b297924ef527e9f77bf61908f490dab7a1f6",
-   "text_chars": 1137,
-   "text_file": "0792d041b4f4540d600f1201.txt",
-   "first_seen_at": "2026-11-23T10:51:45+00:00",
-   "last_checked_at": "2026-11-23T10:51:45+00:00",
-   "last_changed_at": "2026-11-23T10:51:45+00:00"
-  },
-  "https://indy.epfl.ch/project/63": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Distinguishing Random Graphs via Distance Measures",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/63",
-   "content_hash": "0dd0d5e715c7207ad294dd40c3502c3c303f217814219cc62da9740a59973c5e",
-   "text_chars": 1973,
-   "text_file": "0819464491531877ba448136.txt",
-   "first_seen_at": "2026-11-23T10:51:44+00:00",
-   "last_checked_at": "2026-11-23T10:51:44+00:00",
-   "last_changed_at": "2026-11-23T10:51:44+00:00"
-  },
-  "https://indy.epfl.ch/project/64": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Estimation the Number of Clusters in Mixture Models using Data Thinning",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/64",
-   "content_hash": "09547111fcd36784e079539d2c26cef17ad85f0b8690029d132b245c3e4f153e",
-   "text_chars": 3122,
-   "text_file": "6f0c2de203ee912e07de0636.txt",
-   "first_seen_at": "2026-11-23T10:51:43+00:00",
-   "last_checked_at": "2026-11-23T10:51:43+00:00",
-   "last_changed_at": "2026-11-23T10:51:43+00:00"
-  },
-  "https://indy.epfl.ch/project/65": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Exploring good transformations of edge weights for spectral clustering",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/65",
-   "content_hash": "1fef2f5ec14eb066a09fc3efea1e3e2d49b9ae251267319f835bb99654b066c2",
-   "text_chars": 1571,
-   "text_file": "57ff05a4f374f6f637eb76ac.txt",
-   "first_seen_at": "2026-11-23T10:51:42+00:00",
-   "last_checked_at": "2026-11-23T10:51:42+00:00",
-   "last_changed_at": "2026-11-23T10:51:42+00:00"
-  },
-  "https://indy.epfl.ch/project/66": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Matrix Factorisation With Comparison Data",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/66",
-   "content_hash": "7a7bdce879712b076fa1fbca034eed32650f1ab0bc3039704a6813901679f4f8",
-   "text_chars": 1715,
-   "text_file": "050061a737f26ee2f452828a.txt",
-   "first_seen_at": "2026-11-23T10:51:41+00:00",
-   "last_checked_at": "2026-11-23T10:51:41+00:00",
-   "last_changed_at": "2026-11-23T10:51:41+00:00"
-  },
-  "https://indy.epfl.ch/project/69": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Bayesian Optimization for Soft Clustering",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/69",
-   "content_hash": "49a2efc7193f49bc8d2cb6beaa2c89964ead0b9d7d42860fa5434fdccc45c569",
-   "text_chars": 3631,
-   "text_file": "b563baef1d2e11d49ff5037e.txt",
-   "first_seen_at": "2026-11-23T10:51:40+00:00",
-   "last_checked_at": "2026-11-23T10:51:40+00:00",
-   "last_changed_at": "2026-11-23T10:51:40+00:00"
-  },
-  "https://indy.epfl.ch/project/70": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Web scrapping for hierarchical clustering",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/70",
-   "content_hash": "0cd9448fae21842354ebb5738f31e5825bf09260919597b4cd802f19e8f11549",
-   "text_chars": 537,
-   "text_file": "bab49ed212ef86ddd5d767ae.txt",
-   "first_seen_at": "2026-11-23T10:51:39+00:00",
-   "last_checked_at": "2026-11-23T10:51:39+00:00",
-   "last_changed_at": "2026-11-23T10:51:39+00:00"
-  },
-  "https://indy.epfl.ch/project/71": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Robust Collaborative Filtering",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/71",
-   "content_hash": "6c1856c68447747618cf1084e283b9b9ac75d17113cc02bbcf8df96a20d4a648",
-   "text_chars": 2602,
-   "text_file": "0757b5cbb24bde11250f8c3d.txt",
-   "first_seen_at": "2026-11-23T10:51:38+00:00",
-   "last_checked_at": "2026-11-23T10:51:38+00:00",
-   "last_changed_at": "2026-11-23T10:51:38+00:00"
-  },
-  "https://indy.epfl.ch/project/72": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "SAT‑Driven Exact and Heuristic Treewidth & Decomposition",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/72",
-   "content_hash": "e8ba7e7fe9b81206f95e62e785ad89d7c0b4f721a058767898902bcccd5b1772",
-   "text_chars": 1341,
-   "text_file": "751e35434f594cad3bb85e05.txt",
-   "first_seen_at": "2026-11-23T10:51:30+00:00",
-   "last_checked_at": "2026-11-23T10:51:30+00:00",
-   "last_changed_at": "2026-11-23T10:51:30+00:00"
-  },
-  "https://indy.epfl.ch/project/73": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Robustness and Performance of Spectral Clustering Methods for Community Detection",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/73",
-   "content_hash": "19ecd9796b204728afc0158199495ab630fce26d5410b15dc8556f81cf303aec",
-   "text_chars": 2135,
-   "text_file": "8b8cf2b7eda007debfd5d730.txt",
-   "first_seen_at": "2026-11-23T10:51:37+00:00",
-   "last_checked_at": "2026-11-23T10:51:37+00:00",
-   "last_changed_at": "2026-11-23T10:51:37+00:00"
-  },
-  "https://indy.epfl.ch/project/74": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Recommender System with hierarchical structure",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/74",
-   "content_hash": "5425ce7ffccb2bea3f19aea612810adf9bb85c8e59ebe3ca046d1d5e0e9f43db",
-   "text_chars": 1373,
-   "text_file": "6ec5224adfb13162c102976b.txt",
-   "first_seen_at": "2026-11-23T10:51:36+00:00",
-   "last_checked_at": "2026-11-23T10:51:36+00:00",
-   "last_changed_at": "2026-11-23T10:51:36+00:00"
-  },
-  "https://indy.epfl.ch/project/75": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "When does effective-resistance sparsification preserve infection dynamics?",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/75",
-   "content_hash": "e702c59902cd9f155f7d386e333f9298ec53eb833e26f306d266425db38648c9",
-   "text_chars": 1242,
-   "text_file": "96d1acfcfb1ef095805f1ade.txt",
-   "first_seen_at": "2026-11-23T10:51:35+00:00",
-   "last_checked_at": "2026-11-23T10:51:35+00:00",
-   "last_changed_at": "2026-11-23T10:51:35+00:00"
-  },
-  "https://indy.epfl.ch/project/76": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "ER Graph Discovery via Independent Distance Measurements",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/76",
-   "content_hash": "8bee217e85e1ff9fe568efb0e2c9b7f7bf1fd624aaedcb9351f521107c8a7cd6",
-   "text_chars": 1947,
-   "text_file": "f89e862a880be2d003b98ea5.txt",
-   "first_seen_at": "2026-11-23T10:51:34+00:00",
-   "last_checked_at": "2026-11-23T10:51:34+00:00",
-   "last_changed_at": "2026-11-23T10:51:34+00:00"
-  },
-  "https://indy.epfl.ch/project/77": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Causal Subgoal Discovery for Hierarchical Reinforcement Learning",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/77",
-   "content_hash": "6ca108135fc42268ee011307499bcb73ad61736b02d677fa96d703a9d1a0e64a",
-   "text_chars": 2209,
-   "text_file": "15735889e34865515b474c72.txt",
-   "first_seen_at": "2026-11-23T10:51:29+00:00",
-   "last_checked_at": "2026-11-23T10:51:29+00:00",
-   "last_changed_at": "2026-11-23T10:51:29+00:00"
-  },
   "https://indy.epfl.ch/project/78": {
    "lab_ids": [
     "ic-indy1",
@@ -2229,22 +1867,6 @@
    "first_seen_at": "2026-11-23T10:51:26+00:00",
    "last_checked_at": "2026-11-23T10:51:26+00:00",
    "last_changed_at": "2026-11-23T10:51:26+00:00"
-  },
-  "https://indy.epfl.ch/project/80": {
-   "lab_ids": [
-    "ic-indy1",
-    "ic-indy2"
-   ],
-   "parent_url": "https://indy.epfl.ch/projects",
-   "link_text": "Evaluating Multiview Structure Preservation in Dimensionality Reduction",
-   "kind": "html",
-   "final_url": "https://indy.epfl.ch/project/80",
-   "content_hash": "28d724e8ede4d918bc526d880f186637b8c31240d169e00be6692dcdaaa0bdc7",
-   "text_chars": 2315,
-   "text_file": "7239fb59780a9282bfe15856.txt",
-   "first_seen_at": "2026-11-23T10:51:28+00:00",
-   "last_checked_at": "2026-11-23T10:51:28+00:00",
-   "last_changed_at": "2026-11-23T10:51:28+00:00"
   },
   "https://indy.epfl.ch/project/81": {
    "lab_ids": [
@@ -2287,8 +1909,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://indy.epfl.ch/projects",
-   "content_hash": "25ba0bdb3d341cdac0e5a4e819dbf8e90c586822ab55290e4ea5317ef878dff0",
-   "text_chars": 15938,
+   "content_hash": "f4df175bf551231f6a13058a39f12c9a4b305f4595e3bb103c581b0c0f75f7f8",
+   "text_chars": 2041,
    "text_file": "e63366418ba5716affb3ec32.txt",
    "first_seen_at": "2026-11-23T10:51:24+00:00",
    "last_checked_at": "2026-11-23T10:51:24+00:00",
@@ -2332,8 +1954,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://lasec.epfl.ch/teaching.php",
-   "content_hash": "eea7c940456adc0c700fb7db65ce83bbc729517fc865a7cfe6c0f78a3f106d9d",
-   "text_chars": 2740,
+   "content_hash": "7685a3ca98032c4e0d161f9d4e7a45e5e42328366c79c951370f095ece323e58",
+   "text_chars": 3018,
    "text_file": "4e8ae1feebea2fb96dfad54f.txt",
    "first_seen_at": "2026-11-23T10:51:53+00:00",
    "last_checked_at": "2026-11-23T10:51:53+00:00",
@@ -3669,8 +3291,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/disopt/projects/",
-   "content_hash": "a54ddb265fd48e7e92b97d3f01d8f65670c7d5ce1cefaa4ebc911d46145420dd",
-   "text_chars": 572,
+   "content_hash": "e729b7a25bafc5839c2e321f54c74f1d1a63663a282d14f4bad6d89f2802d31c",
+   "text_chars": 556,
    "text_file": "683aa51c7dd6b3ffbcca8e3f.txt",
    "first_seen_at": "2026-11-23T10:53:09+00:00",
    "last_checked_at": "2026-11-23T10:53:09+00:00",
@@ -4916,8 +4538,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/mlo/page-135359-en-html/",
-   "content_hash": "03c7ed0a9f1f1dfd0c9c5993bf7f71e019e92c41860f548e08ee2d891acb5e5d",
-   "text_chars": 18320,
+   "content_hash": "bec13959ff6d45870191f637e6fcaef7008c4fa8f82ea7a95b55c8a33678d92a",
+   "text_chars": 18294,
    "text_file": "f2284c6cf6363295f12961a4.txt",
    "first_seen_at": "2026-11-23T10:52:29+00:00",
    "last_checked_at": "2026-11-23T10:52:29+00:00",
@@ -5522,8 +5144,8 @@
    "link_text": "Research",
    "kind": "html",
    "final_url": "https://www.epfl.ch/schools/ic/ipg/research-topics/",
-   "content_hash": "b5f785b5caff7853b4805aa8dfbe736bb1c5b37ee857d1a258f7b8f7257c03a4",
-   "text_chars": 346,
+   "content_hash": "0d2586a745bb76f2caba2db1fc354f1b1a2261c23fe357c28d1bc9b49ffaf8bc",
+   "text_chars": 56,
    "text_file": "c3bad96879cd6360e6447faa.txt",
    "first_seen_at": "2026-11-23T10:46:05+00:00",
    "last_checked_at": "2026-11-23T10:46:05+00:00",
@@ -5666,8 +5288,8 @@
    "link_text": null,
    "kind": "html",
    "final_url": "https://www.spring.mpi-sp.org/student_projects.html",
-   "content_hash": "083d564496513dee0b43fbe3778f93921cc7e53caa984bea5ad5da260505d0a7",
-   "text_chars": 4887,
+   "content_hash": "c3e91db819254409db3f78021e45143e1b703e8602ede839701bf08d97902924",
+   "text_chars": 5943,
    "text_file": "554588be0c7f3d66352602ef.txt",
    "first_seen_at": "2026-11-23T10:52:49+00:00",
    "last_checked_at": "2026-11-23T10:52:49+00:00",

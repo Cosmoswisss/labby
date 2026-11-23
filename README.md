@@ -3,19 +3,21 @@
 Unofficial search engine for student projects (semester, bachelor and master projects)
 offered by EPFL labs. **Not affiliated with EPFL** — each lab's own page is the reference.
 
-Status: **phase 1 — crawler** (IC school and its accredited labs). See
+Status: **phase 2 — LLM extraction** (IC school and its accredited labs). See
 [docs/data-sources.md](docs/data-sources.md) for the data-source exploration.
 
 ## How it works
 
 ```text
 labs.yaml ──► crawl (cache + change detection) ──► LLM extraction ──► data/projects.json ──► website
-              phase 1 ✅                            phase 2            phase 2                 phase 3
+              phase 1 ✅                            phase 2 ✅         phase 2 ✅              phase 3
 ```
 
 ## Pipeline (Python)
 
-Requirements: [uv](https://docs.astral.sh/uv/) (it installs Python 3.12 by itself).
+Requirements: [uv](https://docs.astral.sh/uv/) (it installs Python 3.12 by itself) and, for
+the extraction, [Claude Code](https://docs.claude.com/en/docs/claude-code) logged in with a
+Claude subscription (no paid API key).
 
 ```bash
 cd pipeline
@@ -54,6 +56,42 @@ Outputs:
 - `pipeline/state/crawl_state.json` (committed): status of each lab, and per page its
   labs, content hash, `first_seen_at`, `last_checked_at`, `last_changed_at`.
 - `pipeline/state/crawl_report.json` (committed): summary of the last run.
+
+### 3. Extraction — `uv run pipeline extract`
+
+Sends each crawled page's clean text to Claude Code in non-interactive mode
+(`claude -p --json-schema …`, model `haiku`, no tools, our own system prompt) and stores
+the projects found per page in `pipeline/state/extractions.json` (committed).
+
+- Only **new or changed pages** are sent (content hash, prompt version and model are
+  compared), so weekly runs stay small.
+- `--limit N` caps the number of pages per run (subscription quota); progress is saved
+  after every page, a later run resumes where the previous one stopped.
+- `--dry-run` estimates the input tokens without calling anything.
+- Prompt: `pipeline/src/pipeline/prompts/extract_v2.md` (versioned; editing it triggers a
+  re-extraction). Schema: `ExtractedProject` / `PageExtraction` in `models.py`.
+- Never extracts students' names: only supervisors/contacts.
+
+### 4. Evaluation — `uv run pipeline eval`
+
+27 hand-annotated pages (`pipeline/eval/gold/`) covering the difficult cases (index
+pages, shared pages, archives with student names, PDFs, past-semester pages…). The command
+runs the extraction on frozen page texts and reports project precision/recall and field
+accuracy; each run is saved in `pipeline/eval/runs/`.
+
+| Run | Precision | Recall | F1 | Levels | Supervisors | Status |
+|---|---|---|---|---|---|---|
+| haiku + extract_v1 | 0.98 | 0.97 | 0.974 | 0.97 | 1.0 | 1.0 |
+| haiku + extract_v2 | 1.0 | 1.0 | 1.0 | 1.0 | 1.0 | 0.99 |
+
+(extract_v2 was tuned on this set: expect lower scores on unseen pages.)
+`--snapshot` refreshes `eval/pages/` from the crawl, `--rescore <run.json>` re-scores a
+saved run without calling the LLM.
+
+### 5. Export — `uv run pipeline export`
+
+Writes `data/projects.json` and `data/labs.json` (merging index/sub-page duplicates and
+attributing projects of shared pages) plus `pipeline/state/export_report.json`.
 
 ### Crawling rules
 

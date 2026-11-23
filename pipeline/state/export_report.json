@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-11-23T13:07:32+00:00",
+ "labs": 114,
+ "labs_by_status": {
+  "ok": 92,
+  "none": 16,
+  "js_rendered": 1,
+  "restricted": 3,
+  "blocked": 2
+ },
+ "labs_with_projects": 60,
+ "projects": 504,
+ "projects_by_status": {
+  "available": 445,
+  "unknown": 57,
+  "reserved": 2
+ },
+ "pages_crawled": 273,
+ "pages_extracted": 273,
+ "pages_failed": 0,
+ "pages_not_yet_extracted": 0,
+ "extraction_tokens_in": 1686735,
+ "extraction_tokens_out": 303322
+}

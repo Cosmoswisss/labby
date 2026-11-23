@@ -1,0 +1,590 @@
+{
+ "engine": "claude-code:haiku",
+ "prompt": "extract_v2:22458c0d",
+ "predictions": {
+  "lib-subjects": {
+   "input_tokens": 38763,
+   "output_tokens": 5212,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Continuous-Domain Phase Retrieval in Dimension One",
+     "lab_acronym": null,
+     "summary": "Semester project on continuous-domain phase retrieval in one dimension. The page gives only the title and supervisor.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "phase retrieval",
+      "inverse problems",
+      "signal processing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Vincent Guillemet"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Training Complex-Valued Denoisers for Phase Retrieval",
+     "lab_acronym": null,
+     "summary": "Master semester project on training complex-valued denoisers for use in phase retrieval. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "phase retrieval",
+      "deep learning",
+      "image denoising"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Zhiyuan Hu",
+      "Jonathan Dong"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Exploring Global Youth Art Through AI: A Semantic Analysis of the IMAJ Collection",
+     "lab_acronym": null,
+     "summary": "Project using AI to perform a semantic analysis of the IMAJ youth art collection. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "computer vision",
+      "digital humanities",
+      "machine learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Julien Fageot",
+      "Daniel Sage"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "High-Dimensional Gaussian Sampling: Cholesky versus Markov",
+     "lab_acronym": null,
+     "summary": "Master project comparing Cholesky-based and Markov-based approaches to sampling high-dimensional Gaussian distributions.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "numerical methods",
+      "probabilistic models",
+      "inverse problems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Martin Zach"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Sampling from Learned Regularizers",
+     "lab_acronym": null,
+     "summary": "Master semester project on sampling from regularizers learned from data. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "inverse problems",
+      "machine learning",
+      "image reconstruction"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Stanislas Ducotterd",
+      "Youssef Haouchat",
+      "Bassam El Rawas"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Analysis of dendritic spine changes using deep-learning encoding in a latent space",
+     "lab_acronym": null,
+     "summary": "Master project analysing changes in dendritic spines using deep-learning encoding in a latent space.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microscopy image analysis",
+      "deep learning",
+      "neuroscience"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Aleix Boquet I Pujadas",
+      "Daniel Sage"
+     ],
+     "status": "reserved",
+     "academic_period": null
+    },
+    {
+     "title": "Automated image analysis of tau fibrils in the human Alzheimer's disease brain",
+     "lab_acronym": null,
+     "summary": "Master semester project on automated image analysis of tau fibrils in human Alzheimer's disease brain tissue. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "medical imaging",
+      "image analysis",
+      "neuroscience"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Daniel Sage",
+      "Daniel Stähli"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Generating of Point-Spread Function for Advanced Imaging Microscopy in Python",
+     "lab_acronym": null,
+     "summary": "Project on generating point-spread functions for advanced imaging microscopy, implemented in Python. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microscopy",
+      "optical imaging",
+      "scientific software"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Jonathan Dong",
+      "Vasiliki Stergiopoulou",
+      "Yan Liu",
+      "Daniel Sage"
+     ],
+     "status": "unknown",
+     "academic_period": "Autumn"
+    },
+    {
+     "title": "Geometry of Images: A War Between Fastness and Expressiveness",
+     "lab_acronym": null,
+     "summary": "Project on the trade-off between speed and expressiveness in the geometry of images. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "image processing",
+      "approximation theory"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Vincent Guillemet",
+      "Mehrsa Pourya"
+     ],
+     "status": "unknown",
+     "academic_period": "Spring 2024"
+    },
+    {
+     "title": "Advanced machine learning for probability density estimation",
+     "lab_acronym": null,
+     "summary": "Master semester project on advanced machine learning methods for probability density estimation. The page gives only the title and supervisors.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "machine learning",
+      "statistics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Aleix Boquet-Pujadas",
+      "Michael Unser"
+     ],
+     "status": "unknown",
+     "academic_period": "Autumn 2022"
+    }
+   ]
+  },
+  "mlo": {
+   "input_tokens": 11735,
+   "output_tokens": 4212,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Data curation and curriculum learning for pre-training, theory and practice",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Covers data curation and curriculum learning for LLM pre-training, combining theory and practice. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "pretraining",
+      "data curation",
+      "curriculum learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Scaling to longer context windows through modifications of attention",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Aims to scale LLMs to longer context windows by modifying the attention mechanism. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "attention mechanisms",
+      "long context"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Efficiency engineering for LLM pretraining and specifically MoE architectures",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Focuses on engineering efficiency for LLM pre-training, in particular for mixture-of-experts (MoE) architectures. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "mixture of experts",
+      "efficient training"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Tools-usage during pretraining & finetuning",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Concerns enabling tool usage by LLMs during pre-training and fine-tuning. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "tool use",
+      "fine-tuning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Safety and alignment during pretraining",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Studies safety and alignment of LLMs during the pre-training stage. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "ai safety",
+      "alignment"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Novel architectures (including efficient long context or MoE related mechanisms)",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Explores novel LLM architectures, including efficient long-context or mixture-of-experts mechanisms. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "neural architectures",
+      "mixture of experts"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimization dynamics for LLMs (Muon and AdEMAmix variants, interactions with architecture)",
+     "lab_acronym": null,
+     "summary": "Part of the several LLM / Apertus projects listed by MLO. Studies optimization dynamics for LLM training, e.g. Muon and AdEMAmix variants and their interactions with architecture. Students apply via the application form.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "optimization",
+      "deep learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "LLM inference on old V100 GPUs",
+     "lab_acronym": null,
+     "summary": "New project for fall 2026. Aims to make recent large open-weight MoE models run on the EPFL cluster of V100 GPUs and compare with newer GPUs, using quantization, communication-efficient parallelism and inference frameworks such as vLLM or SGLang.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "inference efficiency",
+      "high performance computing"
+     ],
+     "skills": [
+      "vLLM",
+      "SGLang",
+      "quantization",
+      "multi-GPU parallelism"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Communication-efficient gossip methods for replacing all-reduce in distributed LLM training",
+     "lab_acronym": null,
+     "summary": "New project for fall 2026. Implements decentralized pairwise weight averaging instead of all-to-all communication for distributed LLM pre-training, and studies model and data parallelism settings and communication compression.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "distributed training",
+      "decentralized optimization",
+      "large language models"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "AI safety evaluations feeding back into Apertus Posttraining",
+     "lab_acronym": null,
+     "summary": "New project for fall 2026. Works with UN agencies such as UNICC to incorporate findings from red-teaming studies into the safety SFT and RL post-training recipes for the next Apertus generation.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "ai safety",
+      "red teaming",
+      "large language models",
+      "post-training"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "LLM Pretraining Data Curation",
+     "lab_acronym": null,
+     "summary": "Updated for fall 2026. Aims to go beyond baselines such as FineWeb-2 HQ using new techniques for signal extraction, semantic filtering and partially synthetic augmentation or rephrasing, in English or multilingual settings. One idea is to study the impact of data quality on the curse of multilinguality and scaling laws.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "data curation",
+      "multilingual nlp",
+      "scaling laws"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Learning to sample on the fly for SGD / curriculum learning",
+     "lab_acronym": null,
+     "summary": "An auxiliary network learns to assign scores to training data points, which are then used to select an improved set of training points. Several ways to train the auxiliary parameters will be explored.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "machine learning",
+      "optimization",
+      "curriculum learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "El Mahdi Chayti",
+      "Simin Fan"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Improving factuality understanding for LLM training",
+     "lab_acronym": null,
+     "summary": "Plans to add a per-document factuality tag or masking to guide LLM training on what is factual, with the goal of enhancing factuality and reducing hallucinations. Post-training techniques may also be investigated.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "large language models",
+      "factuality",
+      "hallucination"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Build decentralized LLMs in the browser",
+     "lab_acronym": null,
+     "summary": "Practical project within a larger team effort to build decentralized, federated training software (DISCO) in which many clients, such as phones or hospitals, collaboratively train a joint model such as a small LLM while preserving data privacy. Mostly JavaScript/TypeScript, with Rust integration of Burn.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "federated learning",
+      "decentralized learning",
+      "privacy",
+      "cybersecurity"
+     ],
+     "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Rust"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Martin Jaggi"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  }
+ },
+ "summary": {
+  "projects": {
+   "tp": 21,
+   "fp": 3,
+   "fn": 0,
+   "precision": 0.875,
+   "recall": 1.0,
+   "f1": 0.933
+  },
+  "fields": {
+   "project_types": {
+    "accuracy": 1.0,
+    "n": 7
+   },
+   "supervisors": {
+    "accuracy": 1.0,
+    "n": 21
+   },
+   "status": {
+    "accuracy": 0.952,
+    "n": 21
+   },
+   "lab_acronym": {
+    "accuracy": null,
+    "n": 0
+   }
+  },
+  "pages_with_errors": 0,
+  "unexpected_names": 4,
+  "input_tokens": 50498,
+  "output_tokens": 9424
+ },
+ "pages": [
+  {
+   "page_id": "lib-subjects",
+   "tp": 7,
+   "fp": 3,
+   "fn": 0,
+   "false_positives": [
+    "Generating of Point-Spread Function for Advanced Imaging Microscopy in Python",
+    "Geometry of Images: A War Between Fastness and Expressiveness",
+    "Advanced machine learning for probability density estimation"
+   ],
+   "missed": [],
+   "field_errors": [
+    "status unknown: Automated image analysis of tau fibrils in the human Alzheimer's disease brain"
+   ],
+   "unexpected_names": [
+    "Vasiliki Stergiopoulou",
+    "Yan Liu",
+    "Mehrsa Pourya",
+    "Michael Unser"
+   ],
+   "error": null
+  },
+  {
+   "page_id": "mlo",
+   "tp": 14,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  }
+ ]
+}
