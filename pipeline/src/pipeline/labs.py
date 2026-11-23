@@ -171,7 +171,7 @@ def dump_labs_yaml(labs: list[Lab], path: Path) -> None:
     body = yaml.safe_dump(
         {"labs": data}, sort_keys=False, allow_unicode=True, width=100, default_flow_style=False
     )
-    path.write_text(HEADER_COMMENT + "\n" + body, encoding="utf-8")
+    path.write_text(HEADER_COMMENT + "\n" + body, encoding="utf-8", newline="\n")
 
 
 def load_labs(path: Path) -> list[Lab]:

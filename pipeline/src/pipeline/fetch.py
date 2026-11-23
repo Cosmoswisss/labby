@@ -207,19 +207,29 @@ class Fetcher:
             return cached
 
         if not self.allowed(url):
-            return FetchResult(url=url, error="disallowed by robots.txt", robots_disallowed=True)
-
-        result = self._fetch_network(url, conditional_from=cached)
-        if result.status == 304 and cached is not None:
-            self.stats["not_modified"] += 1
-            cached.fetched_at = result.fetched_at
-            cached.from_cache = True
-            self.cache.put(cached)
-            return cached
-        if result.ok:
+            result = FetchResult(
+                url=url,
+                error="disallowed by robots.txt",
+                robots_disallowed=True,
+                fetched_at=now_utc().isoformat(timespec="seconds"),
+            )
             self.cache.put(result)
-        else:
+            return result
+
+        conditional = cached if cached is not None and cached.ok else None
+        result = self._fetch_network(url, conditional_from=conditional)
+        if result.status == 304 and conditional is not None:
+            self.stats["not_modified"] += 1
+            conditional.fetched_at = result.fetched_at
+            conditional.from_cache = True
+            self.cache.put(conditional)
+            return conditional
+        if not result.ok:
             self.stats["errors"] += 1
+        # Cache definitive answers (2xx, 401/403/404…) so offline runs reproduce them;
+        # transient failures (network errors, 429, 5xx) are retried next time instead.
+        if result.status is not None and result.status not in RETRY_STATUSES:
+            self.cache.put(result)
         return result
 
     def _is_fresh(self, fetched_at: str) -> bool:
