@@ -3,14 +3,14 @@
 Unofficial search engine for student projects (semester, bachelor and master projects)
 offered by EPFL labs. **Not affiliated with EPFL** — each lab's own page is the reference.
 
-Status: **phase 2 — LLM extraction** (IC school and its accredited labs). See
+Status: **phase 3 — website** (IC school and its accredited labs). See
 [docs/data-sources.md](docs/data-sources.md) for the data-source exploration.
 
 ## How it works
 
 ```text
 labs.yaml ──► crawl (cache + change detection) ──► LLM extraction ──► data/projects.json ──► website
-              phase 1 ✅                            phase 2 ✅         phase 2 ✅              phase 3
+              phase 1 ✅                            phase 2 ✅         phase 2 ✅              phase 3 ✅
 ```
 
 ## Pipeline (Python)
@@ -116,6 +116,33 @@ Behind an antivirus or proxy that inspects HTTPS, `uv` may fail with
 `invalid peer certificate: UnknownIssuer` when downloading packages: add
 `--system-certs` (e.g. `uv sync --system-certs`). The crawler itself already uses the
 operating system's certificate store (via `truststore`).
+
+## Website (`web/`)
+
+Next.js (App Router) + TypeScript + Tailwind CSS, exported as a **fully static site**
+(`output: "export"`): no server, one HTML page per project.
+
+```bash
+cd web
+npm install
+npm run dev      # http://localhost:3000 (copies ../data/*.json into src/data/ first)
+npm test         # vitest: search, filters, URL state, past-semester detection
+npm run lint
+npm run build    # static site in web/out/
+```
+
+- `/` — full-text search (MiniSearch, in the browser) + combinable filters (type,
+  faculty, domain, skills, lab, status, language, past semesters), all reflected in the
+  URL so a search can be shared.
+- `/projects/<id>/` — project page with a link to the lab's page and the last-checked date.
+- `/labs/` — every lab, with a direct link for labs without a public list.
+- `/about/` — how it works, corrections and removal requests (GitHub issues).
+
+### Deployment (Vercel)
+
+Import the GitHub repository in Vercel with **Root Directory = `web`** (framework preset:
+Next.js; keep "Include files outside the root directory" enabled, the build reads
+`../data`). Every push to `main` redeploys the site.
 
 ## License
 
