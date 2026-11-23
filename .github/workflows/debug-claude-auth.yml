@@ -1,0 +1,40 @@
+# TEMPORARY: diagnose Claude Code authentication in Actions. To be deleted.
+name: Debug Claude auth
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN || secrets.CLAUDE_CODE_AUTH_TOKEN }}
+    steps:
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 26
+      - run: npm install -g @anthropic-ai/claude-code
+      - name: Environment (no secret values printed)
+        run: |
+          echo "claude: $(command -v claude)"
+          claude --version
+          echo "token set: $([ -n "$CLAUDE_CODE_OAUTH_TOKEN" ] && echo yes || echo no)"
+          echo "token length: ${#CLAUDE_CODE_OAUTH_TOKEN}"
+          echo "token prefix ok: $([[ "$CLAUDE_CODE_OAUTH_TOKEN" == sk-ant-oat* ]] && echo yes || echo no)"
+          echo "token has whitespace: $([[ "$CLAUDE_CODE_OAUTH_TOKEN" =~ [[:space:]] ]] && echo yes || echo no)"
+      - name: Call from bash
+        run: echo "Reply with OK." | claude -p --model haiku --output-format json --tools "" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('is_error'), repr(d.get('result'))[:120])"
+      - name: Call from Python subprocess
+        run: |
+          python3 - <<'EOF'
+          import json, os, shutil, subprocess, tempfile
+          print("env has token:", bool(os.environ.get("CLAUDE_CODE_OAUTH_TOKEN")))
+          with tempfile.TemporaryDirectory() as d:
+              p = subprocess.run([shutil.which("claude"), "-p", "--model", "haiku", "--output-format", "json", "--tools", ""],
+                                 input="Reply with OK.", capture_output=True, text=True, cwd=d)
+          out = json.loads(p.stdout)
+          print(out.get("is_error"), repr(out.get("result"))[:120])
+          EOF
