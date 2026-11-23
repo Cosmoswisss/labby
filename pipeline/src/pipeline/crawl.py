@@ -176,7 +176,9 @@ class Crawler:
         lab_state["pages"].append(seed.url)
 
         if seed.kind == "html":
-            for link in find_subpage_links(seed.html, seed.final_url or seed.url, self.max_subpages):
+            for link in find_subpage_links(
+                seed.html, seed.final_url or seed.url, self.max_subpages
+            ):
                 sub = self._visit(link.url, seed.url, lab, outcomes, old_pages, new_pages, report)
                 if sub.status == "ok":
                     lab_state["pages"].append(sub.url)
@@ -193,8 +195,9 @@ class Crawler:
         outcomes[url] = outcome
         if outcome.status != "ok":
             report.pages_error += 1
-            report.errors.append({"lab": lab.id, "url": url, "status": outcome.status,
-                                  "error": outcome.error})
+            report.errors.append(
+                {"lab": lab.id, "url": url, "status": outcome.status, "error": outcome.error}
+            )
             return outcome
 
         digest = content_hash(outcome.text)
@@ -207,8 +210,9 @@ class Crawler:
             first_seen, last_changed = previous.get("first_seen_at"), outcome.fetched_at
         else:
             report.pages_unchanged += 1
-            first_seen, last_changed = previous.get("first_seen_at"), previous.get(
-                "last_changed_at"
+            first_seen, last_changed = (
+                previous.get("first_seen_at"),
+                previous.get("last_changed_at"),
             )
         if len(outcome.text) < LITTLE_TEXT_CHARS:
             report.little_text_pages.append(url)

@@ -17,6 +17,5 @@ IC_LABS_SOURCE_URL = (
 )
 
 USER_AGENT = (
-    "LabbyBot/0.1 (unofficial EPFL student-project index; "
-    "+https://github.com/Cosmoswisss/labby)"
+    "LabbyBot/0.1 (unofficial EPFL student-project index; +https://github.com/Cosmoswisss/labby)"
 )
