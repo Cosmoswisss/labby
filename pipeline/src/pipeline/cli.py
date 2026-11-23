@@ -129,6 +129,27 @@ def extract(
         typer.echo(f"  ! {err['url']}: {err['error']}")
 
 
+@app.command()
+def export(
+    labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
+) -> None:
+    """Write data/projects.json and data/labs.json from the crawl + extraction state."""
+    from pipeline.export import export as run_export
+    from pipeline.labs import load_labs
+
+    report = run_export(load_labs(labs_file), config.STATE_DIR, config.REPO_DIR / "data")
+    typer.echo(f"Projects: {report['projects']}  {report['projects_by_status']}")
+    typer.echo(f"Labs: {report['labs']} ({report['labs_with_projects']} with projects) "
+               f"{report['labs_by_status']}")  # fmt: skip
+    typer.echo(
+        f"Pages: {report['pages_crawled']} crawled, {report['pages_extracted']} extracted, "
+        f"{report['pages_failed']} failed, {report['pages_not_yet_extracted']} not yet extracted"
+    )
+    typer.echo(f"Extraction tokens so far: {report['extraction_tokens_in']:,} in / "
+               f"{report['extraction_tokens_out']:,} out")  # fmt: skip
+    typer.echo(f"Wrote {config.REPO_DIR / 'data'}")
+
+
 @app.command(name="eval")
 def eval_cmd(
     snapshot: bool = typer.Option(False, help="Freeze current crawled texts into eval/pages/."),
