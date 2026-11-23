@@ -149,8 +149,9 @@ class Extractor:
 
         if dry_run:
             chars = sum(self.crawl_state["pages"][u]["text_chars"] for u in todo)
-            # ~4 chars/token + system prompt and schema overhead per call
-            report.input_tokens = chars // 4 + len(todo) * 2_000
+            # ~4 chars/token + system prompt and schema overhead per call, x1.75: measured on
+            # the eval set (Claude Code's structured output takes an extra turn).
+            report.input_tokens = int((chars // 4 + len(todo) * 2_000) * 1.75)
             report.pages_left = len(pending)
             return report
 

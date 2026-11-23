@@ -107,7 +107,7 @@ def test_limit_and_dry_run(tmp_path):
     pages = {f"https://a.ch/p{i}": (["ic-vis"], "x" * 400, f"h{i}") for i in range(3)}
     setup_state(tmp_path, pages)
     dry = make_extractor(tmp_path, FakeEngine([])).run([lab("ic-vis")], dry_run=True)
-    assert dry.pages_left == 3 and dry.input_tokens == 3 * 100 + 3 * 2000
+    assert dry.pages_left == 3 and dry.input_tokens == int((3 * 100 + 3 * 2000) * 1.75)
     engine = FakeEngine([RESPONSE])
     report = make_extractor(tmp_path, engine).run([lab("ic-vis")], limit=1)
     assert len(engine.calls) == 1 and report.pages_left == 2
