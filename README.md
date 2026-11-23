@@ -5,7 +5,7 @@ offered by EPFL labs. **Not affiliated with EPFL** — each lab's own page is th
 
 **Live site: https://labby-seven.vercel.app**
 
-Status: **phase 3 — website** (IC school and its accredited labs). See
+Status: **phase 4 — automation** (IC school and its accredited labs). See
 [docs/data-sources.md](docs/data-sources.md) for the data-source exploration.
 
 ## How it works
@@ -145,6 +145,31 @@ npm run build    # static site in web/out/
 Import the GitHub repository in Vercel with **Root Directory = `web`** (framework preset:
 Next.js; keep "Include files outside the root directory" enabled, the build reads
 `../data`). Every push to `main` redeploys the site.
+
+## Automation (GitHub Actions)
+
+- **CI** (`.github/workflows/ci.yml`), on every push and pull request: ruff + pytest for
+  the pipeline, eslint + vitest + build for the website. Never calls the LLM.
+- **Weekly data update** (`.github/workflows/update-data.yml`), every Monday 06:00 UTC and
+  on demand (Actions → Update data → Run workflow): crawl → extract (new and changed pages
+  only, `--max-input-tokens 400000` by default) → export. When data changed, it opens a
+  pull request `data-update/<date>` whose description lists new, removed and updated
+  projects; merging it publishes the data (Vercel redeploys `main`).
+  - If the token budget or the subscription's usage limit is reached, the run stops
+    cleanly and the remaining pages are extracted next week.
+  - The raw download cache is kept between runs (Actions cache) for conditional requests.
+  - Pull requests opened by the workflow's `GITHUB_TOKEN` do not trigger the CI workflow
+    (GitHub rule); Vercel still builds a preview for them.
+
+Setup (once):
+
+1. `claude setup-token` (Claude Code, logged in with the Claude subscription) prints a
+   long-lived token; add it as the repository secret `CLAUDE_CODE_OAUTH_TOKEN`
+   (Settings → Secrets and variables → Actions).
+2. Settings → Actions → General → Workflow permissions: allow GitHub Actions to create and
+   approve pull requests.
+
+To pause the weekly run: Actions → Update data → ⋯ → Disable workflow.
 
 ## License
 
