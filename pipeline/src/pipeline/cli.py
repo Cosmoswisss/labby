@@ -154,7 +154,7 @@ def export(
 def eval_cmd(
     snapshot: bool = typer.Option(False, help="Freeze current crawled texts into eval/pages/."),
     model: str = typer.Option("haiku", help="Claude model alias used by Claude Code."),
-    prompt: str = typer.Option("extract_v1", help="Prompt file name in prompts/."),
+    prompt: str = typer.Option("extract_v2", help="Prompt file name in prompts/."),
     page: list[str] = typer.Option(None, "--page", help="Only these eval page ids."),
     rescore: Path = typer.Option(None, help="Re-score a saved run file, no LLM call."),
     labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),

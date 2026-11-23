@@ -1,9 +1,26 @@
-# Long list of completed theses with student names below: must not leak.
+# Sub-topics of the LLM/Apertus block count as separate projects (decision 2026-11-23). Completed theses with student names below: must not leak.
 projects:
-- title: Several projects around large language models / Apertus
+- title: Data curation and curriculum learning for pre-training, theory and practice
   project_types: null
-  supervisors: null
-  optional: true
+  supervisors: []
+- title: Scaling to longer context windows through modifications of attention
+  project_types: null
+  supervisors: []
+- title: Efficiency engineering for LLM pretraining and specifically MoE architectures
+  project_types: null
+  supervisors: []
+- title: Tools-usage during pretraining & finetuning
+  project_types: null
+  supervisors: []
+- title: Safety and alignment during pretraining
+  project_types: null
+  supervisors: []
+- title: Novel architectures (including efficient long context or MoE related mechanisms)
+  project_types: null
+  supervisors: []
+- title: Optimization dynamics for LLMs (e.g. Muon and AdEMAmix variants, and interactions with architecture)
+  project_types: null
+  supervisors: []
 - title: LLM inference on old V100 GPUs
   project_types: null
   supervisors: []
