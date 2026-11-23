@@ -1,0 +1,64 @@
+# Only 'Available' rows; Assigned and Finished rows are excluded.
+projects:
+- title: Controlling the timbre of wind instruments with active control
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: &id001
+  - available
+- title: Plasmacoustic headphones
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001
+- title: Development of a Graphical User Interface for Electroacoustic Absorbers
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001
+- title: Exploration and improvement of a data-agnostic multimodal deep learning architecture relying on a novel fusion strategy
+  project_types: null
+  supervisors:
+  - Anaïs Betsabeh Haget
+  status: *id001
+- title: Auditory distance perception
+  project_types: null
+  supervisors:
+  - Qin Liu
+  status: *id001
+- title: 3D Sound Localization
+  project_types: null
+  supervisors:
+  - Qin Liu
+  status: *id001
+- title: 'Design of unprecedented sound sources: a dream come true with plasma loudspeakers?'
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001
+- title: Optimization of corona discharge loudspeakers
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001
+- title: Modeling translation elongation dynamics through Variational AutoEncoders
+  project_types: null
+  supervisors:
+  - Mohan Vamsi Nallapareddy
+  - Francesco Craighero
+  status: *id001
+- title: Enhancing Protein Design Through Advanced Graph Neural Networks
+  project_types: null
+  supervisors:
+  - Pengkang Guo
+  status: *id001
+- title: Development and characterization of an acoustic matched source
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001
+- title: 'VENOVA : an actively modified cylindrical cross-saxophone'
+  project_types: null
+  supervisors:
+  - Hervé Lissek
+  status: *id001

@@ -1,0 +1,6 @@
+# Title only in <title> (prepended by the crawler).
+projects:
+- title: Reusable Foundations for Probabilistic Proofs in Lean
+  project_types: null
+  supervisors:
+  - Raphaël Fua

@@ -1,0 +1,25 @@
+projects:
+- title: Does Personalization in Medical Collaborative Learning Learn Site Shortcuts?
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Palak
+- title: Whose bubble is it? Harvesting idle capacity in data-parallel, expert-parallel LLM serving
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Ramya Prabhu
+- title: Noise or Lies? Distinguishing privacy protection from fairwashing in black-box audits
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Jade Bourrée
+- title: Privacy Vulnerability Transfer in Model Merging
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Milos Vujasinovic

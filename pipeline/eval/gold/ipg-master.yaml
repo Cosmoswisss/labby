@@ -1,0 +1,20 @@
+# Shared IPG page: lab given in parentheses.
+projects:
+- title: Quantum constraint satisfaction problems
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors: []
+  lab_acronym: SMILS
+- title: Message passing for Quantum Models
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors: []
+  lab_acronym: SMILS
+- title: Universal prediction and alpha-mutual information
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors: []
+  lab_acronym: LINX

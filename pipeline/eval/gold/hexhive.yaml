@@ -1,0 +1,12 @@
+# 'Other projects' paragraph is generic (no concrete topic).
+projects:
+- title: Improving Coverage Reliability in Cortex-M Firmware Rehosting
+  project_types:
+  - master_thesis
+  supervisors:
+  - Qinying Wang
+- title: Ownership-Aware Bug Hunting in Rust Crates
+  project_types:
+  - semester_master
+  supervisors:
+  - Yiwen Xu

@@ -1,0 +1,34 @@
+# All applications go to Prof. Cavallaro; levels: 'Master's & Research projects'.
+projects:
+- title: Contrastive latent alignment for multimodal reasoning
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Locating and ablating circuit-level private attribute sub-networks
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Continuous latent flow matching for multimodal spatial reasoning
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Alignment-based conformance checking
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Visual stream parsing for compliance auditing
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Voice anonymization with preservation of emotional prosody in multilingual settings
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Linguistic and stylometric style transfer for long-form speech anonymization
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro
+- title: Privacy guarantees for speech anonymization
+  project_types: null
+  supervisors:
+  - Andrea Cavallaro

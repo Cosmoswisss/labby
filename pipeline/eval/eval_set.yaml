@@ -1,0 +1,31 @@
+# Labby evaluation set: pages whose projects were annotated by hand (eval/gold/*.yaml).
+# Page texts are frozen in eval/pages/*.txt (gitignored: copies of third-party pages),
+# created from the crawl cache by `uv run pipeline eval --snapshot`.
+pages:
+  - {id: cvlab-index, url: "https://www.epfl.ch/labs/cvlab/projects/"}
+  - {id: cvlab-sub, url: "https://www.epfl.ch/labs/cvlab/projects/interpretable-and-controllable-neural-shape-parameterizations/"}
+  - {id: lap-available, url: "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"}
+  - {id: lap-main, url: "https://www.epfl.ch/labs/lap/students-projets/"}
+  - {id: lcn-master, url: "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"}
+  - {id: ipg-proposed, url: "https://www.epfl.ch/schools/ic/ipg/proposed-projects/"}
+  - {id: ipg-master, url: "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"}
+  - {id: ipg-bachelor, url: "https://www.epfl.ch/schools/ic/ipg/student-projects/bachelor-projects/"}
+  - {id: data, url: "https://www.epfl.ch/labs/data/teaching/student-projects/"}
+  - {id: dcl-education, url: "https://dcl.epfl.ch/site/Education"}
+  - {id: hexhive, url: "https://hexhive.epfl.ch/epflprojects/"}
+  - {id: ivrl, url: "https://www.epfl.ch/labs/ivrl/available-projects/"}
+  - {id: sacs, url: "https://www.epfl.ch/labs/sacs/student-projects/"}
+  - {id: tml, url: "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/"}
+  - {id: lts2-list, url: "https://lts2.epfl.ch/projects/list"}
+  - {id: lts2-146, url: "https://lts2.epfl.ch/projects/146"}
+  - {id: lib-subjects, url: "http://bigwww.epfl.ch/teaching/projects/subject.html"}
+  - {id: mlo, url: "https://www.epfl.ch/labs/mlo/page-135359-en-html/"}
+  - {id: mints, url: "https://www.epfl.ch/labs/mints/student-projects/"}
+  - {id: mlbio, url: "https://brbiclab.epfl.ch/join-us/"}
+  - {id: mathis, url: "https://mlabofai.org/join.html"}
+  - {id: laser, url: "https://laser.epfl.ch/pages/apply.html"}
+  - {id: ramdya, url: "https://www.epfl.ch/labs/ramdya-lab/available-projects/"}
+  - {id: indy-82, url: "https://indy.epfl.ch/project/82"}
+  - {id: entc, url: "https://www.epfl.ch/labs/entc/research/our-student-projects/"}
+  - {id: lmd-pdf, url: "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"}
+  - {id: dedis-spring2025, url: "https://www.epfl.ch/labs/dedis/student-projects-spring-2025/"}

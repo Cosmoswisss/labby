@@ -129,5 +129,63 @@ def extract(
         typer.echo(f"  ! {err['url']}: {err['error']}")
 
 
+@app.command(name="eval")
+def eval_cmd(
+    snapshot: bool = typer.Option(False, help="Freeze current crawled texts into eval/pages/."),
+    model: str = typer.Option("haiku", help="Claude model alias used by Claude Code."),
+    prompt: str = typer.Option("extract_v1", help="Prompt file name in prompts/."),
+    page: list[str] = typer.Option(None, "--page", help="Only these eval page ids."),
+    rescore: Path = typer.Option(None, help="Re-score a saved run file, no LLM call."),
+    labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
+) -> None:
+    """Evaluate the extraction against the hand-annotated pages in eval/."""
+    import json
+
+    from pipeline.engines import ClaudeCodeEngine
+    from pipeline.evaluate import Evaluator
+    from pipeline.labs import load_labs
+
+    evaluator = Evaluator(config.PIPELINE_DIR / "eval", config.STATE_DIR, config.CACHE_DIR)
+    if snapshot:
+        typer.echo(f"Snapshot of {evaluator.snapshot()} pages written to eval/pages/")
+        return
+    if rescore:
+        run = json.loads(rescore.read_text(encoding="utf-8"))
+    else:
+        run = evaluator.predict(
+            ClaudeCodeEngine(model=model), load_labs(labs_file), prompt, set(page or [])
+        )
+    summary, page_scores = evaluator.score(run)
+    if not rescore:
+        typer.echo(f"Run saved to {evaluator.save_run(run, summary, page_scores)}")
+
+    typer.echo("")
+    for ps in page_scores:
+        flag = "OK " if not (ps.fp or ps.fn or ps.field_errors or ps.error) else "-- "
+        typer.echo(f"{flag}{ps.page_id:18s} tp={ps.tp:2d} fp={ps.fp:2d} fn={ps.fn:2d}")
+        if ps.error:
+            typer.echo(f"     error: {ps.error}")
+        for t in ps.false_positives:
+            typer.echo(f"     + extra:   {t}")
+        for t in ps.missed:
+            typer.echo(f"     - missed:  {t}")
+        for e in ps.field_errors:
+            typer.echo(f"     ~ {e}")
+        if ps.unexpected_names:
+            typer.echo(f"     ? names not in gold: {ps.unexpected_names}")
+    p = summary["projects"]
+    typer.echo("")
+    typer.echo(f"Engine {run['engine']}  prompt {run['prompt']}")
+    typer.echo(
+        f"Projects: precision={p['precision']} recall={p['recall']} f1={p['f1']} "
+        f"(tp={p['tp']} fp={p['fp']} fn={p['fn']})"
+    )
+    for name, f in summary["fields"].items():
+        typer.echo(f"  {name:14s} accuracy={f['accuracy']} (n={f['n']})")
+    typer.echo(f"Unexpected names: {summary['unexpected_names']}  "
+               f"pages in error: {summary['pages_with_errors']}")  # fmt: skip
+    typer.echo(f"Tokens: {summary['input_tokens']:,} in / {summary['output_tokens']:,} out")
+
+
 if __name__ == "__main__":
     app()

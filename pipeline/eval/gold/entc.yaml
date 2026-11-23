@@ -1,0 +1,12 @@
+# 'Master's research project (12 ECTS)' = master semester project.
+projects:
+- title: 'Tracking Novel Research Through the Publication Process: A Text-Embedding Approach'
+  project_types:
+  - semester_master
+  supervisors:
+  - Davide Bavato
+- title: Measuring Entrepreneurial and Industry Identity in the Asteroid-Mining Industry with NLP
+  project_types:
+  - semester_master
+  supervisors:
+  - Angelina Frolova

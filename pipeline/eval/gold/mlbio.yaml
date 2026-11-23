@@ -1,0 +1,19 @@
+projects:
+- title: Comparing Representational Hierarchies in Neural Networks
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Fabian Gröger
+- title: What Do Language Models Need from 3D Encoders?
+  project_types: null
+  supervisors:
+  - Bin Ren
+- title: Learning patient-level predictions from the spatial proteome
+  project_types: null
+  supervisors:
+  - Lucas Miranda
+- title: Improving agents for single-cell genomics and biomedical discovery
+  project_types: null
+  supervisors:
+  - Siba Smarak Panigrahi

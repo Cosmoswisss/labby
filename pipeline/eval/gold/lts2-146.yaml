@@ -1,0 +1,10 @@
+# Title only in the parent link text.
+projects:
+- title: Controlling the timbre of wind instruments with active control
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Hervé Lissek
+  status:
+  - available

@@ -1,0 +1,30 @@
+# Long list of completed theses with student names below: must not leak.
+projects:
+- title: Several projects around large language models / Apertus
+  project_types: null
+  supervisors: null
+  optional: true
+- title: LLM inference on old V100 GPUs
+  project_types: null
+  supervisors: []
+- title: Communication-efficient gossip methods for replacing all-reduce in distributed LLM training
+  project_types: null
+  supervisors: []
+- title: AI safety evaluations feeding back into Apertus Posttraining
+  project_types: null
+  supervisors: []
+- title: LLM Pretraining Data Curation
+  project_types: null
+  supervisors: []
+- title: Learning to sample on the fly for SGD / curriculum learning
+  project_types: null
+  supervisors:
+  - El Mahdi Chayti
+  - Simin Fan
+- title: Improving factuality understanding for LLM training
+  project_types: null
+  supervisors: []
+- title: Build decentralized LLMs in the browser
+  project_types: null
+  supervisors:
+  - Martin Jaggi

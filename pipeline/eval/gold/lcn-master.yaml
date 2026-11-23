@@ -1,0 +1,14 @@
+# Lists back to 2024. Projects marked TAKEN are excluded; the others are not marked as taken, so they are expected (with their period).
+projects:
+- title: A Digital Twin for collective decision making
+  project_types:
+  - master_thesis
+  supervisors: []
+- title: Implementing and extending a biologically inspired computational model of spatial navigation in rodents
+  project_types:
+  - master_thesis
+  supervisors: []
+- title: Modeling perceptual rules of social interactions in single animal virtual reality
+  project_types:
+  - master_thesis
+  supervisors: []

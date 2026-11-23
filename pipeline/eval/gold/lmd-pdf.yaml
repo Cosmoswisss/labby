@@ -1,0 +1,36 @@
+projects:
+- title: Accelerating Geophysical Flow Simulation Using Machine Learning
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Digital Twin Simulation of Rockfall Hazards
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Discovering Internal Material Properties from Surface Observations
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Segregation in granular flows
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Multiphysics Modeling of Fault Gouge
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Experimental Investigation of Architected Granular Materials
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis
+- title: Phase-field Modeling of Fracture of Architected Structural Materials
+  project_types:
+  - master_thesis
+  supervisors:
+  - Kostas Karapiperis

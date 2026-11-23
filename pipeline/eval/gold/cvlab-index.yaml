@@ -1,0 +1,29 @@
+# Index page: titles only, levels not stated per project.
+projects:
+- title: Interpretable and Controllable Neural Shape Parameterizations
+  project_types: null
+  supervisors: []
+- title: Self-Supervised Learning of Flight Dynamics
+  project_types: null
+  supervisors: []
+- title: Structured 3D Shape Optimization with Part-Based Implicit Neural Representations
+  project_types: null
+  supervisors: []
+- title: Recovering Thin Structures in 3D Foundation Models
+  project_types: null
+  supervisors: []
+- title: Applied Deep Learning for Computer Aided Engineering
+  project_types: null
+  supervisors: []
+- title: Real-Time 3D Tracking and Anomaly Detection for Maritime Kite Systems
+  project_types: null
+  supervisors: []
+- title: Efficient Diffusion Models via Quantization and Compression
+  project_types: null
+  supervisors: []
+- title: 3D Surface reconstruction using 3D Gaussians and SDF
+  project_types: null
+  supervisors: []
+- title: Computer Vision for Waste Management (CVLab x Wasteflow)
+  project_types: null
+  supervisors: []

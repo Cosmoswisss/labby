@@ -1,0 +1,56 @@
+# 468 entries, mostly completed/on-going with student names: only Available/Reserved.
+projects:
+- title: Continuous-Domain Phase Retrieval in Dimension One
+  project_types:
+  - semester_master
+  - semester_bachelor
+  supervisors:
+  - Vincent Guillemet
+  status: &id001
+  - available
+- title: Training Complex-Valued Denoisers for Phase Retrieval
+  project_types:
+  - semester_master
+  supervisors:
+  - Zhiyuan Hu
+  - Jonathan Dong
+  status: *id001
+- title: 'Exploring Global Youth Art Through AI: A Semantic Analysis of the IMAJ Collection'
+  project_types:
+  - semester_master
+  - semester_bachelor
+  supervisors:
+  - Julien Fageot
+  - Daniel Sage
+  status: *id001
+- title: 'High-Dimensional Gaussian Sampling: Cholesky versus Markov'
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Martin Zach
+  status: *id001
+- title: Sampling from Learned Regularizers
+  project_types:
+  - semester_master
+  supervisors:
+  - Stanislas Ducotterd
+  - Youssef Haouchat
+  - Bassam El Rawas
+  status: *id001
+- title: Analysis of dendritic spine changes using deep-learning encoding in a latent space
+  project_types:
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Aleix Boquet I Pujadas
+  - Daniel Sage
+  status: &id002
+  - reserved
+- title: Automated image analysis of tau fibrils in the human Alzheimer's disease brain
+  project_types:
+  - semester_master
+  supervisors:
+  - Daniel Sage
+  - Daniel Stähli
+  status: *id002

@@ -1,0 +1,33 @@
+projects:
+- title: Open-Source Work on Dynamic High-level Synthesis Compiler Targeting FPGAs
+  project_types: null
+  supervisors:
+  - Andrea Guerrieri
+- title: Accelerate FPGA Implementation Time
+  project_types: null
+  supervisors:
+  - Andrea Guerrieri
+- title: Postquantum Cryptography Core Using High-Level Synthesis
+  project_types: null
+  supervisors:
+  - Andrea Guerrieri
+- title: Low-Level Optimization of Dynamically Scheduled Circuits
+  project_types: null
+  supervisors:
+  - Rouzbeh Pirayadi
+- title: Toward Coarse-Grained Field Programmable Gate Arrays
+  project_types: null
+  supervisors:
+  - Louis Coulon
+- title: Optimizing place and route for high frequency task parallel FPGA accelerators
+  project_types: null
+  supervisors:
+  - Mohamed Shahawy
+- title: SOC-graphical configurator as VS-code plug-in
+  project_types: null
+  supervisors:
+  - Theo Kluter
+- title: Hardware coherence on various wishbone bus-architectures
+  project_types: null
+  supervisors:
+  - Theo Kluter

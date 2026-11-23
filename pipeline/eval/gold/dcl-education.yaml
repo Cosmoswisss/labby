@@ -1,0 +1,19 @@
+# Master project areas; semester project possible on request.
+projects:
+- title: Cryptocurrencies
+  project_types: null
+  supervisors:
+  - Rachid Guerraoui
+  optional: true
+- title: Scalable Distributed Cache Coherency
+  project_types: null
+  supervisors:
+  - Beatrice Shokry
+- title: Accelerating Safe ML Systems
+  project_types: null
+  supervisors:
+  - Beatrice Shokry
+- title: Distributed Resource Efficient Inference Engine
+  project_types: null
+  supervisors:
+  - Geovani Rizk

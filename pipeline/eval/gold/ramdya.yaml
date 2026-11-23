@@ -1,0 +1,49 @@
+# 'Semester project' without level -> bachelor and master semester projects.
+projects:
+- title: Use computational tools to study neural circuit activity
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Build artificial neural networks to control a simulated fly.
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Use robotic systems to automate biological experimentation
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Use computational tools to study animal behavior
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Study the full graph (connectome) of the fly nervous system
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Behavioral studies in the laboratory
+  project_types:
+  - semester_bachelor
+  - semester_master
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
+- title: Build a robotic fly
+  project_types:
+  - master_thesis
+  supervisors:
+  - Pavan Ramdya
