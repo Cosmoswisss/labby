@@ -3,6 +3,8 @@
 Unofficial search engine for student projects (semester, bachelor and master projects)
 offered by EPFL labs. **Not affiliated with EPFL** — each lab's own page is the reference.
 
+**Live site: https://labby-seven.vercel.app**
+
 Status: **phase 3 — website** (IC school and its accredited labs). See
 [docs/data-sources.md](docs/data-sources.md) for the data-source exploration.
 
