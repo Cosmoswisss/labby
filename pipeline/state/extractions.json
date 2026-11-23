@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T13:06:29+00:00",
+ "updated_at": "2026-11-23T14:02:48+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -8638,16 +8638,16 @@
   },
   "https://www.epfl.ch/labs/disal/teaching/student_projects/": {
    "key": {
-    "content_hash": "4d74876e725e20c3401446709d8ba57aa0d7adc8b678dc3f5f71104672a611ec",
+    "content_hash": "0858d6bfa7070e06d471779b206088440c9b280f5e712702f3f3764a81973383",
     "prompt": "extract_v2:22458c0d",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "enac-disal"
    ],
-   "extracted_at": "2026-11-23T12:40:40+00:00",
-   "input_tokens": 36256,
-   "output_tokens": 6107,
+   "extracted_at": "2026-11-23T14:02:16+00:00",
+   "input_tokens": 35788,
+   "output_tokens": 4559,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -8656,7 +8656,7 @@
     {
      "title": "Three-Dimensional UWB Localization for Heterogeneous Ground–Aerial Robot Teams",
      "lab_acronym": null,
-     "summary": "Extend an existing Webots simulation framework for UWB localization, in which ground anchors localize mobile tags, to aerial mobile tags. The work covers 3D estimation algorithms, LOS/NLOS measurement models, and evaluation of accuracy and robustness; a master project may add hardware-in-the-loop and motion-capture experiments.",
+     "summary": "Extend an existing Webots UWB localization simulation so that aerial robots can act as mobile tags, adapting estimation algorithms to 3D positioning with realistic LOS/NLOS measurement models. The work is evaluated across environments, anchor configurations and aerial trajectories, with optional hardware-in-the-loop and motion-capture experiments for a master project.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8681,12 +8681,12 @@
       "Yacine Derder"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Cooperative Gas Source Localization with Infrastructure-Free UWB Positioning",
      "lab_acronym": null,
-     "summary": "Investigate cooperative gas source localization with heterogeneous robot teams whose positions come from infrastructure-free UWB relative localization. The student builds a simplified 2D simulated gas environment, implements a cooperative source estimation algorithm, and evaluates it with ground-truth, noisy and UWB-estimated robot positions.",
+     "summary": "Investigate cooperative gas source localization with heterogeneous robot teams whose positions come from infrastructure-free UWB relative localization. The student builds a simplified 2D gas-source environment, implements a cooperative estimation algorithm, and evaluates it with ground-truth, noisy and UWB-estimated robot positions.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8695,7 +8695,7 @@
      "domains": [
       "robotics",
       "multi-robot systems",
-      "gas source localization",
+      "reinforcement learning",
       "localization"
      ],
      "skills": [
@@ -8703,6 +8703,7 @@
       "PyTorch",
       "reinforcement learning",
       "probability",
+      "robotics",
       "Webots"
      ],
      "language": "EN",
@@ -8710,12 +8711,12 @@
       "Yacine Derder"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Robotic Gas Sensor Calibration",
      "lab_acronym": null,
-     "summary": "Design an efficient pre-flight calibration setup for low-cost gas sensors (MOX and PID) on a quadcopter, so that absolute gas concentration can be estimated despite slow sensor dynamics and dependence on temperature and humidity. The setup integrates temperature, humidity, flow and gas sensors with a pump, valve and quadcopter.",
+     "summary": "Design an efficient pre-flight calibration set-up for low-cost MOX and PID gas sensors on a quadcopter, integrating temperature, humidity, flow, gas sensors, pump, valve and quadcopter. The goal is to estimate absolute gas concentration and compensate slow sensor dynamics.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8728,19 +8729,20 @@
      ],
      "skills": [
       "Python",
-      "NumPy"
+      "NumPy",
+      "experimental work"
      ],
      "language": "EN",
      "supervisors": [
       "Nicolaj Bösel-Schmid"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Multi-Agent Reinforcement Learning for Gas Source Localization",
      "lab_acronym": null,
-     "summary": "Extend an existing reinforcement learning approach for gas source localization (DDPG, SAC) to a multi-robot system using multi-agent RL. The project studies which information agents should exchange, how to remain robust to communication limits such as packet drops, and how to compress messages.",
+     "summary": "Extend the team's single-robot reinforcement learning (DDPG, SAC) gas source tracking method to a multi-robot system using multi-agent RL. The project studies which information agents should exchange, robustness to communication limitations such as packet drops, and efficient message compression.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8762,12 +8764,12 @@
       "Nicolaj Bösel-Schmid"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Asymmetric Multi-modal Deep Vision Model Compression",
      "lab_acronym": null,
-     "summary": "Reduce the memory footprint, inference time and energy cost of RGB-thermal deep vision networks for onboard robotic deployment, using pruning and quantization. The project also studies whether the RGB and thermal modalities differ in robustness to compression.",
+     "summary": "Reduce the memory footprint, inference time and energy cost of RGB-thermal deep vision networks for deployment on small robots with limited compute, using techniques such as pruning and quantization. The project also studies how different visual modalities respond to compression.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8776,25 +8778,25 @@
      "domains": [
       "computer vision",
       "model compression",
-      "multi-modal vision",
-      "deep learning"
+      "deep learning",
+      "multi-modal perception"
      ],
      "skills": [
       "Linux",
-      "neural networks",
-      "programming"
+      "Python",
+      "neural networks"
      ],
      "language": "EN",
      "supervisors": [
       "Alexander Wallén Kiessling"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Thermal Burst Imaging for Optical Gas Imaging",
      "lab_acronym": null,
-     "summary": "Increase the signal of thermal image frames captured by a moving camera through burst imaging, using dense image matching that is robust to dynamic scenes, so that weak signals such as gas leaks can be detected. The project can use classical variational methods, learned methods, or a combination.",
+     "summary": "Increase the signal of thermal camera frames for weak gas-leak detection by burst imaging, using dense image matching that is robust to camera motion and dynamic scenes. The project can use classic variational methods, learned methods, or a combination.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8803,25 +8805,25 @@
      "domains": [
       "computer vision",
       "thermal imaging",
-      "signal processing",
-      "deep learning"
+      "burst imaging",
+      "signal processing"
      ],
      "skills": [
+      "Python",
       "deep learning",
-      "signal processing",
-      "machine learning"
+      "signal processing"
      ],
      "language": "EN",
      "supervisors": [
       "Alexander Wallén Kiessling"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Robust indoor–outdoor state estimation for a compact multirotor",
      "lab_acronym": null,
-     "summary": "Design a fusion strategy that keeps position estimates continuous and accurate when a compact MAV flies between outdoor and indoor spaces, combining multi-camera visual-inertial odometry (OpenVINS) with GNSS on PX4. The student measures behaviour in real flights with ground truth, reproduces degradations in Webots, and may study camera prioritization; a master project may add AprilTag position anchors.",
+     "summary": "Measure and model how visual-inertial odometry and GNSS degrade during outdoor-to-indoor and indoor-to-outdoor transitions on compact MAVs, then design and test a fusion strategy that keeps position estimates continuous through a doorway. A master project may also study AprilTag fiducial markers as absolute position anchors.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8830,7 +8832,7 @@
      "domains": [
       "state estimation",
       "sensor fusion",
-      "robotics",
+      "aerial robotics",
       "visual-inertial odometry"
      ],
      "skills": [
@@ -8847,38 +8849,40 @@
       "Kagan Erünsal"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Comparing PSO and Reinforcement Learning for Training Robot Controllers",
      "lab_acronym": null,
-     "summary": "Fairly compare Particle Swarm Optimization and reinforcement learning when both train the same feedforward neural network controller on a multi-robot benchmark. The project includes a literature review, implementation of both algorithms in a high-fidelity simulator, and analysis of the solutions found under comparable evaluation budgets.",
+     "summary": "Fairly compare Particle Swarm Optimization and reinforcement learning when both train the same feedforward neural network controller on a multi-robot benchmark. The project includes a literature review, implementation of both algorithms in a high-fidelity simulator, and an analysis of the solutions found under comparable evaluation budgets.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "robotics",
+      "robot control",
       "particle swarm optimization",
       "reinforcement learning",
-      "neural network controllers"
+      "neural networks"
      ],
      "skills": [
       "TensorFlow",
-      "PyTorch"
+      "PyTorch",
+      "Python",
+      "C++"
      ],
      "language": "EN",
      "supervisors": [
       "Maria Yuryeva"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Active Sound Source Localization and Ego-Noise Mitigation for Mobile Robots",
      "lab_acronym": null,
-     "summary": "Develop an onboard acoustic localization framework in which a mobile robot with a microphone array localizes sound sources despite its own motor and wheel noise. The project covers ego-noise characterization and suppression, multi-channel localization (GCC-PHAT, SRP-PHAT or trilateration) for 360° azimuth and proximity estimation, and deployment on real hardware.",
+     "summary": "Develop an onboard acoustic localization framework in which a mobile robot with a microphone array suppresses its own ego-noise and localizes sound sources with multi-channel methods such as GCC-PHAT, SRP-PHAT or trilateration. The solution is deployed and evaluated on real robot hardware.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8897,12 +8901,12 @@
       "Maria Yuryeva"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Vision-Language Uncertainty Maps for Drone Search",
      "lab_acronym": null,
-     "summary": "Build a map of where a target is likely to be, with per-cell uncertainty, by combining a satellite-image prior scored by a vision-language model with in-flight drone detections. The method is to be benchmarked in simulation on satellite images with known target locations, and optionally used to decide when to ask the operator for clarification.",
+     "summary": "Build a per-cell probability and uncertainty map of target locations for drone search by combining a satellite-image prior scored against an operator's text description with in-flight drone image evidence from a fine-tuned compact vision-language model. The method is benchmarked in simulation on satellite images with known target locations, with optional operator clarification requests.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -8925,22 +8929,22 @@
       "Raphaël Dousson"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     },
     {
      "title": "Multi-Robot Inspection with ToF-Based Replanning",
      "lab_acronym": null,
-     "summary": "Detect, cell by cell, where an inspected asset differs from its prior voxel map using onboard Time-of-Flight depth frames, and replan viewpoints and task assignments for a team of MAVs accordingly. The approach is to be evaluated in Webots on modified assets and, if time allows, with real MAVs.",
+     "summary": "Detect, cell by cell, where an inspected asset differs from its prior voxel map using onboard Time-of-Flight depth frames, and replan viewpoints and task assignments accordingly. The detection runs onboard and is evaluated in Webots on modified assets, with real MAVs if time allows.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "multi-robot systems",
-      "inspection",
+      "multi-robot inspection",
       "viewpoint planning",
-      "change detection"
+      "computer vision",
+      "aerial robotics"
      ],
      "skills": [
       "C++",
@@ -8953,7 +8957,7 @@
       "Raphaël Dousson"
      ],
      "status": "available",
-     "academic_period": "Spring Semester 2026-2027"
+     "academic_period": "Spring 2026-2027"
     }
    ]
   },
@@ -13501,39 +13505,274 @@
   },
   "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/": {
    "key": {
-    "content_hash": "693bc9b7684282f7e909059e48ede9082e7dc3299901c0d5a50272fafe5e65b1",
+    "content_hash": "c6b0312ef4d4fea01f94d48b16baf26ac5a535261cbb00d71d375aba6b5ec70f",
     "prompt": "extract_v2:22458c0d",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lben"
    ],
-   "extracted_at": "2026-11-23T12:49:27+00:00",
-   "input_tokens": 5319,
-   "output_tokens": 415,
+   "extracted_at": "2026-11-23T14:02:33+00:00",
+   "input_tokens": 7631,
+   "output_tokens": 1726,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
    "page_updated_at": null,
-   "projects": []
+   "projects": [
+    {
+     "title": "Master project proposal: single molecule",
+     "lab_acronym": null,
+     "summary": "Master project proposal on single-molecule work, described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "single-molecule biophysics",
+      "nanoscale biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master project proposal: AFM",
+     "lab_acronym": null,
+     "summary": "Master project proposal involving atomic force microscopy (AFM), described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "atomic force microscopy",
+      "nanoscale biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Engineering nanofluidic memories for brain-inspired ionic processes",
+     "lab_acronym": null,
+     "summary": "Master project on engineering nanofluidic memory devices for brain-inspired ionic information processing, described in a PDF linked from the page.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "nanofluidics",
+      "neuromorphic computing",
+      "nanopores"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Nanocapillary fabrication for SICS",
+     "lab_acronym": null,
+     "summary": "Master project on fabricating nanocapillaries for SICS, described in a PDF linked from the page (title taken from the file name).",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "nanofabrication",
+      "nanofluidics",
+      "single-molecule sensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multiplexing and benchmarking for SICS",
+     "lab_acronym": null,
+     "summary": "Master project on multiplexing and benchmarking for SICS, described in a PDF linked from the page (title taken from the file name).",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "single-molecule sensing",
+      "nanopores",
+      "biosensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Hybrid nanopores for SICS",
+     "lab_acronym": null,
+     "summary": "Master project on hybrid nanopores for SICS, described in a PDF linked from the page (title taken from the file name).",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "nanopores",
+      "nanofabrication",
+      "single-molecule sensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "DNA chips for SICS",
+     "lab_acronym": null,
+     "summary": "Master project on DNA chips for SICS, described in a PDF linked from the page (title taken from the file name).",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "dna nanotechnology",
+      "biosensing",
+      "single-molecule sensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
   },
   "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/": {
    "key": {
-    "content_hash": "71b5fc102944d12b23e0edda790625f16587d88b97ed6d351e33bb1a533a3fad",
+    "content_hash": "f1fa0085b81223189f5e30382b9f5dc58b63775c93865efcc0eb194017036c5d",
     "prompt": "extract_v2:22458c0d",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lben"
    ],
-   "extracted_at": "2026-11-23T12:49:34+00:00",
-   "input_tokens": 5334,
-   "output_tokens": 523,
+   "extracted_at": "2026-11-23T14:02:40+00:00",
+   "input_tokens": 7646,
+   "output_tokens": 2000,
    "truncated": false,
    "error": null,
-   "page_kind": "no_projects",
+   "page_kind": "project_list",
    "page_updated_at": null,
-   "projects": []
+   "projects": [
+    {
+     "title": "Master project proposal - single molecule",
+     "lab_acronym": null,
+     "summary": "Master project proposal on single-molecule studies, listed as a new offer for September 2026. Details are only in a linked PDF flipbook, not on the page itself.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "single-molecule biophysics",
+      "nanoscale biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master project proposal - AFM",
+     "lab_acronym": null,
+     "summary": "Master project proposal involving atomic force microscopy (AFM), listed as a new offer for September 2026. Details are only in a linked PDF flipbook, not on the page itself.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "atomic force microscopy",
+      "nanoscale biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Engineering nanofluidic memories for brain-inspired ionic processes",
+     "lab_acronym": null,
+     "summary": "Project on engineering nanofluidic memories for brain-inspired ionic processes, based on the title only; details are in a linked PDF flipbook.",
+     "project_types": [],
+     "domains": [
+      "nanofluidics",
+      "neuromorphic computing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Nanocapillary fabrication for SICS",
+     "lab_acronym": null,
+     "summary": "Project on fabricating nanocapillaries for SICS, based on the title only; details are in a linked PDF flipbook.",
+     "project_types": [],
+     "domains": [
+      "nanofluidics",
+      "nanofabrication"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multiplexing and benchmarking for SICS",
+     "lab_acronym": null,
+     "summary": "Project on multiplexing and benchmarking for SICS, based on the title only; details are in a linked PDF flipbook.",
+     "project_types": [],
+     "domains": [
+      "nanopore sensing",
+      "biosensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Hybrid nanopores for SICS",
+     "lab_acronym": null,
+     "summary": "Project on hybrid nanopores for SICS, based on the title only; details are in a linked PDF flipbook.",
+     "project_types": [],
+     "domains": [
+      "nanopores",
+      "biosensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "DNA chips for SICS",
+     "lab_acronym": null,
+     "summary": "Project on DNA chips for SICS, based on the title only; details are in a linked PDF flipbook.",
+     "project_types": [],
+     "domains": [
+      "dna nanotechnology",
+      "biosensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
   },
   "https://www.epfl.ch/labs/lben/research/": {
    "key": {

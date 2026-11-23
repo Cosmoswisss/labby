@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:07:32+00:00",
+ "generated_at": "2026-11-23T14:02:49+00:00",
  "projects": [
   {
    "id": "17b3a8212caa",
@@ -33,7 +33,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:26+00:00",
-   "last_seen_at": "2026-11-23T10:49:26+00:00",
+   "last_seen_at": "2026-11-23T13:47:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/entc/research/our-student-projects/"
    ]
@@ -68,7 +68,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:26+00:00",
-   "last_seen_at": "2026-11-23T10:49:26+00:00",
+   "last_seen_at": "2026-11-23T13:47:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/entc/research/our-student-projects/"
    ]
@@ -79,7 +79,7 @@
     "enac-disal"
    ],
    "title": "Active Sound Source Localization and Ego-Noise Mitigation for Mobile Robots",
-   "summary": "Develop an onboard acoustic localization framework in which a mobile robot with a microphone array localizes sound sources despite its own motor and wheel noise. The project covers ego-noise characterization and suppression, multi-channel localization (GCC-PHAT, SRP-PHAT or trilateration) for 360° azimuth and proximity estimation, and deployment on real hardware.",
+   "summary": "Develop an onboard acoustic localization framework in which a mobile robot with a microphone array suppresses its own ego-noise and localizes sound sources with multi-channel methods such as GCC-PHAT, SRP-PHAT or trilateration. The solution is deployed and evaluated on real robot hardware.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -99,10 +99,10 @@
     "Maria Yuryeva"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -113,7 +113,7 @@
     "enac-disal"
    ],
    "title": "Asymmetric Multi-modal Deep Vision Model Compression",
-   "summary": "Reduce the memory footprint, inference time and energy cost of RGB-thermal deep vision networks for onboard robotic deployment, using pruning and quantization. The project also studies whether the RGB and thermal modalities differ in robustness to compression.",
+   "summary": "Reduce the memory footprint, inference time and energy cost of RGB-thermal deep vision networks for deployment on small robots with limited compute, using techniques such as pruning and quantization. The project also studies how different visual modalities respond to compression.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -123,23 +123,23 @@
    "domains": [
     "computer vision",
     "model compression",
-    "multi-modal vision",
-    "deep learning"
+    "deep learning",
+    "multi-modal perception"
    ],
    "skills": [
     "Linux",
-    "neural networks",
-    "programming"
+    "Python",
+    "neural networks"
    ],
    "language": "EN",
    "supervisors": [
     "Alexander Wallén Kiessling"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -150,7 +150,7 @@
     "enac-disal"
    ],
    "title": "Comparing PSO and Reinforcement Learning for Training Robot Controllers",
-   "summary": "Fairly compare Particle Swarm Optimization and reinforcement learning when both train the same feedforward neural network controller on a multi-robot benchmark. The project includes a literature review, implementation of both algorithms in a high-fidelity simulator, and analysis of the solutions found under comparable evaluation budgets.",
+   "summary": "Fairly compare Particle Swarm Optimization and reinforcement learning when both train the same feedforward neural network controller on a multi-robot benchmark. The project includes a literature review, implementation of both algorithms in a high-fidelity simulator, and an analysis of the solutions found under comparable evaluation budgets.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -158,24 +158,26 @@
     "master_thesis"
    ],
    "domains": [
-    "robotics",
+    "robot control",
     "particle swarm optimization",
     "reinforcement learning",
-    "neural network controllers"
+    "neural networks"
    ],
    "skills": [
     "TensorFlow",
-    "PyTorch"
+    "PyTorch",
+    "Python",
+    "C++"
    ],
    "language": "EN",
    "supervisors": [
     "Maria Yuryeva"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -186,7 +188,7 @@
     "enac-disal"
    ],
    "title": "Cooperative Gas Source Localization with Infrastructure-Free UWB Positioning",
-   "summary": "Investigate cooperative gas source localization with heterogeneous robot teams whose positions come from infrastructure-free UWB relative localization. The student builds a simplified 2D simulated gas environment, implements a cooperative source estimation algorithm, and evaluates it with ground-truth, noisy and UWB-estimated robot positions.",
+   "summary": "Investigate cooperative gas source localization with heterogeneous robot teams whose positions come from infrastructure-free UWB relative localization. The student builds a simplified 2D gas-source environment, implements a cooperative estimation algorithm, and evaluates it with ground-truth, noisy and UWB-estimated robot positions.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -196,7 +198,7 @@
    "domains": [
     "robotics",
     "multi-robot systems",
-    "gas source localization",
+    "reinforcement learning",
     "localization"
    ],
    "skills": [
@@ -204,6 +206,7 @@
     "PyTorch",
     "reinforcement learning",
     "probability",
+    "robotics",
     "Webots"
    ],
    "language": "EN",
@@ -211,10 +214,10 @@
     "Yacine Derder"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -225,7 +228,7 @@
     "enac-disal"
    ],
    "title": "Multi-Robot Inspection with ToF-Based Replanning",
-   "summary": "Detect, cell by cell, where an inspected asset differs from its prior voxel map using onboard Time-of-Flight depth frames, and replan viewpoints and task assignments for a team of MAVs accordingly. The approach is to be evaluated in Webots on modified assets and, if time allows, with real MAVs.",
+   "summary": "Detect, cell by cell, where an inspected asset differs from its prior voxel map using onboard Time-of-Flight depth frames, and replan viewpoints and task assignments accordingly. The detection runs onboard and is evaluated in Webots on modified assets, with real MAVs if time allows.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -233,10 +236,10 @@
     "master_thesis"
    ],
    "domains": [
-    "multi-robot systems",
-    "inspection",
+    "multi-robot inspection",
     "viewpoint planning",
-    "change detection"
+    "computer vision",
+    "aerial robotics"
    ],
    "skills": [
     "C++",
@@ -249,10 +252,10 @@
     "Raphaël Dousson"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -289,7 +292,7 @@
    "academic_period": "2025-2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:30+00:00",
+   "last_seen_at": "2026-11-23T13:47:19+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/academic-year-2025-2026/",
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
@@ -301,7 +304,7 @@
     "enac-disal"
    ],
    "title": "Robotic Gas Sensor Calibration",
-   "summary": "Design an efficient pre-flight calibration setup for low-cost gas sensors (MOX and PID) on a quadcopter, so that absolute gas concentration can be estimated despite slow sensor dynamics and dependence on temperature and humidity. The setup integrates temperature, humidity, flow and gas sensors with a pump, valve and quadcopter.",
+   "summary": "Design an efficient pre-flight calibration set-up for low-cost MOX and PID gas sensors on a quadcopter, integrating temperature, humidity, flow, gas sensors, pump, valve and quadcopter. The goal is to estimate absolute gas concentration and compensate slow sensor dynamics.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -315,17 +318,18 @@
    ],
    "skills": [
     "Python",
-    "NumPy"
+    "NumPy",
+    "experimental work"
    ],
    "language": "EN",
    "supervisors": [
     "Nicolaj Bösel-Schmid"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -336,7 +340,7 @@
     "enac-disal"
    ],
    "title": "Robust indoor–outdoor state estimation for a compact multirotor",
-   "summary": "Design a fusion strategy that keeps position estimates continuous and accurate when a compact MAV flies between outdoor and indoor spaces, combining multi-camera visual-inertial odometry (OpenVINS) with GNSS on PX4. The student measures behaviour in real flights with ground truth, reproduces degradations in Webots, and may study camera prioritization; a master project may add AprilTag position anchors.",
+   "summary": "Measure and model how visual-inertial odometry and GNSS degrade during outdoor-to-indoor and indoor-to-outdoor transitions on compact MAVs, then design and test a fusion strategy that keeps position estimates continuous through a doorway. A master project may also study AprilTag fiducial markers as absolute position anchors.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -346,7 +350,7 @@
    "domains": [
     "state estimation",
     "sensor fusion",
-    "robotics",
+    "aerial robotics",
     "visual-inertial odometry"
    ],
    "skills": [
@@ -363,10 +367,10 @@
     "Kagan Erünsal"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -377,7 +381,7 @@
     "enac-disal"
    ],
    "title": "Thermal Burst Imaging for Optical Gas Imaging",
-   "summary": "Increase the signal of thermal image frames captured by a moving camera through burst imaging, using dense image matching that is robust to dynamic scenes, so that weak signals such as gas leaks can be detected. The project can use classical variational methods, learned methods, or a combination.",
+   "summary": "Increase the signal of thermal camera frames for weak gas-leak detection by burst imaging, using dense image matching that is robust to camera motion and dynamic scenes. The project can use classic variational methods, learned methods, or a combination.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -387,23 +391,23 @@
    "domains": [
     "computer vision",
     "thermal imaging",
-    "signal processing",
-    "deep learning"
+    "burst imaging",
+    "signal processing"
    ],
    "skills": [
+    "Python",
     "deep learning",
-    "signal processing",
-    "machine learning"
+    "signal processing"
    ],
    "language": "EN",
    "supervisors": [
     "Alexander Wallén Kiessling"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -414,7 +418,7 @@
     "enac-disal"
    ],
    "title": "Three-Dimensional UWB Localization for Heterogeneous Ground–Aerial Robot Teams",
-   "summary": "Extend an existing Webots simulation framework for UWB localization, in which ground anchors localize mobile tags, to aerial mobile tags. The work covers 3D estimation algorithms, LOS/NLOS measurement models, and evaluation of accuracy and robustness; a master project may add hardware-in-the-loop and motion-capture experiments.",
+   "summary": "Extend an existing Webots UWB localization simulation so that aerial robots can act as mobile tags, adapting estimation algorithms to 3D positioning with realistic LOS/NLOS measurement models. The work is evaluated across environments, anchor configurations and aerial trajectories, with optional hardware-in-the-loop and motion-capture experiments for a master project.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -440,10 +444,10 @@
     "Yacine Derder"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -454,7 +458,7 @@
     "enac-disal"
    ],
    "title": "Vision-Language Uncertainty Maps for Drone Search",
-   "summary": "Build a map of where a target is likely to be, with per-cell uncertainty, by combining a satellite-image prior scored by a vision-language model with in-flight drone detections. The method is to be benchmarked in simulation on satellite images with known target locations, and optionally used to decide when to ask the operator for clarification.",
+   "summary": "Build a per-cell probability and uncertainty map of target locations for drone search by combining a satellite-image prior scored against an operator's text description with in-flight drone image evidence from a fine-tuned compact vision-language model. The method is benchmarked in simulation on satellite images with known target locations, with optional operator clarification requests.",
    "description_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "project_types": [
     "semester_bachelor",
@@ -478,10 +482,10 @@
     "Raphaël Dousson"
    ],
    "status": "available",
-   "academic_period": "Spring Semester 2026-2027",
+   "academic_period": "Spring 2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:28+00:00",
-   "last_seen_at": "2026-11-23T10:49:28+00:00",
+   "last_seen_at": "2026-11-23T13:47:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/disal/teaching/student_projects/"
    ]
@@ -511,7 +515,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -542,7 +546,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:40+00:00",
-   "last_seen_at": "2026-11-23T10:49:40+00:00",
+   "last_seen_at": "2026-11-23T13:47:32+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/ai-for-topographic-mapping/"
    ]
@@ -571,7 +575,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:43+00:00",
-   "last_seen_at": "2026-11-23T10:49:43+00:00",
+   "last_seen_at": "2026-11-23T13:47:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/an-ai-assistant-to-interact-with-remote-sensing-images/"
    ]
@@ -601,7 +605,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -631,7 +635,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -661,7 +665,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:39+00:00",
-   "last_seen_at": "2026-11-23T10:49:39+00:00",
+   "last_seen_at": "2026-11-23T13:47:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/projects/572-2/"
    ]
@@ -691,7 +695,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -721,7 +725,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -751,7 +755,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:38+00:00",
-   "last_seen_at": "2026-11-23T10:49:38+00:00",
+   "last_seen_at": "2026-11-23T13:47:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/eceo/teaching/"
    ]
@@ -777,7 +781,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:44+00:00",
-   "last_seen_at": "2026-11-23T10:49:44+00:00",
+   "last_seen_at": "2026-11-23T13:47:40+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/eceo/projects/axa/"
    ]
@@ -811,7 +815,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -849,7 +853,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -885,7 +889,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -929,7 +933,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -963,7 +967,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -997,7 +1001,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -1031,7 +1035,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -1067,7 +1071,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -1096,7 +1100,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:53+00:00",
-   "last_seen_at": "2026-11-23T10:49:53+00:00",
+   "last_seen_at": "2026-11-23T13:47:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/imos/student-projects/"
    ]
@@ -1135,7 +1139,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1170,7 +1174,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1209,7 +1213,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1246,7 +1250,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1286,7 +1290,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1324,7 +1328,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:54+00:00",
-   "last_seen_at": "2026-11-23T10:49:54+00:00",
+   "last_seen_at": "2026-11-23T13:47:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/"
    ]
@@ -1370,7 +1374,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:49:57+00:00",
+   "last_seen_at": "2026-11-23T13:47:59+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/accelerating-geophysical-simulations-with-ai.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1421,7 +1425,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:49:58+00:00",
+   "last_seen_at": "2026-11-23T13:48:03+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/ai-characterization-of-internal-material-properties.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1469,7 +1473,7 @@
    "academic_period": null,
    "page_updated_at": "2025-11-01",
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:49:57+00:00",
+   "last_seen_at": "2026-11-23T13:48:01+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/digital-twin-simulation-of-rockfall-hazards.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1514,7 +1518,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:00+00:00",
+   "last_seen_at": "2026-11-23T13:48:04+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/experimental-investigation-of-architected-granular-materials.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1560,7 +1564,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:03+00:00",
+   "last_seen_at": "2026-11-23T13:48:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/frictional-instabilities-in-topologically-interlocked-structures.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
@@ -1602,7 +1606,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:01+00:00",
+   "last_seen_at": "2026-11-23T13:48:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/gnn-for-granular-mechanics.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
@@ -1648,7 +1652,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:05+00:00",
+   "last_seen_at": "2026-11-23T13:48:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/multiphysics-modeling-of-fault-gouge.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1693,7 +1697,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:04+00:00",
+   "last_seen_at": "2026-11-23T13:48:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/12/phase-field-modeling-of-fracture-of-architected-structural-materials.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1736,7 +1740,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:02+00:00",
+   "last_seen_at": "2026-11-23T13:48:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/pino-for-solid-mechanics.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/"
@@ -1779,7 +1783,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:00+00:00",
+   "last_seen_at": "2026-11-23T13:48:06+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/segregation-in-granular-flows.pdf",
     "https://www.epfl.ch/labs/lmd/student-projects/",
@@ -1812,7 +1816,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1843,7 +1847,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1874,7 +1878,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1903,7 +1907,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1935,7 +1939,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1967,7 +1971,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -1998,7 +2002,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2030,7 +2034,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2061,7 +2065,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2092,7 +2096,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2121,7 +2125,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2154,7 +2158,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2185,7 +2189,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2216,7 +2220,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2246,7 +2250,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2278,7 +2282,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:07+00:00",
-   "last_seen_at": "2026-11-23T10:50:07+00:00",
+   "last_seen_at": "2026-11-23T13:48:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/"
    ]
@@ -2310,7 +2314,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:11+00:00",
-   "last_seen_at": "2026-11-23T10:50:11+00:00",
+   "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
    ]
@@ -2341,7 +2345,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:11+00:00",
-   "last_seen_at": "2026-11-23T10:50:11+00:00",
+   "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
    ]
@@ -2372,7 +2376,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:11+00:00",
-   "last_seen_at": "2026-11-23T10:50:11+00:00",
+   "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
    ]
@@ -2403,7 +2407,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:11+00:00",
-   "last_seen_at": "2026-11-23T10:50:11+00:00",
+   "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
    ]
@@ -2433,7 +2437,7 @@
    "academic_period": "Spring/Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:11+00:00",
-   "last_seen_at": "2026-11-23T10:50:11+00:00",
+   "last_seen_at": "2026-11-23T13:48:22+00:00",
    "source_pages": [
     "https://cibm.ch/open-positions/"
    ]
@@ -2602,7 +2606,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2628,7 +2632,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2659,7 +2663,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2689,7 +2693,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2717,7 +2721,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2750,7 +2754,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2782,7 +2786,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:23+00:00",
-   "last_seen_at": "2026-11-23T10:50:23+00:00",
+   "last_seen_at": "2026-11-23T13:48:39+00:00",
    "source_pages": [
     "https://datascience.ch/students-projects/"
    ]
@@ -2811,7 +2815,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:30+00:00",
-   "last_seen_at": "2026-11-23T10:50:30+00:00",
+   "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
    ]
@@ -2839,7 +2843,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:30+00:00",
-   "last_seen_at": "2026-11-23T10:50:30+00:00",
+   "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
    ]
@@ -2867,7 +2871,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:30+00:00",
-   "last_seen_at": "2026-11-23T10:50:30+00:00",
+   "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
    ]
@@ -2895,7 +2899,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:30+00:00",
-   "last_seen_at": "2026-11-23T10:50:30+00:00",
+   "last_seen_at": "2026-11-23T13:48:46+00:00",
    "source_pages": [
     "https://aimm.epfl.ch/openings/"
    ]
@@ -2928,7 +2932,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -2961,7 +2965,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -2994,7 +2998,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -3027,7 +3031,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -3060,7 +3064,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -3093,7 +3097,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -3126,7 +3130,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:36+00:00",
-   "last_seen_at": "2026-11-23T10:50:36+00:00",
+   "last_seen_at": "2026-11-23T13:48:47+00:00",
    "source_pages": [
     "https://www.thecoalalab.com/"
    ]
@@ -3157,7 +3161,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:37+00:00",
-   "last_seen_at": "2026-11-23T10:50:37+00:00",
+   "last_seen_at": "2026-11-23T13:48:49+00:00",
    "source_pages": [
     "https://compsec.epfl.ch/"
    ]
@@ -3189,7 +3193,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:37+00:00",
-   "last_seen_at": "2026-11-23T10:50:37+00:00",
+   "last_seen_at": "2026-11-23T13:48:49+00:00",
    "source_pages": [
     "https://compsec.epfl.ch/"
    ]
@@ -3227,7 +3231,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:53+00:00",
+   "last_seen_at": "2026-11-23T13:49:01+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/3d-surface-reconstruction-using-3d-gaussians-and-sdf/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3274,7 +3278,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:48+00:00",
+   "last_seen_at": "2026-11-23T13:48:54+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/applied-deep-learning-for-computer-aided-engineering/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3311,7 +3315,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:55+00:00",
+   "last_seen_at": "2026-11-23T13:49:03+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/computer-vision-for-waste-management/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3345,7 +3349,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:51+00:00",
+   "last_seen_at": "2026-11-23T13:48:58+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/efficient-diffusion-models-via-quantization-and-compression/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3379,7 +3383,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:44+00:00",
+   "last_seen_at": "2026-11-23T13:48:51+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/interpretable-and-controllable-neural-shape-parameterizations/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3416,7 +3420,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:50+00:00",
+   "last_seen_at": "2026-11-23T13:48:57+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/aether-kite",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3452,7 +3456,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:47+00:00",
+   "last_seen_at": "2026-11-23T13:48:54+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/recovering-thin-structures-in-3d-foundation-models/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3483,7 +3487,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:45+00:00",
+   "last_seen_at": "2026-11-23T13:48:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/self-supervised-learning-of-flight-dynamics/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3523,7 +3527,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:45:43+00:00",
-   "last_seen_at": "2026-11-23T10:45:46+00:00",
+   "last_seen_at": "2026-11-23T13:48:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/cvlab/projects/structured-3d-shape-optimization-with-part-based-implicit-neural-representations/",
     "https://www.epfl.ch/labs/cvlab/projects/"
@@ -3555,7 +3559,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:39+00:00",
-   "last_seen_at": "2026-11-23T10:50:39+00:00",
+   "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
    ]
@@ -3585,7 +3589,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:39+00:00",
-   "last_seen_at": "2026-11-23T10:50:39+00:00",
+   "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
    ]
@@ -3615,7 +3619,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:39+00:00",
-   "last_seen_at": "2026-11-23T10:50:39+00:00",
+   "last_seen_at": "2026-11-23T13:49:08+00:00",
    "source_pages": [
     "https://dcl.epfl.ch/site/Education"
    ]
@@ -3653,7 +3657,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3692,7 +3696,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3732,7 +3736,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3772,7 +3776,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3812,7 +3816,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3854,7 +3858,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:41+00:00",
-   "last_seen_at": "2026-11-23T10:50:41+00:00",
+   "last_seen_at": "2026-11-23T13:49:11+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dcml/open-positions/students/"
    ]
@@ -3889,7 +3893,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": "2025-11-05",
    "first_seen_at": "2026-11-23T10:50:47+00:00",
-   "last_seen_at": "2026-11-23T10:50:47+00:00",
+   "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
    ]
@@ -3926,7 +3930,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": "2025-11-05",
    "first_seen_at": "2026-11-23T10:50:47+00:00",
-   "last_seen_at": "2026-11-23T10:50:47+00:00",
+   "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
    ]
@@ -3961,7 +3965,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": "2025-11-05",
    "first_seen_at": "2026-11-23T10:50:47+00:00",
-   "last_seen_at": "2026-11-23T10:50:47+00:00",
+   "last_seen_at": "2026-11-23T13:49:17+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dedis/student-projects/"
    ]
@@ -3995,7 +3999,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4032,7 +4036,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4068,7 +4072,7 @@
    "academic_period": "Fall 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4106,7 +4110,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4142,7 +4146,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4177,7 +4181,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4217,7 +4221,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4250,7 +4254,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4285,7 +4289,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4321,7 +4325,7 @@
    "academic_period": "Fall 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4355,7 +4359,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4393,7 +4397,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4432,7 +4436,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4467,7 +4471,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4503,7 +4507,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4540,7 +4544,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4574,7 +4578,7 @@
    "academic_period": "Fall 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4611,7 +4615,7 @@
    "academic_period": "Fall 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4642,7 +4646,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4680,7 +4684,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4714,7 +4718,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4752,7 +4756,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4789,7 +4793,7 @@
    "academic_period": "Fall 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4821,7 +4825,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4862,7 +4866,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4903,7 +4907,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4943,7 +4947,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -4977,7 +4981,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5011,7 +5015,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5042,7 +5046,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5073,7 +5077,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5109,7 +5113,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5145,7 +5149,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5177,7 +5181,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5213,7 +5217,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5249,7 +5253,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5288,7 +5292,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5326,7 +5330,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5361,7 +5365,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5396,7 +5400,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5427,7 +5431,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5461,7 +5465,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5500,7 +5504,7 @@
    "academic_period": "Fall 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5534,7 +5538,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:51+00:00",
-   "last_seen_at": "2026-11-23T10:50:51+00:00",
+   "last_seen_at": "2026-11-23T13:49:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dhlab/index-html/student-projects/"
    ]
@@ -5570,7 +5574,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:56+00:00",
+   "last_seen_at": "2026-11-23T13:49:28+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2018/11/cost-models.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
@@ -5610,7 +5614,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:58+00:00",
+   "last_seen_at": "2026-11-23T13:49:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/concurrent-interval-container.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
@@ -5646,7 +5650,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:55+00:00",
+   "last_seen_at": "2026-11-23T13:49:27+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2024/09/remote-codegen.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
@@ -5684,7 +5688,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:50:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:57+00:00",
+   "last_seen_at": "2026-11-23T13:49:30+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/memory_aware_hash_joins-1-Gosha.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
@@ -5726,7 +5730,7 @@
    "academic_period": null,
    "page_updated_at": "2026-09-01",
    "first_seen_at": "2026-11-23T10:50:55+00:00",
-   "last_seen_at": "2026-11-23T10:50:59+00:00",
+   "last_seen_at": "2026-11-23T13:49:32+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/dias/wp-content/uploads/2026/09/global-serializability-violation.pdf",
     "https://www.epfl.ch/labs/dias/for-students/"
@@ -5765,7 +5769,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:11+00:00",
-   "last_seen_at": "2026-11-23T10:51:11+00:00",
+   "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
    ]
@@ -5800,7 +5804,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:11+00:00",
-   "last_seen_at": "2026-11-23T10:51:11+00:00",
+   "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
    ]
@@ -5837,7 +5841,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:11+00:00",
-   "last_seen_at": "2026-11-23T10:51:11+00:00",
+   "last_seen_at": "2026-11-23T13:49:35+00:00",
    "source_pages": [
     "https://dslab.epfl.ch/projects/"
    ]
@@ -5877,7 +5881,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:12+00:00",
-   "last_seen_at": "2026-11-23T10:51:12+00:00",
+   "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
    ]
@@ -5914,7 +5918,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:12+00:00",
-   "last_seen_at": "2026-11-23T10:51:12+00:00",
+   "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
    ]
@@ -5953,7 +5957,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:12+00:00",
-   "last_seen_at": "2026-11-23T10:51:12+00:00",
+   "last_seen_at": "2026-11-23T13:49:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/emplus/student-projects/"
    ]
@@ -5994,7 +5998,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:14+00:00",
-   "last_seen_at": "2026-11-23T10:51:18+00:00",
+   "last_seen_at": "2026-11-23T13:49:47+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/proposal_multi_tension_elements_Junyu_Yuanpeng.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
@@ -6036,7 +6040,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:14+00:00",
-   "last_seen_at": "2026-11-23T10:51:19+00:00",
+   "last_seen_at": "2026-11-23T13:49:49+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/2026_semester_cone_singularity.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
@@ -6084,7 +6088,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:14+00:00",
-   "last_seen_at": "2026-11-23T10:51:17+00:00",
+   "last_seen_at": "2026-11-23T13:49:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/11/semester_project_elaslink_YP_JD.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
@@ -6127,7 +6131,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:14+00:00",
-   "last_seen_at": "2026-11-23T10:51:16+00:00",
+   "last_seen_at": "2026-11-23T13:49:43+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/gcm/wp-content/uploads/2026/08/ProjectProposalMetamaterialsTencersUnitCellGeneration.pdf",
     "https://www.epfl.ch/labs/gcm/education/#student_projects"
@@ -6166,7 +6170,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:21+00:00",
-   "last_seen_at": "2026-11-23T10:51:21+00:00",
+   "last_seen_at": "2026-11-23T13:49:51+00:00",
    "source_pages": [
     "https://hexhive.epfl.ch/epflprojects/"
    ]
@@ -6202,7 +6206,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:21+00:00",
-   "last_seen_at": "2026-11-23T10:51:21+00:00",
+   "last_seen_at": "2026-11-23T13:49:51+00:00",
    "source_pages": [
     "https://hexhive.epfl.ch/epflprojects/"
    ]
@@ -6234,7 +6238,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:24+00:00",
-   "last_seen_at": "2026-11-23T10:51:27+00:00",
+   "last_seen_at": "2026-11-23T13:49:56+00:00",
    "source_pages": [
     "https://indy.epfl.ch/project/78",
     "https://indy.epfl.ch/projects"
@@ -6275,7 +6279,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:24+00:00",
-   "last_seen_at": "2026-11-23T10:51:25+00:00",
+   "last_seen_at": "2026-11-23T13:49:54+00:00",
    "source_pages": [
     "https://indy.epfl.ch/project/81",
     "https://indy.epfl.ch/projects"
@@ -6312,7 +6316,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:24+00:00",
-   "last_seen_at": "2026-11-23T10:51:26+00:00",
+   "last_seen_at": "2026-11-23T13:49:55+00:00",
    "source_pages": [
     "https://indy.epfl.ch/project/79",
     "https://indy.epfl.ch/projects"
@@ -6350,7 +6354,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:24+00:00",
-   "last_seen_at": "2026-11-23T10:51:24+00:00",
+   "last_seen_at": "2026-11-23T13:49:53+00:00",
    "source_pages": [
     "https://indy.epfl.ch/project/82",
     "https://indy.epfl.ch/projects"
@@ -6389,7 +6393,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:51:49+00:00",
-   "last_seen_at": "2026-11-23T10:51:49+00:00",
+   "last_seen_at": "2026-11-23T13:49:58+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ivrl/available-projects/"
    ]
@@ -6417,7 +6421,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6450,7 +6454,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6480,7 +6484,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6513,7 +6517,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6543,7 +6547,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6574,7 +6578,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6606,7 +6610,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6634,7 +6638,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-03",
    "first_seen_at": "2026-11-23T10:46:00+00:00",
-   "last_seen_at": "2026-11-23T10:46:00+00:00",
+   "last_seen_at": "2026-11-23T13:50:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lap/available-student-projects-at-lap/"
    ]
@@ -6667,7 +6671,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:01+00:00",
-   "last_seen_at": "2026-11-23T10:46:01+00:00",
+   "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
    ]
@@ -6701,7 +6705,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:01+00:00",
-   "last_seen_at": "2026-11-23T10:46:01+00:00",
+   "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
    ]
@@ -6735,7 +6739,7 @@
    "academic_period": "Autumn 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:01+00:00",
-   "last_seen_at": "2026-11-23T10:46:01+00:00",
+   "last_seen_at": "2026-11-23T13:50:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-53808-en-html/"
    ]
@@ -6764,7 +6768,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:02+00:00",
-   "last_seen_at": "2026-11-23T10:46:02+00:00",
+   "last_seen_at": "2026-11-23T13:50:14+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/"
    ]
@@ -6795,7 +6799,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:02+00:00",
-   "last_seen_at": "2026-11-23T10:46:02+00:00",
+   "last_seen_at": "2026-11-23T13:50:14+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/"
    ]
@@ -6825,7 +6829,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:02+00:00",
-   "last_seen_at": "2026-11-23T10:52:02+00:00",
+   "last_seen_at": "2026-11-23T13:50:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/message-passing-for-quantum-models-lthc/"
    ]
@@ -6857,7 +6861,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:01+00:00",
-   "last_seen_at": "2026-11-23T10:52:01+00:00",
+   "last_seen_at": "2026-11-23T13:50:23+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/markov-chain-monte-carlo"
    ]
@@ -6891,7 +6895,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:07+00:00",
-   "last_seen_at": "2026-11-23T10:52:03+00:00",
+   "last_seen_at": "2026-11-23T13:50:27+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/universal-prediction-and-alpha-mutual-information/",
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
@@ -6928,7 +6932,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": "2026-11-17",
    "first_seen_at": "2026-11-23T10:52:06+00:00",
-   "last_seen_at": "2026-11-23T10:52:06+00:00",
+   "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
    ]
@@ -6965,7 +6969,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": "2026-11-17",
    "first_seen_at": "2026-11-23T10:52:06+00:00",
-   "last_seen_at": "2026-11-23T10:52:06+00:00",
+   "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
    ]
@@ -7001,7 +7005,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": "2026-11-17",
    "first_seen_at": "2026-11-23T10:52:06+00:00",
-   "last_seen_at": "2026-11-23T10:52:06+00:00",
+   "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
    ]
@@ -7035,7 +7039,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": "2026-11-17",
    "first_seen_at": "2026-11-23T10:52:06+00:00",
-   "last_seen_at": "2026-11-23T10:52:06+00:00",
+   "last_seen_at": "2026-11-23T13:50:31+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/"
    ]
@@ -7071,7 +7075,7 @@
    "academic_period": "2026-27 spring semester",
    "page_updated_at": "2026-11-23",
    "first_seen_at": "2026-11-23T11:05:23+00:00",
-   "last_seen_at": "2026-11-23T11:05:23+00:00",
+   "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
    ]
@@ -7107,7 +7111,7 @@
    "academic_period": "2026-27 spring semester",
    "page_updated_at": "2026-11-23",
    "first_seen_at": "2026-11-23T11:05:23+00:00",
-   "last_seen_at": "2026-11-23T11:05:23+00:00",
+   "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
    ]
@@ -7142,7 +7146,7 @@
    "academic_period": "2026-27 spring semester",
    "page_updated_at": "2026-11-23",
    "first_seen_at": "2026-11-23T11:05:23+00:00",
-   "last_seen_at": "2026-11-23T11:05:23+00:00",
+   "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
    ]
@@ -7179,7 +7183,7 @@
    "academic_period": "2026-27 spring semester",
    "page_updated_at": "2026-11-23",
    "first_seen_at": "2026-11-23T11:05:23+00:00",
-   "last_seen_at": "2026-11-23T11:05:23+00:00",
+   "last_seen_at": "2026-11-23T13:50:35+00:00",
    "source_pages": [
     "https://brbiclab.epfl.ch/join-us/"
    ]
@@ -7208,7 +7212,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7243,7 +7247,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7272,7 +7276,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7301,7 +7305,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7330,7 +7334,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7359,7 +7363,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7391,7 +7395,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7425,7 +7429,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7454,7 +7458,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7483,7 +7487,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7512,7 +7516,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7541,7 +7545,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7570,7 +7574,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7599,7 +7603,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:29+00:00",
-   "last_seen_at": "2026-11-23T10:52:29+00:00",
+   "last_seen_at": "2026-11-23T13:50:36+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mlo/page-135359-en-html/"
    ]
@@ -7639,7 +7643,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:30+00:00",
-   "last_seen_at": "2026-11-23T10:52:32+00:00",
+   "last_seen_at": "2026-11-23T13:50:40+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/12/DT_PdS_AITools-2026-1.pdf",
     "https://www.epfl.ch/labs/mobots/education/student-projects/"
@@ -7666,7 +7670,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:30+00:00",
-   "last_seen_at": "2026-11-23T10:52:30+00:00",
+   "last_seen_at": "2026-11-23T13:50:37+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mobots/education/student-projects/"
    ]
@@ -7699,7 +7703,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:38+00:00",
-   "last_seen_at": "2026-11-23T10:52:38+00:00",
+   "last_seen_at": "2026-11-23T13:50:49+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nal/semester-projects/"
    ]
@@ -7733,7 +7737,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:38+00:00",
-   "last_seen_at": "2026-11-23T10:52:38+00:00",
+   "last_seen_at": "2026-11-23T13:50:49+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nal/semester-projects/"
    ]
@@ -7764,7 +7768,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:42+00:00",
-   "last_seen_at": "2026-11-23T10:52:42+00:00",
+   "last_seen_at": "2026-11-23T13:50:52+00:00",
    "source_pages": [
     "https://rs3lab.github.io/pages/projects.html"
    ]
@@ -7795,7 +7799,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:42+00:00",
-   "last_seen_at": "2026-11-23T10:52:42+00:00",
+   "last_seen_at": "2026-11-23T13:50:52+00:00",
    "source_pages": [
     "https://rs3lab.github.io/pages/projects.html"
    ]
@@ -7832,7 +7836,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:43+00:00",
-   "last_seen_at": "2026-11-23T10:52:43+00:00",
+   "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
    ]
@@ -7872,7 +7876,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:43+00:00",
-   "last_seen_at": "2026-11-23T10:52:43+00:00",
+   "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
    ]
@@ -7911,7 +7915,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:43+00:00",
-   "last_seen_at": "2026-11-23T10:52:43+00:00",
+   "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
    ]
@@ -7948,7 +7952,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:43+00:00",
-   "last_seen_at": "2026-11-23T10:52:43+00:00",
+   "last_seen_at": "2026-11-23T13:50:53+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sacs/student-projects/"
    ]
@@ -7977,7 +7981,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:07+00:00",
-   "last_seen_at": "2026-11-23T10:46:07+00:00",
+   "last_seen_at": "2026-11-23T13:50:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
    ]
@@ -8006,7 +8010,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:46:07+00:00",
-   "last_seen_at": "2026-11-23T10:46:07+00:00",
+   "last_seen_at": "2026-11-23T13:50:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/"
    ]
@@ -8048,7 +8052,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-05",
    "first_seen_at": "2026-11-23T10:52:49+00:00",
-   "last_seen_at": "2026-11-23T10:52:49+00:00",
+   "last_seen_at": "2026-11-23T13:50:59+00:00",
    "source_pages": [
     "https://www.spring.mpi-sp.org/student_projects.html"
    ]
@@ -8085,7 +8089,7 @@
    "academic_period": null,
    "page_updated_at": "2026-11-05",
    "first_seen_at": "2026-11-23T10:52:49+00:00",
-   "last_seen_at": "2026-11-23T10:52:49+00:00",
+   "last_seen_at": "2026-11-23T13:50:59+00:00",
    "source_pages": [
     "https://www.spring.mpi-sp.org/student_projects.html"
    ]
@@ -8113,7 +8117,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8139,7 +8143,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8165,7 +8169,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8194,7 +8198,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8222,7 +8226,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8250,7 +8254,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8279,7 +8283,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8308,7 +8312,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8335,7 +8339,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8363,7 +8367,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8389,7 +8393,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8418,7 +8422,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8446,7 +8450,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8472,7 +8476,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8501,7 +8505,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8530,7 +8534,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8556,7 +8560,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8582,7 +8586,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8611,7 +8615,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8639,7 +8643,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8667,7 +8671,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8694,7 +8698,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8722,7 +8726,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8748,7 +8752,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8776,7 +8780,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8802,7 +8806,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8828,7 +8832,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8856,7 +8860,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:51+00:00",
-   "last_seen_at": "2026-11-23T10:52:51+00:00",
+   "last_seen_at": "2026-11-23T13:51:00+00:00",
    "source_pages": [
     "https://systemf.epfl.ch/research.html#open-projects"
    ]
@@ -8885,7 +8889,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:53+00:00",
-   "last_seen_at": "2026-11-23T10:52:53+00:00",
+   "last_seen_at": "2026-11-23T13:51:05+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/"
    ]
@@ -8920,7 +8924,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:55+00:00",
-   "last_seen_at": "2026-11-23T10:52:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:09+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/schrimpflab/projects/"
    ]
@@ -8955,7 +8959,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:52:55+00:00",
-   "last_seen_at": "2026-11-23T10:52:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:09+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/schrimpflab/projects/"
    ]
@@ -8991,7 +8995,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9026,7 +9030,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9061,7 +9065,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9096,7 +9100,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9124,7 +9128,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9161,7 +9165,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9194,7 +9198,7 @@
    "academic_period": "Spring 2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9225,7 +9229,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:19+00:00",
-   "last_seen_at": "2026-11-23T10:53:19+00:00",
+   "last_seen_at": "2026-11-23T13:51:25+00:00",
    "source_pages": [
     "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32"
    ]
@@ -9256,7 +9260,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9289,7 +9293,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9324,7 +9328,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9357,7 +9361,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9390,7 +9394,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9422,7 +9426,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9456,7 +9460,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9489,7 +9493,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9522,7 +9526,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9555,7 +9559,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9586,7 +9590,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9619,7 +9623,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9650,7 +9654,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9684,7 +9688,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9717,7 +9721,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9751,7 +9755,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9783,7 +9787,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9816,7 +9820,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9848,7 +9852,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9880,7 +9884,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9915,7 +9919,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9948,7 +9952,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -9980,7 +9984,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10012,7 +10016,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10045,7 +10049,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10089,7 +10093,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:48+00:00",
+   "last_seen_at": "2026-11-23T13:51:32+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/esl/wp-content/uploads/2024/11/Microarchitectural-explorations-for-biomedical-applications.pdf",
     "https://esl.epfl.ch/studentprojects/"
@@ -10123,7 +10127,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10157,7 +10161,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10192,7 +10196,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10225,7 +10229,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10258,7 +10262,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10295,7 +10299,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10330,7 +10334,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10364,7 +10368,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10396,7 +10400,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10428,7 +10432,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10461,7 +10465,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10492,7 +10496,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10525,7 +10529,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10557,7 +10561,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10588,7 +10592,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:47+00:00",
-   "last_seen_at": "2026-11-23T10:53:47+00:00",
+   "last_seen_at": "2026-11-23T13:51:30+00:00",
    "source_pages": [
     "https://esl.epfl.ch/studentprojects/"
    ]
@@ -10623,7 +10627,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10660,7 +10664,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10695,7 +10699,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10729,7 +10733,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10762,7 +10766,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10796,7 +10800,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10832,7 +10836,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10867,7 +10871,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10902,7 +10906,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
    ]
@@ -10936,9 +10940,212 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:49+00:00",
-   "last_seen_at": "2026-11-23T10:53:49+00:00",
+   "last_seen_at": "2026-11-23T13:51:33+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/inl/inl/student-projects/"
+   ]
+  },
+  {
+   "id": "b78959fde551",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "DNA chips for SICS",
+   "summary": "Master project on DNA chips for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "dna nanotechnology",
+    "biosensing",
+    "single-molecule sensing"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "4e3c6b949ceb",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Engineering nanofluidic memories for brain-inspired ionic processes",
+   "summary": "Master project on engineering nanofluidic memory devices for brain-inspired ionic information processing, described in a PDF linked from the page.",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "nanofluidics",
+    "neuromorphic computing",
+    "nanopores"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "fcb96d31f24a",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Hybrid nanopores for SICS",
+   "summary": "Master project on hybrid nanopores for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "nanopores",
+    "nanofabrication",
+    "single-molecule sensing",
+    "biosensing"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "5dd5d8aa94b8",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Master project proposal: AFM",
+   "summary": "Master project proposal involving atomic force microscopy (AFM), described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "atomic force microscopy",
+    "nanoscale biology"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "a3ab93fa1169",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Master project proposal: single molecule",
+   "summary": "Master project proposal on single-molecule work, described only in a PDF linked from the page (title taken from the file name). Details are not given in the page text.",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "single-molecule biophysics",
+    "nanoscale biology"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "99b8ae2c7627",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Multiplexing and benchmarking for SICS",
+   "summary": "Master project on multiplexing and benchmarking for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "single-molecule sensing",
+    "nanopores",
+    "biosensing",
+    "nanopore sensing"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
+   ]
+  },
+  {
+   "id": "c3d6e007c79b",
+   "lab_ids": [
+    "sti-lben"
+   ],
+   "title": "Nanocapillary fabrication for SICS",
+   "summary": "Master project on fabricating nanocapillaries for SICS, described in a PDF linked from the page (title taken from the file name).",
+   "description_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+   "project_types": [
+    "master_thesis"
+   ],
+   "domains": [
+    "nanofabrication",
+    "nanofluidics",
+    "single-molecule sensing"
+   ],
+   "skills": [],
+   "language": "EN",
+   "supervisors": [],
+   "status": "available",
+   "academic_period": null,
+   "page_updated_at": null,
+   "first_seen_at": "2026-11-23T10:53:55+00:00",
+   "last_seen_at": "2026-11-23T13:51:41+00:00",
+   "source_pages": [
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79397-en-html/",
+    "https://www.epfl.ch/labs/lben/page-79396-en-html/page-79398-en-html/"
    ]
   },
   {
@@ -10966,7 +11173,7 @@
    "academic_period": "Autumn 2022",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:53:57+00:00",
+   "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
    ]
@@ -11002,7 +11209,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:17+00:00",
+   "last_seen_at": "2026-11-23T13:51:52+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00453",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11040,7 +11247,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:18+00:00",
+   "last_seen_at": "2026-11-23T13:51:53+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00452",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11074,7 +11281,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:12+00:00",
+   "last_seen_at": "2026-11-23T13:51:47+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00474",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11112,7 +11319,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:14+00:00",
+   "last_seen_at": "2026-11-23T13:51:49+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00470",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11150,7 +11357,7 @@
    "academic_period": "Automn",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:53:57+00:00",
+   "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
    ]
@@ -11181,7 +11388,7 @@
    "academic_period": "Spring 2024",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:53:57+00:00",
+   "last_seen_at": "2026-11-23T13:51:43+00:00",
    "source_pages": [
     "http://bigwww.epfl.ch/teaching/projects/subject.html"
    ]
@@ -11217,7 +11424,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:15+00:00",
+   "last_seen_at": "2026-11-23T13:51:50+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00468",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11254,7 +11461,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:16+00:00",
+   "last_seen_at": "2026-11-23T13:51:51+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00466",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11290,7 +11497,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:53:57+00:00",
-   "last_seen_at": "2026-11-23T10:54:13+00:00",
+   "last_seen_at": "2026-11-23T13:51:48+00:00",
    "source_pages": [
     "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00473",
     "http://bigwww.epfl.ch/teaching/projects/subject.html",
@@ -11327,7 +11534,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11363,7 +11570,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11399,7 +11606,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11439,7 +11646,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11475,7 +11682,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11509,7 +11716,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11544,7 +11751,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11579,7 +11786,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11616,7 +11823,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11652,7 +11859,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11689,7 +11896,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11726,7 +11933,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11759,7 +11966,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11794,7 +12001,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11829,7 +12036,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11866,7 +12073,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11899,7 +12106,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11933,7 +12140,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -11967,7 +12174,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12001,7 +12208,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12037,7 +12244,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12072,7 +12279,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12105,7 +12312,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12139,7 +12346,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12173,7 +12380,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12209,7 +12416,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12244,7 +12451,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12279,7 +12486,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12314,7 +12521,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12353,7 +12560,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12388,7 +12595,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12427,7 +12634,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12462,7 +12669,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12498,7 +12705,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12533,7 +12740,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12569,7 +12776,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12603,7 +12810,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12637,7 +12844,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12672,7 +12879,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12706,7 +12913,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:30+00:00",
-   "last_seen_at": "2026-11-23T10:54:30+00:00",
+   "last_seen_at": "2026-11-23T13:52:10+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/idiap/open-positions/student-projects/"
    ]
@@ -12740,7 +12947,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:32+00:00",
-   "last_seen_at": "2026-11-23T10:54:32+00:00",
+   "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
    ]
@@ -12773,7 +12980,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:32+00:00",
-   "last_seen_at": "2026-11-23T10:54:32+00:00",
+   "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
    ]
@@ -12803,7 +13010,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:32+00:00",
-   "last_seen_at": "2026-11-23T10:54:32+00:00",
+   "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
    ]
@@ -12834,7 +13041,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:32+00:00",
-   "last_seen_at": "2026-11-23T10:54:32+00:00",
+   "last_seen_at": "2026-11-23T13:52:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/student-projects/"
    ]
@@ -12874,7 +13081,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:54:32+00:00",
-   "last_seen_at": "2026-11-23T10:54:32+00:00",
+   "last_seen_at": "2026-11-23T13:52:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lions/wp-content/uploads/2026/01/ESLM_MScProject.pdf",
     "https://www.epfl.ch/labs/lions/student-projects/"
@@ -13377,7 +13584,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13412,7 +13619,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13442,7 +13649,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13479,7 +13686,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13511,7 +13718,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13547,7 +13754,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13584,7 +13791,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13614,7 +13821,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13651,7 +13858,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13681,7 +13888,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13711,7 +13918,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13742,7 +13949,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13780,7 +13987,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:10+00:00",
-   "last_seen_at": "2026-11-23T10:55:10+00:00",
+   "last_seen_at": "2026-11-23T13:52:42+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts4/studentprojects/"
    ]
@@ -13816,7 +14023,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -13851,7 +14058,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -13889,7 +14096,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -13929,7 +14136,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -13961,7 +14168,7 @@
    "academic_period": "Fall 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -14001,7 +14208,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -14036,7 +14243,7 @@
    "academic_period": "Autumn 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:11+00:00",
-   "last_seen_at": "2026-11-23T10:55:11+00:00",
+   "last_seen_at": "2026-11-23T13:52:44+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lts5/student_projects-html/"
    ]
@@ -14067,7 +14274,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14098,7 +14305,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14129,7 +14336,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14160,7 +14367,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14191,7 +14398,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14222,7 +14429,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14253,7 +14460,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14284,7 +14491,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T11:06:23+00:00",
-   "last_seen_at": "2026-11-23T11:06:23+00:00",
+   "last_seen_at": "2026-11-23T13:52:45+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mints/student-projects/"
    ]
@@ -14311,7 +14518,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:18+00:00",
-   "last_seen_at": "2026-11-23T10:55:18+00:00",
+   "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
    ]
@@ -14337,7 +14544,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14365,7 +14572,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14393,7 +14600,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14419,7 +14626,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14445,7 +14652,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14471,7 +14678,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14501,7 +14708,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14528,7 +14735,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:18+00:00",
-   "last_seen_at": "2026-11-23T10:55:18+00:00",
+   "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
    ]
@@ -14554,7 +14761,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:17+00:00",
-   "last_seen_at": "2026-11-23T10:55:17+00:00",
+   "last_seen_at": "2026-11-23T13:52:47+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects"
    ]
@@ -14581,7 +14788,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:18+00:00",
-   "last_seen_at": "2026-11-23T10:55:18+00:00",
+   "last_seen_at": "2026-11-23T13:52:48+00:00",
    "source_pages": [
     "https://miplab.epfl.ch/teaching/open-projects-collaborations"
    ]
@@ -14617,7 +14824,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
    ]
@@ -14652,7 +14859,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
    ]
@@ -14688,7 +14895,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
    ]
@@ -14726,7 +14933,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
    ]
@@ -14763,7 +14970,7 @@
    "academic_period": "2026-2027",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:50+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/mmspg/studentprojects/"
    ]
@@ -14791,7 +14998,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14817,7 +15024,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14842,7 +15049,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14868,7 +15075,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14894,7 +15101,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14921,7 +15128,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:20+00:00",
-   "last_seen_at": "2026-11-23T10:55:20+00:00",
+   "last_seen_at": "2026-11-23T13:52:52+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/sycamore/student-projects/"
    ]
@@ -14955,7 +15162,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -14989,7 +15196,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15021,7 +15228,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15056,7 +15263,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15091,7 +15298,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15125,7 +15332,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15157,7 +15364,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15189,7 +15396,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15222,7 +15429,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15256,7 +15463,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15290,7 +15497,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15323,7 +15530,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15356,7 +15563,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15387,7 +15594,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15418,7 +15625,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15451,7 +15658,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15486,7 +15693,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15520,7 +15727,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15553,7 +15760,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15591,7 +15798,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15625,7 +15832,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15656,7 +15863,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15689,7 +15896,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15725,7 +15932,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15756,7 +15963,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15794,7 +16001,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15827,7 +16034,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15863,7 +16070,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15896,7 +16103,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -15926,7 +16133,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -15958,7 +16165,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -15991,7 +16198,7 @@
    "academic_period": "Spring 2026",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:31+00:00",
-   "last_seen_at": "2026-11-23T10:55:31+00:00",
+   "last_seen_at": "2026-11-23T13:53:07+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf"
    ]
@@ -16026,7 +16233,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -16062,7 +16269,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -16096,7 +16303,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -16129,7 +16336,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16161,7 +16368,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16192,7 +16399,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16225,7 +16432,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16261,7 +16468,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16294,7 +16501,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16325,7 +16532,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16356,7 +16563,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16389,7 +16596,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16424,7 +16631,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -16456,7 +16663,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16488,7 +16695,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:35+00:00",
-   "last_seen_at": "2026-11-23T10:55:35+00:00",
+   "last_seen_at": "2026-11-23T13:53:13+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf"
    ]
@@ -16522,7 +16729,7 @@
    "academic_period": "Spring 2025",
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:32+00:00",
-   "last_seen_at": "2026-11-23T10:55:32+00:00",
+   "last_seen_at": "2026-11-23T13:53:08+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf"
    ]
@@ -16559,7 +16766,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:37+00:00",
-   "last_seen_at": "2026-11-23T10:55:37+00:00",
+   "last_seen_at": "2026-11-23T13:53:15+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/lbm/openings/"
    ]
@@ -16592,7 +16799,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16625,7 +16832,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16660,7 +16867,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16694,7 +16901,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16730,7 +16937,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16765,7 +16972,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16800,7 +17007,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_seen_at": "2026-11-23T10:55:39+00:00",
+   "last_seen_at": "2026-11-23T13:53:18+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
    ]
@@ -16838,7 +17045,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:41+00:00",
-   "last_seen_at": "2026-11-23T10:55:41+00:00",
+   "last_seen_at": "2026-11-23T13:53:21+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/barth-lab/page-149655-en-html/"
    ]
@@ -16877,7 +17084,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:42+00:00",
-   "last_seen_at": "2026-11-23T10:55:42+00:00",
+   "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
    ]
@@ -16916,7 +17123,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:42+00:00",
-   "last_seen_at": "2026-11-23T10:55:42+00:00",
+   "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
    ]
@@ -16954,7 +17161,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:42+00:00",
-   "last_seen_at": "2026-11-23T10:55:42+00:00",
+   "last_seen_at": "2026-11-23T13:53:22+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/"
    ]
@@ -16983,7 +17190,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_seen_at": "2026-11-23T10:55:44+00:00",
+   "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
    ]
@@ -17012,7 +17219,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_seen_at": "2026-11-23T10:55:44+00:00",
+   "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
    ]
@@ -17041,7 +17248,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_seen_at": "2026-11-23T10:55:44+00:00",
+   "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
    ]
@@ -17070,7 +17277,7 @@
    "academic_period": null,
    "page_updated_at": null,
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_seen_at": "2026-11-23T10:55:44+00:00",
+   "last_seen_at": "2026-11-23T13:53:25+00:00",
    "source_pages": [
     "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/"
    ]

@@ -1,7 +1,7 @@
 {
- "started_at": "2026-11-23T13:03:45+00:00",
- "finished_at": "2026-11-23T13:04:11+00:00",
- "duration_s": 25.6,
+ "started_at": "2026-11-23T14:01:27+00:00",
+ "finished_at": "2026-11-23T14:02:15+00:00",
+ "duration_s": 48.2,
  "offline": false,
  "labs_total": 114,
  "labs_by_status": {
@@ -11,17 +11,24 @@
   "restricted": 3,
   "blocked": 2
  },
- "pages_total": 278,
+ "pages_total": 253,
  "pages_new": 0,
- "pages_changed": 10,
- "pages_unchanged": 263,
- "pages_error": 2,
+ "pages_changed": 3,
+ "pages_unchanged": 243,
+ "pages_error": 4,
  "pages_duplicate": 3,
+ "pages_stale": 27,
  "little_text_pages": [
   "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
   "https://www.epfl.ch/schools/ic/ipg/research-topics/"
  ],
  "errors": [
+  {
+   "lab": "ent-imaging-ge",
+   "url": "https://imaging.epfl.ch/students-projects",
+   "status": "error",
+   "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)"
+  },
   {
    "lab": "ic-cvlab",
    "url": "https://www.epfl.ch/labs/cvlab/projects/stacked-objects-counting-segmenting-reconstructing/",
@@ -33,12 +40,18 @@
    "url": "https://www.epfl.ch/labs/idiap/student-projects/Idiap",
    "status": "error",
    "error": "HTTP 404"
+  },
+  {
+   "lab": "sti-lts2",
+   "url": "https://lts2.epfl.ch/projects/list",
+   "status": "error",
+   "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)"
   }
  ],
  "fetcher": {
-  "network": 0,
-  "cache_hits": 278,
+  "network": 12,
+  "cache_hits": 251,
   "not_modified": 0,
-  "errors": 0
+  "errors": 2
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:07:32+00:00",
+ "generated_at": "2026-11-23T14:02:49+00:00",
  "labs": [
   {
    "id": "cdm-ban",
@@ -19,7 +19,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/ban/research/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:25+00:00",
+   "last_checked_at": "2026-11-23T13:47:13+00:00",
    "project_count": 0
   },
   {
@@ -41,7 +41,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/entc/research/our-student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:26+00:00",
+   "last_checked_at": "2026-11-23T13:47:15+00:00",
    "project_count": 2
   },
   {
@@ -89,7 +89,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/disal/teaching/student_projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:28+00:00",
+   "last_checked_at": "2026-11-23T13:47:17+00:00",
    "project_count": 11
   },
   {
@@ -108,7 +108,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:37+00:00",
+   "last_checked_at": "2026-11-23T13:47:28+00:00",
    "project_count": 10
   },
   {
@@ -132,7 +132,7 @@
    ],
    "projects_url": "https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/laboratories-and-groups-3/environmental-sensing-observatory/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:51+00:00",
+   "last_checked_at": "2026-11-23T13:47:48+00:00",
    "project_count": 0
   },
   {
@@ -154,7 +154,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/imos/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:53+00:00",
+   "last_checked_at": "2026-11-23T13:47:51+00:00",
    "project_count": 9
   },
   {
@@ -175,7 +175,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:54+00:00",
+   "last_checked_at": "2026-11-23T13:47:52+00:00",
    "project_count": 6
   },
   {
@@ -196,7 +196,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:49:55+00:00",
+   "last_checked_at": "2026-11-23T13:47:53+00:00",
    "project_count": 10
   },
   {
@@ -218,7 +218,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:07+00:00",
+   "last_checked_at": "2026-11-23T13:48:17+00:00",
    "project_count": 16
   },
   {
@@ -238,7 +238,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/transp-or/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:08+00:00",
+   "last_checked_at": "2026-11-23T13:48:18+00:00",
    "project_count": 0
   },
   {
@@ -285,7 +285,7 @@
    ],
    "projects_url": "https://www.epfl.ch/education/educational-initiatives/cede/campusanalytics/studentsprojects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:09+00:00",
+   "last_checked_at": "2026-11-23T13:48:20+00:00",
    "project_count": 0
   },
   {
@@ -305,7 +305,7 @@
    ],
    "projects_url": "https://cibm.ch/open-positions/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:11+00:00",
+   "last_checked_at": "2026-11-23T13:48:22+00:00",
    "project_count": 5
   },
   {
@@ -351,7 +351,7 @@
    ],
    "projects_url": "https://datascience.ch/students-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:23+00:00",
+   "last_checked_at": "2026-11-23T13:48:39+00:00",
    "project_count": 7
   },
   {
@@ -380,7 +380,7 @@
    ],
    "projects_url": "https://aimm.epfl.ch/openings/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:30+00:00",
+   "last_checked_at": "2026-11-23T13:48:46+00:00",
    "project_count": 4
   },
   {
@@ -412,7 +412,7 @@
    ],
    "projects_url": "https://www.thecoalalab.com/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:36+00:00",
+   "last_checked_at": "2026-11-23T13:48:47+00:00",
    "project_count": 7
   },
   {
@@ -435,7 +435,7 @@
    ],
    "projects_url": "https://compsec.epfl.ch/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:37+00:00",
+   "last_checked_at": "2026-11-23T13:48:49+00:00",
    "project_count": 2
   },
   {
@@ -460,7 +460,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/cvlab/projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:45:43+00:00",
+   "last_checked_at": "2026-11-23T13:48:50+00:00",
    "project_count": 9
   },
   {
@@ -485,7 +485,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/data/teaching/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:38+00:00",
+   "last_checked_at": "2026-11-23T13:49:06+00:00",
    "project_count": 0
   },
   {
@@ -511,7 +511,7 @@
    ],
    "projects_url": "https://dcl.epfl.ch/site/Education",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:39+00:00",
+   "last_checked_at": "2026-11-23T13:49:08+00:00",
    "project_count": 3
   },
   {
@@ -535,7 +535,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dcml/open-positions/students/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:41+00:00",
+   "last_checked_at": "2026-11-23T13:49:11+00:00",
    "project_count": 6
   },
   {
@@ -560,7 +560,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:44+00:00",
+   "last_checked_at": "2026-11-23T13:49:13+00:00",
    "project_count": 0
   },
   {
@@ -587,7 +587,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dedis/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:47+00:00",
+   "last_checked_at": "2026-11-23T13:49:17+00:00",
    "project_count": 3
   },
   {
@@ -613,7 +613,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dhlab/index-html/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:51+00:00",
+   "last_checked_at": "2026-11-23T13:49:22+00:00",
    "project_count": 44
   },
   {
@@ -637,7 +637,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dias/for-students/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:50:55+00:00",
+   "last_checked_at": "2026-11-23T13:49:26+00:00",
    "project_count": 5
   },
   {
@@ -688,7 +688,7 @@
    ],
    "projects_url": "https://dslab.epfl.ch/projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:11+00:00",
+   "last_checked_at": "2026-11-23T13:49:35+00:00",
    "project_count": 3
   },
   {
@@ -721,7 +721,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/emplus/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:12+00:00",
+   "last_checked_at": "2026-11-23T13:49:37+00:00",
    "project_count": 3
   },
   {
@@ -745,7 +745,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/gcm/education/#student_projects",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:14+00:00",
+   "last_checked_at": "2026-11-23T13:49:39+00:00",
    "project_count": 4
   },
   {
@@ -773,7 +773,7 @@
    ],
    "projects_url": "https://hexhive.epfl.ch/epflprojects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:21+00:00",
+   "last_checked_at": "2026-11-23T13:49:51+00:00",
    "project_count": 2
   },
   {
@@ -798,7 +798,7 @@
    ],
    "projects_url": "https://indy.epfl.ch/projects",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:24+00:00",
+   "last_checked_at": "2026-11-23T13:49:53+00:00",
    "project_count": 4
   },
   {
@@ -824,7 +824,7 @@
    ],
    "projects_url": "https://indy.epfl.ch/projects",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:24+00:00",
+   "last_checked_at": "2026-11-23T13:49:53+00:00",
    "project_count": 4
   },
   {
@@ -851,7 +851,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/ivrl/available-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:49+00:00",
+   "last_checked_at": "2026-11-23T13:49:58+00:00",
    "project_count": 1
   },
   {
@@ -877,7 +877,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lamp/teaching/teaching-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:52+00:00",
+   "last_checked_at": "2026-11-23T13:50:01+00:00",
    "project_count": 0
   },
   {
@@ -901,7 +901,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lap/students-projets/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:45:58+00:00",
+   "last_checked_at": "2026-11-23T13:50:03+00:00",
    "project_count": 8
   },
   {
@@ -951,7 +951,7 @@
    ],
    "projects_url": "https://lasec.epfl.ch/teaching.php",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:53+00:00",
+   "last_checked_at": "2026-11-23T13:50:06+00:00",
    "project_count": 0
   },
   {
@@ -978,7 +978,7 @@
    ],
    "projects_url": "https://laser.epfl.ch/pages/apply.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T11:05:25+00:00",
+   "last_checked_at": "2026-11-23T13:50:09+00:00",
    "project_count": 0
   },
   {
@@ -1011,7 +1011,7 @@
    ],
    "projects_url": "https://lcn.epfl.ch/student-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:46:01+00:00",
+   "last_checked_at": "2026-11-23T13:50:12+00:00",
    "project_count": 5
   },
   {
@@ -1061,7 +1061,7 @@
    ],
    "projects_url": "https://www.light-laboratory.org/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:00+00:00",
+   "last_checked_at": "2026-11-23T13:50:16+00:00",
    "project_count": 0
   },
   {
@@ -1088,7 +1088,7 @@
    ],
    "projects_url": "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:46:07+00:00",
+   "last_checked_at": "2026-11-23T13:50:18+00:00",
    "project_count": 3
   },
   {
@@ -1112,7 +1112,7 @@
    ],
    "projects_url": "https://www.epfl.ch/schools/ic/ipg/proposed-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:46:04+00:00",
+   "last_checked_at": "2026-11-23T13:50:19+00:00",
    "project_count": 0
   },
   {
@@ -1134,7 +1134,7 @@
    ],
    "projects_url": "https://www.epfl.ch/schools/ic/ipg/proposed-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:46:04+00:00",
+   "last_checked_at": "2026-11-23T13:50:19+00:00",
    "project_count": 0
   },
   {
@@ -1161,7 +1161,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/mds/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:04+00:00",
+   "last_checked_at": "2026-11-23T13:50:28+00:00",
    "project_count": 0
   },
   {
@@ -1191,7 +1191,7 @@
    ],
    "projects_url": "https://theory.epfl.ch/yanina/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:05+00:00",
+   "last_checked_at": "2026-11-23T13:50:30+00:00",
    "project_count": 0
   },
   {
@@ -1217,7 +1217,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:06+00:00",
+   "last_checked_at": "2026-11-23T13:50:31+00:00",
    "project_count": 4
   },
   {
@@ -1245,7 +1245,7 @@
    ],
    "projects_url": "https://brbiclab.epfl.ch/join-us/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T11:05:23+00:00",
+   "last_checked_at": "2026-11-23T13:50:35+00:00",
    "project_count": 4
   },
   {
@@ -1271,7 +1271,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/mlo/page-135359-en-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:29+00:00",
+   "last_checked_at": "2026-11-23T13:50:36+00:00",
    "project_count": 14
   },
   {
@@ -1300,7 +1300,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/mobots/education/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:30+00:00",
+   "last_checked_at": "2026-11-23T13:50:37+00:00",
    "project_count": 2
   },
   {
@@ -1323,7 +1323,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/nal/semester-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:38+00:00",
+   "last_checked_at": "2026-11-23T13:50:49+00:00",
    "project_count": 2
   },
   {
@@ -1399,7 +1399,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/qcc/research/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:41+00:00",
+   "last_checked_at": "2026-11-23T13:50:51+00:00",
    "project_count": 0
   },
   {
@@ -1447,7 +1447,7 @@
    ],
    "projects_url": "https://rs3lab.github.io/pages/projects.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:42+00:00",
+   "last_checked_at": "2026-11-23T13:50:52+00:00",
    "project_count": 2
   },
   {
@@ -1475,7 +1475,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/sacs/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:43+00:00",
+   "last_checked_at": "2026-11-23T13:50:53+00:00",
    "project_count": 4
   },
   {
@@ -1522,7 +1522,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lamp/teaching/teaching-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:51:52+00:00",
+   "last_checked_at": "2026-11-23T13:50:01+00:00",
    "project_count": 0
   },
   {
@@ -1546,7 +1546,7 @@
    ],
    "projects_url": "https://www.idiap.ch/en/education/courses#student-projects",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:46+00:00",
+   "last_checked_at": "2026-11-23T13:50:55+00:00",
    "project_count": 0
   },
   {
@@ -1619,7 +1619,7 @@
    ],
    "projects_url": "https://sens.epfl.ch/student_projects.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:47+00:00",
+   "last_checked_at": "2026-11-23T13:50:56+00:00",
    "project_count": 0
   },
   {
@@ -1786,7 +1786,7 @@
    ],
    "projects_url": "https://www.epfl.ch/schools/ic/ipg/proposed-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:46:04+00:00",
+   "last_checked_at": "2026-11-23T13:50:19+00:00",
    "project_count": 2
   },
   {
@@ -1816,7 +1816,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/spoc/open-positions/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:47+00:00",
+   "last_checked_at": "2026-11-23T13:50:57+00:00",
    "project_count": 0
   },
   {
@@ -1839,7 +1839,7 @@
    ],
    "projects_url": "https://www.spring.mpi-sp.org/student_projects.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:49+00:00",
+   "last_checked_at": "2026-11-23T13:50:59+00:00",
    "project_count": 2
   },
   {
@@ -1871,7 +1871,7 @@
    ],
    "projects_url": "https://systemf.epfl.ch/research.html#open-projects",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:51+00:00",
+   "last_checked_at": "2026-11-23T13:51:00+00:00",
    "project_count": 28
   },
   {
@@ -1896,7 +1896,7 @@
    ],
    "projects_url": "https://n0g.at/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:52+00:00",
+   "last_checked_at": "2026-11-23T13:51:01+00:00",
    "project_count": 0
   },
   {
@@ -1921,7 +1921,7 @@
    ],
    "projects_url": "https://theory.epfl.ch/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:53+00:00",
+   "last_checked_at": "2026-11-23T13:51:03+00:00",
    "project_count": 0
   },
   {
@@ -1942,7 +1942,7 @@
    ],
    "projects_url": "https://theory.epfl.ch/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:53+00:00",
+   "last_checked_at": "2026-11-23T13:51:03+00:00",
    "project_count": 0
   },
   {
@@ -1965,7 +1965,7 @@
    ],
    "projects_url": "https://theory.epfl.ch/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:53+00:00",
+   "last_checked_at": "2026-11-23T13:51:03+00:00",
    "project_count": 0
   },
   {
@@ -1990,7 +1990,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:53+00:00",
+   "last_checked_at": "2026-11-23T13:51:05+00:00",
    "project_count": 1
   },
   {
@@ -2018,7 +2018,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/schrimpflab/#prospective",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:52:54+00:00",
+   "last_checked_at": "2026-11-23T13:51:08+00:00",
    "project_count": 2
   },
   {
@@ -2119,7 +2119,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/csft/research/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:07+00:00",
+   "last_checked_at": "2026-11-23T13:51:10+00:00",
    "project_count": 0
   },
   {
@@ -2144,7 +2144,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/disopt/projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:09+00:00",
+   "last_checked_at": "2026-11-23T13:51:12+00:00",
    "project_count": 0
   },
   {
@@ -2164,7 +2164,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/dola/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:16+00:00",
+   "last_checked_at": "2026-11-23T13:51:21+00:00",
    "project_count": 0
   },
   {
@@ -2184,7 +2184,7 @@
    ],
    "projects_url": "https://schwallergroup.github.io/openings.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:17+00:00",
+   "last_checked_at": "2026-11-23T13:51:22+00:00",
    "project_count": 0
   },
   {
@@ -2206,7 +2206,7 @@
    ],
    "projects_url": "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:19+00:00",
+   "last_checked_at": "2026-11-23T13:51:25+00:00",
    "project_count": 8
   },
   {
@@ -2229,7 +2229,7 @@
    ],
    "projects_url": "https://esl.epfl.ch/studentprojects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:47+00:00",
+   "last_checked_at": "2026-11-23T13:51:30+00:00",
    "project_count": 41
   },
   {
@@ -2252,7 +2252,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/inl/inl/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:49+00:00",
+   "last_checked_at": "2026-11-23T13:51:33+00:00",
    "project_count": 10
   },
   {
@@ -2274,8 +2274,8 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:52+00:00",
-   "project_count": 0
+   "last_checked_at": "2026-11-23T13:51:37+00:00",
+   "project_count": 7
   },
   {
    "id": "sti-lib",
@@ -2297,7 +2297,7 @@
    ],
    "projects_url": "http://bigwww.epfl.ch/teaching/projects/subject.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:53:57+00:00",
+   "last_checked_at": "2026-11-23T13:51:43+00:00",
    "project_count": 10
   },
   {
@@ -2325,7 +2325,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/idiap/open-positions/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:54:30+00:00",
+   "last_checked_at": "2026-11-23T13:52:10+00:00",
    "project_count": 40
   },
   {
@@ -2348,7 +2348,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lions/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:54:32+00:00",
+   "last_checked_at": "2026-11-23T13:52:13+00:00",
    "project_count": 5
   },
   {
@@ -2392,7 +2392,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lpdi/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:54:42+00:00",
+   "last_checked_at": "2026-11-23T13:52:23+00:00",
    "project_count": 0
   },
   {
@@ -2447,7 +2447,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lts4/sprojects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:09+00:00",
+   "last_checked_at": "2026-11-23T13:52:40+00:00",
    "project_count": 13
   },
   {
@@ -2469,7 +2469,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lts5/student_projects-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:11+00:00",
+   "last_checked_at": "2026-11-23T13:52:44+00:00",
    "project_count": 7
   },
   {
@@ -2492,7 +2492,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/mints/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T11:06:23+00:00",
+   "last_checked_at": "2026-11-23T13:52:45+00:00",
    "project_count": 8
   },
   {
@@ -2514,7 +2514,7 @@
    ],
    "projects_url": "https://miplab.epfl.ch/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:16+00:00",
+   "last_checked_at": "2026-11-23T13:52:47+00:00",
    "project_count": 11
   },
   {
@@ -2542,7 +2542,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/mmspg/studentprojects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:20+00:00",
+   "last_checked_at": "2026-11-23T13:52:50+00:00",
    "project_count": 5
   },
   {
@@ -2564,7 +2564,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/sycamore/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:20+00:00",
+   "last_checked_at": "2026-11-23T13:52:52+00:00",
    "project_count": 6
   },
   {
@@ -2585,7 +2585,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/tcl/page-87315-en-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:30+00:00",
+   "last_checked_at": "2026-11-23T13:53:04+00:00",
    "project_count": 48
   },
   {
@@ -2607,7 +2607,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lbm/openings/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:37+00:00",
+   "last_checked_at": "2026-11-23T13:53:15+00:00",
    "project_count": 1
   },
   {
@@ -2631,7 +2631,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/lsens/master-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:38+00:00",
+   "last_checked_at": "2026-11-23T13:53:16+00:00",
    "project_count": 0
   },
   {
@@ -2652,7 +2652,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/ramdya-lab/available-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:39+00:00",
+   "last_checked_at": "2026-11-23T13:53:18+00:00",
    "project_count": 7
   },
   {
@@ -2676,7 +2676,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/alexandermathis-lab/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:39+00:00",
+   "last_checked_at": "2026-11-23T13:53:19+00:00",
    "project_count": 0
   },
   {
@@ -2698,7 +2698,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/barth-lab/page-149655-en-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:41+00:00",
+   "last_checked_at": "2026-11-23T13:53:21+00:00",
    "project_count": 1
   },
   {
@@ -2720,7 +2720,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:42+00:00",
+   "last_checked_at": "2026-11-23T13:53:22+00:00",
    "project_count": 3
   },
   {
@@ -2744,7 +2744,7 @@
    ],
    "projects_url": "https://mlabofai.org/join.html",
    "status": "ok",
-   "last_checked_at": "2026-11-23T11:05:28+00:00",
+   "last_checked_at": "2026-11-23T13:53:23+00:00",
    "project_count": 0
   },
   {
@@ -2766,7 +2766,7 @@
    ],
    "projects_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "status": "ok",
-   "last_checked_at": "2026-11-23T10:55:44+00:00",
+   "last_checked_at": "2026-11-23T13:53:25+00:00",
    "project_count": 4
   }
  ]
