@@ -228,10 +228,15 @@ class Extractor:
             report.projects_found += len(entry["projects"])
             return entry
 
-        entry["error"] = error
         report.pages_failed += 1
         report.errors.append({"url": url, "error": error})
         self.log(f"   ! {error}")
+        previous = self.store["pages"].get(url)
+        if previous and not previous.get("error"):
+            # Keep the last good extraction (its key still has the old content hash, so the
+            # page stays pending and is retried next run) instead of losing its projects.
+            return {**previous, "last_error": error, "last_error_at": entry["extracted_at"]}
+        entry["error"] = error
         return entry
 
     def _save(self) -> None:

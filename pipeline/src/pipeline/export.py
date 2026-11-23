@@ -68,7 +68,10 @@ def build_projects(labs: list[Lab], crawl_state: dict, extractions: dict) -> lis
         page = crawl_state["pages"].get(url)
         if page is None or entry.get("error"):
             continue  # page no longer crawled, or extraction failed
-        parent = extractions["pages"].get(page.get("parent_url") or "")
+        parent_url = page.get("parent_url")
+        parent = extractions["pages"].get(parent_url) if parent_url else None
+        if parent_url and (parent is None or parent.get("error")):
+            continue  # list page not extracted: cannot tell which sub-pages are still open
         parent_titles = [p["title"] for p in parent["projects"]] if parent else []
         for raw in entry["projects"]:
             lab_ids = [i for i in _attribute(raw, page["lab_ids"], labs_by_id) if i in labs_by_id]

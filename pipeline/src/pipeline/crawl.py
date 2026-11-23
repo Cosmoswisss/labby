@@ -54,6 +54,7 @@ class CrawlReport:
     pages_unchanged: int = 0
     pages_error: int = 0
     pages_duplicate: int = 0  # same text as another page of the lab, skipped
+    pages_stale: int = 0  # unreachable this run: previous version kept
     little_text_pages: list[str] = field(default_factory=list)
     errors: list[dict] = field(default_factory=list)
     fetcher: dict[str, int] = field(default_factory=dict)
@@ -74,6 +75,18 @@ def classify(result: FetchResult) -> tuple[CrawlStatus, str | None]:
     if looks_like_login(result.final_url):
         return "restricted", f"redirected to login: {result.final_url}"
     return "ok", None
+
+
+def is_transient(outcome: PageOutcome) -> bool:
+    """Failures worth riding out with the previous version of the page.
+
+    Network errors, timeouts, 5xx and 403 (some sites block cloud IP ranges, e.g. GitHub
+    Actions runners) are often temporary. A 404/410 (page gone) or a robots.txt
+    disallow (the site's explicit choice) is not.
+    """
+    if outcome.http_status in (404, 410):
+        return False
+    return not (outcome.error and "robots" in outcome.error)
 
 
 def process_page(fetcher: Fetcher, url: str) -> PageOutcome:
@@ -178,6 +191,12 @@ class Crawler:
         lab_state["error"] = seed.error
         lab_state["last_checked_at"] = seed.fetched_at
         if seed.status != "ok":
+            previous = self.state["labs"].get(lab.id)
+            if is_transient(seed) and previous and previous.get("pages"):
+                # Temporary failure: keep last run's pages (and so their projects).
+                for url in previous["pages"]:
+                    self._keep_previous(url, lab, seed.error, old_pages, new_pages, report)
+                return {**previous, "error": f"kept previous data: {seed.error}"}
             return lab_state
         lab_state["pages"].append(seed.url)
 
@@ -189,6 +208,19 @@ class Crawler:
                 if kept:
                     lab_state["pages"].append(link.url)
         return lab_state
+
+    def _keep_previous(self, url, lab, error, old_pages, new_pages, report) -> bool:
+        """Carries a page's previous entry over to this run (unreachable right now)."""
+        previous = old_pages.get(url)
+        if previous is None:
+            return False
+        entry = new_pages.get(url) or {**previous, "lab_ids": [], "last_error": error}
+        if lab.id not in entry["lab_ids"]:
+            entry["lab_ids"].append(lab.id)
+        if url not in new_pages:
+            report.pages_stale += 1
+        new_pages[url] = entry
+        return True
 
     def _visit(
         self, url, parent, link_text, lab, lab_hashes, outcomes, old_pages, new_pages, report
@@ -215,6 +247,11 @@ class Crawler:
             report.errors.append(
                 {"lab": lab.id, "url": url, "status": outcome.status, "error": outcome.error}
             )
+            if is_transient(outcome) and url in old_pages:
+                kept = self._keep_previous(url, lab, outcome.error, old_pages, new_pages, report)
+                if kept:
+                    lab_hashes.add(new_pages[url]["content_hash"])
+                return outcome, kept
             return outcome, False
 
         digest = content_hash(outcome.text)

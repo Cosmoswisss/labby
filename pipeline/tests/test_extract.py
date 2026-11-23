@@ -192,3 +192,27 @@ def test_usage_limit_error_stops_the_run(tmp_path):
     report = make_extractor(tmp_path, engine).run([lab("ic-vis")])
     assert len(engine.calls) == 2  # two attempts on the first page, then stop
     assert report.pages_left == 2 and report.stopped_reason.startswith("usage limit")
+
+
+def test_auth_token_whitespace_is_removed(monkeypatch):
+    from pipeline.engines import _clean_env
+
+    monkeypatch.setenv("CLAUDE_CODE_OAUTH_TOKEN", " sk-ant-oat01-abc\n")
+    assert _clean_env()["CLAUDE_CODE_OAUTH_TOKEN"] == "sk-ant-oat01-abc"
+
+
+def test_failed_reextraction_keeps_previous_projects(tmp_path):
+    setup_state(tmp_path, {"https://a.ch/p": (["ic-vis"], "text", "h1")})
+    make_extractor(tmp_path, FakeEngine([RESPONSE])).run([lab("ic-vis")])
+    (tmp_path / "cache" / "text" / "p0.txt").unlink()
+    (tmp_path / "cache" / "text").rmdir()
+    setup_state(tmp_path, {"https://a.ch/p": (["ic-vis"], "changed text", "h2")})
+    failing = FakeEngine([EngineResult(None, error="claude error: Not logged in")] * 2)
+    report = make_extractor(tmp_path, failing).run([lab("ic-vis")])
+    assert report.pages_failed == 1
+    store = json.loads((tmp_path / "state" / "extractions.json").read_text(encoding="utf-8"))
+    entry = store["pages"]["https://a.ch/p"]
+    assert entry["error"] is None and entry["projects"][0]["title"] == "Drone perception"
+    assert "Not logged in" in entry["last_error"]
+    # still pending: retried next run
+    assert make_extractor(tmp_path, FakeEngine([])).pending_pages() == ["https://a.ch/p"]

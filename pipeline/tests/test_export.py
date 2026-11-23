@@ -147,3 +147,22 @@ def test_subpages_of_link_only_index_are_kept():
         }
     }
     assert len(build_projects(labs, crawl, ext)) == 2
+
+
+def test_subpages_skipped_when_parent_extraction_failed_or_missing():
+    labs = [lab("enac-disal", "DISAL")]
+    crawl = {
+        "pages": {
+            "https://disal/list": page(["enac-disal"]),
+            "https://disal/old-project": page(["enac-disal"], parent="https://disal/list"),
+        }
+    }
+    failed = {
+        "pages": {
+            "https://disal/list": extraction([], error="Not logged in"),
+            "https://disal/old-project": extraction([raw("An old project")]),
+        }
+    }
+    assert build_projects(labs, crawl, failed) == []
+    missing = {"pages": {"https://disal/old-project": extraction([raw("An old project")])}}
+    assert build_projects(labs, crawl, missing) == []

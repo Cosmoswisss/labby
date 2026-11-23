@@ -9,6 +9,7 @@ key) for another provider later, and use a fake engine in tests.
 from __future__ import annotations
 
 import json
+import os
 import shutil
 import subprocess
 import tempfile
@@ -64,6 +65,7 @@ class ClaudeCodeEngine:
             try:
                 proc = subprocess.run(
                     cmd,
+                    env=_clean_env(),
                     input=user_prompt,
                     capture_output=True,
                     text=True,
@@ -78,6 +80,19 @@ class ClaudeCodeEngine:
             except subprocess.TimeoutExpired:
                 return EngineResult(None, error=f"timeout after {self.timeout}s")
         return parse_claude_output(proc.returncode, proc.stdout, proc.stderr)
+
+
+def _clean_env() -> dict[str, str]:
+    """Environment for `claude`, with whitespace removed from the auth token.
+
+    A token pasted into a CI secret often carries a trailing newline; recent Claude Code
+    versions then ignore it entirely ("Not logged in").
+    """
+    env = dict(os.environ)
+    token = env.get("CLAUDE_CODE_OAUTH_TOKEN")
+    if token:
+        env["CLAUDE_CODE_OAUTH_TOKEN"] = "".join(token.split())
+    return env
 
 
 def parse_claude_output(returncode: int, stdout: str, stderr: str) -> EngineResult:

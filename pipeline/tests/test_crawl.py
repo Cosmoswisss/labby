@@ -178,3 +178,29 @@ def test_duplicate_content_under_another_url_is_skipped(web, make_fetcher, tmp_p
         "https://lib.lab.ch/projects/p1.html",
     ]
     assert report.pages_duplicate == 1
+
+
+def test_transient_failure_keeps_previous_pages(web, make_fetcher, tmp_path):
+    setup_site(web)
+    labs = [lab("ic-vision", "https://www.epfl.ch/labs/vision/projects/")]
+    run(make_crawler_factory(make_fetcher, tmp_path), labs)
+
+    # next run: the site blocks us (403, e.g. cloud IP range)
+    web.add("https://www.epfl.ch/labs/vision/projects/", "blocked", status=403)
+    factory = make_crawler_factory(make_fetcher, tmp_path, max_age=timedelta(0))
+    crawler, report = run(factory, labs)
+    state = crawler.state
+    assert state["labs"]["ic-vision"]["status"] == "ok"
+    assert "kept previous data" in state["labs"]["ic-vision"]["error"]
+    assert "https://www.epfl.ch/labs/vision/projects/drones/" in state["pages"]
+    assert report.pages_stale == 2
+
+
+def test_page_gone_404_is_dropped(web, make_fetcher, tmp_path):
+    setup_site(web)
+    labs = [lab("ic-vision", "https://www.epfl.ch/labs/vision/projects/")]
+    run(make_crawler_factory(make_fetcher, tmp_path), labs)
+    web.add("https://www.epfl.ch/labs/vision/projects/drones/", "gone", status=404)
+    factory = make_crawler_factory(make_fetcher, tmp_path, max_age=timedelta(0))
+    crawler, _ = run(factory, labs)
+    assert "https://www.epfl.ch/labs/vision/projects/drones/" not in crawler.state["pages"]
