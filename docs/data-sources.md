@@ -160,3 +160,57 @@ Project
 3. **Extraction** : Haiku 5.5 avec sortie structurée. Le prompt demande explicitement d'ignorer les projets terminés/assignés et les noms d'étudiant·es, et de renvoyer l'acronyme du labo pour les pages partagées.
 4. **Évaluation** : constituer le jeu annoté en reprenant les cas difficiles vus ici (LIB, LCN, IPG partagé, CVLAB index, LTS2 statuts, DCL texte libre), puis comparer Haiku et Sonnet.
 5. **Hors V1** : headless pour Notion, parsers dédiés, demande d'accès à l'API ISA.
+
+---
+
+## 10. Extension à toute l'EPFL (exploration du 23 novembre 2026)
+
+### Source principale : la liste officielle des labos
+
+[www.epfl.ch/labs/](https://www.epfl.ch/labs/) liste **428 laboratoires** (HTML rendu côté
+serveur, une ligne `.site-row` par labo) avec, pour chacun : acronyme, nom, lien vers le site
+du labo, faculté(s) et institut(s) (`data-tags="STI;IEM"`).
+
+| Faculté (principale) | Labos | Déjà dans `labs.yaml` (IC) | Nouveaux |
+|---|---|---|---|
+| SB | 113 | 3 | 110 |
+| STI | 105 | 18 | 87 |
+| ENAC | 84 | 7 | 77 |
+| SV | 60 | 5 | 55 |
+| IC | 45 | 31 | 14 |
+| CDM | 14 | 2 | 12 |
+| CDH, AVP-CP, autre | 7 | 4 | 3 |
+| **Total** | **428** | **70** | **358** |
+
+### Difficulté : trouver la page « projets » de chaque labo
+
+Contrairement à la page IC, la liste globale renvoie vers la **page d'accueil** du labo, pas
+vers sa page de projets étudiants. Il faut donc une étape de **découverte** : chercher, sur la
+page d'accueil (et son menu), un lien dont le texte ou l'URL évoque des projets étudiants
+(« student projects », « semester projects », « master projects / theses », « open
+positions », « join us »…), puis le faire valider par la relecture humaine de `labs.yaml`.
+
+Sources complémentaires qui donnent directement la page projets (servent aussi à mesurer la
+qualité de la découverte automatique) :
+
+- section SMT : [lab websites with semester and master projects proposals](https://sti.epfl.ch/smt/smt-lab-websites-with-semester-and-master-projects-proposals/) (tableau, ~46 labos) ;
+- liste STI par institut : [sti.epfl.ch/laboratories](https://sti.epfl.ch/laboratories/) ;
+- d'autres sections publient probablement une page équivalente (SEL, SMX, SGM, SIE, SV…) : à
+  rechercher section par section.
+
+### Volume et coût
+
+~358 labos × ~2,5 pages ≈ **900 pages**, soit environ **5 à 6 M tokens** d'extraction (mesure
+réelle IC : ~6 500 tokens par page). Sur un abonnement Claude Pro, l'extraction initiale doit
+être **étalée sur 1 à 2 semaines** (lots de ~100 pages, garde-fou `--max-input-tokens`) ; les
+mises à jour hebdomadaires restent ensuite légères (pages modifiées seulement).
+
+### Plan proposé
+
+1. `pipeline labs --source epfl-all` : génère les labos manquants à partir de la liste globale
+   (les 114 labos IC actuels et leurs corrections manuelles sont conservés).
+2. `pipeline discover` : découverte automatique de la page projets depuis la page d'accueil
+   (heuristiques + listes de sections), rapport des labos sans page trouvée.
+3. Relecture de `labs.yaml` (par faculté), puis crawl.
+4. Évaluation : 5 à 8 pages annotées par faculté avant l'extraction complète.
+5. Extraction étalée, export, et ajout des facultés dans le site (filtre déjà prêt).
