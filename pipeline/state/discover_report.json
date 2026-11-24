@@ -1,0 +1,2732 @@
+[
+ {
+  "lab_id": "ic-scg",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/scg/"
+  ]
+ },
+ {
+  "lab_id": "ic-tcs",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/schools/ic/tcs/"
+  ]
+ },
+ {
+  "lab_id": "ic-upsalathe",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/salathelab/"
+  ]
+ },
+ {
+  "lab_id": "other-metmrs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/metmrs/research/master-projects/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/metmrs/"
+  ]
+ },
+ {
+  "lab_id": "other-mrs4brain",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/mrs4brain/join-us/",
+  "link_text": "JOIN US",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mrs4brain/",
+   "https://www.epfl.ch/labs/mrs4brain/join-us/"
+  ]
+ },
+ {
+  "lab_id": "other-yang-group",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/schools/sv/yang-group/join-us/",
+  "link_text": "Join us",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/schools/sv/yang-group/",
+   "https://www.epfl.ch/schools/sv/yang-group/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sb-amcv",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/amcv/amcv/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/amcv/",
+   "https://www.epfl.ch/labs/amcv/amcv/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-anchp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/anchp/index-html/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/anchp/",
+   "https://www.epfl.ch/labs/anchp/index-html/teaching/",
+   "https://www.epfl.ch/labs/anchp/index-html/teaching/low-rank-approximation-techniques/"
+  ]
+ },
+ {
+  "lab_id": "sb-anmath",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/anmath/"
+  ]
+ },
+ {
+  "lab_id": "sb-arg",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/arg/",
+   "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-biostat",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/biostat/supervision/",
+  "link_text": "Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/biostat/"
+  ]
+ },
+ {
+  "lab_id": "sb-c3mp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/c3mp/index-html/positions/",
+  "link_text": "Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/c3mp/",
+   "https://www.epfl.ch/labs/c3mp/index-html/positions/",
+   "https://www.epfl.ch/labs/c3mp/index-html/page-81068-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-cag",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/cag/page-135646-en-html/",
+  "link_text": "Information for bachelors and masters students",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cag/",
+   "https://www.epfl.ch/labs/cag/page-135646-en-html/",
+   "https://www.epfl.ch/labs/cag/page-135649-en-html/",
+   "https://www.epfl.ch/labs/cag/post-docs-and-phd-students-homepages/"
+  ]
+ },
+ {
+  "lab_id": "sb-cmatd",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/cmatd/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cmatd/",
+   "https://www.epfl.ch/labs/cmatd/teaching/",
+   "https://www.epfl.ch/labs/cmatd/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-cmgr",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cmgr/"
+  ]
+ },
+ {
+  "lab_id": "sb-cqsl",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/cqsl/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cqsl/",
+   "https://www.epfl.ch/labs/cqsl/teaching/",
+   "https://www.epfl.ch/labs/cqsl/job-opportunities-at-cqsl/"
+  ]
+ },
+ {
+  "lab_id": "sb-crt",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/crt/mainpage/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/crt/",
+   "https://www.epfl.ch/labs/crt/mainpage/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-csea",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/csea/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/csea/",
+   "https://www.epfl.ch/labs/csea/teaching/",
+   "https://www.epfl.ch/labs/csea/openpositions/"
+  ]
+ },
+ {
+  "lab_id": "sb-csqi",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/csqi/page-99719-fr-html/",
+  "link_text": "Semester and Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/csqi/"
+  ]
+ },
+ {
+  "lab_id": "sb-ctmc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ctmc/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ctmc/",
+   "https://www.epfl.ch/labs/ctmc/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-cxi",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cxi/"
+  ]
+ },
+ {
+  "lab_id": "sb-ecom",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ecom/ecom-chair-of-extremal-combinatorics/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ecom/",
+   "https://www.epfl.ch/labs/ecom/ecom-chair-of-extremal-combinatorics/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-egg",
+  "status": "error",
+  "url": null,
+  "link_text": null,
+  "detail": "ConnectError: [Errno 11001] getaddrinfo failed",
+  "tried": []
+ },
+ {
+  "lab_id": "sb-erg",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/erg/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/erg/",
+   "https://www.epfl.ch/labs/erg/teaching/",
+   "https://www.epfl.ch/labs/erg/open-position/"
+  ]
+ },
+ {
+  "lab_id": "sb-fsl",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/fsl/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/fsl/",
+   "https://www.epfl.ch/labs/fsl/teaching/",
+   "https://www.epfl.ch/labs/fsl/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-galspec",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/galspec/"
+  ]
+ },
+ {
+  "lab_id": "sb-gr-anderson",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/scd/scd/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/scd/",
+   "https://www.epfl.ch/labs/scd/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-gr-ost",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gr-ost/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gr-ost/",
+   "https://www.epfl.ch/labs/gr-ost/teaching/",
+   "https://www.epfl.ch/labs/gr-ost/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-gscp",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/gscp/gscp/master-projects/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gscp/"
+  ]
+ },
+ {
+  "lab_id": "sb-gse",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gse/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gse/",
+   "https://www.epfl.ch/labs/gse/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-het",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/het/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/het/",
+   "https://www.epfl.ch/labs/het/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-hpnalgs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/hpnalgs/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hpnalgs/"
+  ]
+ },
+ {
+  "lab_id": "sb-hqc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/hqc/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hqc/",
+   "https://www.epfl.ch/labs/hqc/teaching/",
+   "https://www.epfl.ch/labs/hqc/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-k-lab",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/k-lab/positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/k-lab/",
+   "https://www.epfl.ch/labs/k-lab/positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-las",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/las/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/las/",
+   "https://www.epfl.ch/labs/las/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-laspe",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/laspe/open-position/",
+  "link_text": "Open Position",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/laspe/",
+   "https://www.epfl.ch/labs/laspe/open-position/",
+   "https://www.epfl.ch/labs/laspe/page-31240-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lastro",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lastro/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lastro/",
+   "https://www.epfl.ch/labs/lastro/teaching/",
+   "https://www.epfl.ch/labs/lastro/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lbem",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbem/"
+  ]
+ },
+ {
+  "lab_id": "sb-lbs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lbs/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbs/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcbc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lcbc/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcbc/",
+   "https://www.epfl.ch/labs/lcbc/teaching/",
+   "https://www.epfl.ch/labs/lcbc/new-open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcbm",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcbm/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcmd",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lcmd/page-50412-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcmd/",
+   "https://www.epfl.ch/labs/lcmd/page-50412-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcom",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcom/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcps",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lcps/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcps/",
+   "https://www.epfl.ch/labs/lcps/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcpt",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lcpt/wp-content/uploads/2018/08/Master_projects_2012.pdf",
+  "link_text": "Master projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcpt/",
+   "https://www.epfl.ch/labs/lcpt/teaching/",
+   "https://www.epfl.ch/labs/lcpt/open_positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lcs/master-projects/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcs/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcsa",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lcsa/job-openings/",
+  "link_text": "Job Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcsa/",
+   "https://www.epfl.ch/labs/lcsa/job-openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcsb",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lcsb/master-and-semester-projects/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcsb/"
+  ]
+ },
+ {
+  "lab_id": "sb-lcso",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lcso/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lcso/",
+   "https://www.epfl.ch/labs/lcso/teaching/",
+   "https://www.epfl.ch/labs/lcso/group/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-leb",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/leb/teaching/",
+  "link_text": "Student Projects & Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/leb/"
+  ]
+ },
+ {
+  "lab_id": "sb-lem",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lem/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lem/",
+   "https://www.epfl.ch/labs/lem/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lesm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lesm/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lesm/",
+   "https://www.epfl.ch/labs/lesm/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lfim",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lfim/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lfim/",
+   "https://www.epfl.ch/labs/lfim/openings/",
+   "https://www.epfl.ch/labs/lfim/openings/?preview_id=165&preview_nonce=e4a3a78ad5&preview=true"
+  ]
+ },
+ {
+  "lab_id": "sb-libn",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/libn/join-us/",
+  "link_text": "Join us!",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/libn/",
+   "https://www.epfl.ch/labs/libn/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sb-lifmet",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lifmet/teaching/student-projects/",
+  "link_text": "",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lifmet/"
+  ]
+ },
+ {
+  "lab_id": "sb-limno",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/limno/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/limno/",
+   "https://www.epfl.ch/labs/limno/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-lltcp",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lltcp/"
+  ]
+ },
+ {
+  "lab_id": "sb-lmer",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmer/"
+  ]
+ },
+ {
+  "lab_id": "sb-lmsc",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmsc/wp-content/uploads/2022/05/Overview-Projects_2022.pdf",
+  "link_text": "Overview of the topics for Semester Projects and TP IV at LMSC",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmsc/",
+   "https://www.epfl.ch/labs/lmsc/page-79453-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lnb",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnb/"
+  ]
+ },
+ {
+  "lab_id": "sb-lnce",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lnce/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnce/",
+   "https://www.epfl.ch/labs/lnce/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lnd",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lnd/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnd/",
+   "https://www.epfl.ch/labs/lnd/teaching/",
+   "https://www.epfl.ch/labs/lnd/positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lnq",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lnq/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnq/"
+  ]
+ },
+ {
+  "lab_id": "sb-lns",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lns/page-92568-en-html/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lns/",
+   "https://www.epfl.ch/labs/lns/page-92568-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpap",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lpap/?page_id=910",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpap/",
+   "https://www.epfl.ch/labs/lpap/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpbs",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lpbs/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpbs/",
+   "https://www.epfl.ch/labs/lpbs/teaching/",
+   "https://www.epfl.ch/labs/lpbs/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpdc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lpdc/openings/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpdc/",
+   "https://www.epfl.ch/labs/lpdc/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lphe",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lphe/tp3/",
+  "link_text": "Travaux Pratiques III",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lphe/",
+   "https://www.epfl.ch/labs/lphe/enseignement/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpi",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lpi/jobs/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpi/",
+   "https://www.epfl.ch/labs/lpi/jobs/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpl",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lpl/join-us/",
+  "link_text": "Join us !",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpl/",
+   "https://www.epfl.ch/labs/lpl/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sb-lpmt",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lpmt/join-us/",
+  "link_text": "Join Us",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpmt/",
+   "https://www.epfl.ch/labs/lpmt/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sb-lppt",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lppt/"
+  ]
+ },
+ {
+  "lab_id": "sb-lptp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lptp/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lptp/",
+   "https://www.epfl.ch/labs/lptp/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-lqg",
+  "status": "found_medium",
+  "url": "https://quantumgases.ch/teaching",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://quantumgases.ch/",
+   "https://quantumgases.ch/teaching"
+  ]
+ },
+ {
+  "lab_id": "sb-lqm",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lqm/jobs-and-student-projects/",
+  "link_text": "Jobs and Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lqm/"
+  ]
+ },
+ {
+  "lab_id": "sb-lqno",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lqno/openings/",
+  "link_text": "Available Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lqno/",
+   "https://www.epfl.ch/labs/lqno/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lqp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lqp/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lqp/",
+   "https://www.epfl.ch/labs/lqp/teaching/",
+   "https://www.epfl.ch/labs/lqp/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-lrm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lrm/job-openings/",
+  "link_text": "Job Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lrm/",
+   "https://www.epfl.ch/labs/lrm/job-openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lrs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lrs/project-proposals-for-students/",
+  "link_text": "Project Proposals for Students",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lrs/"
+  ]
+ },
+ {
+  "lab_id": "sb-lsam",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lsam/join-us/",
+  "link_text": "Join us!",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsam/",
+   "https://www.epfl.ch/labs/lsam/join-us/",
+   "https://www.epfl.ch/labs/lsam/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-lsci",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lsci/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsci/",
+   "https://www.epfl.ch/labs/lsci/teaching/",
+   "https://www.epfl.ch/labs/lsci/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-lsme",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lsme/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsme/",
+   "https://www.epfl.ch/labs/lsme/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-lsmo",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lsmo/page-110175-en-html/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsmo/",
+   "https://www.epfl.ch/labs/lsmo/page-110175-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lspn",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lspn/"
+  ]
+ },
+ {
+  "lab_id": "sb-ltfp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ltfp/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ltfp/",
+   "https://www.epfl.ch/labs/ltfp/teaching/",
+   "https://www.epfl.ch/labs/ltfp/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-ltm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ltm/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ltm/",
+   "https://www.epfl.ch/labs/ltm/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-ltpn",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ltpn/index-html/page-70697-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ltpn/",
+   "https://www.epfl.ch/labs/ltpn/index-html/page-70697-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-lumes",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lumes/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lumes/",
+   "https://www.epfl.ch/labs/lumes/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-luxs",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/luxs/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/luxs/",
+   "https://www.epfl.ch/labs/luxs/teaching/",
+   "https://www.epfl.ch/labs/luxs/openings/"
+  ]
+ },
+ {
+  "lab_id": "sb-mathicse",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/mathicse/page-142879-en-html/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mathicse/",
+   "https://www.epfl.ch/labs/mathicse/page-142879-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-matmat",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/matmat/matmat/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/matmat/"
+  ]
+ },
+ {
+  "lab_id": "sb-mns",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/mns/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mns/",
+   "https://www.epfl.ch/labs/mns/open-positions/",
+   "https://www.epfl.ch/labs/mns/page-149200-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-mrism",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/mrism/mrism/students-projects/",
+  "link_text": "Students Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mrism/"
+  ]
+ },
+ {
+  "lab_id": "sb-nxm",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/nxm/"
+  ]
+ },
+ {
+  "lab_id": "sb-optim",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/optim/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/optim/"
+  ]
+ },
+ {
+  "lab_id": "sb-pcsl",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/pcsl/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/pcsl/",
+   "https://www.epfl.ch/labs/pcsl/teaching/",
+   "https://www.epfl.ch/labs/pcsl/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-pde",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/pde/fr/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/pde/",
+   "https://www.epfl.ch/labs/pde/fr/teaching/",
+   "https://www.epfl.ch/labs/pde/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-prob",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/prob/enseignement/",
+  "link_text": "Enseignement",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/prob/",
+   "https://www.epfl.ch/labs/prob/enseignement/"
+  ]
+ },
+ {
+  "lab_id": "sb-propde",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/propde/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/propde/",
+   "https://www.epfl.ch/labs/propde/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-prst",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/prst/enseignement/",
+  "link_text": "Enseignement",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/prst/",
+   "https://www.epfl.ch/labs/prst/enseignement/"
+  ]
+ },
+ {
+  "lab_id": "sb-qic",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/qic/"
+  ]
+ },
+ {
+  "lab_id": "sb-rgm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/rgm/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/rgm/",
+   "https://www.epfl.ch/labs/rgm/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sb-sci-sb-dm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/mechanical-spectroscopy/education/",
+  "link_text": "EDUCATION",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mechanical-spectroscopy/",
+   "https://www.epfl.ch/labs/mechanical-spectroscopy/education/"
+  ]
+ },
+ {
+  "lab_id": "sb-sci-sb-mm",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gcc/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gcc/",
+   "https://www.epfl.ch/labs/gcc/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-sci-sb-pj",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sci-sb-pj/"
+  ]
+ },
+ {
+  "lab_id": "sb-sci-sb-sd",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sci-sb-sd/"
+  ]
+ },
+ {
+  "lab_id": "sb-sci-sb-sg",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gbf/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gbf/",
+   "https://www.epfl.ch/labs/gbf/teaching/",
+   "https://www.epfl.ch/labs/gbf/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-sds",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/sds/students-projects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sds/"
+  ]
+ },
+ {
+  "lab_id": "sb-smat",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/smat/semester-projects/",
+  "link_text": "Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/smat/"
+  ]
+ },
+ {
+  "lab_id": "sb-sois",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/sois/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sois/",
+   "https://www.epfl.ch/labs/sois/teaching/",
+   "https://www.epfl.ch/labs/sois/page-142458-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sb-spoc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/spoc/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/spoc/",
+   "https://www.epfl.ch/labs/spoc/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-sqil",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sqil/"
+  ]
+ },
+ {
+  "lab_id": "sb-stoan",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/stoan/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/stoan/",
+   "https://www.epfl.ch/labs/stoan/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-tan",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/tan/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tan/",
+   "https://www.epfl.ch/labs/tan/teaching/",
+   "https://www.epfl.ch/labs/tan/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sb-tn",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/tn/number-theory-tn/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tn/",
+   "https://www.epfl.ch/labs/tn/number-theory-tn/teaching/",
+   "https://www.epfl.ch/labs/tn/number-theory-tn/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sti-alchemy",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/alchemy/available-projects/",
+  "link_text": "Available Master’s Projects / Thesis",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/alchemy/"
+  ]
+ },
+ {
+  "lab_id": "sti-aqua",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/aqua/student/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/aqua/"
+  ]
+ },
+ {
+  "lab_id": "sti-asl",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://asl.epfl.ch/"
+  ]
+ },
+ {
+  "lab_id": "sti-bion",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/bion/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/bion/",
+   "https://www.epfl.ch/labs/bion/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sti-bios",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/bios/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/bios/"
+  ]
+ },
+ {
+  "lab_id": "sti-bnms",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/bnms/home/students-projects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/bnms/"
+  ]
+ },
+ {
+  "lab_id": "sti-cam-x",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/cam-x/8-2/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cam-x/"
+  ]
+ },
+ {
+  "lab_id": "sti-chemina",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/chemina/join-us/",
+  "link_text": "Join us!",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/chemina/",
+   "https://www.epfl.ch/labs/chemina/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sti-clse",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/clse/master-and-semester-projects/",
+  "link_text": "Master and Semester projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/clse/"
+  ]
+ },
+ {
+  "lab_id": "sti-cosmo",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/cosmo/index-html/page-109476-en-html/",
+  "link_text": "Master & Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/cosmo/"
+  ]
+ },
+ {
+  "lab_id": "sti-create-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/create/create-lab/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/create/"
+  ]
+ },
+ {
+  "lab_id": "sti-decode",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/decode/dependable-control-and-decision-group/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/decode/"
+  ]
+ },
+ {
+  "lab_id": "sti-desl",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/desl/education/students-projects/",
+  "link_text": "AVAILABLE BACHELOR and MASTER PROJECTS",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/desl/"
+  ]
+ },
+ {
+  "lab_id": "sti-dqml",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/dqml/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/dqml/"
+  ]
+ },
+ {
+  "lab_id": "sti-ecps",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/ecps/master-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ecps/"
+  ]
+ },
+ {
+  "lab_id": "sti-edlab",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/edlab/"
+  ]
+ },
+ {
+  "lab_id": "sti-emc-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/emc/projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/emc/",
+   "https://www.epfl.ch/labs/emc/education/"
+  ]
+ },
+ {
+  "lab_id": "sti-emsi",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/emsi/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/emsi/",
+   "https://www.epfl.ch/labs/emsi/teaching/",
+   "https://www.epfl.ch/labs/emsi/openings/",
+   "https://www.epfl.ch/labs/emsi/index-html/teaching-activities/"
+  ]
+ },
+ {
+  "lab_id": "sti-eta-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/eta-lab/home/thesis-semester-proj/",
+  "link_text": "Thesis/Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/eta-lab/"
+  ]
+ },
+ {
+  "lab_id": "sti-fimap",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/fimap/page-99346-en-html/",
+  "link_text": "Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/fimap/"
+  ]
+ },
+ {
+  "lab_id": "sti-flexlab",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/flexlab/"
+  ]
+ },
+ {
+  "lab_id": "sti-galatea",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/galatea/"
+  ]
+ },
+ {
+  "lab_id": "sti-gem",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/gem/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gem/"
+  ]
+ },
+ {
+  "lab_id": "sti-gfo",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gfo/page-61073-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gfo/",
+   "https://www.epfl.ch/labs/gfo/page-61073-en-html/",
+   "https://www.epfl.ch/labs/gfo/page-60917-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-grid-ess",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/grid-ess/grid-integrated-energy-storage-systems-lab/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/grid-ess/"
+  ]
+ },
+ {
+  "lab_id": "sti-head",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/head/open-masters-projects/",
+  "link_text": "Open Master’s Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/head/"
+  ]
+ },
+ {
+  "lab_id": "sti-hylab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/hylab/student-projects/",
+  "link_text": "Available student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hylab/"
+  ]
+ },
+ {
+  "lab_id": "sti-idephics",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/idephics/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/idephics/",
+   "https://www.epfl.ch/labs/idephics/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sti-inpho",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/inpho/"
+  ]
+ },
+ {
+  "lab_id": "sti-instant-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/instantlab/studentprojects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/instantlab/"
+  ]
+ },
+ {
+  "lab_id": "sti-la",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/la/pi/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/la/"
+  ]
+ },
+ {
+  "lab_id": "sti-la3",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/la3/17-2/teaching/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/la3/"
+  ]
+ },
+ {
+  "lab_id": "sti-laft",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/laft/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/laft/",
+   "https://www.epfl.ch/labs/laft/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sti-lai",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lai/studentprojects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lai/"
+  ]
+ },
+ {
+  "lab_id": "sti-lamd",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lamd/projects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lamd/"
+  ]
+ },
+ {
+  "lab_id": "sti-lanes",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lanes/page-31692-en-html/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lanes/",
+   "https://www.epfl.ch/labs/lanes/page-31692-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-lapd",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lapd/page-40471-en-html/",
+  "link_text": "Students Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lapd/"
+  ]
+ },
+ {
+  "lab_id": "sti-lasa",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lasa/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lasa/"
+  ]
+ },
+ {
+  "lab_id": "sti-lbi",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/tang-lab/page-137849-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tang-lab/",
+   "https://www.epfl.ch/labs/tang-lab/page-137849-en-html/",
+   "https://www.epfl.ch/labs/tang-lab/page-137850-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-lbmm",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lbmm/students-projects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbmm/"
+  ]
+ },
+ {
+  "lab_id": "sti-lbnc",
+  "status": "found_medium",
+  "url": "https://lbnc.epfl.ch/teaching.html",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://lbnc.epfl.ch/",
+   "https://lbnc.epfl.ch/teaching.html",
+   "https://lbnc.epfl.ch/positions.html"
+  ]
+ },
+ {
+  "lab_id": "sti-lbni",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lbni/join/student-projects/current-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbni/"
+  ]
+ },
+ {
+  "lab_id": "sti-lbo",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lbo/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbo/"
+  ]
+ },
+ {
+  "lab_id": "sti-lbp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lbp/page-85598-en-html/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbp/",
+   "https://www.epfl.ch/labs/lbp/page-85598-en-html/",
+   "https://www.epfl.ch/labs/lbp/home/page-85598-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-leap",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/leap/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/leap/"
+  ]
+ },
+ {
+  "lab_id": "sti-lfmi",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lfmi/projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lfmi/"
+  ]
+ },
+ {
+  "lab_id": "sti-lhtc",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lhtc/index-html/student-projects/",
+  "link_text": "Diploma / Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lhtc/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmam",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmam/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmam/",
+   "https://www.epfl.ch/labs/lmam/page-55711-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmc",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmc/page-39752-en-html/page-156319-en-html/",
+  "link_text": "STUDENT PROJECTS AVAILABLE NOW",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmc/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmgn",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lmgn/page-126609-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmgn/",
+   "https://www.epfl.ch/labs/lmgn/page-126609-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmis1",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmis1/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmis1/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmm",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmm/teaching/semester-projects/",
+  "link_text": "Current Semester Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmm/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmom",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmom/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmom/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmtm",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmtm/projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmtm/"
+  ]
+ },
+ {
+  "lab_id": "sti-lmts",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lmts/msc-bsc-projects/",
+  "link_text": "M.Sc. Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lmts/"
+  ]
+ },
+ {
+  "lab_id": "sti-lnet",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lnet/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnet/"
+  ]
+ },
+ {
+  "lab_id": "sti-lo",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lo/job/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lo/",
+   "https://www.epfl.ch/labs/lo/job/",
+   "https://www.epfl.ch/labs/lo/teaching/",
+   "https://www.epfl.ch/labs/lo/teaching/project/"
+  ]
+ },
+ {
+  "lab_id": "sti-lp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lp/page-40365-en-html/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lp/",
+   "https://www.epfl.ch/labs/lp/page-40365-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-lpac",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lpac/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpac/"
+  ]
+ },
+ {
+  "lab_id": "sti-lrese",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lrese/education/",
+  "link_text": "Education",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lrese/",
+   "https://www.epfl.ch/labs/lrese/education/"
+  ]
+ },
+ {
+  "lab_id": "sti-lsbi",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lsbi/lsbi-2/student/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsbi/"
+  ]
+ },
+ {
+  "lab_id": "sti-lwe",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lwe/projects-for-students/",
+  "link_text": "Projects for students",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lwe/"
+  ]
+ },
+ {
+  "lab_id": "sti-mag",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/mag/page-141487-en-html/page-141766-en-html/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mag/",
+   "https://www.epfl.ch/labs/mag/page-141487-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sti-mesobio",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/mesobio/master-projects/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mesobio/"
+  ]
+ },
+ {
+  "lab_id": "sti-microbs",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/microbs/page-129358-en-html/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/microbs/"
+  ]
+ },
+ {
+  "lab_id": "sti-msic-lab",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/msic-lab/"
+  ]
+ },
+ {
+  "lab_id": "sti-nam",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/nam/projects-proposed-by-the-nam/",
+  "link_text": "Students Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/nam/"
+  ]
+ },
+ {
+  "lab_id": "sti-nanolab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/nanolab/student_projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/nanolab/"
+  ]
+ },
+ {
+  "lab_id": "sti-nems",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/nems/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/nems/"
+  ]
+ },
+ {
+  "lab_id": "sti-pbl",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/pbl/open-positions/",
+  "link_text": "Openings",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/pbl/",
+   "https://www.epfl.ch/labs/pbl/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sti-pel",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/pel/student-projects-2/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/pel/"
+  ]
+ },
+ {
+  "lab_id": "sti-phosl",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/phosl/index-html/teaching/",
+  "link_text": "Teaching and Master project",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/phosl/"
+  ]
+ },
+ {
+  "lab_id": "sti-pv-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/pvlab/student-projects/",
+  "link_text": "Students Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/pvlab/"
+  ]
+ },
+ {
+  "lab_id": "sti-react",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/react/"
+  ]
+ },
+ {
+  "lab_id": "sti-rrl",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/rrl/teaching-and-student-projects/",
+  "link_text": "Teaching and student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/rrl/"
+  ]
+ },
+ {
+  "lab_id": "sti-sci-sti-ak",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/ddmac/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ddmac/"
+  ]
+ },
+ {
+  "lab_id": "sti-sci-sti-fm",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/ipese/ipese-teaching/student_projects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ipese/",
+   "https://www.epfl.ch/labs/ipese/ipese-teaching/"
+  ]
+ },
+ {
+  "lab_id": "sti-sci-sti-mb",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/rehassist/education/open-projects-list/",
+  "link_text": "Open projects list",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/rehassist/",
+   "https://www.epfl.ch/labs/rehassist/education/"
+  ]
+ },
+ {
+  "lab_id": "sti-sci-sti-sc",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/bci/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/bci/"
+  ]
+ },
+ {
+  "lab_id": "sti-smal",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/smal/projects/",
+  "link_text": "Available Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/smal/"
+  ]
+ },
+ {
+  "lab_id": "sti-sml",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/sml/welcome-to-the-sustainable-materials-lab/student-projects/",
+  "link_text": "Student projects: Semester projects, Thesis projects, Internships",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sml/"
+  ]
+ },
+ {
+  "lab_id": "sti-spark",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/spark/join-the-lab/",
+  "link_text": "Join the lab",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/spark/",
+   "https://www.epfl.ch/labs/spark/join-the-lab/"
+  ]
+ },
+ {
+  "lab_id": "sti-sunmil",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/sunmil/teaching/",
+  "link_text": "Semester projects Spring 2026",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/sunmil/"
+  ]
+ },
+ {
+  "lab_id": "sti-theos",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/theos/page-102234-en-html/",
+  "link_text": "Bachelor projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/theos/"
+  ]
+ },
+ {
+  "lab_id": "sti-tic",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/tic/page-25453-en-html/page-39144-en-html/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tic/"
+  ]
+ },
+ {
+  "lab_id": "sti-tne",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/tne/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tne/"
+  ]
+ },
+ {
+  "lab_id": "sti-unfold",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/unfold/studentprojects/",
+  "link_text": "Student projects and internships",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/unfold/"
+  ]
+ },
+ {
+  "lab_id": "sv-dangelolab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/dangelo-lab/open-positions/",
+  "link_text": "Master Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/dangelo-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-gos",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/schools/sv/gos/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-fe",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/fellay-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-jaksic",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/",
+  "link_text": "Master’s projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/jaksic-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-maynard",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gr-maynard/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gr-maynard/",
+   "https://www.epfl.ch/labs/gr-maynard/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-paoli",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gr-paoli/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gr-paoli/",
+   "https://www.epfl.ch/labs/gr-paoli/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-priestley",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/gr-priestley/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gr-priestley/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-schuhmacher",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gr-schuhmacher/",
+   "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-gr-westmann",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/westmann-lab/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/westmann-lab/",
+   "https://www.epfl.ch/labs/westmann-lab/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-hanahan-lab",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/hanahan-lab/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hanahan-lab/",
+   "https://www.epfl.ch/labs/hanahan-lab/teaching/"
+  ]
+ },
+ {
+  "lab_id": "sv-lgc",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lgc/index-html/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lgc/"
+  ]
+ },
+ {
+  "lab_id": "sv-lisp",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/auwerx-lab/",
+   "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-lmic",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/mckinney-lab/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mckinney-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-lnco",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lnco/student_projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lnco/"
+  ]
+ },
+ {
+  "lab_id": "sv-lnmc",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/markram-lab/",
+   "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sv-lpsy",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lpsy/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lpsy/"
+  ]
+ },
+ {
+  "lab_id": "sv-lsym",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lsym/393-2/",
+  "link_text": "Semester projects (for EPFL students)",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lsym/"
+  ]
+ },
+ {
+  "lab_id": "sv-lvg",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/tronolab/"
+  ]
+ },
+ {
+  "lab_id": "sv-naef-lab",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
+  "link_text": "Master & Semester projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/naef-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upablasser",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/ablasserlab/openings/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ablasserlab/",
+   "https://www.epfl.ch/labs/ablasserlab/openings/"
+  ]
+ },
+ {
+  "lab_id": "sv-upantanasijevic",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/antanasijevic-lab/",
+   "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upbitbol",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/bitbol-lab/join-us/",
+  "link_text": "Join us!",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/bitbol-lab/",
+   "https://www.epfl.ch/labs/bitbol-lab/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sv-upblo",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/blokesch-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upbri",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/brisken-lab/studentsprojects/",
+  "link_text": "Students projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/brisken-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upcda",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/constam-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upcourtine",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/courtine-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-updalpe",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lbm/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lbm/",
+   "https://www.epfl.ch/labs/lbm/teaching/",
+   "https://www.epfl.ch/labs/lbm/openings/"
+  ]
+ },
+ {
+  "lab_id": "sv-updepalma",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/depalma-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-updepla",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/deplanckelab/open-position/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/deplanckelab/",
+   "https://www.epfl.ch/labs/deplanckelab/open-position/"
+  ]
+ },
+ {
+  "lab_id": "sv-upgallini",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gallini-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upgoemans",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/upgoemans/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/upgoemans/",
+   "https://www.epfl.ch/labs/upgoemans/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upgon",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/",
+  "link_text": "Master projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/gonczy-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upgraeff",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/graefflab/index-html/student-projects/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/graefflab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uphess",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hessbellwald-lab/",
+   "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+   "https://www.epfl.ch/labs/hessbellwald-lab/positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-uphuelsken",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/",
+  "link_text": "Student Projects in the lab",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/huelsken-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uphummel",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/hummel-lab/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/hummel-lab/",
+   "https://www.epfl.ch/labs/hummel-lab/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upkarthaus",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/upkarthaus/"
+  ]
+ },
+ {
+  "lab_id": "sv-upkim",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/upkim/join-us/",
+  "link_text": "Join us",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/upkim/",
+   "https://www.epfl.ch/labs/upkim/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sv-uplem",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lemaitrelab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uplin",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/",
+  "link_text": "Open Positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lingner-lab/",
+   "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/"
+  ]
+ },
+ {
+  "lab_id": "sv-uplut",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/lutolf-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upmccabe",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/mccabelab/positions/",
+  "link_text": "Lab Opportunities",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/mccabelab/",
+   "https://www.epfl.ch/labs/mccabelab/positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upnavarro",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/navarro-lab/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/navarro-lab/",
+   "https://www.epfl.ch/labs/navarro-lab/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upoates",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/",
+  "link_text": "Currently available Bachelor and Master projects in OATES Lab",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/oateslab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uporicchio",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/oricchiolab/openings/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/oricchiolab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uppersat",
+  "status": "none",
+  "url": null,
+  "link_text": null,
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/persat-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-uprad",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/radtke-lab/uprad-radtke-lab/master-projects/",
+  "link_text": "this page",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/radtke-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upramdya",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/ramdya-lab/available-projects/",
+  "link_text": "Master and Bachelor student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/ramdya-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upschoonjans",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/",
+  "link_text": "Student Projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/schoonjans-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upschueder",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/schueder-lab/open-positions/",
+  "link_text": "Open positions",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/schueder-lab/",
+   "https://www.epfl.ch/labs/schueder-lab/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upsuter",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/",
+  "link_text": "Student projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/suter-lab/"
+  ]
+ },
+ {
+  "lab_id": "sv-upthomae",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/thoma-lab/join-us/",
+  "link_text": "Join us",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/thoma-lab/",
+   "https://www.epfl.ch/labs/thoma-lab/join-us/"
+  ]
+ },
+ {
+  "lab_id": "sv-upwaszak",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/upwaszak/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/upwaszak/",
+   "https://www.epfl.ch/labs/upwaszak/teaching/",
+   "https://www.epfl.ch/labs/upwaszak/open-positions/"
+  ]
+ },
+ {
+  "lab_id": "sv-upzenk",
+  "status": "found",
+  "url": "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/",
+  "link_text": "Bachelor and Master projects",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/upzenk/"
+  ]
+ },
+ {
+  "lab_id": "sv-vdg",
+  "status": "found_medium",
+  "url": "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/",
+  "link_text": "Teaching",
+  "detail": null,
+  "tried": [
+   "https://www.epfl.ch/labs/vdg/",
+   "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/"
+  ]
+ }
+]
