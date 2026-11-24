@@ -23,10 +23,46 @@ labs:
   - statistics
   - machine learning
   - data science
+  homepage_url: https://www.epfl.ch/labs/ban/
   projects_url: https://www.epfl.ch/labs/ban/research/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: cdm-cfi
+  acronym: CFI
+  name: Chair of International Finance
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cfi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-csf
+  acronym: CSF
+  name: Swissquote Chair in Quantitative Finance
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/csf/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
   notes: null
 - id: cdm-entc
   acronym: ENTC
@@ -42,10 +78,30 @@ labs:
   - innovation management
   - science of science
   - computational social science
+  homepage_url: https://www.epfl.ch/labs/entc/
   projects_url: https://www.epfl.ch/labs/entc/research/our-student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: cdm-iipp
+  acronym: IIPP
+  name: Chair of Innovation and IP Policy
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/stip/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MTEI
   notes: null
 - id: cdm-mtei-ge
   acronym: MTEI-GE
@@ -61,10 +117,315 @@ labs:
   - retrieval-augmented generation
   - fine-tuning
   - local LLMs
+  homepage_url: null
   projects_url: https://people.epfl.ch/andrea.dunbar/?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: cdm-oes
+  acronym: OES
+  name: Operations, Economics and Strategy
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/oes/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: cdm-pasu
+  acronym: PASU
+  name: Chaire en politique publique et durabilité
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pasu/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: cdm-rao
+  acronym: RAO
+  name: Risk Analytics and Optimization Chair
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/rao/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: cdm-sfi-em
+  acronym: SFI-EM
+  name: Professor Erwan Morellec
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sfi-em/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-sfi-jh
+  acronym: SFI-JH
+  name: Professor Julien Hugonnier
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sfi-jh/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-sfi-pcd
+  acronym: SFI-PCD
+  name: Pierre Collin-Dufresne
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sfi-pcd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-sfi-rf
+  acronym: SFI-RF
+  name: Chair of Prof. Fahlenbrach
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sfi-rf/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-sfi-sm
+  acronym: SFI-SM
+  name: Professor Semyon Malamud
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sfi-sm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - SFI
+  notes: null
+- id: cdm-tom
+  acronym: TOM
+  name: Chair of Technology & Operations Management
+  faculty: CDM
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tom/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MTEI
+  notes: null
+- id: enac-adher
+  acronym: ADHER
+  name: Architectural Design and Heritage
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/adher/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-alice
+  acronym: ALICE
+  name: Atelier de la conception de l'espace
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/alice/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-cdt
+  acronym: CDT
+  name: Chaire de droit
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cdt/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: enac-ceat
+  acronym: CEAT
+  name: Urban and regional planning community
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ceat/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-chaart
+  acronym: CHAART
+  name: Critical Histories of Architecture and Art
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/chaart/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-change
+  acronym: CHANGE
+  name: Laboratory of Catchment Hydrology and Geomorphology
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/change/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-construct
+  acronym: CONSTRUCT
+  name: Concrete Behaviour and Structural Design Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/construct/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-crcl
+  acronym: CRCL
+  name: Laboratory for Creative Computation
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/crcl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-cryos
+  acronym: CRYOS
+  name: Laboratory of Cryospheric Sciences
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cryos/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-dc-lab
+  acronym: DC-LAB
+  name: Domestic City laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/dc-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-disal
   acronym: DISAL
@@ -84,10 +445,30 @@ labs:
   - distributed control and estimation
   - mechatronic design
   - localization and navigation
+  homepage_url: https://www.epfl.ch/labs/disal/
   projects_url: https://www.epfl.ch/labs/disal/teaching/student_projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-east
+  acronym: EAST
+  name: Laboratory of Elementary Architecture and Studies of Types
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/east/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-eceo
   acronym: ECEO
@@ -101,10 +482,62 @@ labs:
   - 'Earth observation: satellite remote sensing / drones image processing. Environmental science: nature
     conservation / land use change / climate. Computer vision'
   - 'machine learning: segmentation / detection / hybrid models / interpretable AI / human machine interaction'
+  homepage_url: https://www.epfl.ch/labs/eceo/
   projects_url: https://www.epfl.ch/labs/eceo/eceo/projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-eerl
+  acronym: EERL
+  name: Extreme Environments Research Laboratory - EERL
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/eerl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-eesd
+  acronym: EESD
+  name: Earthquake Engineering and Structural Dynamics Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/eesd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-eml
+  acronym: EML
+  name: Environmental Microbiology Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/eml/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
   notes: null
 - id: enac-eso
   acronym: ESO
@@ -122,10 +555,237 @@ labs:
   - airborne laser scanning
   - sdjustment methods
   - kalman filtering
+  homepage_url: https://www.epfl.ch/labs/eso/
   projects_url: https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/laboratories-and-groups-3/environmental-sensing-observatory/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-ethos
+  acronym: ETHOS
+  name: Civil Engineering and Technology for Human Oriented Sustainability Lab
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ethos/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-far
+  acronym: FAR
+  name: Laboratory of Construction and Architecture
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/far/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-gel
+  acronym: GEL
+  name: Geo-energy Laboratory - Gaznat Chair on Geo-energy
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gel/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-gr-cel
+  acronym: GR-CEL
+  name: Central Environmental Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-cel/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-gr-mec
+  acronym: GR-MEC
+  name: Group of Composite Mechanics
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-mec/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-gr-urbdemo
+  acronym: GR-URBDEMO
+  name: Urban Demography
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/urbdemo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-hat
+  acronym: HAT
+  name: Heritage, Anthropology and Technologies Research Group
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hat/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: enac-herus
+  acronym: HERUS
+  name: Laboratory for Human-Environment Relations in Urban Systems
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/herus/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-hitam
+  acronym: HITAM
+  name: History and Theories of Architecture, Technology and Media
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hitam/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-hobel
+  acronym: HOBEL
+  name: Human-Oriented Built Environment Lab
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hobel/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-homes
+  acronym: HOMES
+  name: Laboratory for Human-Oriented Mobility Eco-system
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/homes/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-ibeton
+  acronym: IBETON
+  name: Structural Concrete Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://ibeton.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-ibois
+  acronym: IBOIS
+  name: Laboratory for Timber Constructions
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ibois/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-ice
+  acronym: ICE
+  name: Thermal Engineering for the Built Environment Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ice/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
   notes: null
 - id: enac-imos
   acronym: IMOS
@@ -141,10 +801,286 @@ labs:
   - (physics-informed) graph neural networks
   - AI for engineering
   - self-supervised learning
+  homepage_url: https://www.epfl.ch/labs/imos/
   projects_url: https://www.epfl.ch/labs/imos/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lab-u
+  acronym: LAB-U
+  name: Laboratory of Urbanism
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lab-u/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lace
+  acronym: LACE
+  name: Laboratory of Aquatic Chemistry & Engineering
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lace/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-land
+  acronym: LAND
+  name: Laboratory of Landscape Development
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/land/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lapi
+  acronym: LAPI
+  name: Laboratory of atmospheric processes and their impacts
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lapi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-lapis
+  acronym: LAPIS
+  name: Arts of sciences laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lapis/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lasig
+  acronym: LASIG
+  name: Laboratory of Geographic Information Systems
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lasig/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-last
+  acronym: LAST
+  name: Laboratoire d'architecture et technologies durables
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/last/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lasur
+  acronym: LASUR
+  name: Urban Sociology Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lasur/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lbe
+  acronym: LBE
+  name: Laboratory for Environmental Biotechnology
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-lch
+  acronym: LCH
+  name: Laboratory of Hydraulic Constructions
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lemr
+  acronym: LEMR
+  name: Laboratory of Experimental Rock Mechanics
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lemr/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lesc
+  acronym: LESC
+  name: Laboratory for Environmental Spectrochemistry
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lesc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-leso-pb
+  acronym: LESO-PB
+  name: Solar Energy and Building Physics Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/leso/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-leure
+  acronym: LEURE
+  name: Laboratory of Environmental and Urban Economics -
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/leure/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lev
+  acronym: LEV
+  name: Laboratory of Environmental Virology
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lev/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-lgb
+  acronym: LGB
+  name: Laboratory for Biological Geochemistry
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lgb/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-lhe
+  acronym: LHE
+  name: Laboratoire d'Hydraulique Environnementale
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lhe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
   notes: null
 - id: enac-lhst
   acronym: LHST
@@ -159,10 +1095,46 @@ labs:
   - computational social science
   - digital humanities
   - history of science and technology
+  homepage_url: https://www.epfl.ch/labs/lhst/
   projects_url: https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - DHI
+  notes: null
+- id: enac-lif
+  acronym: LIF
+  name: Laboratoire d'Imagination et de Fabrication
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lif/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-lipid
+  acronym: LIPID
+  name: Laboratory of Integrated Performance in Design
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lipid/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-lmd
   acronym: LMD
@@ -177,10 +1149,427 @@ labs:
   - multiscale modeling
   - data science
   - machine learning
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/lmd/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: enac-lmmd
+  acronym: LMMD
+  name: Data-Driven Mechanics Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lms
+  acronym: LMS
+  name: Laboratory of Soil Mechanics
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lms/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lsms
+  acronym: LSMS
+  name: Computational Solid Mechanics Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsms/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-lsr
+  acronym: LSR
+  name: Laboratory of Sustainability Robotics
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsr/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-lte
+  acronym: LTE
+  name: Environmental Remote Sensing Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lte/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-ltqe
+  acronym: LTQE
+  name: Laboratory for Water Quality and Treatment
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ltqe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-luts
+  acronym: LUTS
+  name: Urban Transport Systems Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/luts/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-mace
+  acronym: MACE
+  name: Microbiome Adaptation to the Changing Environment
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mace/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-matr
+  acronym: MATR
+  name: Materials in Transition Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/matr/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-mcs
+  acronym: MCS
+  name: Laboratory for Maintenance and Safety of Structures
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mcs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-microbe
+  acronym: MICROBE
+  name: Laboratory of microbial physiology and resource biorecovery
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/microbe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-pal
+  acronym: PAL
+  name: Plant Adaptation Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pal/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-perl
+  acronym: PERL
+  name: Plant Ecology Research Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/perl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-resslab
+  acronym: RESSLAB
+  name: Resilient Steel Structures Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/resslab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-riot
+  acronym: RIOT
+  name: Research and development for Innovation On architecture, urban design and Territory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/riot/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-river
+  acronym: RIVER
+  name: River Ecosystems Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/river/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-rpgl
+  acronym: RPGL
+  name: Rock Physics and Geofluids Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/rpgl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-sci-enac-as
+  acronym: SCI-ENAC-AS
+  name: SCI ENAC AS Group
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sci-enac-as/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-sense
+  acronym: SENSE
+  name: Smart Environmental Sensing in Extreme Environments
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sense/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-skil
+  acronym: SKIL
+  name: Student Kreativity and Innovation Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/skil/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: enac-soil
+  acronym: SOIL
+  name: Soil biogeochemistry laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/soil/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
+  notes: null
+- id: enac-sono
+  acronym: SONO
+  name: Laboratory of South-North Sustainable Construction and Conservation
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sono/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-streem
+  acronym: STREEM
+  name: Sustainable River Engineering, Energy and Morphodynamics
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/streem/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-sxl
+  acronym: SXL
+  name: Structural Xploration Lab
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sxl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-texas
+  acronym: TEXAS
+  name: Studio d architecture théorie et expérience
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/texas/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
+  notes: null
+- id: enac-thema
+  acronym: THEMA
+  name: Theory of Environment, Material, and Architecture
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/thema/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-tmu
   acronym: TMU
@@ -196,10 +1585,28 @@ labs:
   - digital urban history
   - digital humanities
   - network analysis
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: enac-tpod
+  acronym: TPOD
+  name: Theory and Project of Domestic Space
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tpod/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-transp-or
   acronym: TRANSP-OR
@@ -213,10 +1620,30 @@ labs:
   - transport and mobility
   - discrete choice
   - optimization
+  homepage_url: https://www.epfl.ch/labs/transp-or/
   projects_url: https://www.epfl.ch/labs/transp-or/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-urbes
+  acronym: URBES
+  name: Laboratory of Urban and Environmental Systems
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/urbes/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IA
   notes: null
 - id: enac-vita
   acronym: VITA
@@ -234,10 +1661,46 @@ labs:
   - deep learning
   - human-robot interaction
   - ambient intelligence
+  homepage_url: https://www.epfl.ch/labs/vita/
   projects_url: https://epflvita.notion.site/Website-Semester-Projects-699ce4472fa44d658ef4121c6ce2cb60
   source_type: js_rendered
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-weir
+  acronym: WEIR
+  name: Water resources Engineering and hydraulic Infrastructure Resilience
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/weir/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIC
+  notes: null
+- id: enac-wire
+  acronym: WIRE
+  name: Wind Engineering and Renewable Energy Laboratory
+  faculty: ENAC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/wire/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IIE
   notes: null
 - id: ent-cede
   acronym: CEDE
@@ -254,10 +1717,12 @@ labs:
   - prototyping
   - software development
   - pedagogical design
+  homepage_url: null
   projects_url: https://www.epfl.ch/education/educational-initiatives/cede/campusanalytics/studentsprojects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ent-cibm-ait
   acronym: CIBM-AIT
@@ -271,10 +1736,12 @@ labs:
   - biomedical imaging for the advancement of science
   - health
   - medicine and technology
+  homepage_url: null
   projects_url: https://cibm.ch/open-positions/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ent-imaging-ge
   acronym: IMAGING-GE
@@ -290,10 +1757,12 @@ labs:
   - computer vision
   - deep learning
   - optics
+  homepage_url: null
   projects_url: https://imaging.epfl.ch/students-projects
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ent-sdsc-ge
   acronym: SDSC-GE
@@ -311,10 +1780,12 @@ labs:
   - optical network design
   - capacity planning
   - optimization research
+  homepage_url: null
   projects_url: https://datascience.ch/students-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-aimm
   acronym: AIMM
@@ -335,10 +1806,12 @@ labs:
   - computational biology
   - control theory
   - optimal transport
+  homepage_url: null
   projects_url: https://aimm.epfl.ch/openings/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-coala
   acronym: CoALA
@@ -363,10 +1836,12 @@ labs:
   - human-AI collaboration
   - social computing
   - collective intelligence
+  homepage_url: null
   projects_url: https://www.thecoalalab.com/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-compsec
   acronym: COMPSEC
@@ -382,10 +1857,12 @@ labs:
   - probabilistic proofs
   - zero knowledge proofs
   - succinct arguments
+  homepage_url: null
   projects_url: https://compsec.epfl.ch/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-cvlab
   acronym: CVLAB
@@ -403,10 +1880,13 @@ labs:
   - image understanding
   - machine learning
   - deep learning
+  homepage_url: https://www.epfl.ch/labs/cvlab/
   projects_url: https://www.epfl.ch/labs/cvlab/projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-data
   acronym: DATA
@@ -424,10 +1904,13 @@ labs:
   - analytical databases
   - incremental view maintenance and online query processing
   - databases and compilation
+  homepage_url: https://www.epfl.ch/labs/data/
   projects_url: https://www.epfl.ch/labs/data/teaching/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-dcl
   acronym: DCL
@@ -446,10 +1929,13 @@ labs:
   - security and privacy
   - operating systems and networks
   - artificial intelligence
+  homepage_url: https://dcl.epfl.ch/
   projects_url: https://dcl.epfl.ch/site/Education
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-dcml
   acronym: DCML
@@ -466,10 +1952,14 @@ labs:
   - music theory
   - implicit learning
   - music & language
+  homepage_url: https://www.epfl.ch/labs/dcml/
   projects_url: https://www.epfl.ch/labs/dcml/open-positions/students/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - DHI
   notes: null
 - id: ic-dcsl
   acronym: DCSL
@@ -487,10 +1977,13 @@ labs:
   - computer systems
   - datacenter operating systems and networking
   - virtualization
+  homepage_url: https://www.epfl.ch/labs/dcsl/
   projects_url: https://www.epfl.ch/labs/dcsl/ma-ba-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-dedis
   acronym: DEDIS
@@ -510,10 +2003,13 @@ labs:
   - blockchains and cryptocurrencies
   - programming languages
   - logic and paradox
+  homepage_url: https://www.epfl.ch/labs/dedis/
   projects_url: https://www.epfl.ch/labs/dedis/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-dhlab
   acronym: DHLAB
@@ -532,10 +2028,14 @@ labs:
   - morphological recognition
   - 4D models
   - cultural acceptance of technology
+  homepage_url: https://www.epfl.ch/labs/dhlab/
   projects_url: https://www.epfl.ch/labs/dhlab/index-html/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - DHI
   notes: null
 - id: ic-dias
   acronym: DIAS
@@ -552,10 +2052,13 @@ labs:
   - serverless data analytics and real-time query processing
   - database system design on modern hardware platforms and storage systems
   - elastic computational infrastructures for data-intensive scientific applications
+  homepage_url: https://www.epfl.ch/labs/dias/
   projects_url: https://www.epfl.ch/labs/dias/for-students/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-dlab
   acronym: DLAB
@@ -575,10 +2078,13 @@ labs:
   - social network analysis
   - Wikipedia
   - Web and social media analysis
+  homepage_url: https://dlab.epfl.ch/
   projects_url: https://dlab.epfl.ch/openings/
   source_type: restricted
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: Openings page links to a project list that requires EPFL credentials (HTTP 401)
 - id: ic-dslab
   acronym: DSLAB
@@ -595,10 +2101,13 @@ labs:
   - reliability and security in large-scale systems
   - predictable system performance
   - scalability
+  homepage_url: https://dslab.epfl.ch/
   projects_url: https://dslab.epfl.ch/projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-emplus
   acronym: EMPLUS
@@ -624,10 +2133,14 @@ labs:
   - digital aesthetics
   - critical theory for digital cultural heritage
   - new museology and curatorship
+  homepage_url: https://www.epfl.ch/labs/emplus/
   projects_url: https://www.epfl.ch/labs/emplus/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - DHI
   notes: null
 - id: ic-gcm
   acronym: GCM
@@ -644,10 +2157,28 @@ labs:
   - digital fabrication
   - computational design
   - architectural geometry
+  homepage_url: https://www.epfl.ch/labs/gcm/
   projects_url: https://www.epfl.ch/labs/gcm/education/#student_projects
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-hci
+  acronym: HCI
+  name: Human-Computer Interaction Group
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-pu/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-hexhive
   acronym: HEXHIVE
@@ -668,10 +2199,43 @@ labs:
   - sanitization
   - automated testing
   - compartmentalization
+  homepage_url: https://hexhive.epfl.ch/
   projects_url: https://hexhive.epfl.ch/epflprojects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-iig
+  acronym: IIG
+  name: Immersive Interaction Group
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/iig/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-indy
+  acronym: INDY
+  name: lnformation and Network Dynamics Laboratory
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://indy.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-indy1
   acronym: INDY1
@@ -689,10 +2253,12 @@ labs:
   - discrete choice theory and applications
   - recommender systems
   - data mining
+  homepage_url: null
   projects_url: https://indy.epfl.ch/projects
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-indy2
   acronym: INDY2
@@ -711,10 +2277,27 @@ labs:
   - stochastic models
   - data analytics
   - machine learning
+  homepage_url: null
   projects_url: https://indy.epfl.ch/projects
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: ic-ipg
+  acronym: IPG
+  name: Information Processing Group
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/schools/ic/ipg/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-ivrl
   acronym: IVRL
@@ -734,10 +2317,28 @@ labs:
   - inverse problems in imaging
   - color image processing and computer vision
   - computational image quality and aesthetics
+  homepage_url: https://www.epfl.ch/labs/ivrl/
   projects_url: https://www.epfl.ch/labs/ivrl/available-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-lamp
+  acronym: LAMP
+  name: Programming Methods Laboratory
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lamp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-lamp1
   acronym: LAMP1
@@ -756,10 +2357,12 @@ labs:
   - sanitization
   - automated testing
   - compartmentalization
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/lamp/teaching/teaching-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-lap
   acronym: LAP
@@ -776,10 +2379,13 @@ labs:
   - FPGAs and reconfigurable computing
   - electronic design automation
   - computer arithmetic
+  homepage_url: https://www.epfl.ch/labs/lap/
   projects_url: https://www.epfl.ch/labs/lap/students-projets/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-lara
   acronym: LARA
@@ -794,10 +2400,13 @@ labs:
   research_interests:
   - program verification and synthesis
   - automated theorem proving
+  homepage_url: https://lara.epfl.ch/
   projects_url: https://gitlab.epfl.ch/kuncak/student-projects/
   source_type: restricted
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-lasec
   acronym: LASEC
@@ -818,10 +2427,13 @@ labs:
   - biometry
   - privacy vs transparency
   - fairness
+  homepage_url: https://lasec.epfl.ch/
   projects_url: https://lasec.epfl.ch/teaching.php
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-laser
   acronym: LASER
@@ -841,11 +2453,28 @@ labs:
   - formal semantics
   - domain-specific languages
   - network verification
+  homepage_url: null
   projects_url: https://laser.epfl.ch/pages/apply.html
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: Apply page announces master/semester projects from Fall 2026
+- id: ic-lcav
+  acronym: LCAV
+  name: AudioVisual Communications Laboratory
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcav/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
 - id: ic-lcn
   acronym: LCN
   name: Computational Neuroscience
@@ -869,10 +2498,14 @@ labs:
   - analysis of large-scale recurrent networks
   - dynamics in neural networks
   - spiking neurons
+  homepage_url: https://www.epfl.ch/labs/lcn/
   projects_url: https://lcn.epfl.ch/student-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - BMI
   notes: null
 - id: ic-ldm
   acronym: LDM
@@ -891,11 +2524,30 @@ labs:
   - artificial design
   - experience design
   - design theory
+  homepage_url: https://www.epfl.ch/labs/ldm/
   projects_url: https://ldm.epfl.ch/contact
   source_type: none
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IA
   notes: Contact page only; lab site shows past studios, no project list
+- id: ic-lia
+  acronym: LIA
+  name: Artificial Intelligence Laboratory
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lia/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
 - id: ic-light
   acronym: LIGHT
   name: Intelligent Global Health & Humanitarian Response Technologies
@@ -910,10 +2562,13 @@ labs:
   - implementable AI4Health
   - machine learning
   - distributed learning
+  homepage_url: https://www.light-laboratory.org/
   projects_url: https://www.light-laboratory.org/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-linx
   acronym: LINX
@@ -933,10 +2588,45 @@ labs:
   - machine learning
   - statistics
   - theoretical and statistical neuroscience
+  homepage_url: https://www.epfl.ch/labs/linx/
   projects_url: https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-lsi
+  acronym: LSI
+  name: Integrated Systems Laboratory
+  faculty: IC
+  joint_faculties:
+  - STI
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: ic-lsir
+  acronym: LSIR
+  name: Distributed Information Systems
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsir/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-lthc
   acronym: LTHC
@@ -953,10 +2643,12 @@ labs:
   - information theory
   - theory of ML
   - quantum communication and quantum computation
+  homepage_url: null
   projects_url: https://www.epfl.ch/schools/ic/ipg/proposed-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-lthi
   acronym: LTHI
@@ -971,10 +2663,29 @@ labs:
   research_interests:
   - primarily teaching (introduction to computer science to non-CS students
   - from secondary school to first year at EPFL); teachers’ education
+  homepage_url: null
   projects_url: https://www.epfl.ch/schools/ic/ipg/proposed-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: ic-mds
+  acronym: MDS
+  name: Chair of Mathematical Data Science
+  faculty: IC
+  joint_faculties:
+  - SB
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mds/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
   notes: null
 - id: ic-mds2
   acronym: MDS2
@@ -993,10 +2704,12 @@ labs:
   - reasoning in machine learning
   - information compression
   - random structures and algorithms
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/mds/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-mil
   acronym: MIL
@@ -1019,10 +2732,12 @@ labs:
   - '{information'
   - learning
   - coding}-theory
+  homepage_url: null
   projects_url: https://theory.epfl.ch/yanina/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-ml4ed
   acronym: ML4ED
@@ -1041,10 +2756,13 @@ labs:
   - fairness
   - explainability
   - modeling of higher-order skills
+  homepage_url: https://www.epfl.ch/labs/ml4ed/
   projects_url: https://www.epfl.ch/labs/ml4ed/92-2/students-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-mlbio
   acronym: MLBIO
@@ -1064,10 +2782,12 @@ labs:
   - graph representation learning
   - explainable AI
   - single-cell genomics
+  homepage_url: null
   projects_url: https://brbiclab.epfl.ch/join-us/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: IC list linked a research project page; student projects are on 'Join us'
 - id: ic-mlo
   acronym: MLO
@@ -1086,10 +2806,13 @@ labs:
   - collaborative learning
   - efficiency
   - robustness and privacy when training ML and deep learning models
+  homepage_url: https://www.epfl.ch/labs/mlo/
   projects_url: https://www.epfl.ch/labs/mlo/page-135359-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-mobots
   acronym: MOBOTS
@@ -1110,10 +2833,14 @@ labs:
   - biological modeling using robotics
   - education to CS
   - social impact of digitalization
+  homepage_url: https://www.epfl.ch/labs/mobots/
   projects_url: https://www.epfl.ch/labs/mobots/education/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: ic-nal
   acronym: NAL
@@ -1129,10 +2856,30 @@ labs:
   - network inference
   - network function verification
   - performance verification
+  homepage_url: https://www.epfl.ch/labs/nal/
   projects_url: https://www.epfl.ch/labs/nal/semester-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-neuroai-lab
+  acronym: NeuroAI Lab
+  name: NeuroAI Lab
+  faculty: IC
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/schrimpflab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - Neuro-X
   notes: null
 - id: ic-nlp
   acronym: NLP
@@ -1149,10 +2896,12 @@ labs:
   - commonsense knowledge representation and reasoning
   - neuro-symbolic AI
   - natural language generation
+  homepage_url: null
   projects_url: https://nlp.epfl.ch/contact.html
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: Contact page only, no public student-project list
 - id: ic-parsa
   acronym: PARSA
@@ -1172,10 +2921,13 @@ labs:
   - sustainability in datacenters
   - machine learning systems
   - cloud computing
+  homepage_url: https://parsa.epfl.ch/
   projects_url: https://parsa.epfl.ch/
   source_type: none
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: Homepage only (research), no public student-project list
 - id: ic-qcc
   acronym: QCC
@@ -1193,10 +2945,13 @@ labs:
   - quantum interactive proof systems
   - quantum mechanics
   - theoretical computer science
+  homepage_url: https://www.epfl.ch/labs/qcc/
   projects_url: https://www.epfl.ch/labs/qcc/research/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-rgl
   acronym: RGL
@@ -1212,10 +2967,13 @@ labs:
   - appearance modeling
   - graphics systems and compilers
   - physically based rendering
+  homepage_url: https://rgl.epfl.ch/
   projects_url: https://rgl.epfl.ch/projects
   source_type: blocked
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: Site answers HTTP 403 to our crawler
 - id: ic-rs3lab
   acronym: RS3LAB
@@ -1233,10 +2991,13 @@ labs:
   - storage
   - verification
   - and software security
+  homepage_url: https://rs3lab.github.io/
   projects_url: https://rs3lab.github.io/pages/projects.html
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-sacs
   acronym: SaCS
@@ -1257,10 +3018,13 @@ labs:
   - scalable design
   - failure resilience
   - performance and privacy-preservation
+  homepage_url: https://www.epfl.ch/labs/sacs/
   projects_url: https://www.epfl.ch/labs/sacs/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-salathe-lab
   acronym: Salathe Lab
@@ -1276,10 +3040,12 @@ labs:
   - digital health
   - epidemiology
   - digital cohorts
+  homepage_url: null
   projects_url: https://www.digitalepidemiologylab.org/projects#apply
   source_type: blocked
   listed_in:
   - ic-mcs
+  institutes: []
   notes: Site answers HTTP 403 to our crawler
 - id: ic-scala
   acronym: SCALA
@@ -1296,10 +3062,28 @@ labs:
   - compiler engineering
   - platform maintenance
   - community support
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/lamp/teaching/teaching-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: ic-scg
+  acronym: SCG
+  name: Social Computing Group
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/scg/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - DHI
   notes: null
 - id: ic-sci-ic-dgp
   acronym: SCI-IC-DGP
@@ -1316,10 +3100,12 @@ labs:
   - social media
   - crowdsourcing
   - multimedia
+  homepage_url: null
   projects_url: https://www.idiap.ch/en/education/courses#student-projects
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sci-ic-mr
   acronym: SCI-IC-MR
@@ -1333,10 +3119,12 @@ labs:
   research_interests:
   - artificial intelligence
   - computational linguistics and data-driven probabilistic machine learning
+  homepage_url: null
   projects_url: https://people.epfl.ch/martin.rajman?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sci-ic-ra
   acronym: SCI-IC-RA
@@ -1351,10 +3139,12 @@ labs:
   - quantum information theory
   - quantum cryptography
   - entanglement and non-locality
+  homepage_url: null
   projects_url: null
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sens
   acronym: SENS
@@ -1377,10 +3167,12 @@ labs:
   - autonomous driving
   - biomolecular communication
   - spare Fourier Transform
+  homepage_url: null
   projects_url: https://sens.epfl.ch/student_projects.html
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-chappelier-jean-cedric
   acronym: SIN-GE
@@ -1395,10 +3187,12 @@ labs:
   - natural language processing
   - information theory
   - programming
+  homepage_url: null
   projects_url: https://people.epfl.ch/jean-cedric.chappelier?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-doeraene-sebastien
   acronym: SIN-GE
@@ -1413,10 +3207,12 @@ labs:
   - compilers
   - virtual machines
   - pedagogy in computer science
+  homepage_url: null
   projects_url: https://people.epfl.ch/sebastien.doeraene?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-pereira-pires-rafael
   acronym: SIN-GE
@@ -1431,10 +3227,12 @@ labs:
   - privacy & security
   - embedded systems
   - robotics
+  homepage_url: null
   projects_url: https://people.epfl.ch/rafael.pires
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-prandoni-paolo
   acronym: SIN-GE
@@ -1450,10 +3248,12 @@ labs:
   - audio and video processing
   - algorithmic development
   - communication systems design
+  homepage_url: null
   projects_url: https://people.epfl.ch/paolo.prandoni
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-regev-gil
   acronym: SIN-GE
@@ -1470,10 +3270,12 @@ labs:
   - knowledge management
   - creativity in organizations
   - systems thinking
+  homepage_url: null
   projects_url: https://people.epfl.ch/gil.regev/?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-sam-jamila
   acronym: SIN-GE
@@ -1484,10 +3286,12 @@ labs:
   - Sam, Jamila
   ic_domains: []
   research_interests: []
+  homepage_url: null
   projects_url: https://people.epfl.ch/jamila.sam/?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-sin-ge-schinz-michel
   acronym: SIN-GE
@@ -1498,10 +3302,12 @@ labs:
   - Schinz, Michel
   ic_domains: []
   research_interests: []
+  homepage_url: null
   projects_url: https://people.epfl.ch/michel.schinz/?lang=en
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-smils
   acronym: SMILS
@@ -1519,10 +3325,12 @@ labs:
   - learning theory
   - coding theory
   - quantum information
+  homepage_url: null
   projects_url: https://www.epfl.ch/schools/ic/ipg/proposed-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-spoc2
   acronym: SPOC2
@@ -1544,10 +3352,12 @@ labs:
   - to problems in machine learning
   - signal processing
   - inference and optimization
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/spoc/open-positions/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-spring
   acronym: SPRING
@@ -1563,10 +3373,13 @@ labs:
   - privacy engineering
   - societal impact of machine learning
   - decentralization
+  homepage_url: https://spring.epfl.ch/
   projects_url: https://www.spring.mpi-sp.org/student_projects.html
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-systemf
   acronym: SYSTEMF
@@ -1591,10 +3404,28 @@ labs:
   - performance engineering
   - databases
   - and type theory
+  homepage_url: https://systemf.epfl.ch/
   projects_url: https://systemf.epfl.ch/research.html#open-projects
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-tcs
+  acronym: TCS
+  name: Theoretical Computer Science
+  faculty: IC
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/schools/ic/tcs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
   notes: null
 - id: ic-teacher-fassl-mathias
   acronym: Fassl, Mathias
@@ -1612,10 +3443,12 @@ labs:
   - surveillance
   - safety
   - technology policy
+  homepage_url: null
   projects_url: https://n0g.at/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: starts Nov 2026
 - id: ic-thl2
   acronym: THL2
@@ -1633,10 +3466,12 @@ labs:
   - com-plexity theory
   - data-driven decision processes
   - graph theory
+  homepage_url: null
   projects_url: https://theory.epfl.ch/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-thl4
   acronym: THL4
@@ -1650,10 +3485,12 @@ labs:
   - ATCS
   research_interests:
   - theoretical foundations of big data analysis (sublinear algorithms)
+  homepage_url: null
   projects_url: https://theory.epfl.ch/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-thl5
   acronym: THL5
@@ -1669,10 +3506,12 @@ labs:
   - communication protocols
   - decision trees
   - propositional proofs
+  homepage_url: null
   projects_url: https://theory.epfl.ch/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-tml
   acronym: TML
@@ -1690,10 +3529,30 @@ labs:
   - robust machine learning
   - meta-learning
   - self-supervised machine learning
+  homepage_url: https://www.epfl.ch/labs/tml/
   projects_url: https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
+  notes: null
+- id: ic-upsalathe
+  acronym: UPSALATHE
+  name: Laboratory of Prof. Marcel Salathé
+  faculty: IC
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/salathelab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
   notes: null
 - id: ic-upschrimpf2
   acronym: UPSCHRIMPF2
@@ -1713,10 +3572,12 @@ labs:
   - natural language processing
   - human alignment
   - startups
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/schrimpflab/#prospective
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: ic-upwei
   acronym: UPWEI
@@ -1736,10 +3597,12 @@ labs:
   - online abuse
   - social media
   - AI ethics
+  homepage_url: null
   projects_url: null
   source_type: none
   listed_in:
   - ic-mcs
+  institutes: []
   notes: starts Nov 2026
 - id: ic-vca
   acronym: VCA
@@ -1757,10 +3620,13 @@ labs:
   - processor design
   - programming languages
   - computer architecture and formal hardware verification
+  homepage_url: https://www.epfl.ch/labs/vca/
   projects_url: https://vca.epfl.ch/
   source_type: none
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: Homepage only; 'Projects' page lists research artifacts
 - id: ic-vilab
   acronym: VILAB
@@ -1780,11 +3646,252 @@ labs:
   - multi-task learning
   - self/unsupervised learning
   - visual robustness and adaptation
+  homepage_url: https://vilab.epfl.ch/
   projects_url: https://vilab.epfl.ch/
   source_type: none
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes: []
   notes: Homepage only (research projects), no student-project list
+- id: other-metmrs
+  acronym: MetMRS
+  name: Metabolic Magnetic Resonance Spectroscopy Group
+  faculty: OTHER
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/metmrs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: other-mrs4brain
+  acronym: MRS4BRAIN
+  name: Mrs4Brain Group
+  faculty: OTHER
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mrs4brain/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: other-yang-group
+  acronym: YANG GROUP
+  name: Yang Group
+  faculty: OTHER
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/schools/sv/yang-group/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: sb-amcv
+  acronym: AMCV
+  name: Chair of Mathematical Analysis, Calculus of Variations and PDEs
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/amcv/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-anchp
+  acronym: ANCHP
+  name: Numerical Algorithms and High-Performance Computing
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/anchp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-anmath
+  acronym: ANMATH
+  name: Group of Mathematical Analysis
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/anmath/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-arg
+  acronym: ARG
+  name: Chair of Arithmetic Geometry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/arg/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-biostat
+  acronym: BIOSTAT
+  name: Chair of Biostatistics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/biostat/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-c3mp
+  acronym: C3MP
+  name: Chair of Computational Condensed Matter Physics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/c3mp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-cag
+  acronym: CAG
+  name: Chair of Algebraic Geometry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cag/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-cmatd
+  acronym: CMATD
+  name: Computational Mathematics and Data
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cmatd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-cmgr
+  acronym: CMGR
+  name: Chair of Mathematical General Relativity
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cmgr/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-cqsl
+  acronym: CQSL
+  name: Computational Quantum Science Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cqsl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-crt
+  acronym: CRT
+  name: Chair of Representation Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/crt/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-csea
+  acronym: CSEA
+  name: Chair of Atomic Scale Simulation
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/csea/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
 - id: sb-csft
   acronym: CSFT
   name: Statistical Field Theory
@@ -1799,10 +3906,62 @@ labs:
   - probability
   - mathematical physics
   - statistical mechanics
+  homepage_url: https://www.epfl.ch/labs/csft/
   projects_url: https://www.epfl.ch/labs/csft/research/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-csqi
+  acronym: CSQI
+  name: scientific computing and uncertainty quantification
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/csqi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-ctmc
+  acronym: CTMC
+  name: Chair of Condensed Matter Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ctmc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-cxi
+  acronym: CXI
+  name: Computational X-ray Imaging Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cxi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
   notes: null
 - id: sb-disopt
   acronym: DISOPT
@@ -1819,10 +3978,14 @@ labs:
   - computational geometry
   - complexity
   - approximation algorithms
+  homepage_url: https://www.epfl.ch/labs/disopt/
   projects_url: https://www.epfl.ch/labs/disopt/projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - MATH
   notes: null
 - id: sb-dola
   acronym: DOLA
@@ -1836,10 +3999,529 @@ labs:
   - continuous optimization
   - deep learning theory
   - optimal transport
+  homepage_url: https://www.epfl.ch/labs/dola/
   projects_url: https://www.epfl.ch/labs/dola/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-ecom
+  acronym: ECOM
+  name: Chair of Extremal Combinatorics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ecom/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-egg
+  acronym: EGG
+  name: Chair of Ergodic and Geometric Group Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://egg.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-erg
+  acronym: ERG
+  name: Chair of Ergodic Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/erg/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-fsl
+  acronym: FSL
+  name: Fields and Strings Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/fsl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-galspec
+  acronym: GALSPEC
+  name: Laboratory for Galaxy Evolution and Spectral Modelling
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/galspec/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-gr-anderson
+  acronym: GR-ANDERSON
+  name: Standard Candles and Distances
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/scd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-gr-ost
+  acronym: GR-OST
+  name: Group Osterwalder
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-ost/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-gscp
+  acronym: GSCP
+  name: Group of Chemical and Physical Safety
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gscp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-gse
+  acronym: GSE
+  name: Group for Sustainable Energy Carriers
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gse/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-het
+  acronym: HET
+  name: High Energy Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/het/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-hpnalgs
+  acronym: HPNALGS
+  name: Chair of high performance numerical algorithms and simulations
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hpnalgs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-hqc
+  acronym: HQC
+  name: Hybrid Quantum Circuits Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hqc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-k-lab
+  acronym: K-Lab
+  name: Laboratory of Photonics and Quantum Measurements
+  faculty: SB
+  joint_faculties:
+  - STI
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/k-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  - IPHYS
+  notes: null
+- id: sb-las
+  acronym: LAS
+  name: GAZNAT Chair for Advanced Separations
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/las/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-laspe
+  acronym: LASPE
+  name: Advanced semiconductors for photonics and electronics Lab
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/laspe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lastro
+  acronym: LASTRO
+  name: Laboratory of Astrophysics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lastro/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lbem
+  acronym: LBEM
+  name: Laboratory of Biological Electron Microscopy
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbem/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lbs
+  acronym: LBS
+  name: Laboratory of Statistical Biophysics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lcbc
+  acronym: LCBC
+  name: Laboratory of Computational Chemistry and Biochemistry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcbc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcbm
+  acronym: LCBM
+  name: Laboratory of Biophysical Chemistry of Macromolecules
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcbm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcmd
+  acronym: LCMD
+  name: Laboratory for Computational Molecular Design
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcmd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcom
+  acronym: LCOM
+  name: Laboratory of Organometallic and Medicinal Chemistry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcom/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcps
+  acronym: LCPS
+  name: Laboratory of Synthetic Polymer Chemistry - LCPS
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcps/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcpt
+  acronym: LCPT
+  name: Laboratory of Theoretical Physical Chemistry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcpt/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcs
+  acronym: LCS
+  name: Laboratory of Supramolecular Chemistry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcsa
+  acronym: LCSA
+  name: Laboratory of Asymmetric Catalysis and Synthesis
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcsa/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcsb
+  acronym: LCSB
+  name: Laboratory of Computational Systems Biotechnology
+  faculty: SB
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcsb/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lcso
+  acronym: LCSO
+  name: Laboratory of Catalysis and Organic Synthesis
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lcso/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-leb
+  acronym: LEB
+  name: Laboratory of Experimental Biophysics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/leb/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lem
+  acronym: LEM
+  name: Laboratory for Energy Materials
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lem/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lesm
+  acronym: LESM
+  name: Laboratory of Energy and Soft Matter
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lesm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lfim
+  acronym: LFIM
+  name: Laboratory for Functional Inorganic Materials
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lfim/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
   notes: null
 - id: sb-liac
   acronym: LIAC
@@ -1853,10 +4535,1075 @@ labs:
   - chemistry
   - large language models
   - accelerated science/discovery
+  homepage_url: https://www.epfl.ch/labs/liac/
   projects_url: https://schwallergroup.github.io/openings.html
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-libn
+  acronym: LIBN
+  name: Laboratory of Biomolecular Engineering and Nanomedicine
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/libn/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lifmet
+  acronym: LIFMET
+  name: Laboratory for Functional and Metabolic Imaging
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lifmet/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-limno
+  acronym: LIMNO
+  name: Molecular engineering of optoelectronic nanomaterials Lab
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/limno/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lltcp
+  acronym: LLTCP
+  name: Laeuchli Laboratory of Theoretical and Computational Physics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lltcp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lmer
+  acronym: LMER
+  name: Laboratory of Materials for Renewable Energy
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmer/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lmsc
+  acronym: LMSC
+  name: Laboratory of Semiconductor Materials
+  faculty: SB
+  joint_faculties:
+  - STI
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmsc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  - IMX
+  notes: null
+- id: sb-lnb
+  acronym: LNB
+  name: Laboratory of Nanobiotechnology
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnb/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lnce
+  acronym: LNCE
+  name: Laboratory of Nanochemistry for Energy
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnce/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lnd
+  acronym: LND
+  name: Laboratory of Molecular Nanodynamics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lnq
+  acronym: LNQ
+  name: Quantum Plumbing Lab
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnq/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lns
+  acronym: LNS
+  name: Nanostructures at surfaces
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lns/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lpap
+  acronym: LPAP
+  name: Particle Accelerator Physics Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpap/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lpbs
+  acronym: LPBS
+  name: Laboratory of the Physics of Biological Systems
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpbs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lpdc
+  acronym: LPDC
+  name: Laboratory of Sustainable and Catalytic Processing
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpdc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lphe
+  acronym: LPHE
+  name: Laboratoire de physique des hautes énergies
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lphe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lpi
+  acronym: LPI
+  name: Laboratory of Photonics and Interfaces
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lpl
+  acronym: LPL
+  name: Living Patterns Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lpmt
+  acronym: LPMT
+  name: Laboratory of Proteostasis and Molecular Therapeutics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpmt/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lppt
+  acronym: LPPT
+  name: Laboratory of Therapeutic Proteins and Peptides
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lppt/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lptp
+  acronym: LPTP
+  name: Theoretical Particle Physics Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lptp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lqg
+  acronym: LQG
+  name: Laboratory for Quantum Gases
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://lqg.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lqm
+  acronym: LQM
+  name: Laboratory for Quantum Magnetism
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lqm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lqno
+  acronym: LQNO
+  name: Laboratory of Quantum Nano-Optics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lqno/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lqp
+  acronym: LQP
+  name: Laboratory of Quantum Physics, Topology and Correlations
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lqp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lrm
+  acronym: LRM
+  name: Laboratory of Magnetic Resonance
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lrm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lrs
+  acronym: LRS
+  name: Laboratory for Reactor Physics and Systems Behaviour
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lrs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lsam
+  acronym: LSAM
+  name: Laboratory of Synthetic and Applied Microbiology (SB/SV)
+  faculty: SB
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsam/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lsci
+  acronym: LSCI
+  name: Laboratory of Inorganic Synthesis and Catalysis
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsci/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lsme
+  acronym: LSME
+  name: Electron Spectrometry and Microscopy Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsme/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lsmo
+  acronym: LSMO
+  name: Laboratory of molecular simulation
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsmo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-lspn
+  acronym: LSPN
+  name: Laboratory of synthesis and natural products
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lspn/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-ltfp
+  acronym: LTFP
+  name: Laboratory for Theoretical Fundamental Physics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ltfp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-ltm
+  acronym: LTM
+  name: Laboratory for Topological Matter
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ltm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-ltpn
+  acronym: LTPN
+  name: Laboratory of Theoretical Physics of Nanosystems
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ltpn/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-lumes
+  acronym: LUMES
+  name: Laboratory for ultrafast microscopy and electron scattering
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lumes/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-luxs
+  acronym: LUXS
+  name: Laboratory for Ultrafast X-ray Sciences
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/luxs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-mathicse
+  acronym: MATHICSE
+  name: MATHICSE - Group
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mathicse/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-matmat
+  acronym: MATMAT
+  name: Mathematics for materials modelling
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/matmat/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-mns
+  acronym: MNS
+  name: Chair of Numerical Modelling and Simulation
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mns/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-mrism
+  acronym: MRISM
+  name: Laboratory of Magnetic Resonance Imaging Systems and Methods
+  faculty: SB
+  joint_faculties:
+  - STI
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mrism/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  - IPHYS
+  notes: null
+- id: sb-nxm
+  acronym: NXM
+  name: Laboratory for Nanoscale X-ray Metrology
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/nxm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-optim
+  acronym: OPTIM
+  name: Chair of Continuous Optimization
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/optim/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-pcsl
+  acronym: PCSL
+  name: Physics of Complex Systems Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pcsl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-pde
+  acronym: PDE
+  name: Chair of Partial Differential Equations
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pde/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-prob
+  acronym: PROB
+  name: Chaire de Probabilités
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/prob/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-propde
+  acronym: PROPDE
+  name: Chair of Probability and Partial Differential Equations
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/propde/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-prst
+  acronym: PRST
+  name: Chaire de Processus Stochastiques
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/prst/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-qic
+  acronym: QIC
+  name: Laboratory of Quantum Information and Computation
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/qic/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-rgm
+  acronym: RGM
+  name: Chair of random geometry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/rgm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-sci-sb-dm
+  acronym: SCI-SB-DM
+  name: Mechanical Spectroscopy
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mechanical-spectroscopy/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-sci-sb-mm
+  acronym: SCI-SB-MM
+  name: Group of Coordination Chemistry
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gcc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-sci-sb-pj
+  acronym: SCI-SB-PJ
+  name: GAL-MESH Galaxy Mass assembly, Environment, and Star formation History
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sci-sb-pj/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-sci-sb-sd
+  acronym: SCI-SB-SD
+  name: Prof Deparis Group
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sci-sb-sd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-sci-sb-sg
+  acronym: SCI-SB-SG
+  name: Group for Functionalized Biomaterials
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gbf/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISIC
+  notes: null
+- id: sb-sds
+  acronym: SDS
+  name: Chair of Statistical Data Science
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sds/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-smat
+  acronym: SMAT
+  name: Chair of Mathematical Statistics
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/smat/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-sois
+  acronym: SOIS
+  name: Spin Orbit Interaction Spectroscopy
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sois/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-spoc
+  acronym: SPOC
+  name: Statistical Physics of Computation Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/spoc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-sqil
+  acronym: SQIL
+  name: Superconductor Quantum Information Laboratory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sqil/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IPHYS
+  notes: null
+- id: sb-stoan
+  acronym: STOAN
+  name: Chair of Stochastic Analysis
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/stoan/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-tan
+  acronym: TAN
+  name: Chaire de théorie analytique des nombres
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tan/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sb-tn
+  acronym: TN
+  name: Chair of Number Theory
+  faculty: SB
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tn/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - MATH
+  notes: null
+- id: sti-alchemy
+  acronym: ALCHEMY
+  name: Laboratory for the Chemistry of Materials and Manufacturing
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/alchemy/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-aqua
+  acronym: AQUA
+  name: Advanced Quantum Architecture Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/aqua/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-asl
+  acronym: ASL
+  name: Adaptive Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://asl.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-bion
+  acronym: BION
+  name: Laboratory for Bio-Iontronics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/bion/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-biorob
   acronym: BIOROB
@@ -1872,10 +5619,240 @@ labs:
   - computational neuroscience
   - machine learning
   - nonlinear dynamical systems
+  homepage_url: https://www.epfl.ch/labs/biorob/
   projects_url: https://biorob2.epfl.ch/pages/projects/index.php?keyword=32
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-bios
+  acronym: BIOS
+  name: BioNanoPhotonic Systems Laboratory
+  faculty: STI
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/bios/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-bnms
+  acronym: BNMS
+  name: Biomedical and neuromorphic microelectronic systems group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/bnms/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-cam-x
+  acronym: CAM-X
+  name: Laboratory for X-ray characterization of materials
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cam-x/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-chemina
+  acronym: CHEMINA
+  name: Laboratory of Chemical Nanotechnology
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/chemina/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - INX
+  notes: null
+- id: sti-clse
+  acronym: CLSE
+  name: Laboratory of Life Sciences Electronics
+  faculty: STI
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/clse/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-cosmo
+  acronym: COSMO
+  name: Laboratory of Computational Science and Modelling
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/cosmo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-create-lab
+  acronym: CREATE-LAB
+  name: Computational Robot Design & Fabrication Lab
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/create/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-decode
+  acronym: DECODE
+  name: Dependable Control and Decision Group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/decode/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-desl
+  acronym: DESL
+  name: Distributed Electrical Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/desl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-dqml
+  acronym: DQML
+  name: Dynamic Quantum Materials Laboratory of Prof. Gregor Jotzu
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/dqml/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-ecps
+  acronym: ECPS
+  name: Emergent Complexity in Physical Systems
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ecps/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-edlab
+  acronym: EDLab
+  name: Electron Device Modeling and Technology
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/edlab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-emc-lab
+  acronym: EMC LAB
+  name: Electromagnetic Compatibility Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/emc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-emsi
+  acronym: EMSI
+  name: Engineering Mechanics of Soft Interfaces
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/emsi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
   notes: null
 - id: sti-esl
   acronym: ESL
@@ -1892,10 +5869,174 @@ labs:
   - edge AI
   - Internet of Things
   - low-power hardware and software co-design
+  homepage_url: https://www.epfl.ch/labs/esl/
   projects_url: https://esl.epfl.ch/studentprojects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-eta-lab
+  acronym: ETA-LAB
+  name: Energy Transport Advances
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/eta-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-fimap
+  acronym: FIMAP
+  name: Laboratory of Photonic Materials and Fiber Devices
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/fimap/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-flexlab
+  acronym: FLEXLAB
+  name: Flexible Structures Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/flexlab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-galatea
+  acronym: GALATEA
+  name: Galatea Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/galatea/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-gem
+  acronym: GEM
+  name: Group of Energy Materials
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gem/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-gfo
+  acronym: GFO
+  name: Group for Fibre Optics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gfo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-grid-ess
+  acronym: GRID-ESS
+  name: Grid-Integrated Energy Storage Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/grid-ess/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-head
+  acronym: HEAD
+  name: Hydro Energy and Applied fluid Dynamics laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/head/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-hylab
+  acronym: HYLAB
+  name: Hybrid photonics laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hylab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-idephics
+  acronym: IDEPHICS
+  name: Information, Learning & Physics Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/idephics/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-inl
   acronym: INL
@@ -1912,10 +6053,174 @@ labs:
   - neurotechnology
   - neural signal processing and machine learning
   - brain-machine interfaces
+  homepage_url: https://www.epfl.ch/labs/inl/
   projects_url: https://www.epfl.ch/labs/inl/inl/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-inpho
+  acronym: INPHO
+  name: Integrated Nanoscale Photonics and Optoelectronics Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/inpho/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-instant-lab
+  acronym: Instant-Lab
+  name: Micromechanical and Horological Design Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/instantlab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-la
+  acronym: LA
+  name: Automatic Control Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/la/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-la3
+  acronym: LA3
+  name: Automatic Control Lab
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/la3/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-laft
+  acronym: LAFT
+  name: Laboratory for Advanced Fabrication Technologies
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/laft/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lai
+  acronym: LAI
+  name: Integrated Actuators Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lai/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lamd
+  acronym: LAMD
+  name: Laboratory for Applied Mechanical Design
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lamd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lanes
+  acronym: LANES
+  name: Nanoscale Electronics and Structures
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lanes/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lapd
+  acronym: LAPD
+  name: Laboratory of Applied Photonics Devices
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lapd/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lasa
+  acronym: LASA
+  name: Learning Algorithms and Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lasa/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lben
   acronym: LBEN
@@ -1931,10 +6236,160 @@ labs:
   - biophysics
   - nanofluidics
   - single molecule biophysics
+  homepage_url: https://www.epfl.ch/labs/lben/
   projects_url: https://www.epfl.ch/labs/lben/page-79396-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lbi
+  acronym: LBI
+  name: Laboratory of Biomaterials for Immunoengineering
+  faculty: STI
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tang-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lbmm
+  acronym: LBMM
+  name: Laboratory for Biomedical Microfluidics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbmm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lbnc
+  acronym: LBNC
+  name: Laboratory of Biological Network Characterization
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: http://lbnc.epfl.ch/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: sti-lbni
+  acronym: LBNI
+  name: Laboratory for Bio- and Nano-Instrumentation
+  faculty: STI
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbni/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lbo
+  acronym: LBO
+  name: Laboratory of Biomechanical Orthopedics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lbp
+  acronym: LBP
+  name: Laboratory for fundamental BioPhotonics
+  faculty: STI
+  joint_faculties:
+  - SV
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-leap
+  acronym: LEAP
+  name: Laboratory for Advanced Electromagnetics and Photonics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/leap/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lfmi
+  acronym: LFMI
+  name: Laboratory of Fluid Mechanics and Instabilities
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lfmi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lhtc
+  acronym: LHTC
+  name: Laboratory of Hemodynamics and Cardiovascular Technology
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lhtc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
   notes: null
 - id: sti-lib
   acronym: LIB
@@ -1951,10 +6406,12 @@ labs:
   - wavelets
   - splines
   - multiresolution
+  homepage_url: null
   projects_url: http://bigwww.epfl.ch/teaching/projects/subject.html
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
   notes: null
 - id: sti-lidiap
   acronym: LIDIAP
@@ -1976,10 +6433,14 @@ labs:
   - computer vision
   - machine learning
   - deep learning
+  homepage_url: https://www.epfl.ch/labs/idiap/
   projects_url: https://www.epfl.ch/labs/idiap/open-positions/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lions
   acronym: LIONS
@@ -1996,10 +6457,14 @@ labs:
   - reinforcement learning
   - foundation models
   - inference systems
+  homepage_url: https://www.epfl.ch/labs/lions/
   projects_url: https://www.epfl.ch/labs/lions/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lis
   acronym: LIS
@@ -2016,10 +6481,206 @@ labs:
   - wearable robots
   - bio-inspired robots
   - bio-inspired artificial intelligence
+  homepage_url: https://www.epfl.ch/labs/lis/
   projects_url: https://inside.epfl.ch/lis/
   source_type: restricted
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lmam
+  acronym: LMAM
+  name: Laboratory of Movement Analysis and Measurement
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmam/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lmc
+  acronym: LMC
+  name: Laboratory of Construction Materials
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lmgn
+  acronym: LMGN
+  name: Laboratory of Nanoscale Magnetic Materials and Magnonics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmgn/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lmis1
+  acronym: LMIS1
+  name: Microsystems Laboratory (Prof. J. Brugger)
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmis1/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lmm
+  acronym: LMM
+  name: Laboratory of Mechanical Metallurgy
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lmom
+  acronym: LMOM
+  name: Laboratory of Macromolecular and Organic Materials
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmom/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lmtm
+  acronym: LMTM
+  name: Laboratory of Thermomechanical Metallurgy
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmtm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lmts
+  acronym: LMTS
+  name: Soft Transducers Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lmts/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lnet
+  acronym: LNET
+  name: Laboratory of Nanoscience for Energy Technologies
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnet/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lo
+  acronym: LO
+  name: Optics Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lo/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lp
+  acronym: LP
+  name: Polymers Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lp/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-lpac
+  acronym: LPAC
+  name: Laboratory for Processing of Advanced Composites
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpac/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
   notes: null
 - id: sti-lpdi
   acronym: LPDI
@@ -2034,10 +6695,46 @@ labs:
   - computational design
   - immunoengineering
   - synthetic biology
+  homepage_url: https://www.epfl.ch/labs/lpdi/
   projects_url: https://www.epfl.ch/labs/lpdi/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-lrese
+  acronym: LRESE
+  name: Laboratory of Renewable Energy Science and Engineering
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lrese/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-lsbi
+  acronym: LSBI
+  name: Laboratory for Soft Bioelectronic Interfaces
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsbi/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lts2
   acronym: LTS2
@@ -2054,10 +6751,14 @@ labs:
   - inverse problems
   - compressive sensing
   - computer vision
+  homepage_url: https://lts2.epfl.ch/
   projects_url: https://lts2.epfl.ch/projects/list
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lts4
   acronym: LTS4
@@ -2081,10 +6782,14 @@ labs:
   - AI for Health
   - AI for Science
   - generative AI
+  homepage_url: https://www.epfl.ch/labs/lts4/
   projects_url: https://www.epfl.ch/labs/lts4/sprojects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: null
 - id: sti-lts5
   acronym: LTS5
@@ -2100,10 +6805,78 @@ labs:
   - multimodal signal/image processing
   - pattern recognition
   - medical imaging
+  homepage_url: https://www.epfl.ch/labs/lts5/
   projects_url: https://www.epfl.ch/labs/lts5/student_projects-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-lwe
+  acronym: LWE
+  name: Laboratory of Wave Engineering
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lwe/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-mag
+  acronym: MAG
+  name: Microwave and Antenna Group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mag/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-mesobio
+  acronym: MESOBIO
+  name: Mechanics of Soft and Biological Matter Laboratory MESOBIO
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mesobio/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-microbs
+  acronym: MICROBS
+  name: Microbiorobotic Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/microbs/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
   notes: null
 - id: sti-mints
   acronym: MINTS
@@ -2120,10 +6893,14 @@ labs:
   - audio processing
   - robot perception
   - privacy
+  homepage_url: https://www.epfl.ch/labs/mints/
   projects_url: https://www.epfl.ch/labs/mints/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
   notes: IC list linked the STI homepage; corrected to the lab's student-projects page
 - id: sti-miplab
   acronym: MIPLAB
@@ -2139,10 +6916,14 @@ labs:
   - medical imaging
   - brain function
   - graph signal processing
+  homepage_url: https://miplab.epfl.ch/
   projects_url: https://miplab.epfl.ch/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - Neuro-X
   notes: null
 - id: sti-mmspg
   acronym: MMSPG
@@ -2164,10 +6945,302 @@ labs:
   - new media
   - and human computer interfaces (smart vision
   - brain computer interface)
+  homepage_url: https://www.epfl.ch/labs/mmspg/
   projects_url: https://www.epfl.ch/labs/mmspg/studentprojects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-msic-lab
+  acronym: MSIC-LAB
+  name: Mixed-Signal Integrated Circuits Lab
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/msic-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-nam
+  acronym: NAM
+  name: Nanophotonics and Metrology laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/nam/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-nanolab
+  acronym: NANOLAB
+  name: Nanoelectronic Devices Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/nanolab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-nems
+  acronym: NEMS
+  name: Advanced NEMS group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/nems/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-pbl
+  acronym: PBL
+  name: Programmable Biomaterials Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pbl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-pel
+  acronym: PEL
+  name: Power Electronics Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pel/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-phosl
+  acronym: PHOSL
+  name: Photonic Systems Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/phosl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-pv-lab
+  acronym: PV-LAB
+  name: Photovoltaics and Thin Film Electronics Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/pvlab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-react
+  acronym: REACT
+  name: Coordination & Interaction Systems Group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/react/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-rrl
+  acronym: RRL
+  name: Reconfigurable Robotics Lab
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/rrl/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-sci-sti-ak
+  acronym: SCI-STI-AK
+  name: Data-Driven Modelling and Control Group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ddmac/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-sci-sti-fm
+  acronym: SCI-STI-FM
+  name: Industrial Process and Energy Systems Engineering
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ipese/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sti-sci-sti-mb
+  acronym: SCI-STI-MB
+  name: Rehabilitation and Assistive Robotics
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/rehassist/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - INX
+  notes: null
+- id: sti-sci-sti-sc
+  acronym: SCI-STI-SC
+  name: Bio/CMOS Interfaces group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/bci/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-smal
+  acronym: SMaL
+  name: Soft Materials Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/smal/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-sml
+  acronym: SML
+  name: Sustainable Materials Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sml/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-spark
+  acronym: SPARK
+  name: Systems for Adaptive neuRomodulation
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/spark/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - INX
+  notes: null
+- id: sti-sunmil
+  acronym: SuNMIL
+  name: Supramolecular Nanomaterials and Interfaces Laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/sunmil/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
   notes: null
 - id: sti-sycamore
   acronym: SYCAMORE
@@ -2183,10 +7256,14 @@ labs:
   - reinforcement learning
   - online learning
   - mixed integer optimization
+  homepage_url: https://www.epfl.ch/labs/sycamore/
   projects_url: https://www.epfl.ch/labs/sycamore/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IGM
   notes: null
 - id: sti-tcl
   acronym: TCL
@@ -2201,10 +7278,237 @@ labs:
   - wireless communication
   - signal processing systems
   - embedded systems
+  homepage_url: https://www.epfl.ch/labs/tcl/
   projects_url: https://www.epfl.ch/labs/tcl/page-87315-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IEM
+  notes: null
+- id: sti-theos
+  acronym: THEOS
+  name: Theory and Simulation of Materials
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/theos/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-tic
+  acronym: TIC
+  name: Tribology and Interfacial Chemistry Group
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tic/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IMX
+  notes: null
+- id: sti-tne
+  acronym: TNE
+  name: Translational Neural Engineering Lab
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tne/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sti-unfold
+  acronym: UNFoLD
+  name: Unsteady flow diagnostics laboratory
+  faculty: STI
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/unfold/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IGM
+  notes: null
+- id: sv-dangelolab
+  acronym: DANGELOLAB
+  name: Lipid Cell Biology Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/dangelo-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-gos
+  acronym: GOS
+  name: Genome of Switzerland
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/schools/sv/gos/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes: []
+  notes: null
+- id: sv-gr-fe
+  acronym: GR-FE
+  name: Laboratory of Prof. Jacques Fellay
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/fellay-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-gr-jaksic
+  acronym: GR-JAKSIC
+  name: Experimental evolutionary neurobiology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/jaksic-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-gr-maynard
+  acronym: GR-MAYNARD
+  name: Maynard Lab - Regeneration and Neurogenomics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-maynard/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-gr-paoli
+  acronym: GR-PAOLI
+  name: Paoli Lab of Microbiome Immunity and Ecology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-paoli/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-gr-priestley
+  acronym: GR-PRIESTLEY
+  name: Priestley Lab - Neurobiology of Memory
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-priestley/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-gr-schuhmacher
+  acronym: GR-SCHUHMACHER
+  name: Laboratory of chemical and membrane biology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gr-schuhmacher/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-gr-westmann
+  acronym: GR-WESTMANN
+  name: Westman Lab - Systems and Synthetic Evolutionary Biology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/westmann-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-hanahan-lab
+  acronym: HANAHAN LAB
+  name: Laboratory of Translational Oncology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hanahan-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
   notes: null
 - id: sv-lbm
   acronym: LBM
@@ -2220,10 +7524,108 @@ labs:
   - antimicrobial resistance
   - nanopore sensing
   - structural biology
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/lbm/openings/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: sv-lgc
+  acronym: LGC
+  name: Laboratory of Behavioral Genetics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lgc/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-lisp
+  acronym: LISP
+  name: Laboratory of Integrative Systems Physiology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/auwerx-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-lmic
+  acronym: LMIC
+  name: Laboratory of Microbiology and Microtechnology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mckinney-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-lnco
+  acronym: LNCO
+  name: Laboratory of Cognitive Neuroscience
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lnco/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - Neuro-X
+  notes: null
+- id: sv-lnmc
+  acronym: LNMC
+  name: Laboratory of Neural Microcircuitry
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/markram-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-lpsy
+  acronym: LPSY
+  name: Laboratory of Psychophysics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lpsy/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
   notes: null
 - id: sv-lsens
   acronym: LSENS
@@ -2241,10 +7643,62 @@ labs:
   - decision making
   - motor control
   - recurrent spiking neural networks
+  homepage_url: https://www.epfl.ch/labs/lsens/
   projects_url: https://www.epfl.ch/labs/lsens/master-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-lsym
+  acronym: LSYM
+  name: Laboratory of Synaptic Mechanisms
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lsym/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-lvg
+  acronym: LVG
+  name: Laboratory of virology and genetics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/tronolab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-naef-lab
+  acronym: Naef Lab
+  name: Computational Systems Biology lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/naef-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
   notes: null
 - id: sv-ramdya-lab
   acronym: RAMDYA LAB
@@ -2259,10 +7713,28 @@ labs:
   - behavior
   - robotics
   - evolution
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/ramdya-lab/available-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: sv-upablasser
+  acronym: UPABLASSER
+  name: Laboratory of Prof. Andrea Ablasser
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ablasserlab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
   notes: null
 - id: sv-upamathis
   acronym: UPAMATHIS
@@ -2280,10 +7752,30 @@ labs:
   - machine learning
   - artificial intelligence
   - behavior
+  homepage_url: https://www.epfl.ch/labs/alexandermathis-lab/
   projects_url: https://www.epfl.ch/labs/alexandermathis-lab/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-upantanasijevic
+  acronym: UPANTANASIJEVIC
+  name: Antanasijevic Lab of Structural Immunology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/antanasijevic-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
   notes: null
 - id: sv-upbarth
   acronym: UPBARTH
@@ -2299,10 +7791,286 @@ labs:
   - protein folding
   - computational biophysics
   - membrane proteins
+  homepage_url: https://www.epfl.ch/labs/barth-lab/
   projects_url: https://www.epfl.ch/labs/barth-lab/page-149655-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upbitbol
+  acronym: UPBITBOL
+  name: Bitbol Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/bitbol-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upblo
+  acronym: UPBLO
+  name: BLOKESCH Lab - Laboratory of Molecular Microbiology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/blokesch-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-upbri
+  acronym: UPBRI
+  name: Brisken Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/brisken-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upcda
+  acronym: UPCDA
+  name: Constam Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/constam-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upcourtine
+  acronym: UPCOURTINE
+  name: Unité du Prof. Courtine / Prof. Courtine Group
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/courtine-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - Neuro-X
+  notes: null
+- id: sv-updalpe
+  acronym: UPDALPE
+  name: Laboratory for Biomolecular Modeling
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lbm/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-updepalma
+  acronym: UPDEPALMA
+  name: Prof. De Palma's Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/depalma-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-updepla
+  acronym: UPDEPLA
+  name: Laboratory of Systems Biology and Genetics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/deplanckelab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upgallini
+  acronym: UPGALLINI
+  name: Gallini lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gallini-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upgoemans
+  acronym: UPGOEMANS
+  name: Goemans Lab of drug-microbiota interactions
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/upgoemans/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-upgon
+  acronym: UPGON
+  name: Gönczy Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/gonczy-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upgraeff
+  acronym: UPGRAEFF
+  name: Laboratory of Prof. Johannes Gräff, SC, BMI
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/graefflab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-uphess
+  acronym: UPHESS
+  name: Laboratory for Topology and Neuroscience
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hessbellwald-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-uphuelsken
+  acronym: UPHUELSKEN
+  name: Tumor Heterogeneity and Stemness in Cancer
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/huelsken-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-uphummel
+  acronym: UPHUMMEL
+  name: Hummel Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/hummel-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - Neuro-X
+  notes: null
+- id: sv-upkarthaus
+  acronym: UPKARTHAUS
+  name: Lab of endocrine therapy resistance and molecular genetics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/upkarthaus/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upkim
+  acronym: UPKIM
+  name: Laboratory of Molecular and Synthetic Neuroengineering
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/upkim/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
   notes: null
 - id: sv-uplamanno
   acronym: UPLAMANNO
@@ -2318,10 +8086,78 @@ labs:
   - neuroscience
   - statistical modeling
   - technology development
+  homepage_url: https://www.epfl.ch/labs/nsbl/
   projects_url: https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-uplem
+  acronym: UPLEM
+  name: Lemaitre Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lemaitrelab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-uplin
+  acronym: UPLIN
+  name: Lingner Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lingner-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-uplut
+  acronym: UPLUT
+  name: Laboratory of Stem Cell Bioengineering
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/lutolf-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upmccabe
+  acronym: UPMCCABE
+  name: Laboratory of Neural Genetics and Disease
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/mccabelab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
   notes: null
 - id: sv-upmwmathis
   acronym: UPMWMATHIS
@@ -2339,10 +8175,14 @@ labs:
   - animal behavior
   - machine learning
   - neural data analysis
+  homepage_url: https://www.epfl.ch/labs/mackenziemathis-lab/
   projects_url: https://mlabofai.org/join.html
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
+  institutes:
+  - BMI
   notes: IC list linked a contact page; 'Join' page describes semester projects and theses
 - id: sv-upnae
   acronym: UPNAE
@@ -2358,8 +8198,218 @@ labs:
   - quantitative biology
   - transcription
   - gene regulation
+  homepage_url: null
   projects_url: https://www.epfl.ch/labs/naef-lab/page-115324-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
+  institutes: []
+  notes: null
+- id: sv-upnavarro
+  acronym: UPNAVARRO
+  name: Navarro Lab of Neuroimmunology and Aging
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/navarro-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-upoates
+  acronym: UPOATES
+  name: Timing, Oscillations, Patterns
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/oateslab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-uporicchio
+  acronym: UPORICCHIO
+  name: Laboratory of Prof. Elisa Oricchio
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/oricchiolab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-uppersat
+  acronym: UPPERSAT
+  name: Microbial Mechanics Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/persat-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
+  notes: null
+- id: sv-uprad
+  acronym: UPRAD
+  name: Radtke lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/radtke-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upramdya
+  acronym: UPRAMDYA
+  name: Neuroengineering Laboratory
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/ramdya-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-upschoonjans
+  acronym: UPSCHOONJANS
+  name: Laboratory of Metabolic Signaling
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/schoonjans-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upschueder
+  acronym: UPSCHUEDER
+  name: Laboratory of Molecular Spatial Omics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/schueder-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upsuter
+  acronym: UPSUTER
+  name: Sponsored Stem Cells Research Chair
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/suter-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - IBI
+  notes: null
+- id: sv-upthomae
+  acronym: UPTHOMAE
+  name: Thomae Lab - Paternot Chair in Cancer Research
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/thoma-lab/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upwaszak
+  acronym: UPWASZAK
+  name: Laboratory of Computational Neuro-Oncology
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/upwaszak/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - ISREC
+  notes: null
+- id: sv-upzenk
+  acronym: UPZENK
+  name: Laboratory of Neurodevelopmental Epigenomics
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/upzenk/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - BMI
+  notes: null
+- id: sv-vdg
+  acronym: VDG
+  name: Van der Goot Lab
+  faculty: SV
+  joint_faculties: []
+  heads: []
+  ic_domains: []
+  research_interests: []
+  homepage_url: https://www.epfl.ch/labs/vdg/
+  projects_url: null
+  source_type: auto
+  listed_in:
+  - epfl-all
+  institutes:
+  - GHI
   notes: null
