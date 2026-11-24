@@ -1,0 +1,14 @@
+# Two detailed projects.
+projects:
+- title: Investigating Genomic Data Transformations for Predicting Disease Outcomes using Machine Learning
+  project_types:
+  - master_thesis
+  supervisors:
+  - Barry Ryan
+  - Jacques Fellay
+- title: Enhancing Cardiovascular Disease Prediction by Integrating Rare Variants into Polygenic Risk Scores
+  project_types: null
+  supervisors:
+  - Simon Boutry
+  - Chritian Thorball
+  - Jacques Fellay

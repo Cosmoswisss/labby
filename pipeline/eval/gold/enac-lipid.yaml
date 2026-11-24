@@ -1,0 +1,9 @@
+# One project listed on the main page.
+projects:
+- title: 'Decoding the spectral diet of humans: Development of new analysis methods for spectral light exposure timeseries
+    data'
+  project_types:
+  - master_thesis
+  supervisors:
+  - Marilyne Andersen
+  - Steffen Hartmeyer

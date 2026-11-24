@@ -1,0 +1,78 @@
+# Three levels; 'valid for 2025-26' (kept, past period). 'Subject proposed by the student' is not a project. Supervisor given only as 'Prof. Lecampion' (not scored).
+projects:
+- title: Boundary Element simulations for elasto-static
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Fracture statistics of quasi-brittle rock from CT scan images
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Distributed fiber optic strain sensing – Inversion for load reconstruction
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Fluid driven fault re-activation associated with H2 / CO2 storage
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Fracture thermal energy storage
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Imaging of failures using active and passive acoustics
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Design of a polyaxial frame for rock mechanics testing
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Limit analysis for the design of geotechnical engineering
+  project_types:
+  - semester_master
+  supervisors: null
+- title: Modelling of the failure of quasi-brittle material
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Understanding hydromechanical deformations around volanic systems
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Rock slope stability under climate change
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Predicting the excavation damage zone of tunnels in quasi-brittle rocks
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Interaction between Shear-banding & re-inforcements in geotechnical engineering
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Elastic rebounding due to retreating Glaciers in the Alps
+  project_types:
+  - master_thesis
+  supervisors: null
+- title: Limit analysis for geotechnical engineering ULS design
+  project_types:
+  - semester_bachelor
+  supervisors: null
+- title: Modeling the geomechanical response of hydrogen/co2 storage in porous media
+  project_types:
+  - semester_bachelor
+  supervisors: null
+- title: Imaging of fracture and defects using active and passive acoustics
+  project_types:
+  - semester_bachelor
+  supervisors: null
+- title: Analysis of an in-situ injection experiment at the Bedretto Res. Lab.
+  project_types:
+  - semester_bachelor
+  supervisors: null
+- title: Revisting the Barbarbunga magmatic intrusion sequence
+  project_types:
+  - semester_bachelor
+  supervisors: null

@@ -36,3 +36,13 @@ pages:
   - {id: sti-unfold, url: "https://www.epfl.ch/labs/unfold/studentprojects/"}
   - {id: sti-rrl-ma, url: "https://www.epfl.ch/labs/rrl/research-2/ma-projects/"}
   - {id: sti-lasa, url: "https://www.epfl.ch/labs/lasa/student-projects/"}
+  - {id: sv-uplin, url: "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/"}
+  - {id: sv-gr-westmann, url: "https://www.epfl.ch/labs/westmann-lab/open-positions/"}
+  - {id: sv-gr-maynard, url: "https://www.epfl.ch/labs/gr-maynard/open-positions/"}
+  - {id: sv-lnco, url: "https://www.epfl.ch/labs/lnco/student_projects/"}
+  - {id: sv-gr-fe, url: "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/"}
+  - {id: enac-lab-u, url: "https://www.epfl.ch/labs/lab-u/page-144598-en-html/"}
+  - {id: enac-perl, url: "https://www.epfl.ch/labs/perl/perl-home/student-projects/"}
+  - {id: enac-lipid, url: "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/"}
+  - {id: enac-gr-cel-msc, url: "https://www.epfl.ch/labs/gr-cel/job-opening/"}
+  - {id: enac-gel, url: "https://www.epfl.ch/labs/gel/students-projects/"}

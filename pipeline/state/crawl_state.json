@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T09:50:26+00:00",
+ "updated_at": "2026-11-24T11:02:06+00:00",
  "labs": {
   "ic-cvlab": {
    "status": "ok",
@@ -2097,6 +2097,1128 @@
    ],
    "last_checked_at": "2026-11-24T09:50:26+00:00",
    "error": null
+  },
+  "enac-adher": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/adher/teaching-and-research/",
+   "pages": [
+    "https://www.epfl.ch/labs/adher/teaching-and-research/"
+   ],
+   "last_checked_at": "2026-11-24T09:28:39+00:00",
+   "error": null
+  },
+  "enac-alice": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/",
+   "pages": [
+    "https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:11+00:00",
+   "error": null
+  },
+  "enac-ceat": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "pages": [
+    "https://www.epfl.ch/labs/ceat/projet-de-master/",
+    "https://www.epfl.ch/labs/ceat/en/master-project/",
+    "https://www.epfl.ch/labs/ceat/recherche-2/",
+    "https://www.epfl.ch/labs/ceat/page-131725-fr-html/",
+    "https://www.epfl.ch/labs/ceat/master-en-urbanisme/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:13+00:00",
+   "error": null
+  },
+  "enac-change": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/change/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/change/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:17+00:00",
+   "error": null
+  },
+  "enac-construct": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf",
+   "pages": [
+    "https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf"
+   ],
+   "last_checked_at": "2026-11-24T10:59:18+00:00",
+   "error": null
+  },
+  "enac-cryos": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/cryos/page-90725-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/cryos/page-90725-en-html/",
+    "https://www.epfl.ch/labs/cryos/page-109143-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T09:28:51+00:00",
+   "error": null
+  },
+  "enac-dc-lab": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/dc-lab/student-projects/",
+    "https://www.epfl.ch/labs/dc-lab/fr/projets-etudiant/",
+    "https://www.epfl.ch/labs/dc-lab/research-projects/",
+    "https://www.epfl.ch/labs/dc-lab/student-projects/diploma-thesis/",
+    "https://www.epfl.ch/labs/dc-lab/teaching/fall-semester/",
+    "https://www.epfl.ch/labs/dc-lab/spring-semester/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:21+00:00",
+   "error": null
+  },
+  "enac-eerl": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/https-infoscience-epfl-ch-searchlnenpeerlfcinfoscience-articlecinfoscience-reviewcinfoscience-thesiscinfoscience-workingpaperscinfoscience-proceedingscinfoscience-presentationcin/",
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/improving-the-payload-of-a-tethered-balloon/",
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/master-thesis-quantifying-aerosol-particles-concentration-variability-in-coastal-antarctica/",
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/warm-air-mass-intrusions-in-the-arctic/",
+    "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/analysis-of-bioaerosol-measurements-from-the-west-coast-of-greenland/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:27+00:00",
+   "error": null
+  },
+  "enac-eesd": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/eesd/all-student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/eesd/all-student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:36+00:00",
+   "error": null
+  },
+  "enac-eml": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/eml/page-20105-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/eml/page-20105-en-html/",
+    "https://www.epfl.ch/labs/eml/current-research-projects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:37+00:00",
+   "error": null
+  },
+  "enac-ethos": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ethos/ethos-student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/ethos/ethos-student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:39+00:00",
+   "error": null
+  },
+  "enac-far": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/far/position/",
+   "pages": [
+    "https://www.epfl.ch/labs/far/position/"
+   ],
+   "last_checked_at": "2026-11-24T09:29:00+00:00",
+   "error": null
+  },
+  "enac-gel": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gel/students-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/gel/students-projects/",
+    "https://www.epfl.ch/labs/gel/teaching-students-projects/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:40+00:00",
+   "error": null
+  },
+  "enac-gr-cel": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
+    "https://www.epfl.ch/labs/gr-cel/job-opening/",
+    "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/page-10580-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:41+00:00",
+   "error": null
+  },
+  "enac-gr-mec": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-mec/education/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-mec/education/",
+    "https://www.epfl.ch/labs/gr-mec/projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:29:07+00:00",
+   "error": null
+  },
+  "enac-gr-urbdemo": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/urbdemo/urbdemo/education/",
+   "pages": [
+    "https://www.epfl.ch/labs/urbdemo/urbdemo/education/",
+    "https://www.epfl.ch/labs/urbdemo/urbdemo/projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:29:10+00:00",
+   "error": null
+  },
+  "enac-hat": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hat/semester-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/hat/semester-projects/",
+    "https://www.epfl.ch/labs/hat/fr/projets-de-semestre/",
+    "https://www.epfl.ch/labs/hat/doctoral-research/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:46+00:00",
+   "error": null
+  },
+  "enac-herus": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+    "https://www.epfl.ch/labs/herus/index-html/projects/",
+    "https://www.epfl.ch/labs/herus/index-html/openings/",
+    "https://www.epfl.ch/labs/herus/wp-content/uploads/2026/07/ABM4ET_project_final.pdf"
+   ],
+   "last_checked_at": "2026-11-24T10:59:49+00:00",
+   "error": null
+  },
+  "enac-hitam": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/hitam/masters-projects/",
+    "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2023/",
+    "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2024/",
+    "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2025/",
+    "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2026/"
+   ],
+   "last_checked_at": "2026-11-24T10:59:53+00:00",
+   "error": null
+  },
+  "enac-hobel": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hobel/home-2/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/hobel/home-2/teaching/",
+    "https://www.epfl.ch/labs/hobel/home-2/research-projects/",
+    "https://www.epfl.ch/labs/hobel/semester-and-thesis-projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:29:17+00:00",
+   "error": null
+  },
+  "enac-homes": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/homes/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/homes/student-projects/",
+    "https://www.epfl.ch/labs/homes/fr/projets-etudiants/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:00+00:00",
+   "error": null
+  },
+  "enac-ibois": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ibois/jobs-semester-project/",
+   "pages": [
+    "https://www.epfl.ch/labs/ibois/jobs-semester-project/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:02+00:00",
+   "error": null
+  },
+  "enac-ice": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ice/ms-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/ice/ms-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:03+00:00",
+   "error": null
+  },
+  "enac-lab-u": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lab-u/page-144598-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/lab-u/page-144598-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T09:31:42+00:00",
+   "error": null
+  },
+  "enac-land": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/land/fr/master-thesis/",
+   "pages": [
+    "https://www.epfl.ch/labs/land/fr/master-thesis/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:04+00:00",
+   "error": null
+  },
+  "enac-lapi": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lapi/projects-for-students/",
+   "pages": [
+    "https://www.epfl.ch/labs/lapi/projects-for-students/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:05+00:00",
+   "error": null
+  },
+  "enac-lapis": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lapis/enseignement/",
+   "pages": [
+    "https://www.epfl.ch/labs/lapis/enseignement/",
+    "https://www.epfl.ch/labs/lapis/enseignement/projets-de-master/"
+   ],
+   "last_checked_at": "2026-11-24T09:31:48+00:00",
+   "error": null
+  },
+  "enac-lasig": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lasig/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lasig/teaching/",
+    "https://www.epfl.ch/labs/lasig/teaching/semasterprojects/"
+   ],
+   "last_checked_at": "2026-11-24T09:31:52+00:00",
+   "error": null
+  },
+  "enac-last": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/last/teaching/masters-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/last/teaching/masters-projects/",
+    "https://www.epfl.ch/labs/last/fr/index-fr-html/enseignement/projets-de-master/",
+    "https://www.epfl.ch/labs/last/index-html/distinctions-en/awards-masters-project/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:15+00:00",
+   "error": null
+  },
+  "enac-lasur": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lasur/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lasur/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:00+00:00",
+   "error": null
+  },
+  "enac-lch": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lch/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lch/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:18+00:00",
+   "error": null
+  },
+  "enac-lemr": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lemr/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lemr/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:04+00:00",
+   "error": null
+  },
+  "enac-lesc": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lesc/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lesc/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:19+00:00",
+   "error": null
+  },
+  "enac-leso-pb": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/leso/education/",
+   "pages": [
+    "https://www.epfl.ch/labs/leso/education/",
+    "https://www.epfl.ch/labs/leso/education/courses/",
+    "https://www.epfl.ch/labs/leso/education/phd/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:07+00:00",
+   "error": null
+  },
+  "enac-leure": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/leure/projets-de-semestre/",
+   "pages": [
+    "https://www.epfl.ch/labs/leure/projets-de-semestre/",
+    "https://www.epfl.ch/labs/leure/en/projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:22+00:00",
+   "error": null
+  },
+  "enac-lev": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lev/index-html/sie-project/",
+   "pages": [
+    "https://www.epfl.ch/labs/lev/index-html/sie-project/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:24+00:00",
+   "error": null
+  },
+  "enac-lgb": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lgb/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/lgb/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:13+00:00",
+   "error": null
+  },
+  "enac-lhe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lhe/enseignement/",
+   "pages": [
+    "https://www.epfl.ch/labs/lhe/enseignement/",
+    "https://www.epfl.ch/labs/lhe/a-propos/",
+    "https://www.epfl.ch/labs/lhe/enseignement/these-de-master/",
+    "https://www.epfl.ch/labs/lhe/enseignement/projets-detudiants/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:15+00:00",
+   "error": null
+  },
+  "enac-lif": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lif/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lif/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:17+00:00",
+   "error": null
+  },
+  "enac-lipid": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/",
+    "https://www.epfl.ch/labs/lipid/wp-content/uploads/2022/10/20221004-LIPID_MasterThesis_SpectralDiet_SH.pdf"
+   ],
+   "last_checked_at": "2026-11-24T11:00:28+00:00",
+   "error": null
+  },
+  "enac-lmmd": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lmd/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lmd/student-projects/",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/accelerating-geophysical-simulations-with-ai.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/digital-twin-simulation-of-rockfall-hazards.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/ai-characterization-of-internal-material-properties.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/experimental-investigation-of-architected-granular-materials.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/segregation-in-granular-flows.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/gnn-for-granular-mechanics.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/pino-for-solid-mechanics.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/frictional-instabilities-in-topologically-interlocked-structures.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/12/phase-field-modeling-of-fracture-of-architected-structural-materials.pdf",
+    "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/multiphysics-modeling-of-fault-gouge.pdf"
+   ],
+   "last_checked_at": "2026-11-24T11:00:30+00:00",
+   "error": null
+  },
+  "enac-lms": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
+    "https://www.epfl.ch/labs/lms/fr/stages-et-projets-etudiants-2/",
+    "https://www.epfl.ch/labs/lms/master-thesis-at-lms/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:42+00:00",
+   "error": null
+  },
+  "enac-lsms": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lsms/semester-and-master-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lsms/semester-and-master-projects/",
+    "https://www.epfl.ch/labs/lsms/semester-and-master-projects/all-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:00:45+00:00",
+   "error": null
+  },
+  "enac-lsr": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/Aerial_Aquatic_Multirotor_Project.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_MPC.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_Impinging.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/2026_0601_RyoKanno_SPINE_V2.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/student_proposal_sailmav_LR.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/02/Alex-Dunnett-_-EPFL-Student-Project-Proposal-AM.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/Aerial_Underwater_Module_Quagga_Mussel.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/1.Student-Project_Biodegradable-Motor_Kyung-Sub-Kim.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/2.Student-Project_Mushroom-Drone_Kyung-Sub-Kim.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/3.Student-Project_Plant-robot_Kyung-Sub-Kim.pdf",
+    "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/4.Student-Project_Biodegradable-Communication-Device_Kyung-Sub-Kim.pdf"
+   ],
+   "last_checked_at": "2026-11-24T11:00:47+00:00",
+   "error": null
+  },
+  "enac-lte": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lte/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lte/teaching/",
+    "https://www.epfl.ch/labs/lte/projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:26+00:00",
+   "error": null
+  },
+  "enac-ltqe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ltqe/page-73621-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/ltqe/page-73621-en-html/",
+    "https://www.epfl.ch/labs/ltqe/wp-content/uploads/2022/07/Semester_project1_fall_2022_LTQE_Urs_von_Gunten.pdf"
+   ],
+   "last_checked_at": "2026-11-24T11:01:00+00:00",
+   "error": null
+  },
+  "enac-luts": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/luts/semester-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/luts/semester-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:02+00:00",
+   "error": null
+  },
+  "enac-mace": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/mace/teaching/master-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/mace/teaching/master-projects/",
+    "https://www.epfl.ch/labs/mace/fr/enseignement/projets-de-maitrise/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:03+00:00",
+   "error": null
+  },
+  "enac-matr": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/matr/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/matr/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:05+00:00",
+   "error": null
+  },
+  "enac-mcs": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/",
+   "pages": [
+    "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:32+00:00",
+   "error": null
+  },
+  "enac-microbe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/microbe/student-project/",
+   "pages": [
+    "https://www.epfl.ch/labs/microbe/student-project/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:06+00:00",
+   "error": null
+  },
+  "enac-pal": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/pal/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/pal/open-positions/",
+    "https://www.epfl.ch/labs/pal/research-projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:35+00:00",
+   "error": null
+  },
+  "enac-perl": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/perl/perl-home/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/perl/perl-home/student-projects/",
+    "https://www.epfl.ch/labs/perl/fr/perl-fr/student-projects-fr/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:08+00:00",
+   "error": null
+  },
+  "enac-resslab": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/resslab/semester-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/resslab/semester-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:10+00:00",
+   "error": null
+  },
+  "enac-river": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/river/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/river/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:11+00:00",
+   "error": null
+  },
+  "enac-rpgl": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/rpgl/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/rpgl/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:41+00:00",
+   "error": null
+  },
+  "enac-sci-enac-as": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/",
+    "https://www.epfl.ch/labs/sci-enac-as/research/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:12+00:00",
+   "error": null
+  },
+  "enac-sense": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/sense/student-projects-2/",
+   "pages": [
+    "https://www.epfl.ch/labs/sense/student-projects-2/",
+    "https://www.epfl.ch/labs/sense/fr/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:14+00:00",
+   "error": null
+  },
+  "enac-soil": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/soil/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/soil/teaching/",
+    "https://www.epfl.ch/labs/soil/msc-and-sie-projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:32:47+00:00",
+   "error": null
+  },
+  "enac-streem": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/streem/student-projects/",
+    "https://www.epfl.ch/labs/streem/fr/projets-detudiant-e-s-2/",
+    "https://www.epfl.ch/labs/streem/wp-content/uploads/2026/08/Semester_project_proposal_Dunes.pdf",
+    "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/Semester_project_proposal.pdf",
+    "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/STREEM_project_DLRiverMorphology.pdf"
+   ],
+   "last_checked_at": "2026-11-24T11:01:17+00:00",
+   "error": null
+  },
+  "enac-sxl": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/sxl/education/",
+   "pages": [
+    "https://www.epfl.ch/labs/sxl/education/",
+    "https://www.epfl.ch/labs/sxl/job-openings/"
+   ],
+   "last_checked_at": "2026-11-24T09:33:01+00:00",
+   "error": null
+  },
+  "enac-thema": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/thema/teaching/masters-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/thema/teaching/masters-projects/",
+    "https://www.epfl.ch/labs/thema/research/",
+    "https://www.epfl.ch/labs/thema/enac-semester-project-unearthing-foundations/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:22+00:00",
+   "error": null
+  },
+  "enac-tpod": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/tpod/job-position/",
+   "pages": [
+    "https://www.epfl.ch/labs/tpod/job-position/",
+    "https://www.epfl.ch/labs/tpod/diploma-thesis/"
+   ],
+   "last_checked_at": "2026-11-24T09:33:06+00:00",
+   "error": null
+  },
+  "enac-urbes": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/urbes/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/urbes/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:26+00:00",
+   "error": null
+  },
+  "enac-weir": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/weir/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/weir/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:27+00:00",
+   "error": null
+  },
+  "enac-wire": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "pages": [
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/investigation-of-flow-development-in-thermally-stratified-turbulent-boundary-layers/",
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/wake-characteristics-of-a-wind-farm-sited-in-a-multiscale-rough-topography/",
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-forecast/",
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-optimization/",
+    "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-project-wind-tunnel/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:28+00:00",
+   "error": null
+  },
+  "sv-dangelolab": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/dangelo-lab/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/dangelo-lab/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:34+00:00",
+   "error": null
+  },
+  "sv-gr-fe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:35+00:00",
+   "error": null
+  },
+  "sv-gr-jaksic": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:36+00:00",
+   "error": null
+  },
+  "sv-gr-maynard": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-maynard/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-maynard/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:39:57+00:00",
+   "error": null
+  },
+  "sv-gr-paoli": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-paoli/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-paoli/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:39:59+00:00",
+   "error": null
+  },
+  "sv-gr-priestley": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-priestley/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-priestley/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:37+00:00",
+   "error": null
+  },
+  "sv-gr-schuhmacher": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:02+00:00",
+   "error": null
+  },
+  "sv-gr-westmann": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/westmann-lab/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/westmann-lab/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:04+00:00",
+   "error": null
+  },
+  "sv-hanahan-lab": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hanahan-lab/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/hanahan-lab/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:07+00:00",
+   "error": null
+  },
+  "sv-lgc": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lgc/index-html/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lgc/index-html/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:38+00:00",
+   "error": null
+  },
+  "sv-lisp": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:09+00:00",
+   "error": null
+  },
+  "sv-lmic": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/mckinney-lab/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/mckinney-lab/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:39+00:00",
+   "error": null
+  },
+  "sv-lnco": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lnco/student_projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lnco/student_projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:40+00:00",
+   "error": null
+  },
+  "sv-lnmc": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:13+00:00",
+   "error": null
+  },
+  "sv-lpsy": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lpsy/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lpsy/student-projects/",
+    "https://www.epfl.ch/labs/lpsy/research/overview/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:41+00:00",
+   "error": null
+  },
+  "sv-lsym": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lsym/393-2/",
+   "pages": [
+    "https://www.epfl.ch/labs/lsym/393-2/",
+    "https://www.epfl.ch/labs/lsym/studentprojects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:43+00:00",
+   "error": null
+  },
+  "sv-naef-lab": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
+    "https://www.epfl.ch/labs/naef-lab/page-34749-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:45+00:00",
+   "error": null
+  },
+  "sv-upablasser": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ablasserlab/openings/",
+   "pages": [
+    "https://www.epfl.ch/labs/ablasserlab/openings/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:19+00:00",
+   "error": null
+  },
+  "sv-upantanasijevic": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:22+00:00",
+   "error": null
+  },
+  "sv-upbitbol": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/bitbol-lab/join-us/",
+   "pages": [
+    "https://www.epfl.ch/labs/bitbol-lab/join-us/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:23+00:00",
+   "error": null
+  },
+  "sv-upblo": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:47+00:00",
+   "error": null
+  },
+  "sv-upbri": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/brisken-lab/studentsprojects/",
+   "pages": [
+    "https://www.epfl.ch/labs/brisken-lab/studentsprojects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:48+00:00",
+   "error": null
+  },
+  "sv-upcda": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:49+00:00",
+   "error": null
+  },
+  "sv-updalpe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lbm/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/lbm/teaching/",
+    "https://www.epfl.ch/labs/lbm/openings/",
+    "https://www.epfl.ch/labs/lbm/wp-content/uploads/2018/10/BSM-Syllabus-Final.pdf"
+   ],
+   "last_checked_at": "2026-11-24T09:40:29+00:00",
+   "error": null
+  },
+  "sv-updepalma": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:52+00:00",
+   "error": null
+  },
+  "sv-updepla": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/deplanckelab/open-position/",
+   "pages": [
+    "https://www.epfl.ch/labs/deplanckelab/open-position/",
+    "https://www.epfl.ch/labs/deplanckelab/masters-internship-projects/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:33+00:00",
+   "error": null
+  },
+  "sv-upgoemans": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/upgoemans/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/upgoemans/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:35+00:00",
+   "error": null
+  },
+  "sv-upgon": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:54+00:00",
+   "error": null
+  },
+  "sv-upgraeff": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/graefflab/index-html/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/graefflab/index-html/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:55+00:00",
+   "error": null
+  },
+  "sv-uphess": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+    "https://www.epfl.ch/labs/hessbellwald-lab/positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:40+00:00",
+   "error": null
+  },
+  "sv-uphuelsken": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:56+00:00",
+   "error": null
+  },
+  "sv-uphummel": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/hummel-lab/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/hummel-lab/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:57+00:00",
+   "error": null
+  },
+  "sv-upkim": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/upkim/join-us/",
+   "pages": [
+    "https://www.epfl.ch/labs/upkim/join-us/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:47+00:00",
+   "error": null
+  },
+  "sv-uplem": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/",
+   "pages": [
+    "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:58+00:00",
+   "error": null
+  },
+  "sv-uplin": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:50+00:00",
+   "error": null
+  },
+  "sv-upmccabe": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/mccabelab/positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/mccabelab/positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:53+00:00",
+   "error": null
+  },
+  "sv-upnavarro": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/navarro-lab/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/navarro-lab/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:40:55+00:00",
+   "error": null
+  },
+  "sv-upoates": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/",
+   "pages": [
+    "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/"
+   ],
+   "last_checked_at": "2026-11-24T11:01:59+00:00",
+   "error": null
+  },
+  "sv-uporicchio": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/oricchiolab/openings/",
+   "pages": [
+    "https://www.epfl.ch/labs/oricchiolab/openings/",
+    "https://www.epfl.ch/labs/oricchiolab/page-134955-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:02:00+00:00",
+   "error": null
+  },
+  "sv-uprad": {
+   "status": "error",
+   "projects_url": "https://www.epfl.ch/labs/radtke-lab/uprad-radtke-lab/master-projects/",
+   "pages": [],
+   "last_checked_at": "2026-11-24T11:02:02+00:00",
+   "error": "HTTP 404"
+  },
+  "sv-upramdya": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/ramdya-lab/available-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/ramdya-lab/available-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:02:03+00:00",
+   "error": null
+  },
+  "sv-upschoonjans": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:02:04+00:00",
+   "error": null
+  },
+  "sv-upschueder": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/schueder-lab/open-positions/",
+   "pages": [
+    "https://www.epfl.ch/labs/schueder-lab/open-positions/"
+   ],
+   "last_checked_at": "2026-11-24T09:41:03+00:00",
+   "error": null
+  },
+  "sv-upsuter": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/",
+   "pages": [
+    "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/"
+   ],
+   "last_checked_at": "2026-11-24T11:02:05+00:00",
+   "error": null
+  },
+  "sv-upthomae": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/thoma-lab/join-us/",
+   "pages": [
+    "https://www.epfl.ch/labs/thoma-lab/join-us/"
+   ],
+   "last_checked_at": "2026-11-24T09:41:06+00:00",
+   "error": null
+  },
+  "sv-upwaszak": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/upwaszak/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/upwaszak/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:41:08+00:00",
+   "error": null
+  },
+  "sv-upzenk": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/",
+   "pages": [
+    "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/"
+   ],
+   "last_checked_at": "2026-11-24T11:02:06+00:00",
+   "error": null
+  },
+  "sv-vdg": {
+   "status": "ok",
+   "projects_url": "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/",
+   "pages": [
+    "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/"
+   ],
+   "last_checked_at": "2026-11-24T09:41:13+00:00",
+   "error": null
   }
  },
  "pages": {
@@ -3529,6 +4651,36 @@
    "last_checked_at": "2026-11-23T13:48:20+00:00",
    "last_changed_at": "2026-11-23T10:50:09+00:00"
   },
+  "https://www.epfl.ch/labs/ablasserlab/openings/": {
+   "lab_ids": [
+    "sv-upablasser"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ablasserlab/openings/",
+   "content_hash": "031e852cef60e5616aaf31e61fff3c368abdc6217c88fbeae95a81160c159d16",
+   "text_chars": 1683,
+   "text_file": "917c5877adc0d50c2c7af824.txt",
+   "first_seen_at": "2026-11-24T09:40:19+00:00",
+   "last_checked_at": "2026-11-24T09:40:19+00:00",
+   "last_changed_at": "2026-11-24T09:40:19+00:00"
+  },
+  "https://www.epfl.ch/labs/adher/teaching-and-research/": {
+   "lab_ids": [
+    "enac-adher"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/adher/teaching-and-research/",
+   "content_hash": "519155c02a4aba5e2fe04200a6df35b60d72bb5bd93a796937761c57fd91c1f5",
+   "text_chars": 5224,
+   "text_file": "868d06bb50f3d66521b3b273.txt",
+   "first_seen_at": "2026-11-24T09:28:39+00:00",
+   "last_checked_at": "2026-11-24T09:28:39+00:00",
+   "last_changed_at": "2026-11-24T09:28:39+00:00"
+  },
   "https://www.epfl.ch/labs/alchemy/available-projects/": {
    "lab_ids": [
     "sti-alchemy"
@@ -3573,6 +4725,36 @@
    "first_seen_at": "2026-11-23T10:55:39+00:00",
    "last_checked_at": "2026-11-23T13:53:19+00:00",
    "last_changed_at": "2026-11-23T10:55:39+00:00"
+  },
+  "https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/": {
+   "lab_ids": [
+    "enac-alice"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/",
+   "content_hash": "0cfd8e5bed7b7c8bee54769126da27289bf485bf50ef9664644c7ec7433c5a71",
+   "text_chars": 10581,
+   "text_file": "09e518fff09484c82983767c.txt",
+   "first_seen_at": "2026-11-24T10:59:11+00:00",
+   "last_checked_at": "2026-11-24T10:59:11+00:00",
+   "last_changed_at": "2026-11-24T10:59:11+00:00"
+  },
+  "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/": {
+   "lab_ids": [
+    "sv-upantanasijevic"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/",
+   "content_hash": "822bf92011c57a03805b1c9e4c73d2afcbae83a184037b2181a4df41e0ee060c",
+   "text_chars": 1439,
+   "text_file": "b1b14d139f60339f557702c7.txt",
+   "first_seen_at": "2026-11-24T09:40:22+00:00",
+   "last_checked_at": "2026-11-24T09:40:22+00:00",
+   "last_changed_at": "2026-11-24T09:40:22+00:00"
   },
   "https://www.epfl.ch/labs/aqua/jobs/": {
    "lab_ids": [
@@ -3829,6 +5011,21 @@
    "last_checked_at": "2026-11-24T09:46:11+00:00",
    "last_changed_at": "2026-11-24T09:46:11+00:00"
   },
+  "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/": {
+   "lab_ids": [
+    "sv-lisp"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/",
+   "content_hash": "48f85e41d3d39acb77d9390c33d3914d8116502ad952c0ea8cb567d17ac05563",
+   "text_chars": 84,
+   "text_file": "f41d77fa6e74b9faab9b4a61.txt",
+   "first_seen_at": "2026-11-24T09:40:09+00:00",
+   "last_checked_at": "2026-11-24T09:40:09+00:00",
+   "last_changed_at": "2026-11-24T09:40:09+00:00"
+  },
   "https://www.epfl.ch/labs/ban/research/": {
    "lab_ids": [
     "cdm-ban"
@@ -3979,6 +5176,36 @@
    "last_checked_at": "2026-11-24T09:46:26+00:00",
    "last_changed_at": "2026-11-24T09:46:26+00:00"
   },
+  "https://www.epfl.ch/labs/bitbol-lab/join-us/": {
+   "lab_ids": [
+    "sv-upbitbol"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/bitbol-lab/join-us/",
+   "content_hash": "1407e8d828af1bb9acb2679b92094fae1e7ee48014567b3ca0347792a5efead1",
+   "text_chars": 1647,
+   "text_file": "9b8ecb75f39864b20cc12b39.txt",
+   "first_seen_at": "2026-11-24T09:40:23+00:00",
+   "last_checked_at": "2026-11-24T09:40:23+00:00",
+   "last_changed_at": "2026-11-24T09:40:23+00:00"
+  },
+  "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/": {
+   "lab_ids": [
+    "sv-upblo"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/",
+   "content_hash": "61b9bc8b5bbbcdb15d95619234efafa9d4c32425569f817eb50b551290d698bb",
+   "text_chars": 1707,
+   "text_file": "915fb1db093e8057266f6498.txt",
+   "first_seen_at": "2026-11-24T11:01:47+00:00",
+   "last_checked_at": "2026-11-24T11:01:47+00:00",
+   "last_changed_at": "2026-11-24T11:01:47+00:00"
+  },
   "https://www.epfl.ch/labs/bnms/home/students-projects/": {
    "lab_ids": [
     "sti-bnms"
@@ -4009,6 +5236,21 @@
    "last_checked_at": "2026-11-24T09:46:29+00:00",
    "last_changed_at": "2026-11-24T09:46:29+00:00"
   },
+  "https://www.epfl.ch/labs/brisken-lab/studentsprojects/": {
+   "lab_ids": [
+    "sv-upbri"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/brisken-lab/studentsprojects/",
+   "content_hash": "a82ec53b0f89ec7be9525b857c0d06e045f01be68b902ecb0f8b14c7293942a2",
+   "text_chars": 8008,
+   "text_file": "0dc81045d5a1db712f52aef6.txt",
+   "first_seen_at": "2026-11-24T11:01:48+00:00",
+   "last_checked_at": "2026-11-24T11:01:48+00:00",
+   "last_changed_at": "2026-11-24T11:01:48+00:00"
+  },
   "https://www.epfl.ch/labs/cam-x/8-2/student-projects/": {
    "lab_ids": [
     "sti-cam-x"
@@ -4023,6 +5265,96 @@
    "first_seen_at": "2026-11-24T09:46:30+00:00",
    "last_checked_at": "2026-11-24T09:46:30+00:00",
    "last_changed_at": "2026-11-24T09:46:30+00:00"
+  },
+  "https://www.epfl.ch/labs/ceat/en/master-project/": {
+   "lab_ids": [
+    "enac-ceat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "link_text": "EN",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ceat/en/master-project/",
+   "content_hash": "204290a3586095923a6c029aa5ec2196a33273799e7fdfc41a3785846cb4a504",
+   "text_chars": 2691,
+   "text_file": "3620364559d7638598bd028a.txt",
+   "first_seen_at": "2026-11-24T10:59:13+00:00",
+   "last_checked_at": "2026-11-24T10:59:13+00:00",
+   "last_changed_at": "2026-11-24T10:59:13+00:00"
+  },
+  "https://www.epfl.ch/labs/ceat/master-en-urbanisme/": {
+   "lab_ids": [
+    "enac-ceat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "link_text": "Master en urbanisme",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ceat/master-en-urbanisme/",
+   "content_hash": "8b237bebddb1c453bad0f4bfe4933d51714837c14aeb923653231582fe4e55fa",
+   "text_chars": 2784,
+   "text_file": "e670a9ac688c0aafd34ece80.txt",
+   "first_seen_at": "2026-11-24T10:59:16+00:00",
+   "last_checked_at": "2026-11-24T10:59:16+00:00",
+   "last_changed_at": "2026-11-24T10:59:16+00:00"
+  },
+  "https://www.epfl.ch/labs/ceat/page-131725-fr-html/": {
+   "lab_ids": [
+    "enac-ceat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "link_text": "Projets de master réalisés",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ceat/page-131725-fr-html/",
+   "content_hash": "c330d04c91e309994354f4e3471852170bc6617109eb329b5a1e9eeadd0e94e6",
+   "text_chars": 10945,
+   "text_file": "3837744ab0869478912d52b7.txt",
+   "first_seen_at": "2026-11-24T10:59:15+00:00",
+   "last_checked_at": "2026-11-24T10:59:15+00:00",
+   "last_changed_at": "2026-11-24T10:59:15+00:00"
+  },
+  "https://www.epfl.ch/labs/ceat/projet-de-master/": {
+   "lab_ids": [
+    "enac-ceat"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "content_hash": "7bdc0b3c01b9c45c047576414d453c8063cae9e5aadcbee25e91079203179aa1",
+   "text_chars": 2733,
+   "text_file": "f4ce9248a974a0d84eb5755d.txt",
+   "first_seen_at": "2026-11-24T10:59:13+00:00",
+   "last_checked_at": "2026-11-24T10:59:13+00:00",
+   "last_changed_at": "2026-11-24T10:59:13+00:00"
+  },
+  "https://www.epfl.ch/labs/ceat/recherche-2/": {
+   "lab_ids": [
+    "enac-ceat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
+   "link_text": "PROJETS DE RECHERCHE",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ceat/recherche-2/",
+   "content_hash": "f4a1745286d3e60ed5289aa83d6e3e5b2c952534637930e270a56a368c5e37b5",
+   "text_chars": 2201,
+   "text_file": "1680e424ca013572884f304f.txt",
+   "first_seen_at": "2026-11-24T10:59:14+00:00",
+   "last_checked_at": "2026-11-24T10:59:14+00:00",
+   "last_changed_at": "2026-11-24T10:59:14+00:00"
+  },
+  "https://www.epfl.ch/labs/change/student-projects/": {
+   "lab_ids": [
+    "enac-change"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/change/student-projects/",
+   "content_hash": "1bb6c49f00595892b9649fb203601f4834d27857cebd6ca77a56f98466143a76",
+   "text_chars": 15006,
+   "text_file": "092cdf7b72553a93c0354fd4.txt",
+   "first_seen_at": "2026-11-24T10:59:17+00:00",
+   "last_checked_at": "2026-11-24T10:59:17+00:00",
+   "last_changed_at": "2026-11-24T10:59:17+00:00"
   },
   "https://www.epfl.ch/labs/chemina/active-projects/": {
    "lab_ids": [
@@ -4144,6 +5476,36 @@
    "last_checked_at": "2026-11-24T09:46:37+00:00",
    "last_changed_at": "2026-11-24T09:46:37+00:00"
   },
+  "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/": {
+   "lab_ids": [
+    "sv-upcda"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/",
+   "content_hash": "ba655dba7f455c4cd0178c824ff1cd386f7a25f6568f521e02159a51ad82bfdf",
+   "text_chars": 1953,
+   "text_file": "f692ea19f44e741cd092c9ea.txt",
+   "first_seen_at": "2026-11-24T11:01:49+00:00",
+   "last_checked_at": "2026-11-24T11:01:49+00:00",
+   "last_changed_at": "2026-11-24T11:01:49+00:00"
+  },
+  "https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf": {
+   "lab_ids": [
+    "enac-construct"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf",
+   "content_hash": "12f966db07f46e033d78e959530e5d4c07d3726059ae752fa9fa02f3e64d1f4e",
+   "text_chars": 2988,
+   "text_file": "c2465480284f42511aad34f6.txt",
+   "first_seen_at": "2026-11-24T10:59:18+00:00",
+   "last_checked_at": "2026-11-24T10:59:18+00:00",
+   "last_changed_at": "2026-11-24T10:59:18+00:00"
+  },
   "https://www.epfl.ch/labs/cosmo/index-html/page-109476-en-html/": {
    "lab_ids": [
     "sti-cosmo"
@@ -4233,6 +5595,36 @@
    "first_seen_at": "2026-11-24T09:46:43+00:00",
    "last_checked_at": "2026-11-24T09:46:43+00:00",
    "last_changed_at": "2026-11-24T09:46:43+00:00"
+  },
+  "https://www.epfl.ch/labs/cryos/page-109143-en-html/": {
+   "lab_ids": [
+    "enac-cryos"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/cryos/page-90725-en-html/",
+   "link_text": "Master & SIE Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/cryos/page-109143-en-html/",
+   "content_hash": "95200f19a1ecea21e8812cb35636c27e61f971b6fc01bfa15f2bb5e27d27758c",
+   "text_chars": 7529,
+   "text_file": "a4e2a95ba91752281ebe1c60.txt",
+   "first_seen_at": "2026-11-24T10:59:20+00:00",
+   "last_checked_at": "2026-11-24T10:59:20+00:00",
+   "last_changed_at": "2026-11-24T10:59:20+00:00"
+  },
+  "https://www.epfl.ch/labs/cryos/page-90725-en-html/": {
+   "lab_ids": [
+    "enac-cryos"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/cryos/page-90725-en-html/",
+   "content_hash": "e55781fa8f056b1879a295306a11f4c77b9bd54b50ef673c5276f859e4e901bf",
+   "text_chars": 932,
+   "text_file": "c5771ae65f71820ea680a73d.txt",
+   "first_seen_at": "2026-11-24T09:28:51+00:00",
+   "last_checked_at": "2026-11-24T09:28:51+00:00",
+   "last_changed_at": "2026-11-24T09:28:51+00:00"
   },
   "https://www.epfl.ch/labs/csft/research/": {
    "lab_ids": [
@@ -4444,6 +5836,21 @@
    "last_checked_at": "2026-11-23T13:48:53+00:00",
    "last_changed_at": "2026-11-23T10:45:46+00:00"
   },
+  "https://www.epfl.ch/labs/dangelo-lab/open-positions/": {
+   "lab_ids": [
+    "sv-dangelolab"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dangelo-lab/open-positions/",
+   "content_hash": "3a2ca903e9d01853ec359c058302646af7827925e5d4664dfffaf4c52d1649f0",
+   "text_chars": 2416,
+   "text_file": "f48eb4732f4e9f14d51f21a6.txt",
+   "first_seen_at": "2026-11-24T11:01:34+00:00",
+   "last_checked_at": "2026-11-24T11:01:34+00:00",
+   "last_changed_at": "2026-11-24T11:01:34+00:00"
+  },
   "https://www.epfl.ch/labs/data/teaching/student-projects/": {
    "lab_ids": [
     "ic-data"
@@ -4458,6 +5865,96 @@
    "first_seen_at": "2026-11-23T10:50:38+00:00",
    "last_checked_at": "2026-11-23T13:49:06+00:00",
    "last_changed_at": "2026-11-23T10:50:38+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/fr/projets-etudiant/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/fr/projets-etudiant/",
+   "content_hash": "39c448ca69f9693c99c246de7f20902bad331ca07deb30f0c889774893895a37",
+   "text_chars": 60,
+   "text_file": "52c1380ec4c457a5167af575.txt",
+   "first_seen_at": "2026-11-24T10:59:21+00:00",
+   "last_checked_at": "2026-11-24T10:59:21+00:00",
+   "last_changed_at": "2026-11-24T10:59:21+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/research-projects/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "link_text": "Research projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/research-projects/",
+   "content_hash": "b1c14830a4803c680b507c60c8a36bdffddd8c8e56301117f21ca736fd8bef2d",
+   "text_chars": 100,
+   "text_file": "58b2e3e5e5697a95bc6eae50.txt",
+   "first_seen_at": "2026-11-24T10:59:22+00:00",
+   "last_checked_at": "2026-11-24T10:59:22+00:00",
+   "last_changed_at": "2026-11-24T10:59:22+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/spring-semester/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "link_text": "Spring Semester / The city as a house",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/spring-semester/",
+   "content_hash": "c5e8e3eb3ad2368bab88385b2f45bbbb3fa9178fb24aa99e94b3eb75e19eaae7",
+   "text_chars": 3159,
+   "text_file": "47d7b300c6da11dc8ae12eb0.txt",
+   "first_seen_at": "2026-11-24T10:59:25+00:00",
+   "last_checked_at": "2026-11-24T10:59:25+00:00",
+   "last_changed_at": "2026-11-24T10:59:25+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/student-projects/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "content_hash": "91200ee4917ea4e792242aaef833bd0bf6cb2fb329b5499cc3d8f371f35394a7",
+   "text_chars": 614,
+   "text_file": "920f59213b9ebedadd840c4d.txt",
+   "first_seen_at": "2026-11-24T10:59:21+00:00",
+   "last_checked_at": "2026-11-24T10:59:21+00:00",
+   "last_changed_at": "2026-11-24T10:59:21+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/student-projects/diploma-thesis/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "link_text": "Diploma Thesis",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/student-projects/diploma-thesis/",
+   "content_hash": "11072aaf416d4c9899d69939e17d49d0bb3c8edc4c47a6c4d9b817feb8053bd6",
+   "text_chars": 4031,
+   "text_file": "a88ee3c38a85695177052152.txt",
+   "first_seen_at": "2026-11-24T10:59:23+00:00",
+   "last_checked_at": "2026-11-24T10:59:23+00:00",
+   "last_changed_at": "2026-11-24T10:59:23+00:00"
+  },
+  "https://www.epfl.ch/labs/dc-lab/teaching/fall-semester/": {
+   "lab_ids": [
+    "enac-dc-lab"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
+   "link_text": "Fall semester / The house as a city",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/dc-lab/teaching/fall-semester/",
+   "content_hash": "253ac75e2ac5fd576cf463b541c3d81e7ed0df1acd4008eadb1b1698e8bcc541",
+   "text_chars": 3002,
+   "text_file": "3a5885f64df30aaaf8737463.txt",
+   "first_seen_at": "2026-11-24T10:59:25+00:00",
+   "last_checked_at": "2026-11-24T10:59:25+00:00",
+   "last_changed_at": "2026-11-24T10:59:25+00:00"
   },
   "https://www.epfl.ch/labs/dcml/open-positions/students/": {
    "lab_ids": [
@@ -4638,6 +6135,51 @@
    "first_seen_at": "2026-11-23T10:50:48+00:00",
    "last_checked_at": "2026-11-23T13:49:18+00:00",
    "last_changed_at": "2026-11-23T10:50:48+00:00"
+  },
+  "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/": {
+   "lab_ids": [
+    "sv-updepalma"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/",
+   "content_hash": "56a0f9b67e6488c6e24051cf3bcae3e4bebc30a793bf8b6ec87a9b4176cc1bed",
+   "text_chars": 541,
+   "text_file": "bf50dafc7cc632e496f367a5.txt",
+   "first_seen_at": "2026-11-24T11:01:52+00:00",
+   "last_checked_at": "2026-11-24T11:01:52+00:00",
+   "last_changed_at": "2026-11-24T11:01:52+00:00"
+  },
+  "https://www.epfl.ch/labs/deplanckelab/masters-internship-projects/": {
+   "lab_ids": [
+    "sv-updepla"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/deplanckelab/open-position/",
+   "link_text": "Master’s & internship projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/deplanckelab/masters-internship-projects/",
+   "content_hash": "1539bc0c20a19c308d77437edfa2dbb6ae1307e7641dd03fd0d45aa859c603da",
+   "text_chars": 2498,
+   "text_file": "1ccd21264a774e7f5b851aca.txt",
+   "first_seen_at": "2026-11-24T11:01:53+00:00",
+   "last_checked_at": "2026-11-24T11:01:53+00:00",
+   "last_changed_at": "2026-11-24T11:01:53+00:00"
+  },
+  "https://www.epfl.ch/labs/deplanckelab/open-position/": {
+   "lab_ids": [
+    "sv-updepla"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/deplanckelab/open-position/",
+   "content_hash": "0e79c2edcafaf17edd8e075a85e12373fcb3a5691d5e2bbafeff3810a537e5cc",
+   "text_chars": 1542,
+   "text_file": "8eab104856587020c74fb95d.txt",
+   "first_seen_at": "2026-11-24T09:40:33+00:00",
+   "last_checked_at": "2026-11-24T09:40:33+00:00",
+   "last_changed_at": "2026-11-24T09:40:33+00:00"
   },
   "https://www.epfl.ch/labs/desl/education/students-projects/": {
    "lab_ids": [
@@ -5449,6 +6991,111 @@
    "last_checked_at": "2026-11-24T09:47:00+00:00",
    "last_changed_at": "2026-11-24T09:47:00+00:00"
   },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/https-infoscience-epfl-ch-searchlnenpeerlfcinfoscience-articlecinfoscience-reviewcinfoscience-thesiscinfoscience-workingpaperscinfoscience-proceedingscinfoscience-presentationcin/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "link_text": "Publications",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/https-infoscience-epfl-ch-searchlnenpeerlfcinfoscience-articlecinfoscience-reviewcinfoscience-thesiscinfoscience-workingpaperscinfoscience-proceedingscinfoscience-presentationcin/",
+   "content_hash": "265008e58ea749a25a3c19f4e51ace68ecc78463d194bba26538697402bc7910",
+   "text_chars": 48490,
+   "text_file": "3c16f5925ff91259e6085f71.txt",
+   "first_seen_at": "2026-11-24T10:59:27+00:00",
+   "last_checked_at": "2026-11-24T10:59:27+00:00",
+   "last_changed_at": "2026-11-24T10:59:27+00:00"
+  },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "content_hash": "90657b9669df77240782429da8aa3156df6a83225368e8e14bc2b22d2649ab1a",
+   "text_chars": 926,
+   "text_file": "d1a951aa0fa289bcec4d2c8f.txt",
+   "first_seen_at": "2026-11-24T10:59:27+00:00",
+   "last_checked_at": "2026-11-24T10:59:27+00:00",
+   "last_changed_at": "2026-11-24T10:59:27+00:00"
+  },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/analysis-of-bioaerosol-measurements-from-the-west-coast-of-greenland/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/analysis-of-bioaerosol-measurements-from-the-west-coast-of-greenland/",
+   "content_hash": "6131a9a1e097259e6a31f11f2accf8710e9f53d13d18038decfbfbfe8e172b6d",
+   "text_chars": 1637,
+   "text_file": "76a03ce1a59e4e89a2d24bd8.txt",
+   "first_seen_at": "2026-11-24T10:59:33+00:00",
+   "last_checked_at": "2026-11-24T10:59:33+00:00",
+   "last_changed_at": "2026-11-24T10:59:33+00:00"
+  },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/improving-the-payload-of-a-tethered-balloon/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "link_text": "Improving the payload of a tethered balloon",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/improving-the-payload-of-a-tethered-balloon/",
+   "content_hash": "2c26e62b2fefe57b02eef676f0b4267f57f0ebf88ab13cffa85ab173ed5b0b1a",
+   "text_chars": 1274,
+   "text_file": "a874cca182f59080718d76be.txt",
+   "first_seen_at": "2026-11-24T10:59:29+00:00",
+   "last_checked_at": "2026-11-24T10:59:29+00:00",
+   "last_changed_at": "2026-11-24T10:59:29+00:00"
+  },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/master-thesis-quantifying-aerosol-particles-concentration-variability-in-coastal-antarctica/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "link_text": "Project: Processing aerosol particles concentration data from airborne measurements in coastal Antarctica",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/master-thesis-quantifying-aerosol-particles-concentration-variability-in-coastal-antarctica/",
+   "content_hash": "b0fe3a453ea1aabbc33d7b259450056b6cd7f9b4c53a128bdc4893d4b82b59be",
+   "text_chars": 1454,
+   "text_file": "dd80710820618ce1f51311a2.txt",
+   "first_seen_at": "2026-11-24T10:59:29+00:00",
+   "last_checked_at": "2026-11-24T10:59:29+00:00",
+   "last_changed_at": "2026-11-24T10:59:29+00:00"
+  },
+  "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/warm-air-mass-intrusions-in-the-arctic/": {
+   "lab_ids": [
+    "enac-eerl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
+   "link_text": "Warm air mass intrusions in the Arctic",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/warm-air-mass-intrusions-in-the-arctic/",
+   "content_hash": "4ab46c5096bf3a715d99cb900a9e206f232984d0df27d14b4720783550c8d195",
+   "text_chars": 2119,
+   "text_file": "8470e33ac54fe67cd262f99b.txt",
+   "first_seen_at": "2026-11-24T10:59:31+00:00",
+   "last_checked_at": "2026-11-24T10:59:31+00:00",
+   "last_changed_at": "2026-11-24T10:59:31+00:00"
+  },
+  "https://www.epfl.ch/labs/eesd/all-student-projects/": {
+   "lab_ids": [
+    "enac-eesd"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eesd/all-student-projects/",
+   "content_hash": "6035af68ea3afcc02119eb9b9931a71b3bd94263040644ba52c33a5d71919335",
+   "text_chars": 25150,
+   "text_file": "c49ee57a958f5c593bdde573.txt",
+   "first_seen_at": "2026-11-24T10:59:36+00:00",
+   "last_checked_at": "2026-11-24T10:59:36+00:00",
+   "last_changed_at": "2026-11-24T10:59:36+00:00"
+  },
   "https://www.epfl.ch/labs/emc/education/projects/projects-bachelor/": {
    "lab_ids": [
     "sti-emc-lab"
@@ -5508,6 +7155,36 @@
    "first_seen_at": "2026-11-24T09:47:02+00:00",
    "last_checked_at": "2026-11-24T09:47:02+00:00",
    "last_changed_at": "2026-11-24T09:47:02+00:00"
+  },
+  "https://www.epfl.ch/labs/eml/current-research-projects/": {
+   "lab_ids": [
+    "enac-eml"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/eml/page-20105-en-html/",
+   "link_text": "Current Research Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eml/current-research-projects/",
+   "content_hash": "cb3cf8e1593f699adf88192312ed7f90bb58d4a9ec109024f80aa63ce500cdaf",
+   "text_chars": 177,
+   "text_file": "ca66dae44c25d7d42cb16c6d.txt",
+   "first_seen_at": "2026-11-24T10:59:38+00:00",
+   "last_checked_at": "2026-11-24T10:59:38+00:00",
+   "last_changed_at": "2026-11-24T10:59:38+00:00"
+  },
+  "https://www.epfl.ch/labs/eml/page-20105-en-html/": {
+   "lab_ids": [
+    "enac-eml"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/eml/page-20105-en-html/",
+   "content_hash": "844cd05d48f684edb97b7a8ab6e83ce03a77b7546db702e3a045d2dab79cab9f",
+   "text_chars": 4746,
+   "text_file": "aaafc06725aea68bdaf6e19b.txt",
+   "first_seen_at": "2026-11-24T10:59:37+00:00",
+   "last_checked_at": "2026-11-24T10:59:37+00:00",
+   "last_changed_at": "2026-11-24T10:59:37+00:00"
   },
   "https://www.epfl.ch/labs/emplus/projects/": {
    "lab_ids": [
@@ -5644,6 +7321,51 @@
    "last_checked_at": "2026-11-24T09:47:09+00:00",
    "last_changed_at": "2026-11-24T09:47:09+00:00"
   },
+  "https://www.epfl.ch/labs/ethos/ethos-student-projects/": {
+   "lab_ids": [
+    "enac-ethos"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ethos/ethos-student-projects/",
+   "content_hash": "173a04115c5f8e9acd5765c39f333a61643e4f8b8d2d4df6a02dfcac905700ec",
+   "text_chars": 10182,
+   "text_file": "14d6c47bbf83c282737f7c7d.txt",
+   "first_seen_at": "2026-11-24T10:59:39+00:00",
+   "last_checked_at": "2026-11-24T10:59:39+00:00",
+   "last_changed_at": "2026-11-24T10:59:39+00:00"
+  },
+  "https://www.epfl.ch/labs/far/position/": {
+   "lab_ids": [
+    "enac-far"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/far/position/",
+   "content_hash": "c30808a7da722d660f35a61091056b54cf633630f6d45e90e1b004566b29f76c",
+   "text_chars": 367,
+   "text_file": "e15e55a299f8eb0b59665621.txt",
+   "first_seen_at": "2026-11-24T09:29:00+00:00",
+   "last_checked_at": "2026-11-24T09:29:00+00:00",
+   "last_changed_at": "2026-11-24T09:29:00+00:00"
+  },
+  "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/": {
+   "lab_ids": [
+    "sv-gr-fe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/",
+   "content_hash": "e8000b66fd74c41a00caaf5b2c5c8e78f351d56ffc49ed367c6a127b955c57ee",
+   "text_chars": 4782,
+   "text_file": "8dc6e9aff7f8796d43b0b694.txt",
+   "first_seen_at": "2026-11-24T11:01:35+00:00",
+   "last_checked_at": "2026-11-24T11:01:35+00:00",
+   "last_changed_at": "2026-11-24T11:01:35+00:00"
+  },
   "https://www.epfl.ch/labs/fimap/page-122118-en-html/": {
    "lab_ids": [
     "sti-fimap"
@@ -5763,6 +7485,36 @@
    "first_seen_at": "2026-11-23T10:51:17+00:00",
    "last_checked_at": "2026-11-23T13:49:45+00:00",
    "last_changed_at": "2026-11-23T10:51:17+00:00"
+  },
+  "https://www.epfl.ch/labs/gel/students-projects/": {
+   "lab_ids": [
+    "enac-gel"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gel/students-projects/",
+   "content_hash": "ed0bdc01a2019d71ea503710c419c6484cf76166f609a0c6968663c94d3b433a",
+   "text_chars": 4363,
+   "text_file": "85cff61824bbd372936e884e.txt",
+   "first_seen_at": "2026-11-24T10:59:40+00:00",
+   "last_checked_at": "2026-11-24T10:59:40+00:00",
+   "last_changed_at": "2026-11-24T10:59:40+00:00"
+  },
+  "https://www.epfl.ch/labs/gel/teaching-students-projects/": {
+   "lab_ids": [
+    "enac-gel"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/gel/students-projects/",
+   "link_text": "Teaching",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gel/teaching-students-projects/",
+   "content_hash": "a2952ccd1d96367da67caa438aa70f3025156a4d4a749f7826740b0b22fff401",
+   "text_chars": 2700,
+   "text_file": "cab681ac3e4f63c6c604a514.txt",
+   "first_seen_at": "2026-11-24T09:29:04+00:00",
+   "last_checked_at": "2026-11-24T09:29:04+00:00",
+   "last_changed_at": "2026-11-24T09:29:04+00:00"
   },
   "https://www.epfl.ch/labs/gem/research-and-development-projects/": {
    "lab_ids": [
@@ -6169,6 +7921,171 @@
    "last_checked_at": "2026-11-24T09:38:26+00:00",
    "last_changed_at": "2026-11-24T09:38:26+00:00"
   },
+  "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/": {
+   "lab_ids": [
+    "sv-upgon"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/",
+   "content_hash": "3fd93b11ef84dfecc886168e420c992556ac63bb20d0ea9231db4bc5bc6d5ab2",
+   "text_chars": 3000,
+   "text_file": "49d4a515bd72561c0196bd2f.txt",
+   "first_seen_at": "2026-11-24T11:01:54+00:00",
+   "last_checked_at": "2026-11-24T11:01:54+00:00",
+   "last_changed_at": "2026-11-24T11:01:54+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-cel/job-opening/": {
+   "lab_ids": [
+    "enac-gr-cel"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
+   "link_text": "MSc projects & Job opening",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-cel/job-opening/",
+   "content_hash": "5fb64cf93c72aa3bc0af042b60fc4de3f66aa80a56760e94870fe0ab53248e28",
+   "text_chars": 671,
+   "text_file": "44e6713345c4034e4c9b5c79.txt",
+   "first_seen_at": "2026-11-24T10:59:42+00:00",
+   "last_checked_at": "2026-11-24T10:59:42+00:00",
+   "last_changed_at": "2026-11-24T10:59:42+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/": {
+   "lab_ids": [
+    "enac-gr-cel"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
+   "content_hash": "b6d12156b8d35e874e80d67d0618676de026618a66660bc1e7d74c26c1ec687e",
+   "text_chars": 142,
+   "text_file": "24e4fb28dd66d3382267935d.txt",
+   "first_seen_at": "2026-11-24T10:59:41+00:00",
+   "last_checked_at": "2026-11-24T10:59:41+00:00",
+   "last_changed_at": "2026-11-24T10:59:41+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/page-10580-en-html/": {
+   "lab_ids": [
+    "enac-gr-cel"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
+   "link_text": "Student Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/page-10580-en-html/",
+   "content_hash": "ed2ff154c34ba24eda04c150280e42cccce3996141ed58a5db2f638720e0b4a5",
+   "text_chars": 825,
+   "text_file": "439f1be97f939e5666642460.txt",
+   "first_seen_at": "2026-11-24T10:59:42+00:00",
+   "last_checked_at": "2026-11-24T10:59:42+00:00",
+   "last_changed_at": "2026-11-24T10:59:42+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-maynard/open-positions/": {
+   "lab_ids": [
+    "sv-gr-maynard"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-maynard/open-positions/",
+   "content_hash": "f44aa59c6a3563ee040c1d0ea28e6b2c802c01a3eff16a5a91e826a1001db61b",
+   "text_chars": 2529,
+   "text_file": "c971fd626ca7faa378c4027c.txt",
+   "first_seen_at": "2026-11-24T09:39:57+00:00",
+   "last_checked_at": "2026-11-24T09:39:57+00:00",
+   "last_changed_at": "2026-11-24T09:39:57+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-mec/education/": {
+   "lab_ids": [
+    "enac-gr-mec"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-mec/education/",
+   "content_hash": "38d004cc6bd414c245dce52168a9452bedd75c66b0ba6d5204cdd3f555574c54",
+   "text_chars": 2985,
+   "text_file": "e7fb81ca5857be68b8d4842f.txt",
+   "first_seen_at": "2026-11-24T09:29:07+00:00",
+   "last_checked_at": "2026-11-24T09:29:07+00:00",
+   "last_changed_at": "2026-11-24T09:29:07+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-mec/projects/": {
+   "lab_ids": [
+    "enac-gr-mec"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/gr-mec/education/",
+   "link_text": "Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-mec/projects/",
+   "content_hash": "e73bc246f72d843e77c037eb1e01a5fe0d35af9d9d0785d7bb524990f211b04b",
+   "text_chars": 2070,
+   "text_file": "55700f619138f5330eb8792b.txt",
+   "first_seen_at": "2026-11-24T10:59:44+00:00",
+   "last_checked_at": "2026-11-24T10:59:44+00:00",
+   "last_changed_at": "2026-11-24T10:59:44+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-paoli/open-positions/": {
+   "lab_ids": [
+    "sv-gr-paoli"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-paoli/open-positions/",
+   "content_hash": "1a5275ce9308cc2d541846f2e907eff89262eb856389c13b2191e91c45d89f27",
+   "text_chars": 880,
+   "text_file": "311786c3ed264e8e2524cdf9.txt",
+   "first_seen_at": "2026-11-24T09:39:59+00:00",
+   "last_checked_at": "2026-11-24T09:39:59+00:00",
+   "last_changed_at": "2026-11-24T09:39:59+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-priestley/student-projects/": {
+   "lab_ids": [
+    "sv-gr-priestley"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-priestley/student-projects/",
+   "content_hash": "08ce3514b0e031dff40defd5dc4dee1a26503d7f08784f7b58008f112e3bc2de",
+   "text_chars": 3358,
+   "text_file": "8d832778c42fca137c4eff70.txt",
+   "first_seen_at": "2026-11-24T11:01:37+00:00",
+   "last_checked_at": "2026-11-24T11:01:37+00:00",
+   "last_changed_at": "2026-11-24T11:01:37+00:00"
+  },
+  "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/": {
+   "lab_ids": [
+    "sv-gr-schuhmacher"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/",
+   "content_hash": "04987b2aad88aa6a4da9954be46c9c2cee15112fbc4ce1fd15164c9b7bfc8ad5",
+   "text_chars": 452,
+   "text_file": "984dbc52bab9ae368d43306e.txt",
+   "first_seen_at": "2026-11-24T09:40:02+00:00",
+   "last_checked_at": "2026-11-24T09:40:02+00:00",
+   "last_changed_at": "2026-11-24T09:40:02+00:00"
+  },
+  "https://www.epfl.ch/labs/graefflab/index-html/student-projects/": {
+   "lab_ids": [
+    "sv-upgraeff"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/graefflab/index-html/student-projects/",
+   "content_hash": "cabe0ad8a4e91249c5a1e04ef1ee3ea1d79d7d2e28818d4f0b9773582fbb134b",
+   "text_chars": 1373,
+   "text_file": "f7c652f1e17089ff8281f55e.txt",
+   "first_seen_at": "2026-11-24T11:01:55+00:00",
+   "last_checked_at": "2026-11-24T11:01:55+00:00",
+   "last_changed_at": "2026-11-24T11:01:55+00:00"
+  },
   "https://www.epfl.ch/labs/grid-ess/grid-integrated-energy-storage-systems-lab/student-projects/": {
    "lab_ids": [
     "sti-grid-ess"
@@ -6304,6 +8221,66 @@
    "last_checked_at": "2026-11-24T09:47:39+00:00",
    "last_changed_at": "2026-11-24T09:47:39+00:00"
   },
+  "https://www.epfl.ch/labs/hanahan-lab/teaching/": {
+   "lab_ids": [
+    "sv-hanahan-lab"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hanahan-lab/teaching/",
+   "content_hash": "8a0c068a48bbb425ffd6e09fdcc149a208cd8d67469bb1bb113d845d65387b04",
+   "text_chars": 68,
+   "text_file": "41f02dab6e26db87ae9e5f65.txt",
+   "first_seen_at": "2026-11-24T09:40:07+00:00",
+   "last_checked_at": "2026-11-24T09:40:07+00:00",
+   "last_changed_at": "2026-11-24T09:40:07+00:00"
+  },
+  "https://www.epfl.ch/labs/hat/doctoral-research/": {
+   "lab_ids": [
+    "enac-hat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hat/semester-projects/",
+   "link_text": "PhD Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hat/doctoral-research/",
+   "content_hash": "c002d8f90d72454ffa43b21c95ad06059c8e7bd57a55d3ef1214474964f0db6f",
+   "text_chars": 1249,
+   "text_file": "47b528d441ae41e69e6e9237.txt",
+   "first_seen_at": "2026-11-24T10:59:48+00:00",
+   "last_checked_at": "2026-11-24T10:59:48+00:00",
+   "last_changed_at": "2026-11-24T10:59:48+00:00"
+  },
+  "https://www.epfl.ch/labs/hat/fr/projets-de-semestre/": {
+   "lab_ids": [
+    "enac-hat"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hat/semester-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hat/fr/projets-de-semestre/",
+   "content_hash": "44b1a30b67f2833009a74bf35a2b0bab60fdcc350960f5d8383a57333ca4c16e",
+   "text_chars": 5143,
+   "text_file": "2fd8e52e549d06df2a7413c4.txt",
+   "first_seen_at": "2026-11-24T10:59:47+00:00",
+   "last_checked_at": "2026-11-24T10:59:47+00:00",
+   "last_changed_at": "2026-11-24T10:59:47+00:00"
+  },
+  "https://www.epfl.ch/labs/hat/semester-projects/": {
+   "lab_ids": [
+    "enac-hat"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hat/semester-projects/",
+   "content_hash": "ade1bbb767239e6433ed9e850768518203039769d56b73574f92563c8222f0d4",
+   "text_chars": 4920,
+   "text_file": "e0eda5dd27ff0db774aafb8f.txt",
+   "first_seen_at": "2026-11-24T10:59:46+00:00",
+   "last_checked_at": "2026-11-24T10:59:46+00:00",
+   "last_changed_at": "2026-11-24T10:59:46+00:00"
+  },
   "https://www.epfl.ch/labs/head/open-masters-projects/": {
    "lab_ids": [
     "sti-head"
@@ -6318,6 +8295,276 @@
    "first_seen_at": "2026-11-24T09:47:48+00:00",
    "last_checked_at": "2026-11-24T09:47:48+00:00",
    "last_changed_at": "2026-11-24T09:47:48+00:00"
+  },
+  "https://www.epfl.ch/labs/herus/index-html/openings/": {
+   "lab_ids": [
+    "enac-herus"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+   "link_text": "Openings",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/herus/index-html/openings/",
+   "content_hash": "686be3c6fc00225f80a5a939bb71dda8b8a8ffc20d2d40f26d99e676ac724407",
+   "text_chars": 234,
+   "text_file": "8cbb15b0d56fb7a6533f585d.txt",
+   "first_seen_at": "2026-11-24T10:59:50+00:00",
+   "last_checked_at": "2026-11-24T10:59:50+00:00",
+   "last_changed_at": "2026-11-24T10:59:50+00:00"
+  },
+  "https://www.epfl.ch/labs/herus/index-html/projects/": {
+   "lab_ids": [
+    "enac-herus"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+   "link_text": "Research projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/herus/index-html/projects/",
+   "content_hash": "9852699b7b0d8b33a18f58dd58022e9ff766630bc47937784aa1c44921858a5f",
+   "text_chars": 1653,
+   "text_file": "f20d02ad2a904b677812029a.txt",
+   "first_seen_at": "2026-11-24T10:59:50+00:00",
+   "last_checked_at": "2026-11-24T10:59:50+00:00",
+   "last_changed_at": "2026-11-24T10:59:50+00:00"
+  },
+  "https://www.epfl.ch/labs/herus/index-html/student-projects/": {
+   "lab_ids": [
+    "enac-herus"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+   "content_hash": "05e9173358b4f3f4ebb7ccd608637b9f4e52af4b18eb2ff9e54d08044a262d9f",
+   "text_chars": 2658,
+   "text_file": "1462a46816085d5d78ba5e86.txt",
+   "first_seen_at": "2026-11-24T10:59:49+00:00",
+   "last_checked_at": "2026-11-24T10:59:49+00:00",
+   "last_changed_at": "2026-11-24T10:59:49+00:00"
+  },
+  "https://www.epfl.ch/labs/herus/wp-content/uploads/2026/07/ABM4ET_project_final.pdf": {
+   "lab_ids": [
+    "enac-herus"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
+   "link_text": "Exploring triggers, co-adoption patterns, and spatial contexts in the residential building sector",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/herus/wp-content/uploads/2026/07/ABM4ET_project_final.pdf",
+   "content_hash": "ef82b6c317181f51508243557931499c6be11b84cf829db6698214cd4e5df140",
+   "text_chars": 3276,
+   "text_file": "3042c245452a32939b43571e.txt",
+   "first_seen_at": "2026-11-24T10:59:51+00:00",
+   "last_checked_at": "2026-11-24T10:59:51+00:00",
+   "last_changed_at": "2026-11-24T10:59:51+00:00"
+  },
+  "https://www.epfl.ch/labs/hessbellwald-lab/positions/": {
+   "lab_ids": [
+    "sv-uphess"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+   "link_text": "Positions available",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hessbellwald-lab/positions/",
+   "content_hash": "596daa7e1c30719fc3e8ad5874819c4dec7b822fa89ddb3353178b87bd81886a",
+   "text_chars": 205,
+   "text_file": "87b667273266d4c3825affac.txt",
+   "first_seen_at": "2026-11-24T09:40:40+00:00",
+   "last_checked_at": "2026-11-24T09:40:40+00:00",
+   "last_changed_at": "2026-11-24T09:40:40+00:00"
+  },
+  "https://www.epfl.ch/labs/hessbellwald-lab/teaching/": {
+   "lab_ids": [
+    "sv-uphess"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
+   "content_hash": "0aa8921a5d948317abe537c3d23366a89e4a333cec4e836aef60c94473f0c3ea",
+   "text_chars": 105,
+   "text_file": "1d734b9a8caee4783a8268b0.txt",
+   "first_seen_at": "2026-11-24T09:40:40+00:00",
+   "last_checked_at": "2026-11-24T09:40:40+00:00",
+   "last_changed_at": "2026-11-24T09:40:40+00:00"
+  },
+  "https://www.epfl.ch/labs/hitam/masters-projects/": {
+   "lab_ids": [
+    "enac-hitam"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hitam/teaching/masters-projects/",
+   "content_hash": "1654f4665138c0e1d4206f72e1a4d162f3b80fcde52601997b2fe8b3a0c101aa",
+   "text_chars": 606,
+   "text_file": "8033f9bcd10dfc4cc7c5ecbc.txt",
+   "first_seen_at": "2026-11-24T10:59:53+00:00",
+   "last_checked_at": "2026-11-24T10:59:53+00:00",
+   "last_changed_at": "2026-11-24T10:59:53+00:00"
+  },
+  "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2023/": {
+   "lab_ids": [
+    "enac-hitam"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
+   "link_text": "Fall 2023",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2023/",
+   "content_hash": "3a1df1837192f22ecad9ede2df6c604629151b1147ef45ea838de5709a9302ef",
+   "text_chars": 171,
+   "text_file": "8257c2d23f48f8f486b3f6e3.txt",
+   "first_seen_at": "2026-11-24T10:59:54+00:00",
+   "last_checked_at": "2026-11-24T10:59:54+00:00",
+   "last_changed_at": "2026-11-24T10:59:54+00:00"
+  },
+  "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2024/": {
+   "lab_ids": [
+    "enac-hitam"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
+   "link_text": "Fall 2024",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2024/",
+   "content_hash": "e3b6aab2e16ca40bd27f4e7b5235ad101572d569a99f935c638abfbd37662f5a",
+   "text_chars": 2014,
+   "text_file": "527d45baa583d24d41eaede0.txt",
+   "first_seen_at": "2026-11-24T10:59:55+00:00",
+   "last_checked_at": "2026-11-24T10:59:55+00:00",
+   "last_changed_at": "2026-11-24T10:59:55+00:00"
+  },
+  "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2025/": {
+   "lab_ids": [
+    "enac-hitam"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
+   "link_text": "Fall 2025",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2025/",
+   "content_hash": "0587332b19b94e387e3fe4a46e428f0fc89badb91ac4ef8156ed9f36ce490d5a",
+   "text_chars": 158,
+   "text_file": "5ea992c7f87c9ba4466203f9.txt",
+   "first_seen_at": "2026-11-24T10:59:56+00:00",
+   "last_checked_at": "2026-11-24T10:59:56+00:00",
+   "last_changed_at": "2026-11-24T10:59:56+00:00"
+  },
+  "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2026/": {
+   "lab_ids": [
+    "enac-hitam"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
+   "link_text": "Fall 2026",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2026/",
+   "content_hash": "388b61f79103cf3103caebc48c64306dca2497f4ca70dcf6e41d103512c1c561",
+   "text_chars": 52,
+   "text_file": "c93421e11faa64792c3586fb.txt",
+   "first_seen_at": "2026-11-24T10:59:56+00:00",
+   "last_checked_at": "2026-11-24T10:59:56+00:00",
+   "last_changed_at": "2026-11-24T10:59:56+00:00"
+  },
+  "https://www.epfl.ch/labs/hobel/home-2/research-projects/": {
+   "lab_ids": [
+    "enac-hobel"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hobel/home-2/teaching/",
+   "link_text": "Research",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hobel/home-2/research-projects/",
+   "content_hash": "b9073af2c037a70571f5a98bc8d53358d937af3f308cf4a334ba5a92ce7703c8",
+   "text_chars": 2332,
+   "text_file": "c9caed68d824a05b2c9b1cd9.txt",
+   "first_seen_at": "2026-11-24T10:59:58+00:00",
+   "last_checked_at": "2026-11-24T10:59:58+00:00",
+   "last_changed_at": "2026-11-24T10:59:58+00:00"
+  },
+  "https://www.epfl.ch/labs/hobel/home-2/teaching/": {
+   "lab_ids": [
+    "enac-hobel"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hobel/home-2/teaching/",
+   "content_hash": "698f4b4dcc52b21e630f21cddf69c2793cceb3b35d6b4c3ec2826fabe8dcfd0b",
+   "text_chars": 2509,
+   "text_file": "126d49ec5c0c6655c97170d8.txt",
+   "first_seen_at": "2026-11-24T09:29:17+00:00",
+   "last_checked_at": "2026-11-24T09:29:17+00:00",
+   "last_changed_at": "2026-11-24T09:29:17+00:00"
+  },
+  "https://www.epfl.ch/labs/hobel/semester-and-thesis-projects/": {
+   "lab_ids": [
+    "enac-hobel"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/hobel/home-2/teaching/",
+   "link_text": "Semester and thesis projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hobel/semester-and-thesis-projects/",
+   "content_hash": "0440e9388fd275eea1b2a1ec7b6b216ac7421a9384f2feea1f9ddfb636efc9ce",
+   "text_chars": 15933,
+   "text_file": "05fa18e3d102df78ada612bf.txt",
+   "first_seen_at": "2026-11-24T10:59:58+00:00",
+   "last_checked_at": "2026-11-24T10:59:58+00:00",
+   "last_changed_at": "2026-11-24T10:59:58+00:00"
+  },
+  "https://www.epfl.ch/labs/homes/fr/projets-etudiants/": {
+   "lab_ids": [
+    "enac-homes"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/homes/student-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/homes/fr/projets-etudiants/",
+   "content_hash": "615d2047ed91dbdb8cb5b44113332af37763540706ceb59c8a219804605547cb",
+   "text_chars": 5060,
+   "text_file": "dfc137ab55a73af781dacbdd.txt",
+   "first_seen_at": "2026-11-24T11:00:00+00:00",
+   "last_checked_at": "2026-11-24T11:00:00+00:00",
+   "last_changed_at": "2026-11-24T11:00:00+00:00"
+  },
+  "https://www.epfl.ch/labs/homes/student-projects/": {
+   "lab_ids": [
+    "enac-homes"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/homes/student-projects/",
+   "content_hash": "7cf1c4c469849e053e0032da0284204eda1ea168a507637102f6cfda05afd9cb",
+   "text_chars": 25190,
+   "text_file": "b21def4e87f46c4ccd2256c9.txt",
+   "first_seen_at": "2026-11-24T11:00:00+00:00",
+   "last_checked_at": "2026-11-24T11:00:00+00:00",
+   "last_changed_at": "2026-11-24T11:00:00+00:00"
+  },
+  "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/": {
+   "lab_ids": [
+    "sv-uphuelsken"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/",
+   "content_hash": "54df0c89e8661286bbd718591789137f28a8668d7a5a61612280b4074d03ba8b",
+   "text_chars": 204,
+   "text_file": "76c1129047a1e04c4ab1cfab.txt",
+   "first_seen_at": "2026-11-24T11:01:56+00:00",
+   "last_checked_at": "2026-11-24T11:01:56+00:00",
+   "last_changed_at": "2026-11-24T11:01:56+00:00"
+  },
+  "https://www.epfl.ch/labs/hummel-lab/student-projects/": {
+   "lab_ids": [
+    "sv-uphummel"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/hummel-lab/student-projects/",
+   "content_hash": "6549c00e469cc7d293548dad6c2ffd4714ab31ada476b71780fb22eaeb322bdc",
+   "text_chars": 22787,
+   "text_file": "b3fbfbf0736db17a11b8750b.txt",
+   "first_seen_at": "2026-11-24T11:01:57+00:00",
+   "last_checked_at": "2026-11-24T11:01:57+00:00",
+   "last_changed_at": "2026-11-24T11:01:57+00:00"
   },
   "https://www.epfl.ch/labs/hylab/student-projects/": {
    "lab_ids": [
@@ -6408,6 +8655,36 @@
    "first_seen_at": "2026-11-24T09:47:57+00:00",
    "last_checked_at": "2026-11-24T09:47:57+00:00",
    "last_changed_at": "2026-11-24T09:47:57+00:00"
+  },
+  "https://www.epfl.ch/labs/ibois/jobs-semester-project/": {
+   "lab_ids": [
+    "enac-ibois"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ibois/jobs-semester-project/",
+   "content_hash": "2ea3b54dd2032f1e5ecc1846dfad8f2d6e77b0e823db86a23c02dcdc80eb5b38",
+   "text_chars": 536,
+   "text_file": "c2c1eb896951e332ff504bfa.txt",
+   "first_seen_at": "2026-11-24T11:00:02+00:00",
+   "last_checked_at": "2026-11-24T11:00:02+00:00",
+   "last_changed_at": "2026-11-24T11:00:02+00:00"
+  },
+  "https://www.epfl.ch/labs/ice/ms-projects/": {
+   "lab_ids": [
+    "enac-ice"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ice/ms-projects/",
+   "content_hash": "b1f23e13b4a5de9ddd96a60ec00ee73db6800ba232732b81fca8ef0bf907f39c",
+   "text_chars": 869,
+   "text_file": "b6cc3a7f782850f4b1d21e4e.txt",
+   "first_seen_at": "2026-11-24T11:00:03+00:00",
+   "last_checked_at": "2026-11-24T11:00:03+00:00",
+   "last_changed_at": "2026-11-24T11:00:03+00:00"
   },
   "https://www.epfl.ch/labs/idephics/open-positions/": {
    "lab_ids": [
@@ -6604,6 +8881,21 @@
    "last_checked_at": "2026-11-23T13:50:00+00:00",
    "last_changed_at": "2026-11-23T10:51:50+00:00"
   },
+  "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/": {
+   "lab_ids": [
+    "sv-gr-jaksic"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/",
+   "content_hash": "dce3ab01bdd30a0af62aa42d343131dedcd0d9150931addfa5564139fac7dc74",
+   "text_chars": 78,
+   "text_file": "ba0cd68be204b911966050a7.txt",
+   "first_seen_at": "2026-11-24T11:01:36+00:00",
+   "last_checked_at": "2026-11-24T11:01:36+00:00",
+   "last_changed_at": "2026-11-24T11:01:36+00:00"
+  },
   "https://www.epfl.ch/labs/la/info-isa-project-on-wp/": {
    "lab_ids": [
     "sti-la"
@@ -6663,6 +8955,21 @@
    "first_seen_at": "2026-11-24T09:48:04+00:00",
    "last_checked_at": "2026-11-24T09:48:04+00:00",
    "last_changed_at": "2026-11-24T09:48:04+00:00"
+  },
+  "https://www.epfl.ch/labs/lab-u/page-144598-en-html/": {
+   "lab_ids": [
+    "enac-lab-u"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lab-u/page-144598-en-html/",
+   "content_hash": "1b5b769e5bcee56b49708034686fb7c01367a395189f4b85179310d8afaf7706",
+   "text_chars": 511,
+   "text_file": "269933ae2ac7101902196da0.txt",
+   "first_seen_at": "2026-11-24T09:31:42+00:00",
+   "last_checked_at": "2026-11-24T09:31:42+00:00",
+   "last_changed_at": "2026-11-24T09:31:42+00:00"
   },
   "https://www.epfl.ch/labs/laft/open-positions/": {
    "lab_ids": [
@@ -6921,6 +9228,21 @@
    "last_checked_at": "2026-11-23T13:50:01+00:00",
    "last_changed_at": "2026-11-23T10:51:52+00:00"
   },
+  "https://www.epfl.ch/labs/land/fr/master-thesis/": {
+   "lab_ids": [
+    "enac-land"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/land/fr/master-thesis/",
+   "content_hash": "dcce038c5926640cfbaa6d2d30b91029edd91ffa5788b89551013bae7cedd8f7",
+   "text_chars": 1360,
+   "text_file": "af9435f7f8cbf589ab979a12.txt",
+   "first_seen_at": "2026-11-24T11:00:04+00:00",
+   "last_checked_at": "2026-11-24T11:00:04+00:00",
+   "last_changed_at": "2026-11-24T11:00:04+00:00"
+  },
   "https://www.epfl.ch/labs/lanes/index-html/research-topics/": {
    "lab_ids": [
     "sti-lanes"
@@ -7071,6 +9393,51 @@
    "last_checked_at": "2026-11-24T09:48:24+00:00",
    "last_changed_at": "2026-11-24T09:48:24+00:00"
   },
+  "https://www.epfl.ch/labs/lapi/projects-for-students/": {
+   "lab_ids": [
+    "enac-lapi"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lapi/projects-for-students/",
+   "content_hash": "f6e161ce4e8b2c8065b2923ba9eddd73cc449cc08d7b5c1705918e9615188bc4",
+   "text_chars": 13257,
+   "text_file": "dd995c1b1db44f1d01ebd0b3.txt",
+   "first_seen_at": "2026-11-24T11:00:05+00:00",
+   "last_checked_at": "2026-11-24T11:00:05+00:00",
+   "last_changed_at": "2026-11-24T11:00:05+00:00"
+  },
+  "https://www.epfl.ch/labs/lapis/enseignement/": {
+   "lab_ids": [
+    "enac-lapis"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lapis/enseignement/",
+   "content_hash": "3f199b73a76089e516110a6caefd0a814e787a7cb861d4f11e2434a93cb683cc",
+   "text_chars": 9600,
+   "text_file": "5be84ddf5d5193b288af8c2b.txt",
+   "first_seen_at": "2026-11-24T09:31:48+00:00",
+   "last_checked_at": "2026-11-24T09:31:48+00:00",
+   "last_changed_at": "2026-11-24T09:31:48+00:00"
+  },
+  "https://www.epfl.ch/labs/lapis/enseignement/projets-de-master/": {
+   "lab_ids": [
+    "enac-lapis"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lapis/enseignement/",
+   "link_text": "PDM",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lapis/enseignement/projets-de-master/",
+   "content_hash": "f246b8b1c0f267a30452e23a9d1cc8fcf1f9d89bbfd8bbfa936ced063afad349",
+   "text_chars": 4325,
+   "text_file": "1482ea47a6f9ea316ddb7661.txt",
+   "first_seen_at": "2026-11-24T11:00:06+00:00",
+   "last_checked_at": "2026-11-24T11:00:06+00:00",
+   "last_changed_at": "2026-11-24T11:00:06+00:00"
+  },
   "https://www.epfl.ch/labs/lasa/prospective-students/": {
    "lab_ids": [
     "sti-lasa"
@@ -7176,6 +9543,96 @@
    "last_checked_at": "2026-11-24T09:48:28+00:00",
    "last_changed_at": "2026-11-24T09:48:28+00:00"
   },
+  "https://www.epfl.ch/labs/lasig/teaching/": {
+   "lab_ids": [
+    "enac-lasig"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lasig/teaching/",
+   "content_hash": "3a2405b14cccea9c6c1d218ac67c646c4c7607bc3eb07dd6fc68248ca6d331ed",
+   "text_chars": 1065848,
+   "text_file": "8beb30804186106bb6e8dc99.txt",
+   "first_seen_at": "2026-11-24T09:31:52+00:00",
+   "last_checked_at": "2026-11-24T09:31:52+00:00",
+   "last_changed_at": "2026-11-24T09:31:52+00:00"
+  },
+  "https://www.epfl.ch/labs/lasig/teaching/semasterprojects/": {
+   "lab_ids": [
+    "enac-lasig"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lasig/teaching/",
+   "link_text": "Master and SIE project topics",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lasig/teaching/semasterprojects/",
+   "content_hash": "99cf0f6e1ac1f88d4fe750f8a14fdc1678d03698b5aa94aa002d56c262477643",
+   "text_chars": 189,
+   "text_file": "0695ae1f0ff9162218fa2439.txt",
+   "first_seen_at": "2026-11-24T11:00:12+00:00",
+   "last_checked_at": "2026-11-24T11:00:12+00:00",
+   "last_changed_at": "2026-11-24T11:00:12+00:00"
+  },
+  "https://www.epfl.ch/labs/last/fr/index-fr-html/enseignement/projets-de-master/": {
+   "lab_ids": [
+    "enac-last"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/last/teaching/masters-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/last/fr/index-fr-html/enseignement/projets-de-master/",
+   "content_hash": "21073f2cfcd068b44ae777e52aed9be31fad8f7ba91d737d2160ab9d3079f39e",
+   "text_chars": 2875,
+   "text_file": "2c097d78dc8ef80de37a9b89.txt",
+   "first_seen_at": "2026-11-24T11:00:16+00:00",
+   "last_checked_at": "2026-11-24T11:00:16+00:00",
+   "last_changed_at": "2026-11-24T11:00:16+00:00"
+  },
+  "https://www.epfl.ch/labs/last/index-html/distinctions-en/awards-masters-project/": {
+   "lab_ids": [
+    "enac-last"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/last/teaching/masters-projects/",
+   "link_text": "awards",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/last/index-html/distinctions-en/awards-masters-project/",
+   "content_hash": "e2da36808e431102292a47efe5d9be90fa7ea3636b3c736a366930e1fc8056f9",
+   "text_chars": 1467,
+   "text_file": "6706e752365c4798d778b33e.txt",
+   "first_seen_at": "2026-11-24T11:00:17+00:00",
+   "last_checked_at": "2026-11-24T11:00:17+00:00",
+   "last_changed_at": "2026-11-24T11:00:17+00:00"
+  },
+  "https://www.epfl.ch/labs/last/teaching/masters-projects/": {
+   "lab_ids": [
+    "enac-last"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/last/index-html/teaching/masters-projects/",
+   "content_hash": "4154b734044de19c364788aaa3fdce6610c244234ef3909c36ff105aa8a94b95",
+   "text_chars": 2614,
+   "text_file": "d6ac49cd54cb43c824c35c8f.txt",
+   "first_seen_at": "2026-11-24T11:00:15+00:00",
+   "last_checked_at": "2026-11-24T11:00:15+00:00",
+   "last_changed_at": "2026-11-24T11:00:15+00:00"
+  },
+  "https://www.epfl.ch/labs/lasur/teaching/": {
+   "lab_ids": [
+    "enac-lasur"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lasur/teaching/",
+   "content_hash": "74c9a6838490532c3cabac1f0d63e7f3ddcd63caa71002c2875f860f5025157c",
+   "text_chars": 163,
+   "text_file": "9b546d6f356df8134f35eb61.txt",
+   "first_seen_at": "2026-11-24T09:32:00+00:00",
+   "last_checked_at": "2026-11-24T09:32:00+00:00",
+   "last_changed_at": "2026-11-24T09:32:00+00:00"
+  },
   "https://www.epfl.ch/labs/lasur/time-machine-unit/master-theses-and-semester-projects/": {
    "lab_ids": [
     "enac-tmu"
@@ -7268,18 +9725,49 @@
   },
   "https://www.epfl.ch/labs/lbm/openings/": {
    "lab_ids": [
-    "sv-lbm"
+    "sv-lbm",
+    "sv-updalpe"
    ],
-   "parent_url": null,
-   "link_text": null,
+   "parent_url": "https://www.epfl.ch/labs/lbm/teaching/",
+   "link_text": "Openings",
    "kind": "html",
    "final_url": "https://www.epfl.ch/labs/lbm/openings/",
    "content_hash": "c94ed3044e5eda22588b44b6dda715119d7c05dd7c88006133ffab14f00ea452",
    "text_chars": 5691,
    "text_file": "b942631785bfe3cffdbb40ea.txt",
    "first_seen_at": "2026-11-23T10:55:37+00:00",
-   "last_checked_at": "2026-11-23T13:53:15+00:00",
+   "last_checked_at": "2026-11-24T11:01:50+00:00",
    "last_changed_at": "2026-11-23T10:55:37+00:00"
+  },
+  "https://www.epfl.ch/labs/lbm/teaching/": {
+   "lab_ids": [
+    "sv-updalpe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lbm/teaching/",
+   "content_hash": "1ea5b21c17bc27b96ed7f74991e46ed22942888007f0353802084950386d9cfa",
+   "text_chars": 1224,
+   "text_file": "eb38b33b51145d937a9515a9.txt",
+   "first_seen_at": "2026-11-24T09:40:29+00:00",
+   "last_checked_at": "2026-11-24T09:40:29+00:00",
+   "last_changed_at": "2026-11-24T09:40:29+00:00"
+  },
+  "https://www.epfl.ch/labs/lbm/wp-content/uploads/2018/10/BSM-Syllabus-Final.pdf": {
+   "lab_ids": [
+    "sv-updalpe"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lbm/teaching/",
+   "link_text": "syllabus",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lbm/wp-content/uploads/2018/10/BSM-Syllabus-Final.pdf",
+   "content_hash": "f6830ef79f96889161dc54454205a4b46feaf4bf118e8f709aedc4d41192315c",
+   "text_chars": 5838,
+   "text_file": "5309e311affbf4b702d26c0a.txt",
+   "first_seen_at": "2026-11-24T11:01:51+00:00",
+   "last_checked_at": "2026-11-24T11:01:51+00:00",
+   "last_changed_at": "2026-11-24T11:01:51+00:00"
   },
   "https://www.epfl.ch/labs/lbmm/students-projects/": {
    "lab_ids": [
@@ -7371,6 +9859,21 @@
    "last_checked_at": "2026-11-24T09:38:55+00:00",
    "last_changed_at": "2026-11-24T09:38:55+00:00"
   },
+  "https://www.epfl.ch/labs/lch/student-projects/": {
+   "lab_ids": [
+    "enac-lch"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lch/student-projects/",
+   "content_hash": "8c2d00c41bb4ef8bade85fbbd674188b88ab6902b4ba5d0ab1999f87f1e3d4b3",
+   "text_chars": 588,
+   "text_file": "8b4ef08e81b238d6d1c8674d.txt",
+   "first_seen_at": "2026-11-24T11:00:18+00:00",
+   "last_checked_at": "2026-11-24T11:00:18+00:00",
+   "last_changed_at": "2026-11-24T11:00:18+00:00"
+  },
   "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/": {
    "lab_ids": [
     "ic-lcn"
@@ -7461,6 +9964,141 @@
    "last_checked_at": "2026-11-24T09:48:42+00:00",
    "last_changed_at": "2026-11-24T09:48:42+00:00"
   },
+  "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/": {
+   "lab_ids": [
+    "sv-uplem"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/",
+   "content_hash": "65aeab853e4c0c5201eb149b2e7aca0bb8732aac037ba4d64f365e97d893b3b6",
+   "text_chars": 4557,
+   "text_file": "f60352c0579ce83c242e6dbf.txt",
+   "first_seen_at": "2026-11-24T11:01:58+00:00",
+   "last_checked_at": "2026-11-24T11:01:58+00:00",
+   "last_changed_at": "2026-11-24T11:01:58+00:00"
+  },
+  "https://www.epfl.ch/labs/lemr/teaching/": {
+   "lab_ids": [
+    "enac-lemr"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lemr/teaching/",
+   "content_hash": "7d68bc89119621ed5beb6578f3662e5c9007a2f8b6fda2e92df352fc0446cdfc",
+   "text_chars": 9278,
+   "text_file": "58cd396716d373155b2cb67b.txt",
+   "first_seen_at": "2026-11-24T09:32:04+00:00",
+   "last_checked_at": "2026-11-24T09:32:04+00:00",
+   "last_changed_at": "2026-11-24T09:32:04+00:00"
+  },
+  "https://www.epfl.ch/labs/lesc/student-projects/": {
+   "lab_ids": [
+    "enac-lesc"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lesc/student-projects/",
+   "content_hash": "c0ba837a807ddc8f8e33bc25e38cb98dda6f75cbdf2b19e4db9d3e875df8c82f",
+   "text_chars": 1369,
+   "text_file": "07bb96333272a5889f72ce3c.txt",
+   "first_seen_at": "2026-11-24T11:00:19+00:00",
+   "last_checked_at": "2026-11-24T11:00:19+00:00",
+   "last_changed_at": "2026-11-24T11:00:19+00:00"
+  },
+  "https://www.epfl.ch/labs/leso/education/": {
+   "lab_ids": [
+    "enac-leso-pb"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/leso/education/",
+   "content_hash": "68754a229c373084ab1e84d6da6f1f8f6728356a44dc8c2f580a2fdda35ff905",
+   "text_chars": 779,
+   "text_file": "3c76cd85552a273b9cddd7aa.txt",
+   "first_seen_at": "2026-11-24T09:32:07+00:00",
+   "last_checked_at": "2026-11-24T09:32:07+00:00",
+   "last_changed_at": "2026-11-24T09:32:07+00:00"
+  },
+  "https://www.epfl.ch/labs/leso/education/courses/": {
+   "lab_ids": [
+    "enac-leso-pb"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/leso/education/",
+   "link_text": "Bachelor / Master / E-Learning",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/leso/education/courses/",
+   "content_hash": "62d78467407b1c3b4425f76514462fcb463650a0b574305a8047e36d50256905",
+   "text_chars": 259,
+   "text_file": "dd55e61155d88ed2c93920a3.txt",
+   "first_seen_at": "2026-11-24T11:00:20+00:00",
+   "last_checked_at": "2026-11-24T11:00:20+00:00",
+   "last_changed_at": "2026-11-24T11:00:20+00:00"
+  },
+  "https://www.epfl.ch/labs/leso/education/phd/": {
+   "lab_ids": [
+    "enac-leso-pb"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/leso/education/",
+   "link_text": "PhD studies and projects at LESO-PB",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/leso/education/phd/",
+   "content_hash": "112ffd61ff109e7984cd8f67796990c0cc19f2a24d782b4803169978dd527101",
+   "text_chars": 396,
+   "text_file": "e782f4d2607fcacd4e6b5dcd.txt",
+   "first_seen_at": "2026-11-24T11:00:21+00:00",
+   "last_checked_at": "2026-11-24T11:00:21+00:00",
+   "last_changed_at": "2026-11-24T11:00:21+00:00"
+  },
+  "https://www.epfl.ch/labs/leure/en/projects/": {
+   "lab_ids": [
+    "enac-leure"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/leure/projets-de-semestre/",
+   "link_text": "EN",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/leure/en/projects/",
+   "content_hash": "728c7186e5abff7131cde01452e2766deff9ec8b792d1e79f72dec3bcb62669f",
+   "text_chars": 16464,
+   "text_file": "116f8df6c7e1f0a830caec8e.txt",
+   "first_seen_at": "2026-11-24T11:00:23+00:00",
+   "last_checked_at": "2026-11-24T11:00:23+00:00",
+   "last_changed_at": "2026-11-24T11:00:23+00:00"
+  },
+  "https://www.epfl.ch/labs/leure/projets-de-semestre/": {
+   "lab_ids": [
+    "enac-leure"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/leure/projets-de-semestre/",
+   "content_hash": "2b62c15a864aff42e685b688cb691c67fef62ae427ea8d58df8dfd36229a8568",
+   "text_chars": 101,
+   "text_file": "70ee0d97f9bb25cda7539d79.txt",
+   "first_seen_at": "2026-11-24T11:00:22+00:00",
+   "last_checked_at": "2026-11-24T11:00:22+00:00",
+   "last_changed_at": "2026-11-24T11:00:22+00:00"
+  },
+  "https://www.epfl.ch/labs/lev/index-html/sie-project/": {
+   "lab_ids": [
+    "enac-lev"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lev/index-html/sie-project/",
+   "content_hash": "d9c62f4deb57b6c9b5d1d8423366e2f1ad6fcf34c653430dbb071f4733b1fa61",
+   "text_chars": 80,
+   "text_file": "e88bf6d933f4630b659650f5.txt",
+   "first_seen_at": "2026-11-24T11:00:24+00:00",
+   "last_checked_at": "2026-11-24T11:00:24+00:00",
+   "last_changed_at": "2026-11-24T11:00:24+00:00"
+  },
   "https://www.epfl.ch/labs/lfmi/projects/": {
    "lab_ids": [
     "sti-lfmi"
@@ -7506,6 +10144,96 @@
    "last_checked_at": "2026-11-24T09:48:44+00:00",
    "last_changed_at": "2026-11-24T09:48:44+00:00"
   },
+  "https://www.epfl.ch/labs/lgb/open-positions/": {
+   "lab_ids": [
+    "enac-lgb"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lgb/open-positions/",
+   "content_hash": "104ebe23663237c66385aeb39166c2e82e1f1383954c63407236f0cfd369e74e",
+   "text_chars": 66,
+   "text_file": "e1ed9fe4410668cd07e358d6.txt",
+   "first_seen_at": "2026-11-24T09:32:13+00:00",
+   "last_checked_at": "2026-11-24T09:32:13+00:00",
+   "last_changed_at": "2026-11-24T09:32:13+00:00"
+  },
+  "https://www.epfl.ch/labs/lgc/index-html/student-projects/": {
+   "lab_ids": [
+    "sv-lgc"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lgc/index-html/student-projects/",
+   "content_hash": "6f6c705e6ce1e0b20baf3de64b2d4d395a083eebdccd17ff78c2ae969d74d6cc",
+   "text_chars": 50,
+   "text_file": "439dafb0f252f66bb93ae8b6.txt",
+   "first_seen_at": "2026-11-24T11:01:38+00:00",
+   "last_checked_at": "2026-11-24T11:01:38+00:00",
+   "last_changed_at": "2026-11-24T11:01:38+00:00"
+  },
+  "https://www.epfl.ch/labs/lhe/a-propos/": {
+   "lab_ids": [
+    "enac-lhe"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lhe/enseignement/",
+   "link_text": "A propos",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lhe/a-propos/",
+   "content_hash": "a4266158dea2cdd36ad5e0ea7adfc18f4556ee0bc81131292ffd83f6b9f93466",
+   "text_chars": 49,
+   "text_file": "1b8fae4d881cc848d927d5be.txt",
+   "first_seen_at": "2026-11-24T11:00:25+00:00",
+   "last_checked_at": "2026-11-24T11:00:25+00:00",
+   "last_changed_at": "2026-11-24T11:00:25+00:00"
+  },
+  "https://www.epfl.ch/labs/lhe/enseignement/": {
+   "lab_ids": [
+    "enac-lhe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lhe/enseignement/",
+   "content_hash": "0059511033068b4a7eeb2b54938715b194b756c3bf43c7d749d9166a42762f0a",
+   "text_chars": 537,
+   "text_file": "372c2c605b22cd2c3e41a873.txt",
+   "first_seen_at": "2026-11-24T09:32:15+00:00",
+   "last_checked_at": "2026-11-24T09:32:15+00:00",
+   "last_changed_at": "2026-11-24T09:32:15+00:00"
+  },
+  "https://www.epfl.ch/labs/lhe/enseignement/projets-detudiants/": {
+   "lab_ids": [
+    "enac-lhe"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lhe/enseignement/",
+   "link_text": "Projets d’étudiants",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lhe/enseignement/projets-detudiants/",
+   "content_hash": "93a053e88db108461973db7336df141eadb0983b7a4d970483028c2ea5029335",
+   "text_chars": 549,
+   "text_file": "94edb5ec2f7a18cd67a69f4e.txt",
+   "first_seen_at": "2026-11-24T11:00:27+00:00",
+   "last_checked_at": "2026-11-24T11:00:27+00:00",
+   "last_changed_at": "2026-11-24T11:00:27+00:00"
+  },
+  "https://www.epfl.ch/labs/lhe/enseignement/these-de-master/": {
+   "lab_ids": [
+    "enac-lhe"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lhe/enseignement/",
+   "link_text": "Thèses de Master",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lhe/enseignement/these-de-master/",
+   "content_hash": "0a146d2c1077ccaca1c37cc320a6e12c720e1cc0ce7fe33d3eea428d394ab38d",
+   "text_chars": 958,
+   "text_file": "45b0e983eb185b477f39d436.txt",
+   "first_seen_at": "2026-11-24T11:00:26+00:00",
+   "last_checked_at": "2026-11-24T11:00:26+00:00",
+   "last_changed_at": "2026-11-24T11:00:26+00:00"
+  },
   "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/": {
    "lab_ids": [
     "enac-lhst"
@@ -7535,6 +10263,36 @@
    "first_seen_at": "2026-11-24T09:48:46+00:00",
    "last_checked_at": "2026-11-24T09:48:46+00:00",
    "last_changed_at": "2026-11-24T09:48:46+00:00"
+  },
+  "https://www.epfl.ch/labs/lif/teaching/": {
+   "lab_ids": [
+    "enac-lif"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lif/teaching/",
+   "content_hash": "2b9c2937476c35201c71bc594a7bc2eb83250b75c68a29275e3a2e62c76d4acb",
+   "text_chars": 290,
+   "text_file": "5b5499681f15e0479c9c5461.txt",
+   "first_seen_at": "2026-11-24T09:32:17+00:00",
+   "last_checked_at": "2026-11-24T09:32:17+00:00",
+   "last_changed_at": "2026-11-24T09:32:17+00:00"
+  },
+  "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/": {
+   "lab_ids": [
+    "sv-uplin"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/",
+   "content_hash": "73f8eb8703627e38902055316e9d7255a2965852a0980abe7e970e78294fec0b",
+   "text_chars": 363,
+   "text_file": "d1ad0ad357059dbe5c6ed7b2.txt",
+   "first_seen_at": "2026-11-24T09:40:50+00:00",
+   "last_checked_at": "2026-11-24T09:40:50+00:00",
+   "last_changed_at": "2026-11-24T09:40:50+00:00"
   },
   "https://www.epfl.ch/labs/lions/student-projects/": {
    "lab_ids": [
@@ -7656,6 +10414,36 @@
    "last_checked_at": "2026-11-23T13:52:15+00:00",
    "last_changed_at": "2026-11-23T10:54:32+00:00"
   },
+  "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/": {
+   "lab_ids": [
+    "enac-lipid"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/",
+   "content_hash": "f2923d6f8ae681fdb0f9836248a13e9db5014c23f39e3d03db6548a320706bf7",
+   "text_chars": 981,
+   "text_file": "a5e0d9592416febb9453affb.txt",
+   "first_seen_at": "2026-11-24T11:00:28+00:00",
+   "last_checked_at": "2026-11-24T11:00:28+00:00",
+   "last_changed_at": "2026-11-24T11:00:28+00:00"
+  },
+  "https://www.epfl.ch/labs/lipid/wp-content/uploads/2022/10/20221004-LIPID_MasterThesis_SpectralDiet_SH.pdf": {
+   "lab_ids": [
+    "enac-lipid"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/",
+   "link_text": "Decoding the spectral diet of humans: Development of new analysis methods for spectral light exposure timeseries data",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lipid/wp-content/uploads/2022/10/20221004-LIPID_MasterThesis_SpectralDiet_SH.pdf",
+   "content_hash": "40b627d49bdf1f4de425ceef814ea7e8a38cecf952a8236d813db187c2d35e26",
+   "text_chars": 3930,
+   "text_file": "5fae2515e1f0eee0447219c3.txt",
+   "first_seen_at": "2026-11-24T11:00:29+00:00",
+   "last_checked_at": "2026-11-24T11:00:29+00:00",
+   "last_changed_at": "2026-11-24T11:00:29+00:00"
+  },
   "https://www.epfl.ch/labs/lmam/page-55711-en-html/page-55713-en-html/": {
    "lab_ids": [
     "sti-lmam"
@@ -7718,7 +10506,8 @@
   },
   "https://www.epfl.ch/labs/lmd/student-projects/": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": null,
    "link_text": null,
@@ -7728,12 +10517,13 @@
    "text_chars": 10514,
    "text_file": "2138cd7ac1384ba248357a89.txt",
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_checked_at": "2026-11-23T13:47:53+00:00",
+   "last_checked_at": "2026-11-24T11:00:30+00:00",
    "last_changed_at": "2026-11-23T10:49:55+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/frictional-instabilities-in-topologically-interlocked-structures.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7743,12 +10533,13 @@
    "text_chars": 1890,
    "text_file": "34647de7ff6598b9948f93d0.txt",
    "first_seen_at": "2026-11-23T10:50:03+00:00",
-   "last_checked_at": "2026-11-23T13:48:11+00:00",
+   "last_checked_at": "2026-11-24T11:00:38+00:00",
    "last_changed_at": "2026-11-23T10:50:03+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/gnn-for-granular-mechanics.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7758,12 +10549,13 @@
    "text_chars": 1585,
    "text_file": "118b01e46c20b035f62cfb63.txt",
    "first_seen_at": "2026-11-23T10:50:01+00:00",
-   "last_checked_at": "2026-11-23T13:48:08+00:00",
+   "last_checked_at": "2026-11-24T11:00:36+00:00",
    "last_changed_at": "2026-11-23T10:50:01+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/multiphysics-modeling-of-fault-gouge.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7773,12 +10565,13 @@
    "text_chars": 1494,
    "text_file": "650e189e502ec27455a05d93.txt",
    "first_seen_at": "2026-11-23T10:50:05+00:00",
-   "last_checked_at": "2026-11-23T13:48:15+00:00",
+   "last_checked_at": "2026-11-24T11:00:40+00:00",
    "last_changed_at": "2026-11-23T10:50:05+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/pino-for-solid-mechanics.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7788,12 +10581,13 @@
    "text_chars": 2040,
    "text_file": "378cbbfa90ea08142feb282d.txt",
    "first_seen_at": "2026-11-23T10:50:02+00:00",
-   "last_checked_at": "2026-11-23T13:48:10+00:00",
+   "last_checked_at": "2026-11-24T11:00:37+00:00",
    "last_changed_at": "2026-11-23T10:50:02+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2024/11/segregation-in-granular-flows.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7803,12 +10597,13 @@
    "text_chars": 1222,
    "text_file": "18389c8f8f2d3d95c1c91a72.txt",
    "first_seen_at": "2026-11-23T10:50:00+00:00",
-   "last_checked_at": "2026-11-23T13:48:06+00:00",
+   "last_checked_at": "2026-11-24T11:00:35+00:00",
    "last_changed_at": "2026-11-23T10:50:00+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/accelerating-geophysical-simulations-with-ai.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7818,12 +10613,13 @@
    "text_chars": 2004,
    "text_file": "46fbcb6e5c34ea2d2b423f75.txt",
    "first_seen_at": "2026-11-23T10:49:57+00:00",
-   "last_checked_at": "2026-11-23T13:47:59+00:00",
+   "last_checked_at": "2026-11-24T11:00:31+00:00",
    "last_changed_at": "2026-11-23T10:49:57+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/08/ai-characterization-of-internal-material-properties.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7833,12 +10629,13 @@
    "text_chars": 2109,
    "text_file": "9f462e4308484a32a4372f3d.txt",
    "first_seen_at": "2026-11-23T10:49:58+00:00",
-   "last_checked_at": "2026-11-23T13:48:03+00:00",
+   "last_checked_at": "2026-11-24T11:00:33+00:00",
    "last_changed_at": "2026-11-23T10:49:58+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/digital-twin-simulation-of-rockfall-hazards.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7848,12 +10645,13 @@
    "text_chars": 2142,
    "text_file": "c62f41c1bc75879b5acd2c61.txt",
    "first_seen_at": "2026-11-23T10:49:57+00:00",
-   "last_checked_at": "2026-11-23T13:48:01+00:00",
+   "last_checked_at": "2026-11-24T11:00:32+00:00",
    "last_changed_at": "2026-11-23T10:49:57+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/11/experimental-investigation-of-architected-granular-materials.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7863,12 +10661,13 @@
    "text_chars": 1680,
    "text_file": "714a0b4e75c331e72ddb61ba.txt",
    "first_seen_at": "2026-11-23T10:50:00+00:00",
-   "last_checked_at": "2026-11-23T13:48:04+00:00",
+   "last_checked_at": "2026-11-24T11:00:34+00:00",
    "last_changed_at": "2026-11-23T10:50:00+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2025/12/phase-field-modeling-of-fracture-of-architected-structural-materials.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "here",
@@ -7878,12 +10677,13 @@
    "text_chars": 1885,
    "text_file": "5e63a74636cae1718aed2645.txt",
    "first_seen_at": "2026-11-23T10:50:04+00:00",
-   "last_checked_at": "2026-11-23T13:48:13+00:00",
+   "last_checked_at": "2026-11-24T11:00:39+00:00",
    "last_changed_at": "2026-11-23T10:50:04+00:00"
   },
   "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf": {
    "lab_ids": [
-    "enac-lmd"
+    "enac-lmd",
+    "enac-lmmd"
    ],
    "parent_url": "https://www.epfl.ch/labs/lmd/student-projects/",
    "link_text": "this",
@@ -7893,7 +10693,7 @@
    "text_chars": 3429,
    "text_file": "aeac4d22d074986468c5041d.txt",
    "first_seen_at": "2026-11-23T10:49:55+00:00",
-   "last_checked_at": "2026-11-23T13:47:56+00:00",
+   "last_checked_at": "2026-11-24T11:00:30+00:00",
    "last_changed_at": "2026-11-23T10:49:55+00:00"
   },
   "https://www.epfl.ch/labs/lmgn/page-126609-en-html/": {
@@ -8136,6 +10936,51 @@
    "last_checked_at": "2026-11-24T09:49:05+00:00",
    "last_changed_at": "2026-11-24T09:49:05+00:00"
   },
+  "https://www.epfl.ch/labs/lms/fr/stages-et-projets-etudiants-2/": {
+   "lab_ids": [
+    "enac-lms"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lms/fr/stages-et-projets-etudiants-2/",
+   "content_hash": "d76b995eed3f68bce9c0e95de4b821977cac729c72bd333c2ed8b174478a1720",
+   "text_chars": 1800,
+   "text_file": "bd2c3ac3f9df2ed10c1b9798.txt",
+   "first_seen_at": "2026-11-24T11:00:43+00:00",
+   "last_checked_at": "2026-11-24T11:00:43+00:00",
+   "last_changed_at": "2026-11-24T11:00:43+00:00"
+  },
+  "https://www.epfl.ch/labs/lms/internships-and-student-projects/": {
+   "lab_ids": [
+    "enac-lms"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
+   "content_hash": "9a8567b0092a00a0f1ac85f4cd74a242945bdb7afa3a971f9d0d9ca8d47ea822",
+   "text_chars": 6797,
+   "text_file": "b8c957afa3f951baf853a426.txt",
+   "first_seen_at": "2026-11-24T11:00:42+00:00",
+   "last_checked_at": "2026-11-24T11:00:42+00:00",
+   "last_changed_at": "2026-11-24T11:00:42+00:00"
+  },
+  "https://www.epfl.ch/labs/lms/master-thesis-at-lms/": {
+   "lab_ids": [
+    "enac-lms"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
+   "link_text": "https://www.epfl.ch/labs/lms/master-thesis-at-lms/",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lms/master-thesis-at-lms/",
+   "content_hash": "ad2b898cc7e7bdd010ff5e96e87b986afd1be0a7b46571a5dc0e4a4ef67ad439",
+   "text_chars": 8204,
+   "text_file": "ecb23c99a9770d7cc5eee119.txt",
+   "first_seen_at": "2026-11-24T11:00:44+00:00",
+   "last_checked_at": "2026-11-24T11:00:44+00:00",
+   "last_changed_at": "2026-11-24T11:00:44+00:00"
+  },
   "https://www.epfl.ch/labs/lmtm/fr/projets-etudiants/": {
    "lab_ids": [
     "sti-lmtm"
@@ -8240,6 +11085,21 @@
    "first_seen_at": "2026-11-24T09:49:12+00:00",
    "last_checked_at": "2026-11-24T09:49:12+00:00",
    "last_changed_at": "2026-11-24T09:49:12+00:00"
+  },
+  "https://www.epfl.ch/labs/lnco/student_projects/": {
+   "lab_ids": [
+    "sv-lnco"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lnco/student_projects/",
+   "content_hash": "f1710cdc762a7826503c1f5abb9980c8e86bde8e17b5910edcfa99e1054bde60",
+   "text_chars": 3413,
+   "text_file": "4e2b60aa84e0e0d4def5de79.txt",
+   "first_seen_at": "2026-11-24T11:01:40+00:00",
+   "last_checked_at": "2026-11-24T11:01:40+00:00",
+   "last_changed_at": "2026-11-24T11:01:40+00:00"
   },
   "https://www.epfl.ch/labs/lnet/openings/": {
    "lab_ids": [
@@ -8646,6 +11506,36 @@
    "last_checked_at": "2026-11-23T13:52:23+00:00",
    "last_changed_at": "2026-11-23T10:54:42+00:00"
   },
+  "https://www.epfl.ch/labs/lpsy/research/overview/": {
+   "lab_ids": [
+    "sv-lpsy"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lpsy/student-projects/",
+   "link_text": "Research topics",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lpsy/research/overview/",
+   "content_hash": "403a4f8a90784a945dad9587b96272753e51d208f68c511d44a7de74a9275284",
+   "text_chars": 5365,
+   "text_file": "df742f9262fe81f23fc43035.txt",
+   "first_seen_at": "2026-11-24T11:01:42+00:00",
+   "last_checked_at": "2026-11-24T11:01:42+00:00",
+   "last_changed_at": "2026-11-24T11:01:42+00:00"
+  },
+  "https://www.epfl.ch/labs/lpsy/student-projects/": {
+   "lab_ids": [
+    "sv-lpsy"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lpsy/student-projects/",
+   "content_hash": "feccdc383509476d0a23ad4f2e0eb5c11f9b3c37f0b9198231cdb59235a77606",
+   "text_chars": 98,
+   "text_file": "13aebdad1e813d4abbf5145a.txt",
+   "first_seen_at": "2026-11-24T11:01:41+00:00",
+   "last_checked_at": "2026-11-24T11:01:41+00:00",
+   "last_changed_at": "2026-11-24T11:01:41+00:00"
+  },
   "https://www.epfl.ch/labs/lrese/education/": {
    "lab_ids": [
     "sti-lrese"
@@ -8705,6 +11595,306 @@
    "first_seen_at": "2026-11-23T10:55:38+00:00",
    "last_checked_at": "2026-11-23T13:53:16+00:00",
    "last_changed_at": "2026-11-23T10:55:38+00:00"
+  },
+  "https://www.epfl.ch/labs/lsms/semester-and-master-projects/": {
+   "lab_ids": [
+    "enac-lsms"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lsms/semester-and-master-projects/",
+   "content_hash": "f23af888028ef5e4b173caef600b2bdeb9272aa7a8c18e5d1b84d5f102bec340",
+   "text_chars": 5610,
+   "text_file": "c046b187919b53f23f49fdca.txt",
+   "first_seen_at": "2026-11-24T11:00:45+00:00",
+   "last_checked_at": "2026-11-24T11:00:45+00:00",
+   "last_changed_at": "2026-11-24T11:00:45+00:00"
+  },
+  "https://www.epfl.ch/labs/lsms/semester-and-master-projects/all-projects/": {
+   "lab_ids": [
+    "enac-lsms"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsms/semester-and-master-projects/",
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lsms/semester-and-master-projects/all-projects/",
+   "content_hash": "6c2595902803f708e3b0ccd5fae8acae6526ed47a79f429547401d7b154d6f0c",
+   "text_chars": 10958,
+   "text_file": "b9647f6c2194f89b5d8c3ad3.txt",
+   "first_seen_at": "2026-11-24T11:00:46+00:00",
+   "last_checked_at": "2026-11-24T11:00:46+00:00",
+   "last_changed_at": "2026-11-24T11:00:46+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/homepage/student-projects/": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "content_hash": "ebea1c912954c48f8da43ed1137a26e2334a311fcd85cb356be6aa4741018dac",
+   "text_chars": 1038,
+   "text_file": "84aef0fec63eefc043cad983.txt",
+   "first_seen_at": "2026-11-24T11:00:47+00:00",
+   "last_checked_at": "2026-11-24T11:00:47+00:00",
+   "last_changed_at": "2026-11-24T11:00:47+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/02/Alex-Dunnett-_-EPFL-Student-Project-Proposal-AM.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "Alex Dunnett _ EPFL Student Project Proposal AM",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/02/Alex-Dunnett-_-EPFL-Student-Project-Proposal-AM.pdf",
+   "content_hash": "fbacdeb19144ce8120e7e4aab6cbca95fea3f6de64c607a0ca4de5843ea47f22",
+   "text_chars": 3100,
+   "text_file": "9df7e441902c0a0ea7ad0ab4.txt",
+   "first_seen_at": "2026-11-24T11:00:52+00:00",
+   "last_checked_at": "2026-11-24T11:00:52+00:00",
+   "last_changed_at": "2026-11-24T11:00:52+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/1.Student-Project_Biodegradable-Motor_Kyung-Sub-Kim.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "1.Student Project_Biodegradable Motor_Kyung-Sub Kim",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/1.Student-Project_Biodegradable-Motor_Kyung-Sub-Kim.pdf",
+   "content_hash": "9397e831334c170e1fa9e33f82e3bf485454730c9cfc1ff6989a6f38cd7f9f50",
+   "text_chars": 6236,
+   "text_file": "e188531c08ae5360548537de.txt",
+   "first_seen_at": "2026-11-24T11:00:54+00:00",
+   "last_checked_at": "2026-11-24T11:00:54+00:00",
+   "last_changed_at": "2026-11-24T11:00:54+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/2.Student-Project_Mushroom-Drone_Kyung-Sub-Kim.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "2.Student Project_Mushroom Drone_Kyung-Sub Kim",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/2.Student-Project_Mushroom-Drone_Kyung-Sub-Kim.pdf",
+   "content_hash": "bfc1920b9ce5b46fc7247371c68021e7dbca21cd4e00b6297b8e39f406140187",
+   "text_chars": 6499,
+   "text_file": "9e50222f7c16431054a2e946.txt",
+   "first_seen_at": "2026-11-24T11:00:55+00:00",
+   "last_checked_at": "2026-11-24T11:00:55+00:00",
+   "last_changed_at": "2026-11-24T11:00:55+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/3.Student-Project_Plant-robot_Kyung-Sub-Kim.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "3.Student Project_Plant robot_Kyung-Sub Kim",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/3.Student-Project_Plant-robot_Kyung-Sub-Kim.pdf",
+   "content_hash": "10c3cbf5785f12542afaafb6e9b68a340c85f8cf1311f2e6903b6b5e4bca8408",
+   "text_chars": 6204,
+   "text_file": "9052ad1d817ec036ec75fbf2.txt",
+   "first_seen_at": "2026-11-24T11:00:56+00:00",
+   "last_checked_at": "2026-11-24T11:00:56+00:00",
+   "last_changed_at": "2026-11-24T11:00:56+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/4.Student-Project_Biodegradable-Communication-Device_Kyung-Sub-Kim.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "4.Student Project_Biodegradable Communication Device_Kyung-Sub Kim",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/4.Student-Project_Biodegradable-Communication-Device_Kyung-Sub-Kim.pdf",
+   "content_hash": "fa24ceefa41e3a914d2b2c49eed85e57000a56a22be3975893a89e009bc8c2f9",
+   "text_chars": 6375,
+   "text_file": "44f18e7f2fbd0e428e56c6f1.txt",
+   "first_seen_at": "2026-11-24T11:00:57+00:00",
+   "last_checked_at": "2026-11-24T11:00:57+00:00",
+   "last_changed_at": "2026-11-24T11:00:57+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/Aerial_Underwater_Module_Quagga_Mussel.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "Aerial_Underwater_Module_Quagga_Mussel",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/Aerial_Underwater_Module_Quagga_Mussel.pdf",
+   "content_hash": "c4f4fc6ff635247c9cc78f5378e3a7bb56bf280118b21d28e6a6c20458ed2d31",
+   "text_chars": 2303,
+   "text_file": "4f539f9a1d5545787bbbc2cd.txt",
+   "first_seen_at": "2026-11-24T11:00:54+00:00",
+   "last_checked_at": "2026-11-24T11:00:54+00:00",
+   "last_changed_at": "2026-11-24T11:00:54+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/2026_0601_RyoKanno_SPINE_V2.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "2026_0601_RyoKanno_SPINE_V2",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/2026_0601_RyoKanno_SPINE_V2.pdf",
+   "content_hash": "bed7a063b65b95e7d4f9de8121b5ea41d2a326754fdb1b38ecfa462afbe5e8f0",
+   "text_chars": 6399,
+   "text_file": "f0fe6fa5ac66df72e0c9647e.txt",
+   "first_seen_at": "2026-11-24T11:00:51+00:00",
+   "last_checked_at": "2026-11-24T11:00:51+00:00",
+   "last_changed_at": "2026-11-24T11:00:51+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/student_proposal_sailmav_LR.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "student_proposal_sailmav_LR",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/student_proposal_sailmav_LR.pdf",
+   "content_hash": "b11d4d11b2f4049a51cfbede02df4da9f921faeb7cc7871892304baeb3d11e93",
+   "text_chars": 3046,
+   "text_file": "11fa66203ccdff0e9b1c560c.txt",
+   "first_seen_at": "2026-11-24T11:00:52+00:00",
+   "last_checked_at": "2026-11-24T11:00:52+00:00",
+   "last_changed_at": "2026-11-24T11:00:52+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/Aerial_Aquatic_Multirotor_Project.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "Aerial_Aquatic_Multirotor_Project",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/Aerial_Aquatic_Multirotor_Project.pdf",
+   "content_hash": "85efdae3a3017c7ee52bdba7dd0b347c617f7997671fe274cb8e598040867be7",
+   "text_chars": 4931,
+   "text_file": "eaa88610775210d415c15591.txt",
+   "first_seen_at": "2026-11-24T11:00:47+00:00",
+   "last_checked_at": "2026-11-24T11:00:47+00:00",
+   "last_changed_at": "2026-11-24T11:00:47+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_Impinging.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "LSR_Student_Project_AAM_Impinging",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_Impinging.pdf",
+   "content_hash": "73d69f1be0bc30aec7659120d619a69d5566c5e2c3c73d76d5336a12e886fe98",
+   "text_chars": 6450,
+   "text_file": "ac26e2d77e5b71c0241e6cc9.txt",
+   "first_seen_at": "2026-11-24T11:00:49+00:00",
+   "last_checked_at": "2026-11-24T11:00:49+00:00",
+   "last_changed_at": "2026-11-24T11:00:49+00:00"
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_MPC.pdf": {
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
+   "link_text": "LSR_Student_Project_AAM_MPC",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_MPC.pdf",
+   "content_hash": "47a5748bdc060b8bedf921fe9a9a0121ee278f3cf2c6fc11e67dab153a13b8c2",
+   "text_chars": 10203,
+   "text_file": "1cc43f57b44e3f12a418fb36.txt",
+   "first_seen_at": "2026-11-24T11:00:48+00:00",
+   "last_checked_at": "2026-11-24T11:00:48+00:00",
+   "last_changed_at": "2026-11-24T11:00:48+00:00"
+  },
+  "https://www.epfl.ch/labs/lsym/393-2/": {
+   "lab_ids": [
+    "sv-lsym"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lsym/393-2/",
+   "content_hash": "abd869ffdbc24106b05ac3513beb9cb77ce8a74f98ab1a90aa1ae5e548741614",
+   "text_chars": 203,
+   "text_file": "6c5144f3840ab49c1ccd582c.txt",
+   "first_seen_at": "2026-11-24T11:01:43+00:00",
+   "last_checked_at": "2026-11-24T11:01:43+00:00",
+   "last_changed_at": "2026-11-24T11:01:43+00:00"
+  },
+  "https://www.epfl.ch/labs/lsym/studentprojects/": {
+   "lab_ids": [
+    "sv-lsym"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lsym/393-2/",
+   "link_text": "Master´s projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lsym/studentprojects/",
+   "content_hash": "9aa68048d6384c5e79756da2bd3919c87b05aafca07f8438dc0a5b192be658be",
+   "text_chars": 154,
+   "text_file": "e019956cc817768e0e69b91f.txt",
+   "first_seen_at": "2026-11-24T11:01:44+00:00",
+   "last_checked_at": "2026-11-24T11:01:44+00:00",
+   "last_changed_at": "2026-11-24T11:01:44+00:00"
+  },
+  "https://www.epfl.ch/labs/lte/projects/": {
+   "lab_ids": [
+    "enac-lte"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/lte/teaching/",
+   "link_text": "Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lte/projects/",
+   "content_hash": "a9f85725999e26d992b193d47a5c58486afa21be82d8dc8a73b8e6357411fba4",
+   "text_chars": 925,
+   "text_file": "1cc2d9ed3f9542fae1bf1eaf.txt",
+   "first_seen_at": "2026-11-24T11:00:59+00:00",
+   "last_checked_at": "2026-11-24T11:00:59+00:00",
+   "last_changed_at": "2026-11-24T11:00:59+00:00"
+  },
+  "https://www.epfl.ch/labs/lte/teaching/": {
+   "lab_ids": [
+    "enac-lte"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/lte/teaching/",
+   "content_hash": "cbbc3de77f15b85c717aa4a716335f0f84397dbe698ee273137203ba7ff61617",
+   "text_chars": 1853,
+   "text_file": "3a48a01cdee86b431369f9c2.txt",
+   "first_seen_at": "2026-11-24T09:32:26+00:00",
+   "last_checked_at": "2026-11-24T09:32:26+00:00",
+   "last_changed_at": "2026-11-24T09:32:26+00:00"
+  },
+  "https://www.epfl.ch/labs/ltqe/page-73621-en-html/": {
+   "lab_ids": [
+    "enac-ltqe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/ltqe/page-73621-en-html/",
+   "content_hash": "02a01bca168745e69f1ee561c205a11d22212174b3263e446d81d48870fc179e",
+   "text_chars": 133,
+   "text_file": "17da191e1360ae9bfeb20e2e.txt",
+   "first_seen_at": "2026-11-24T11:01:00+00:00",
+   "last_checked_at": "2026-11-24T11:01:00+00:00",
+   "last_changed_at": "2026-11-24T11:01:00+00:00"
+  },
+  "https://www.epfl.ch/labs/ltqe/wp-content/uploads/2022/07/Semester_project1_fall_2022_LTQE_Urs_von_Gunten.pdf": {
+   "lab_ids": [
+    "enac-ltqe"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/ltqe/page-73621-en-html/",
+   "link_text": "Hands4Health",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/ltqe/wp-content/uploads/2022/07/Semester_project1_fall_2022_LTQE_Urs_von_Gunten.pdf",
+   "content_hash": "3597ba29ed9f4afe8f40dd4b5a99934d82ebfa1e15e0dcaec3c3a150a4881488",
+   "text_chars": 1168,
+   "text_file": "a976f372844cbeab9b5539e6.txt",
+   "first_seen_at": "2026-11-24T11:01:00+00:00",
+   "last_checked_at": "2026-11-24T11:01:00+00:00",
+   "last_changed_at": "2026-11-24T11:01:00+00:00"
   },
   "https://www.epfl.ch/labs/lts4/openings/": {
    "lab_ids": [
@@ -8766,6 +11956,21 @@
    "last_checked_at": "2026-11-23T13:52:44+00:00",
    "last_changed_at": "2026-11-23T10:55:11+00:00"
   },
+  "https://www.epfl.ch/labs/luts/semester-projects/": {
+   "lab_ids": [
+    "enac-luts"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/luts/semester-projects/",
+   "content_hash": "4a3edb6c3d72d19e8dd060b7503f76059685b271ec1c3cd91f1f9b69990534ad",
+   "text_chars": 56179,
+   "text_file": "cd9575814514452cf3035155.txt",
+   "first_seen_at": "2026-11-24T11:01:02+00:00",
+   "last_checked_at": "2026-11-24T11:01:02+00:00",
+   "last_changed_at": "2026-11-24T11:01:02+00:00"
+  },
   "https://www.epfl.ch/labs/lwe/page-142116-en-html/": {
    "lab_ids": [
     "sti-lwe"
@@ -8795,6 +12000,36 @@
    "first_seen_at": "2026-11-24T09:49:38+00:00",
    "last_checked_at": "2026-11-24T09:49:38+00:00",
    "last_changed_at": "2026-11-24T09:49:38+00:00"
+  },
+  "https://www.epfl.ch/labs/mace/fr/enseignement/projets-de-maitrise/": {
+   "lab_ids": [
+    "enac-mace"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/mace/teaching/master-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mace/fr/enseignement/projets-de-maitrise/",
+   "content_hash": "ab83582282e9fd97b1f65f56851f721c647327d17662557002387ed5e2546602",
+   "text_chars": 1894,
+   "text_file": "b154d7507d05ff25de2353df.txt",
+   "first_seen_at": "2026-11-24T11:01:04+00:00",
+   "last_checked_at": "2026-11-24T11:01:04+00:00",
+   "last_changed_at": "2026-11-24T11:01:04+00:00"
+  },
+  "https://www.epfl.ch/labs/mace/teaching/master-projects/": {
+   "lab_ids": [
+    "enac-mace"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mace/teaching/master-projects/",
+   "content_hash": "50056e9d41e364281581de8e795799f9aea1ef4a715a86847723b7743e03bacb",
+   "text_chars": 3277,
+   "text_file": "35d7cf36f46329f2cc401b5d.txt",
+   "first_seen_at": "2026-11-24T11:01:03+00:00",
+   "last_checked_at": "2026-11-24T11:01:03+00:00",
+   "last_changed_at": "2026-11-24T11:01:03+00:00"
   },
   "https://www.epfl.ch/labs/mag/page-141487-en-html/page-141766-en-html/": {
    "lab_ids": [
@@ -8886,6 +12121,81 @@
    "last_checked_at": "2026-11-24T09:49:41+00:00",
    "last_changed_at": "2026-11-24T09:49:41+00:00"
   },
+  "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/": {
+   "lab_ids": [
+    "sv-lnmc"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/",
+   "content_hash": "9f1a14d5ea7877c46f9ea0ada52ed75fdb24ffab127c0bc0e38669c5d73e7b37",
+   "text_chars": 221,
+   "text_file": "ad49594c9e236ac6b0aa9aa0.txt",
+   "first_seen_at": "2026-11-24T09:40:13+00:00",
+   "last_checked_at": "2026-11-24T09:40:13+00:00",
+   "last_changed_at": "2026-11-24T09:40:13+00:00"
+  },
+  "https://www.epfl.ch/labs/matr/student-projects/": {
+   "lab_ids": [
+    "enac-matr"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/matr/student-projects/",
+   "content_hash": "67d517ed367166a74982ef800d0e2c93a14fa57dc58e51758d0ea944d0270e96",
+   "text_chars": 7765,
+   "text_file": "969ce21189f0118e114142a6.txt",
+   "first_seen_at": "2026-11-24T11:01:05+00:00",
+   "last_checked_at": "2026-11-24T11:01:05+00:00",
+   "last_changed_at": "2026-11-24T11:01:05+00:00"
+  },
+  "https://www.epfl.ch/labs/mccabelab/positions/": {
+   "lab_ids": [
+    "sv-upmccabe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mccabelab/positions/",
+   "content_hash": "3d0a11786543a94c818f1cbb66cf772393f5dbf1284806efe8b41e37bc4c7efc",
+   "text_chars": 3206,
+   "text_file": "d9fe7ba9cd007cb554c6f905.txt",
+   "first_seen_at": "2026-11-24T09:40:53+00:00",
+   "last_checked_at": "2026-11-24T09:40:53+00:00",
+   "last_changed_at": "2026-11-24T09:40:53+00:00"
+  },
+  "https://www.epfl.ch/labs/mckinney-lab/student-projects/": {
+   "lab_ids": [
+    "sv-lmic"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mckinney-lab/student-projects/",
+   "content_hash": "3a409a3a6d5c90f103141ecf2d2bba5f0c2b3343ebf6fad4162645e19085126a",
+   "text_chars": 688,
+   "text_file": "dc791840040562aab4bf15d1.txt",
+   "first_seen_at": "2026-11-24T11:01:39+00:00",
+   "last_checked_at": "2026-11-24T11:01:39+00:00",
+   "last_changed_at": "2026-11-24T11:01:39+00:00"
+  },
+  "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/": {
+   "lab_ids": [
+    "enac-mcs"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/",
+   "content_hash": "ec046e2095792b855c6eb1e981a0939ffe779f66fcf444d546b9f0abde574701",
+   "text_chars": 50,
+   "text_file": "872c5809aad01e50a65a4f0e.txt",
+   "first_seen_at": "2026-11-24T09:32:32+00:00",
+   "last_checked_at": "2026-11-24T09:32:32+00:00",
+   "last_changed_at": "2026-11-24T09:32:32+00:00"
+  },
   "https://www.epfl.ch/labs/mds/": {
    "lab_ids": [
     "ic-mds2"
@@ -8915,6 +12225,21 @@
    "first_seen_at": "2026-11-24T09:49:46+00:00",
    "last_checked_at": "2026-11-24T09:49:46+00:00",
    "last_changed_at": "2026-11-24T09:49:46+00:00"
+  },
+  "https://www.epfl.ch/labs/microbe/student-project/": {
+   "lab_ids": [
+    "enac-microbe"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/microbe/student-project/",
+   "content_hash": "6003f447b1de31aba7b54a2c82c6ead4adf6bddacab3392cde00887bed548e3e",
+   "text_chars": 594,
+   "text_file": "a4f9228e8d1cbcc7c85c09c6.txt",
+   "first_seen_at": "2026-11-24T11:01:06+00:00",
+   "last_checked_at": "2026-11-24T11:01:06+00:00",
+   "last_changed_at": "2026-11-24T11:01:06+00:00"
   },
   "https://www.epfl.ch/labs/microbs/page-129358-en-html/": {
    "lab_ids": [
@@ -9143,7 +12468,8 @@
   },
   "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/": {
    "lab_ids": [
-    "sv-upnae"
+    "sv-upnae",
+    "sv-naef-lab"
    ],
    "parent_url": null,
    "link_text": null,
@@ -9153,12 +12479,13 @@
    "text_chars": 718,
    "text_file": "982245da0b3fefbb818aadff.txt",
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_checked_at": "2026-11-23T13:53:25+00:00",
+   "last_checked_at": "2026-11-24T11:01:45+00:00",
    "last_changed_at": "2026-11-23T10:55:44+00:00"
   },
   "https://www.epfl.ch/labs/naef-lab/page-34749-en-html/": {
    "lab_ids": [
-    "sv-upnae"
+    "sv-upnae",
+    "sv-naef-lab"
    ],
    "parent_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "link_text": "Openings",
@@ -9168,7 +12495,7 @@
    "text_chars": 801,
    "text_file": "b47c39c676278c8ac2bb483f.txt",
    "first_seen_at": "2026-11-23T10:55:44+00:00",
-   "last_checked_at": "2026-11-23T13:53:26+00:00",
+   "last_checked_at": "2026-11-24T11:01:46+00:00",
    "last_changed_at": "2026-11-23T10:55:44+00:00"
   },
   "https://www.epfl.ch/labs/nal/semester-projects/": {
@@ -9291,6 +12618,21 @@
    "last_checked_at": "2026-11-24T09:49:55+00:00",
    "last_changed_at": "2026-11-24T09:49:55+00:00"
   },
+  "https://www.epfl.ch/labs/navarro-lab/open-positions/": {
+   "lab_ids": [
+    "sv-upnavarro"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/navarro-lab/open-positions/",
+   "content_hash": "6925560320e24054f60e11ee53139ed3f57f6ee058949223ded712f7eccf1397",
+   "text_chars": 300,
+   "text_file": "55b50300b188ef41ec840365.txt",
+   "first_seen_at": "2026-11-24T09:40:55+00:00",
+   "last_checked_at": "2026-11-24T09:40:55+00:00",
+   "last_changed_at": "2026-11-24T09:40:55+00:00"
+  },
   "https://www.epfl.ch/labs/nems/student-projects/": {
    "lab_ids": [
     "sti-nems"
@@ -9321,6 +12663,81 @@
    "last_checked_at": "2026-11-23T13:53:22+00:00",
    "last_changed_at": "2026-11-23T10:55:42+00:00"
   },
+  "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/": {
+   "lab_ids": [
+    "sv-upoates"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/",
+   "content_hash": "7a8697422354389f6afec66048b69bda5f0fb63aad0a7b2fd17aaa6c8c5dc3da",
+   "text_chars": 7593,
+   "text_file": "a84860c6e3d40e4f50cd341e.txt",
+   "first_seen_at": "2026-11-24T11:01:59+00:00",
+   "last_checked_at": "2026-11-24T11:01:59+00:00",
+   "last_changed_at": "2026-11-24T11:01:59+00:00"
+  },
+  "https://www.epfl.ch/labs/oricchiolab/openings/": {
+   "lab_ids": [
+    "sv-uporicchio"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/oricchiolab/openings/",
+   "content_hash": "58211afd21767a6de192c336f4dd70246eefa20cd144f2ac065c0836bc4d976d",
+   "text_chars": 2096,
+   "text_file": "af8ae2098bea369449887424.txt",
+   "first_seen_at": "2026-11-24T11:02:00+00:00",
+   "last_checked_at": "2026-11-24T11:02:00+00:00",
+   "last_changed_at": "2026-11-24T11:02:00+00:00"
+  },
+  "https://www.epfl.ch/labs/oricchiolab/page-134955-en-html/": {
+   "lab_ids": [
+    "sv-uporicchio"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/oricchiolab/openings/",
+   "link_text": "Openings",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/oricchiolab/page-134955-en-html/",
+   "content_hash": "220b23ee64af8d99582259b28a336a61a039d5efb9efae8e1a568bd9ee46b7e4",
+   "text_chars": 713,
+   "text_file": "1587fc933ac0d79e038e94cf.txt",
+   "first_seen_at": "2026-11-24T11:02:01+00:00",
+   "last_checked_at": "2026-11-24T11:02:01+00:00",
+   "last_changed_at": "2026-11-24T11:02:01+00:00"
+  },
+  "https://www.epfl.ch/labs/pal/open-positions/": {
+   "lab_ids": [
+    "enac-pal"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/pal/open-positions/",
+   "content_hash": "d14bb655469ba6cc0161ec94a02ad6161e608e62fa72014b29ab0342ba17e029",
+   "text_chars": 3991,
+   "text_file": "1c43433a4d14f72608d5c3ca.txt",
+   "first_seen_at": "2026-11-24T09:32:35+00:00",
+   "last_checked_at": "2026-11-24T09:32:35+00:00",
+   "last_changed_at": "2026-11-24T09:32:35+00:00"
+  },
+  "https://www.epfl.ch/labs/pal/research-projects/": {
+   "lab_ids": [
+    "enac-pal"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/pal/open-positions/",
+   "link_text": "Research projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/pal/research-projects/",
+   "content_hash": "5f1dd890ceb0acad6e4a6e4b928af7d11618e8b79ffc1e6c0a70bd73b49a7335",
+   "text_chars": 343,
+   "text_file": "4fe2b2a23d85da159d8f843a.txt",
+   "first_seen_at": "2026-11-24T11:01:07+00:00",
+   "last_checked_at": "2026-11-24T11:01:07+00:00",
+   "last_changed_at": "2026-11-24T11:01:07+00:00"
+  },
   "https://www.epfl.ch/labs/pbl/open-positions/": {
    "lab_ids": [
     "sti-pbl"
@@ -9350,6 +12767,36 @@
    "first_seen_at": "2026-11-24T09:49:57+00:00",
    "last_checked_at": "2026-11-24T09:49:57+00:00",
    "last_changed_at": "2026-11-24T09:49:57+00:00"
+  },
+  "https://www.epfl.ch/labs/perl/fr/perl-fr/student-projects-fr/": {
+   "lab_ids": [
+    "enac-perl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/perl/perl-home/student-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/perl/fr/perl-fr/student-projects-fr/",
+   "content_hash": "ce192c6dc38b6521a472315de473501b24909c13fe7e6f72d714edf459f2e1eb",
+   "text_chars": 355,
+   "text_file": "a2a8f2eec2c40f4990585707.txt",
+   "first_seen_at": "2026-11-24T11:01:09+00:00",
+   "last_checked_at": "2026-11-24T11:01:09+00:00",
+   "last_changed_at": "2026-11-24T11:01:09+00:00"
+  },
+  "https://www.epfl.ch/labs/perl/perl-home/student-projects/": {
+   "lab_ids": [
+    "enac-perl"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/perl/perl-home/student-projects/",
+   "content_hash": "c2ce3490fc750ba60c2ee13fc29c26a1d9eea8f5af2babe6b789be5ee440beb4",
+   "text_chars": 335,
+   "text_file": "c83e2b3ab4cecd3e2d40b1f9.txt",
+   "first_seen_at": "2026-11-24T11:01:08+00:00",
+   "last_checked_at": "2026-11-24T11:01:08+00:00",
+   "last_changed_at": "2026-11-24T11:01:08+00:00"
   },
   "https://www.epfl.ch/labs/phosl/index-html/teaching/": {
    "lab_ids": [
@@ -9428,7 +12875,8 @@
   },
   "https://www.epfl.ch/labs/ramdya-lab/available-projects/": {
    "lab_ids": [
-    "sv-ramdya-lab"
+    "sv-ramdya-lab",
+    "sv-upramdya"
    ],
    "parent_url": null,
    "link_text": null,
@@ -9438,7 +12886,7 @@
    "text_chars": 7600,
    "text_file": "6884b0a58570f0b3fd7c6870.txt",
    "first_seen_at": "2026-11-23T10:55:39+00:00",
-   "last_checked_at": "2026-11-23T13:53:18+00:00",
+   "last_checked_at": "2026-11-24T11:02:03+00:00",
    "last_changed_at": "2026-11-23T10:55:39+00:00"
   },
   "https://www.epfl.ch/labs/rehassist/education/open-projects-list/": {
@@ -9470,6 +12918,51 @@
    "first_seen_at": "2026-11-24T09:50:08+00:00",
    "last_checked_at": "2026-11-24T09:50:08+00:00",
    "last_changed_at": "2026-11-24T09:50:08+00:00"
+  },
+  "https://www.epfl.ch/labs/resslab/semester-projects/": {
+   "lab_ids": [
+    "enac-resslab"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/resslab/semester-projects/",
+   "content_hash": "006223099831888de696f74bb03af6c66b8c57ce6a2c5c2d000623bee0e75806",
+   "text_chars": 4895,
+   "text_file": "5ccb4c398fab37813e24a9fa.txt",
+   "first_seen_at": "2026-11-24T11:01:10+00:00",
+   "last_checked_at": "2026-11-24T11:01:10+00:00",
+   "last_changed_at": "2026-11-24T11:01:10+00:00"
+  },
+  "https://www.epfl.ch/labs/river/student-projects/": {
+   "lab_ids": [
+    "enac-river"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/river/student-projects/",
+   "content_hash": "abb58abf1c2c8a9694941491a4cd2812641a3d60cd68e268686b164f44e66458",
+   "text_chars": 304,
+   "text_file": "602f6c05edbd51bd3ecee159.txt",
+   "first_seen_at": "2026-11-24T11:01:11+00:00",
+   "last_checked_at": "2026-11-24T11:01:11+00:00",
+   "last_changed_at": "2026-11-24T11:01:11+00:00"
+  },
+  "https://www.epfl.ch/labs/rpgl/teaching/": {
+   "lab_ids": [
+    "enac-rpgl"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/rpgl/teaching/",
+   "content_hash": "bc0b3b4a063d758a12cdb64e9b10db76cd218dd6a1b9de6c198655c6df79185a",
+   "text_chars": 621,
+   "text_file": "ab644cd2994832ea15123ff8.txt",
+   "first_seen_at": "2026-11-24T09:32:41+00:00",
+   "last_checked_at": "2026-11-24T09:32:41+00:00",
+   "last_changed_at": "2026-11-24T09:32:41+00:00"
   },
   "https://www.epfl.ch/labs/rrl/research-2/ma-projects/": {
    "lab_ids": [
@@ -9516,6 +13009,21 @@
    "last_checked_at": "2026-11-23T13:50:53+00:00",
    "last_changed_at": "2026-11-23T10:52:43+00:00"
   },
+  "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/": {
+   "lab_ids": [
+    "sv-upschoonjans"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/",
+   "content_hash": "fe5ebd90cddbba8196947ead4d559cab293e7e44977565d797024d98673040ca",
+   "text_chars": 1562,
+   "text_file": "c814a881006641d4e69c847e.txt",
+   "first_seen_at": "2026-11-24T11:02:04+00:00",
+   "last_checked_at": "2026-11-24T11:02:04+00:00",
+   "last_changed_at": "2026-11-24T11:02:04+00:00"
+  },
   "https://www.epfl.ch/labs/schrimpflab/#prospective": {
    "lab_ids": [
     "ic-upschrimpf2"
@@ -9545,6 +13053,81 @@
    "first_seen_at": "2026-11-23T10:52:55+00:00",
    "last_checked_at": "2026-11-23T13:51:09+00:00",
    "last_changed_at": "2026-11-23T10:52:55+00:00"
+  },
+  "https://www.epfl.ch/labs/schueder-lab/open-positions/": {
+   "lab_ids": [
+    "sv-upschueder"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/schueder-lab/open-positions/",
+   "content_hash": "1a00b04bff2ef5fd70ef2a4e3fb815df0691d23da8393772517648e1f7a28848",
+   "text_chars": 4713,
+   "text_file": "a2cf373c4a207b4ecc21413c.txt",
+   "first_seen_at": "2026-11-24T09:41:03+00:00",
+   "last_checked_at": "2026-11-24T09:41:03+00:00",
+   "last_changed_at": "2026-11-24T09:41:03+00:00"
+  },
+  "https://www.epfl.ch/labs/sci-enac-as/research/": {
+   "lab_ids": [
+    "enac-sci-enac-as"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/",
+   "link_text": "Research topics",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sci-enac-as/research/",
+   "content_hash": "bcc3380d2a09cc3c96b0600f87c55b1f9034f87011bb832b9a0f1d872f064c24",
+   "text_chars": 7151,
+   "text_file": "5597f3f0ab5db551c6abc60b.txt",
+   "first_seen_at": "2026-11-24T11:01:13+00:00",
+   "last_checked_at": "2026-11-24T11:01:13+00:00",
+   "last_changed_at": "2026-11-24T11:01:13+00:00"
+  },
+  "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/": {
+   "lab_ids": [
+    "enac-sci-enac-as"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/",
+   "content_hash": "3f0054a89f54d955446ae7db4298a95b891d5db0e26c0652edce7a6e640bccc4",
+   "text_chars": 2887,
+   "text_file": "216c9c27d64f970ae44d9824.txt",
+   "first_seen_at": "2026-11-24T11:01:12+00:00",
+   "last_checked_at": "2026-11-24T11:01:12+00:00",
+   "last_changed_at": "2026-11-24T11:01:12+00:00"
+  },
+  "https://www.epfl.ch/labs/sense/fr/student-projects/": {
+   "lab_ids": [
+    "enac-sense"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/sense/student-projects-2/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sense/fr/student-projects/",
+   "content_hash": "7b5d23f6ae890ced016a5a927fa411ed9efc884a0e57ce10da13d327b6385a10",
+   "text_chars": 7268,
+   "text_file": "066d3536139b05201e6957a1.txt",
+   "first_seen_at": "2026-11-24T11:01:15+00:00",
+   "last_checked_at": "2026-11-24T11:01:15+00:00",
+   "last_changed_at": "2026-11-24T11:01:15+00:00"
+  },
+  "https://www.epfl.ch/labs/sense/student-projects-2/": {
+   "lab_ids": [
+    "enac-sense"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sense/student-projects-2/",
+   "content_hash": "18c1e67ee754ce23c302039d17b9cc69feb8cea19b29f7bf0fad9ab8657fe070",
+   "text_chars": 7266,
+   "text_file": "32c6afb9c9cdcea3aaceef41.txt",
+   "first_seen_at": "2026-11-24T11:01:14+00:00",
+   "last_checked_at": "2026-11-24T11:01:14+00:00",
+   "last_changed_at": "2026-11-24T11:01:14+00:00"
   },
   "https://www.epfl.ch/labs/smal/projects/": {
    "lab_ids": [
@@ -9591,6 +13174,36 @@
    "last_checked_at": "2026-11-24T09:50:15+00:00",
    "last_changed_at": "2026-11-24T09:50:15+00:00"
   },
+  "https://www.epfl.ch/labs/soil/msc-and-sie-projects/": {
+   "lab_ids": [
+    "enac-soil"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/soil/teaching/",
+   "link_text": "MSc and SIE projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/soil/msc-and-sie-projects/",
+   "content_hash": "36969194dd3764092e20d435e8eb904df8c68c37fcaf1ade15ecc4af68f91f31",
+   "text_chars": 8741,
+   "text_file": "0b77412c457c157f8d0e3e0e.txt",
+   "first_seen_at": "2026-11-24T11:01:16+00:00",
+   "last_checked_at": "2026-11-24T11:01:16+00:00",
+   "last_changed_at": "2026-11-24T11:01:16+00:00"
+  },
+  "https://www.epfl.ch/labs/soil/teaching/": {
+   "lab_ids": [
+    "enac-soil"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/soil/teaching/",
+   "content_hash": "fd2ffd2da6f0a2f120a22509e1ccf246c4929d3f4302a14882a10d47c92ffb22",
+   "text_chars": 111,
+   "text_file": "08c70b5f056c9c6783b2cd42.txt",
+   "first_seen_at": "2026-11-24T09:32:47+00:00",
+   "last_checked_at": "2026-11-24T09:32:47+00:00",
+   "last_changed_at": "2026-11-24T09:32:47+00:00"
+  },
   "https://www.epfl.ch/labs/spark/join-the-lab/": {
    "lab_ids": [
     "sti-spark"
@@ -9636,6 +13249,81 @@
    "last_checked_at": "2026-11-23T13:50:57+00:00",
    "last_changed_at": "2026-11-23T10:52:48+00:00"
   },
+  "https://www.epfl.ch/labs/streem/fr/projets-detudiant-e-s-2/": {
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "link_text": "FR",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/streem/fr/projets-detudiant-e-s-2/",
+   "content_hash": "850a38ca3debc01e94b00b4d8ba004450266c93661632361bc9eeb832d90b6e1",
+   "text_chars": 8934,
+   "text_file": "fb44fbd142aa370e99532053.txt",
+   "first_seen_at": "2026-11-24T11:01:18+00:00",
+   "last_checked_at": "2026-11-24T11:01:18+00:00",
+   "last_changed_at": "2026-11-24T11:01:18+00:00"
+  },
+  "https://www.epfl.ch/labs/streem/student-projects/": {
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "content_hash": "cbfd5dfb2b134a4cb6abd06638de3c84ef40bc5ed819e600773ff6510046449e",
+   "text_chars": 15733,
+   "text_file": "fffd50a97df447ebfb67fb7a.txt",
+   "first_seen_at": "2026-11-24T11:01:17+00:00",
+   "last_checked_at": "2026-11-24T11:01:17+00:00",
+   "last_changed_at": "2026-11-24T11:01:17+00:00"
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/STREEM_project_DLRiverMorphology.pdf": {
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "link_text": "here",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/STREEM_project_DLRiverMorphology.pdf",
+   "content_hash": "944e19d49f9a9d5c1aac9b5d379cace5bbe2bbfc2c5ae78d2c214a9e512f7ed0",
+   "text_chars": 5495,
+   "text_file": "a314e0246163f0fee21a3128.txt",
+   "first_seen_at": "2026-11-24T11:01:21+00:00",
+   "last_checked_at": "2026-11-24T11:01:21+00:00",
+   "last_changed_at": "2026-11-24T11:01:21+00:00"
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/Semester_project_proposal.pdf": {
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "link_text": "here",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/Semester_project_proposal.pdf",
+   "content_hash": "ad6d7e46ac28bba724d01554bebf453d36015fac1d3b1ff787a199f087969ec3",
+   "text_chars": 3214,
+   "text_file": "8ef539aa6798b6ede6662f48.txt",
+   "first_seen_at": "2026-11-24T11:01:20+00:00",
+   "last_checked_at": "2026-11-24T11:01:20+00:00",
+   "last_changed_at": "2026-11-24T11:01:20+00:00"
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2026/08/Semester_project_proposal_Dunes.pdf": {
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/streem/student-projects/",
+   "link_text": "here",
+   "kind": "pdf",
+   "final_url": "https://www.epfl.ch/labs/streem/wp-content/uploads/2026/08/Semester_project_proposal_Dunes.pdf",
+   "content_hash": "bf4a0efe9d13c68b5a402081624764f9eefad387d73bbbea17c0244ec570990b",
+   "text_chars": 3753,
+   "text_file": "c89c62fc18f30a3c8b881556.txt",
+   "first_seen_at": "2026-11-24T11:01:19+00:00",
+   "last_checked_at": "2026-11-24T11:01:19+00:00",
+   "last_changed_at": "2026-11-24T11:01:19+00:00"
+  },
   "https://www.epfl.ch/labs/sunmil/teaching/": {
    "lab_ids": [
     "sti-sunmil"
@@ -9650,6 +13338,51 @@
    "first_seen_at": "2026-11-24T09:50:17+00:00",
    "last_checked_at": "2026-11-24T09:50:17+00:00",
    "last_changed_at": "2026-11-24T09:50:17+00:00"
+  },
+  "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/": {
+   "lab_ids": [
+    "sv-upsuter"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/",
+   "content_hash": "346e7741a2fcbd0eb6d69f77b55ac18d422d7f8a6d640c79e651fc9c59447948",
+   "text_chars": 183,
+   "text_file": "91b183755ba4691eacaca378.txt",
+   "first_seen_at": "2026-11-24T11:02:05+00:00",
+   "last_checked_at": "2026-11-24T11:02:05+00:00",
+   "last_changed_at": "2026-11-24T11:02:05+00:00"
+  },
+  "https://www.epfl.ch/labs/sxl/education/": {
+   "lab_ids": [
+    "enac-sxl"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sxl/education/",
+   "content_hash": "ba94c8edbe53785cc2627e08fd960bc06753aee378b42216ea4b968aea52bd85",
+   "text_chars": 13599,
+   "text_file": "d97b837e1a56d5e360a1dca9.txt",
+   "first_seen_at": "2026-11-24T09:33:01+00:00",
+   "last_checked_at": "2026-11-24T09:33:01+00:00",
+   "last_changed_at": "2026-11-24T09:33:01+00:00"
+  },
+  "https://www.epfl.ch/labs/sxl/job-openings/": {
+   "lab_ids": [
+    "enac-sxl"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/sxl/education/",
+   "link_text": "Job Openings",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/sxl/job-openings/",
+   "content_hash": "dc90536af08d94a927ba47825d5a6e4f453648364c29f8846b9b173dbe34509f",
+   "text_chars": 450,
+   "text_file": "18f8c546ee074b46dfc1ab7d.txt",
+   "first_seen_at": "2026-11-24T09:33:01+00:00",
+   "last_checked_at": "2026-11-24T09:33:01+00:00",
+   "last_changed_at": "2026-11-24T09:33:01+00:00"
   },
   "https://www.epfl.ch/labs/sycamore/action-space-reduction-for-learning-robotic-manipulation-semester-project/": {
    "lab_ids": [
@@ -9891,6 +13624,51 @@
    "last_checked_at": "2026-11-23T13:53:07+00:00",
    "last_changed_at": "2026-11-23T10:55:31+00:00"
   },
+  "https://www.epfl.ch/labs/thema/enac-semester-project-unearthing-foundations/": {
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/thema/teaching/masters-projects/",
+   "link_text": "ENAC Semester Project: Foundation",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/thema/enac-semester-project-unearthing-foundations/",
+   "content_hash": "6c99323842891210cb6c053fbc433a41521e9eb1d8b2a0e548a5b0b0d8b2f3e8",
+   "text_chars": 943,
+   "text_file": "59bf6a94a08d59aea289ff2a.txt",
+   "first_seen_at": "2026-11-24T11:01:24+00:00",
+   "last_checked_at": "2026-11-24T11:01:24+00:00",
+   "last_changed_at": "2026-11-24T11:01:24+00:00"
+  },
+  "https://www.epfl.ch/labs/thema/research/": {
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/thema/teaching/masters-projects/",
+   "link_text": "Research and Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/thema/research/",
+   "content_hash": "a1df95c8944f89ecfdae1755b7baf7433d3e2e9b334c0c82ea606a65f1bbde24",
+   "text_chars": 555,
+   "text_file": "bd8a91fca9d818984cee0055.txt",
+   "first_seen_at": "2026-11-24T11:01:23+00:00",
+   "last_checked_at": "2026-11-24T11:01:23+00:00",
+   "last_changed_at": "2026-11-24T11:01:23+00:00"
+  },
+  "https://www.epfl.ch/labs/thema/teaching/masters-projects/": {
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/thema/home/teaching/masters-projects/",
+   "content_hash": "75f2b1a1f3bff3adc0ce89c019e21aacb7238fbc6cff77a4defcab6c3a5bed0e",
+   "text_chars": 3919,
+   "text_file": "80a46de9488fd13cd994f767.txt",
+   "first_seen_at": "2026-11-24T11:01:22+00:00",
+   "last_checked_at": "2026-11-24T11:01:22+00:00",
+   "last_changed_at": "2026-11-24T11:01:22+00:00"
+  },
   "https://www.epfl.ch/labs/theos/page-102234-en-html/": {
    "lab_ids": [
     "sti-theos"
@@ -9920,6 +13698,21 @@
    "first_seen_at": "2026-11-24T09:50:19+00:00",
    "last_checked_at": "2026-11-24T09:50:19+00:00",
    "last_changed_at": "2026-11-24T09:50:19+00:00"
+  },
+  "https://www.epfl.ch/labs/thoma-lab/join-us/": {
+   "lab_ids": [
+    "sv-upthomae"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/thoma-lab/join-us/",
+   "content_hash": "5dcfab74198f23cf7ff06ec829c883515382f88bf1d15ad645e240c461c6a3c0",
+   "text_chars": 948,
+   "text_file": "8d5f8306f630d04989274c9b.txt",
+   "first_seen_at": "2026-11-24T09:41:06+00:00",
+   "last_checked_at": "2026-11-24T09:41:06+00:00",
+   "last_changed_at": "2026-11-24T09:41:06+00:00"
   },
   "https://www.epfl.ch/labs/tic/page-25453-en-html/page-39144-en-html/": {
    "lab_ids": [
@@ -10011,6 +13804,36 @@
    "last_checked_at": "2026-11-24T09:50:24+00:00",
    "last_changed_at": "2026-11-24T09:50:24+00:00"
   },
+  "https://www.epfl.ch/labs/tpod/diploma-thesis/": {
+   "lab_ids": [
+    "enac-tpod"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/tpod/job-position/",
+   "link_text": "Diploma Thesis",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/tpod/diploma-thesis/",
+   "content_hash": "a2ea7f85fd069d0b7e9b4bd2a25fd1cb0f7abd1286775586d8e35e1833e897c4",
+   "text_chars": 918,
+   "text_file": "3d8b46ab8d673389eeefc7fe.txt",
+   "first_seen_at": "2026-11-24T11:01:25+00:00",
+   "last_checked_at": "2026-11-24T11:01:25+00:00",
+   "last_changed_at": "2026-11-24T11:01:25+00:00"
+  },
+  "https://www.epfl.ch/labs/tpod/job-position/": {
+   "lab_ids": [
+    "enac-tpod"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/tpod/job-position/",
+   "content_hash": "b94ac90e9c08c385a9ea3960835af83dcde14d69a02b4ef44b2cf5e9098bc0a8",
+   "text_chars": 152,
+   "text_file": "d11ac2a9765046db49e3e3b5.txt",
+   "first_seen_at": "2026-11-24T09:33:06+00:00",
+   "last_checked_at": "2026-11-24T09:33:06+00:00",
+   "last_changed_at": "2026-11-24T09:33:06+00:00"
+  },
   "https://www.epfl.ch/labs/transp-or/": {
    "lab_ids": [
     "enac-transp-or"
@@ -10055,6 +13878,246 @@
    "first_seen_at": "2026-11-24T09:50:26+00:00",
    "last_checked_at": "2026-11-24T09:50:26+00:00",
    "last_changed_at": "2026-11-24T09:50:26+00:00"
+  },
+  "https://www.epfl.ch/labs/upgoemans/open-positions/": {
+   "lab_ids": [
+    "sv-upgoemans"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/upgoemans/open-positions/",
+   "content_hash": "a62a2221f1168a3f164cfbb0539696ab2a66096d8a19196bae300cfc8f75fd9d",
+   "text_chars": 4211,
+   "text_file": "b5acfc222dcbf500033ccd39.txt",
+   "first_seen_at": "2026-11-24T09:40:35+00:00",
+   "last_checked_at": "2026-11-24T09:40:35+00:00",
+   "last_changed_at": "2026-11-24T09:40:35+00:00"
+  },
+  "https://www.epfl.ch/labs/upkim/join-us/": {
+   "lab_ids": [
+    "sv-upkim"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/upkim/join-us/",
+   "content_hash": "a71b03ee3de9564eafddb323fbf47353fe7381033d3b5e3ddb514aaa68b80732",
+   "text_chars": 1768,
+   "text_file": "3557337bc007392f00f21446.txt",
+   "first_seen_at": "2026-11-24T09:40:47+00:00",
+   "last_checked_at": "2026-11-24T09:40:47+00:00",
+   "last_changed_at": "2026-11-24T09:40:47+00:00"
+  },
+  "https://www.epfl.ch/labs/upwaszak/teaching/": {
+   "lab_ids": [
+    "sv-upwaszak"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/upwaszak/teaching/",
+   "content_hash": "235b42760afca8398d68386f312b83dd1096daeb77734b3f7160f64745af0bac",
+   "text_chars": 472,
+   "text_file": "ac8b618d7b04f98dd9bd51a6.txt",
+   "first_seen_at": "2026-11-24T09:41:08+00:00",
+   "last_checked_at": "2026-11-24T09:41:08+00:00",
+   "last_changed_at": "2026-11-24T09:41:08+00:00"
+  },
+  "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/": {
+   "lab_ids": [
+    "sv-upzenk"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/",
+   "content_hash": "d901bdc12529708a482cc3d9a181d2c0ed1d5eeed4e1bded6c4fb826a2f36e10",
+   "text_chars": 1021,
+   "text_file": "c2a253b47317937d372d4ebd.txt",
+   "first_seen_at": "2026-11-24T11:02:06+00:00",
+   "last_checked_at": "2026-11-24T11:02:06+00:00",
+   "last_changed_at": "2026-11-24T11:02:06+00:00"
+  },
+  "https://www.epfl.ch/labs/urbdemo/urbdemo/education/": {
+   "lab_ids": [
+    "enac-gr-urbdemo"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/urbdemo/urbdemo/education/",
+   "content_hash": "3090dbfdd93663955c571b979190fa74274d5f8a9826381b3f7e4c2a0a7a3aea",
+   "text_chars": 401,
+   "text_file": "dd9a8515a2f75c0d5d687362.txt",
+   "first_seen_at": "2026-11-24T09:29:10+00:00",
+   "last_checked_at": "2026-11-24T09:29:10+00:00",
+   "last_changed_at": "2026-11-24T09:29:10+00:00"
+  },
+  "https://www.epfl.ch/labs/urbdemo/urbdemo/projects/": {
+   "lab_ids": [
+    "enac-gr-urbdemo"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/urbdemo/urbdemo/education/",
+   "link_text": "Projects",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/urbdemo/urbdemo/projects/",
+   "content_hash": "fbb2a21d1c5b5da18ba6fc7c7a8c62daaf4618f76915a86294b08844e2675148",
+   "text_chars": 164,
+   "text_file": "02d81eef7e24d221f356d9a2.txt",
+   "first_seen_at": "2026-11-24T10:59:45+00:00",
+   "last_checked_at": "2026-11-24T10:59:45+00:00",
+   "last_changed_at": "2026-11-24T10:59:45+00:00"
+  },
+  "https://www.epfl.ch/labs/urbes/student-projects/": {
+   "lab_ids": [
+    "enac-urbes"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/urbes/student-projects/",
+   "content_hash": "c085ca9b59789f817bdfff5af4e6a580b35dcaade55a540c0da0ef4788c2b266",
+   "text_chars": 7688,
+   "text_file": "9993471b3cd8c0b50286e264.txt",
+   "first_seen_at": "2026-11-24T11:01:26+00:00",
+   "last_checked_at": "2026-11-24T11:01:26+00:00",
+   "last_changed_at": "2026-11-24T11:01:26+00:00"
+  },
+  "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/": {
+   "lab_ids": [
+    "sv-vdg"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/",
+   "content_hash": "cfdde4e65f796ba949b1e528a9cefdb1299eb3f71eb03a4695934c0b67a47eb9",
+   "text_chars": 1703,
+   "text_file": "68d8eab5a784d5404d254031.txt",
+   "first_seen_at": "2026-11-24T09:41:13+00:00",
+   "last_checked_at": "2026-11-24T09:41:13+00:00",
+   "last_changed_at": "2026-11-24T09:41:13+00:00"
+  },
+  "https://www.epfl.ch/labs/weir/student-projects/": {
+   "lab_ids": [
+    "enac-weir"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/weir/student-projects/",
+   "content_hash": "37efc1956878a7bb4e2ca709f25fd2426c83c5028d8b46eb165f1dcd29d74716",
+   "text_chars": 589,
+   "text_file": "f6dd74b75d95778827e4f593.txt",
+   "first_seen_at": "2026-11-24T11:01:27+00:00",
+   "last_checked_at": "2026-11-24T11:01:27+00:00",
+   "last_changed_at": "2026-11-24T11:01:27+00:00"
+  },
+  "https://www.epfl.ch/labs/westmann-lab/open-positions/": {
+   "lab_ids": [
+    "sv-gr-westmann"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/westmann-lab/open-positions/",
+   "content_hash": "c053a331209ef5a4ec7efa35fb4683c5cb176736de6959717bac01142413cba2",
+   "text_chars": 1514,
+   "text_file": "870577c6795534041048bc49.txt",
+   "first_seen_at": "2026-11-24T09:40:04+00:00",
+   "last_checked_at": "2026-11-24T09:40:04+00:00",
+   "last_changed_at": "2026-11-24T09:40:04+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": null,
+   "link_text": null,
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "content_hash": "440a8805bde9583a076912c3a2172ceb70415db121f9f4aced38667a6d737003",
+   "text_chars": 312,
+   "text_file": "36eb7fd7f25d9a1e902dec19.txt",
+   "first_seen_at": "2026-11-24T11:01:28+00:00",
+   "last_checked_at": "2026-11-24T11:01:28+00:00",
+   "last_changed_at": "2026-11-24T11:01:28+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/investigation-of-flow-development-in-thermally-stratified-turbulent-boundary-layers/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "link_text": "Example 1: Investigation of flow development in thermally-stratified turbulent boundary layers",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/investigation-of-flow-development-in-thermally-stratified-turbulent-boundary-layers/",
+   "content_hash": "5f4700de7905612d8a75ed03d5e9b84b14435aebe1ff17b4730cb3734c8f8a57",
+   "text_chars": 2305,
+   "text_file": "4cc4d538d3343c99abe2f8a0.txt",
+   "first_seen_at": "2026-11-24T11:01:29+00:00",
+   "last_checked_at": "2026-11-24T11:01:29+00:00",
+   "last_changed_at": "2026-11-24T11:01:29+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-project-wind-tunnel/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "link_text": "Example 5: Wind Tunnel Experiments for Wind Energy Optimization",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-project-wind-tunnel/",
+   "content_hash": "2646137be946052f92cbcf6a5957eda51b9bd5f306ace20fc973f6b3cf734132",
+   "text_chars": 2029,
+   "text_file": "9591b22ee3612fa85d19bb35.txt",
+   "first_seen_at": "2026-11-24T11:01:33+00:00",
+   "last_checked_at": "2026-11-24T11:01:33+00:00",
+   "last_changed_at": "2026-11-24T11:01:33+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-forecast/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "link_text": "Example 3: Wind Energy Forecast",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-forecast/",
+   "content_hash": "c7ae47c60b11829225a07723437b28a864d600b205cce65e24d65052e3d8869d",
+   "text_chars": 1425,
+   "text_file": "2dfc4d87578ae09ddccb24d2.txt",
+   "first_seen_at": "2026-11-24T11:01:31+00:00",
+   "last_checked_at": "2026-11-24T11:01:31+00:00",
+   "last_changed_at": "2026-11-24T11:01:31+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-optimization/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "link_text": "Example 4: Wind Energy Optimization",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-optimization/",
+   "content_hash": "b74f7920ad1dc9d9734b8fd887fce81bc7fd2a4ee69745b02f817e83bcbb1bb9",
+   "text_chars": 4226,
+   "text_file": "a7b3448c0c3bd108ec562a64.txt",
+   "first_seen_at": "2026-11-24T11:01:32+00:00",
+   "last_checked_at": "2026-11-24T11:01:32+00:00",
+   "last_changed_at": "2026-11-24T11:01:32+00:00"
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/wake-characteristics-of-a-wind-farm-sited-in-a-multiscale-rough-topography/": {
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "parent_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
+   "link_text": "Example 2: Wake characteristics of a wind farm sited in a multiscale rough topography",
+   "kind": "html",
+   "final_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/wake-characteristics-of-a-wind-farm-sited-in-a-multiscale-rough-topography/",
+   "content_hash": "318eb3bbfaef315b3dd900566cb90748f21255ff41ff2f067cebae2f09927310",
+   "text_chars": 1531,
+   "text_file": "33fde29026678bd0c57cae7a.txt",
+   "first_seen_at": "2026-11-24T11:01:30+00:00",
+   "last_checked_at": "2026-11-24T11:01:30+00:00",
+   "last_changed_at": "2026-11-24T11:01:30+00:00"
   },
   "https://www.epfl.ch/schools/enac/education/interdisciplinary-teaching/master-in-urban-systems/": {
    "lab_ids": [

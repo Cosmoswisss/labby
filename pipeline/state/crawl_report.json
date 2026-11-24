@@ -1,41 +1,60 @@
 {
- "started_at": "2026-11-24T09:46:05+00:00",
- "finished_at": "2026-11-24T09:50:26+00:00",
- "duration_s": 261.1,
+ "started_at": "2026-11-24T10:59:08+00:00",
+ "finished_at": "2026-11-24T11:02:06+00:00",
+ "duration_s": 178.3,
  "offline": false,
- "labs_total": 80,
+ "labs_total": 114,
  "labs_by_status": {
-  "ok": 80
+  "ok": 113,
+  "error": 1
  },
- "pages_total": 274,
- "pages_new": 269,
+ "pages_total": 215,
+ "pages_new": 195,
  "pages_changed": 0,
- "pages_unchanged": 0,
- "pages_error": 2,
- "pages_duplicate": 3,
+ "pages_unchanged": 16,
+ "pages_error": 4,
+ "pages_duplicate": 0,
  "pages_stale": 0,
  "little_text_pages": [
-  "https://www.epfl.ch/labs/emc/projects/",
-  "https://www.epfl.ch/labs/lmc/page-39752-en-html/page-156319-en-html/"
+  "https://www.epfl.ch/labs/dc-lab/fr/projets-etudiant/",
+  "https://www.epfl.ch/labs/hitam/teaching/masters-projects/fall-2026/",
+  "https://www.epfl.ch/labs/lgb/open-positions/",
+  "https://www.epfl.ch/labs/lhe/a-propos/",
+  "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/",
+  "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/",
+  "https://www.epfl.ch/labs/hanahan-lab/teaching/",
+  "https://www.epfl.ch/labs/lgc/index-html/student-projects/"
  ],
  "errors": [
   {
-   "lab": "sti-lasa",
-   "url": "https://www.epfl.ch/labs/lasa/student-projects/microsurgery-skill-assesment/",
+   "lab": "enac-eerl",
+   "url": "https://www.epfl.ch/labs/eerl/?page_id=1339",
    "status": "error",
    "error": "HTTP 404"
   },
   {
-   "lab": "sti-lrese",
-   "url": "https://www.epfl.ch/labs/lrese/education/fb301d87-d1b2-4f77-aca2-e33274c90863",
+   "lab": "enac-eerl",
+   "url": "https://www.epfl.ch/labs/eerl/?page_id=1282",
+   "status": "error",
+   "error": "HTTP 404"
+  },
+  {
+   "lab": "enac-eerl",
+   "url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/aerosol-background-concentrations-at-neumayer-station-iii/",
+   "status": "error",
+   "error": "HTTP 404"
+  },
+  {
+   "lab": "sv-uprad",
+   "url": "https://www.epfl.ch/labs/radtke-lab/uprad-radtke-lab/master-projects/",
    "status": "error",
    "error": "HTTP 404"
   }
  ],
  "fetcher": {
-  "network": 256,
-  "cache_hits": 19,
-  "not_modified": 0,
-  "errors": 2
+  "network": 169,
+  "cache_hits": 47,
+  "not_modified": 11,
+  "errors": 4
  }
 }

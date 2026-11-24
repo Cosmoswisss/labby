@@ -1,0 +1,18 @@
+# Four project areas (fairly specific): optional either way.
+projects:
+- title: Neural correlates of memory, navigation, and bodily self
+  project_types: null
+  supervisors: null
+  optional: true
+- title: Investigating bodily self-conciousness using virtual reality
+  project_types: null
+  supervisors: null
+  optional: true
+- title: Vestibular contributions to bodily self-consciousness (motion platform)
+  project_types: null
+  supervisors: null
+  optional: true
+- title: Investigating hallucinations in Parkinson's Disease
+  project_types: null
+  supervisors: null
+  optional: true
