@@ -177,3 +177,87 @@ def dump_labs_yaml(labs: list[Lab], path: Path) -> None:
 def load_labs(path: Path) -> list[Lab]:
     data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     return [Lab.model_validate(item) for item in data.get("labs", [])]
+
+
+# -- all EPFL labs (www.epfl.ch/labs/) --------------------------------------------------
+
+EPFL_LABS_URL = "https://www.epfl.ch/labs/"
+EPFL_SOURCE_ID = "epfl-all"
+
+
+def parse_epfl_labs_page(html: str) -> list[Lab]:
+    """Parses the official list of EPFL labs (one `.site-row` per lab).
+
+    The list links to each lab's *homepage*; its student-project page is found later by
+    `pipeline discover` and reviewed by hand.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    # Official institute codes (BMI, IEM, IPHYS…) from the page's institute filter.
+    institute_codes = {
+        _clean(o.get_text(" "))
+        for o in soup.select("#select-institute option")
+        if o.get("value") not in (None, "all")
+    }
+    labs: dict[str, Lab] = {}
+    for row in soup.select(".site-row"):
+        title = row.select_one(".site-title")
+        link = row.select_one("a.site-url")
+        if title is None or link is None:
+            continue
+        acronym = _clean(title.get_text(" "))
+        faculties = [_clean(t.get_text(" ")).upper() for t in row.select(".site-tags-faculty")]
+        known = [f for f in faculties if f in KNOWN_FACULTIES]
+        faculty = known[0] if known else "OTHER"
+        tags = (
+            (row.select_one(".site-tags") or {}).get("data-tags", "")
+            if row.select_one(".site-tags")
+            else ""
+        )
+        institutes = [t for t in (x.strip() for x in tags.split(";")) if t in institute_codes]
+        lab_id = f"{faculty.lower()}-{_slug(acronym)}"
+        if lab_id in labs:
+            continue
+        labs[lab_id] = Lab(
+            id=lab_id,
+            acronym=acronym,
+            name=_clean(link.get_text(" ")),
+            faculty=faculty,
+            joint_faculties=[f for f in known[1:] if f != faculty],
+            homepage_url=link["href"].strip(),
+            projects_url=None,
+            source_type="auto",
+            listed_in=[EPFL_SOURCE_ID],
+            institutes=institutes,
+        )
+    return sorted(labs.values(), key=lambda lab: lab.id)
+
+
+def merge_labs(existing: list[Lab], incoming: list[Lab]) -> tuple[list[Lab], int, int]:
+    """Adds labs from `incoming` that are not in `existing` (matched by acronym).
+
+    Existing labs keep every hand-made correction; they only gain the homepage URL,
+    institutes and source tag if missing. Returns (labs, added, updated).
+    """
+    by_acronym = {lab.acronym.upper(): lab for lab in existing}
+    by_id = {lab.id: lab for lab in existing}
+    added = updated = 0
+    for lab in incoming:
+        match = by_acronym.get(lab.acronym.upper()) or by_id.get(lab.id)
+        if match is None:
+            existing.append(lab)
+            by_acronym[lab.acronym.upper()] = lab
+            by_id[lab.id] = lab
+            added += 1
+            continue
+        changed = False
+        if not match.homepage_url and lab.homepage_url:
+            match.homepage_url = lab.homepage_url
+            changed = True
+        if not match.institutes and lab.institutes:
+            match.institutes = lab.institutes
+            changed = True
+        if EPFL_SOURCE_ID not in match.listed_in:
+            match.listed_in.append(EPFL_SOURCE_ID)
+            changed = True
+        updated += changed
+    return sorted(existing, key=lambda lab: lab.id), added, updated

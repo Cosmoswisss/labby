@@ -30,10 +30,36 @@ def labs(
     output: Path = typer.Option(config.LABS_FILE, help="Where to write labs.yaml."),
     force: bool = typer.Option(False, "--force", help="Overwrite an existing labs.yaml."),
     offline: bool = typer.Option(False, help="Use the cached source page only."),
+    merge_epfl: bool = typer.Option(
+        False,
+        "--merge-epfl",
+        help="Add the labs of www.epfl.ch/labs/ to the existing labs.yaml (keeps edits).",
+    ),
 ) -> None:
-    """Generate labs.yaml from the public IC 'projects in labs' page."""
+    """Generate labs.yaml from the IC page, or add all EPFL labs with --merge-epfl."""
     from pipeline.fetch import Fetcher
-    from pipeline.labs import dump_labs_yaml, parse_labs_page
+    from pipeline.labs import (
+        EPFL_LABS_URL,
+        dump_labs_yaml,
+        load_labs,
+        merge_labs,
+        parse_epfl_labs_page,
+        parse_labs_page,
+    )
+
+    if merge_epfl:
+        with Fetcher(config.CACHE_DIR, offline=offline) as fetcher:
+            result = fetcher.fetch(EPFL_LABS_URL)
+        if not result.ok:
+            typer.echo(f"Could not fetch {EPFL_LABS_URL}: {result.error or result.status}")
+            raise typer.Exit(1)
+        incoming = parse_epfl_labs_page(result.body.decode("utf-8", errors="replace"))
+        merged, added, updated = merge_labs(load_labs(output), incoming)
+        dump_labs_yaml(merged, output)
+        typer.echo(f"{len(incoming)} labs on {EPFL_LABS_URL}: {added} added, {updated} updated")
+        typer.echo(f"  faculty: {dict(Counter(lab.faculty for lab in merged))}")
+        typer.echo("New labs have no projects_url yet: run `pipeline discover`, then review.")
+        return
 
     if output.exists() and not force:
         typer.echo(f"{output} already exists (it may contain manual edits). Use --force.")
@@ -52,6 +78,49 @@ def labs(
     typer.echo(f"Wrote {len(parsed)} labs to {output}")
     typer.echo(f"  source_type: {dict(by_type)}")
     typer.echo(f"  faculty:     {dict(by_faculty)}")
+
+
+@app.command()
+def discover(
+    faculty: list[str] = typer.Option(None, "--faculty", help="Only labs of these faculties."),
+    lab: list[str] = typer.Option(None, "--lab", help="Only these lab ids."),
+    limit: int = typer.Option(None, help="Max labs processed in this run."),
+    labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
+) -> None:
+    """Find the student-project page of labs that only have a homepage (writes labs.yaml)."""
+    import json
+
+    from pipeline.discover import apply_result, discover_lab
+    from pipeline.fetch import Fetcher
+    from pipeline.labs import dump_labs_yaml, load_labs
+
+    all_labs = load_labs(labs_file)
+    todo = [
+        x
+        for x in all_labs
+        if not x.projects_url
+        and x.homepage_url
+        and x.source_type == "auto"
+        and (not faculty or x.faculty in {f.upper() for f in faculty})
+        and (not lab or x.id in lab)
+    ][:limit]
+    counts: Counter[str] = Counter()
+    results = []
+    with Fetcher(config.CACHE_DIR) as fetcher:
+        for n, x in enumerate(todo, 1):
+            result = discover_lab(fetcher, x)
+            apply_result(x, result)
+            counts[result.status] += 1
+            results.append(result.__dict__)
+            typer.echo(f"[{n}/{len(todo)}] {x.id:28s} {result.status:12s} {result.url or ''}")
+            if n % 20 == 0:
+                dump_labs_yaml(all_labs, labs_file)  # keep progress if interrupted
+    dump_labs_yaml(all_labs, labs_file)
+    report = config.STATE_DIR / "discover_report.json"
+    report.write_text(
+        json.dumps(results, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n"
+    )
+    typer.echo(f"\n{len(todo)} labs: {dict(counts)} (details in {report.name})")
 
 
 @app.command()

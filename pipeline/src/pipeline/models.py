@@ -29,9 +29,11 @@ class Lab(BaseModel):
     heads: list[str] = Field(default_factory=list, description="Public names, 'Last, First'")
     ic_domains: list[str] = Field(default_factory=list)
     research_interests: list[str] = Field(default_factory=list)
+    homepage_url: str | None = None
     projects_url: str | None = None
     source_type: SourceHint = "auto"
     listed_in: list[str] = Field(default_factory=list, description="Source lists, e.g. 'ic-mcs'")
+    institutes: list[str] = Field(default_factory=list)
     notes: str | None = None
 
 
