@@ -24,6 +24,7 @@ const STATUS_INFO: Partial<Record<LabStatus, { label: string; tone: BadgeTone }>
   none: { label: "No public list", tone: "neutral" },
   restricted: { label: "EPFL login required", tone: "warning" },
   js_rendered: { label: "Not indexed yet", tone: "neutral" },
+  auto: { label: "Coming soon", tone: "neutral" },
   blocked: { label: "Not indexable", tone: "neutral" },
   error: { label: "Page unreachable", tone: "warning" },
 };
@@ -99,7 +100,7 @@ export default function LabsPage() {
       <PageHeader
         eyebrow="Coverage"
         title="Labs"
-        description="Labs listed for IC students: IC labs and labs of other schools accredited by the IC sections. For labs without a public list, Labby links to their page so you can contact them directly."
+        description="All EPFL labs from the official list. IC and STI labs are indexed; the other schools are being added. For labs without a public project list, Labby links to their page so you can contact them directly."
       >
         <dl className="mt-8 grid max-w-2xl grid-cols-3 gap-4">
           {stats.map((s) => (
