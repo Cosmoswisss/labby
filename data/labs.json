@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:28:03+00:00",
+ "generated_at": "2026-11-24T11:48:27+00:00",
  "labs": [
   {
    "id": "cdm-ban",
@@ -244,8 +244,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/adher/teaching-and-research/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:28:39+00:00",
    "project_count": 0
   },
   {
@@ -258,8 +258,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:11+00:00",
    "project_count": 0
   },
   {
@@ -286,9 +286,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ceat/projet-de-master/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:13+00:00",
+   "project_count": 4
   },
   {
    "id": "enac-chaart",
@@ -314,9 +314,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/change/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:17+00:00",
+   "project_count": 8
   },
   {
    "id": "enac-construct",
@@ -328,9 +328,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:18+00:00",
+   "project_count": 1
   },
   {
    "id": "enac-crcl",
@@ -356,9 +356,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/cryos/page-90725-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:28:51+00:00",
+   "project_count": 7
   },
   {
    "id": "enac-dc-lab",
@@ -370,9 +370,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/dc-lab/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:21+00:00",
+   "project_count": 14
   },
   {
    "id": "enac-disal",
@@ -431,7 +431,7 @@
    "projects_url": "https://www.epfl.ch/labs/eceo/eceo/projects/",
    "status": "ok",
    "last_checked_at": "2026-11-23T13:47:28+00:00",
-   "project_count": 10
+   "project_count": 6
   },
   {
    "id": "enac-eerl",
@@ -443,9 +443,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:27+00:00",
+   "project_count": 4
   },
   {
    "id": "enac-eesd",
@@ -457,9 +457,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/eesd/all-student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:36+00:00",
+   "project_count": 19
   },
   {
    "id": "enac-eml",
@@ -471,9 +471,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/eml/page-20105-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:37+00:00",
+   "project_count": 4
   },
   {
    "id": "enac-eso",
@@ -509,9 +509,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ethos/ethos-student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:39+00:00",
+   "project_count": 10
   },
   {
    "id": "enac-far",
@@ -523,8 +523,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/far/position/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:29:00+00:00",
    "project_count": 0
   },
   {
@@ -537,9 +537,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gel/students-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:40+00:00",
+   "project_count": 19
   },
   {
    "id": "enac-gr-cel",
@@ -551,9 +551,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-cel/page-10579-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:41+00:00",
+   "project_count": 1
   },
   {
    "id": "enac-gr-mec",
@@ -565,8 +565,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-mec/education/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:29:07+00:00",
    "project_count": 0
   },
   {
@@ -579,9 +579,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/urbdemo/urbdemo/education/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:29:10+00:00",
+   "project_count": 3
   },
   {
    "id": "enac-hat",
@@ -593,8 +593,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hat/semester-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:46+00:00",
    "project_count": 0
   },
   {
@@ -607,9 +607,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/herus/index-html/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:49+00:00",
+   "project_count": 8
   },
   {
    "id": "enac-hitam",
@@ -621,8 +621,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hitam/masters-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T10:59:53+00:00",
    "project_count": 0
   },
   {
@@ -635,9 +635,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hobel/home-2/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:29:17+00:00",
+   "project_count": 12
   },
   {
    "id": "enac-homes",
@@ -649,9 +649,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/homes/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:00+00:00",
+   "project_count": 6
   },
   {
    "id": "enac-ibeton",
@@ -677,8 +677,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ibois/jobs-semester-project/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:02+00:00",
    "project_count": 0
   },
   {
@@ -691,8 +691,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ice/ms-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:03+00:00",
    "project_count": 0
   },
   {
@@ -727,8 +727,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lab-u/page-144598-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:31:42+00:00",
    "project_count": 0
   },
   {
@@ -755,8 +755,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/land/fr/master-thesis/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:04+00:00",
    "project_count": 0
   },
   {
@@ -769,9 +769,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lapi/projects-for-students/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:05+00:00",
+   "project_count": 5
   },
   {
    "id": "enac-lapis",
@@ -783,8 +783,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lapis/enseignement/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:31:48+00:00",
    "project_count": 0
   },
   {
@@ -797,8 +797,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lasig/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:31:52+00:00",
    "project_count": 0
   },
   {
@@ -811,8 +811,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/last/teaching/masters-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:15+00:00",
    "project_count": 0
   },
   {
@@ -825,8 +825,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lasur/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:00+00:00",
    "project_count": 0
   },
   {
@@ -853,8 +853,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lch/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:18+00:00",
    "project_count": 0
   },
   {
@@ -867,9 +867,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lemr/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:04+00:00",
+   "project_count": 6
   },
   {
    "id": "enac-lesc",
@@ -881,9 +881,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lesc/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:19+00:00",
+   "project_count": 2
   },
   {
    "id": "enac-leso-pb",
@@ -895,8 +895,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/leso/education/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:07+00:00",
    "project_count": 0
   },
   {
@@ -909,9 +909,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/leure/projets-de-semestre/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:22+00:00",
+   "project_count": 11
   },
   {
    "id": "enac-lev",
@@ -923,8 +923,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lev/index-html/sie-project/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:24+00:00",
    "project_count": 0
   },
   {
@@ -937,8 +937,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lgb/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:13+00:00",
    "project_count": 0
   },
   {
@@ -951,9 +951,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lhe/enseignement/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:15+00:00",
+   "project_count": 6
   },
   {
    "id": "enac-lhst",
@@ -986,8 +986,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lif/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:17+00:00",
    "project_count": 0
   },
   {
@@ -1000,9 +1000,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lipid/open_masters_semester_projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:28+00:00",
+   "project_count": 1
   },
   {
    "id": "enac-lmd",
@@ -1026,20 +1026,6 @@
    "project_count": 10
   },
   {
-   "id": "enac-lmmd",
-   "acronym": "LMMD",
-   "name": "Data-Driven Mechanics Laboratory",
-   "faculty": "ENAC",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/lmd/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
    "id": "enac-lms",
    "acronym": "LMS",
    "name": "Laboratory of Soil Mechanics",
@@ -1049,9 +1035,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lms/internships-and-student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:42+00:00",
+   "project_count": 5
   },
   {
    "id": "enac-lsms",
@@ -1063,9 +1049,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsms/semester-and-master-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:45+00:00",
+   "project_count": 8
   },
   {
    "id": "enac-lsr",
@@ -1077,9 +1063,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsr/homepage/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:00:47+00:00",
+   "project_count": 11
   },
   {
    "id": "enac-lte",
@@ -1091,9 +1077,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lte/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:26+00:00",
+   "project_count": 4
   },
   {
    "id": "enac-ltqe",
@@ -1105,9 +1091,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ltqe/page-73621-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:00+00:00",
+   "project_count": 1
   },
   {
    "id": "enac-luts",
@@ -1119,9 +1105,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/luts/semester-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:02+00:00",
+   "project_count": 21
   },
   {
    "id": "enac-mace",
@@ -1133,9 +1119,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mace/teaching/master-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:03+00:00",
+   "project_count": 3
   },
   {
    "id": "enac-matr",
@@ -1147,9 +1133,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/matr/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:05+00:00",
+   "project_count": 4
   },
   {
    "id": "enac-mcs",
@@ -1161,8 +1147,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:32+00:00",
    "project_count": 0
   },
   {
@@ -1175,9 +1161,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/microbe/student-project/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:06+00:00",
+   "project_count": 5
   },
   {
    "id": "enac-pal",
@@ -1189,9 +1175,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/pal/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:35+00:00",
+   "project_count": 1
   },
   {
    "id": "enac-perl",
@@ -1203,8 +1189,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/perl/perl-home/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:08+00:00",
    "project_count": 0
   },
   {
@@ -1217,9 +1203,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/resslab/semester-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:10+00:00",
+   "project_count": 9
   },
   {
    "id": "enac-riot",
@@ -1245,8 +1231,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/river/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:11+00:00",
    "project_count": 0
   },
   {
@@ -1259,8 +1245,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/rpgl/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:41+00:00",
    "project_count": 0
   },
   {
@@ -1273,8 +1259,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:12+00:00",
    "project_count": 0
   },
   {
@@ -1287,9 +1273,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sense/student-projects-2/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:14+00:00",
+   "project_count": 2
   },
   {
    "id": "enac-skil",
@@ -1315,9 +1301,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/soil/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:32:47+00:00",
+   "project_count": 5
   },
   {
    "id": "enac-sono",
@@ -1343,9 +1329,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/streem/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:17+00:00",
+   "project_count": 9
   },
   {
    "id": "enac-sxl",
@@ -1357,8 +1343,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sxl/education/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:33:01+00:00",
    "project_count": 0
   },
   {
@@ -1385,9 +1371,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/thema/teaching/masters-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:22+00:00",
+   "project_count": 8
   },
   {
    "id": "enac-tmu",
@@ -1421,8 +1407,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/tpod/job-position/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:33:06+00:00",
    "project_count": 0
   },
   {
@@ -1455,9 +1441,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/urbes/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:26+00:00",
+   "project_count": 15
   },
   {
    "id": "enac-vita",
@@ -1493,8 +1479,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/weir/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:27+00:00",
    "project_count": 0
   },
   {
@@ -1507,9 +1493,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/wire/ms-thesis-project/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:28+00:00",
+   "project_count": 6
   },
   {
    "id": "ent-cede",
@@ -2051,20 +2037,6 @@
    "project_count": 0
   },
   {
-   "id": "ic-indy",
-   "acronym": "INDY",
-   "name": "lnformation and Network Dynamics Laboratory",
-   "faculty": "IC",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://indy.epfl.ch/projects",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
    "id": "ic-indy1",
    "acronym": "INDY1",
    "name": "Information and Network Dynamics 1",
@@ -2155,20 +2127,6 @@
    "status": "ok",
    "last_checked_at": "2026-11-23T13:49:58+00:00",
    "project_count": 1
-  },
-  {
-   "id": "ic-lamp",
-   "acronym": "LAMP",
-   "name": "Programming Methods Laboratory",
-   "faculty": "IC",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/lamp/teaching/teaching-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
   },
   {
    "id": "ic-lamp1",
@@ -2512,22 +2470,6 @@
    "project_count": 0
   },
   {
-   "id": "ic-mds",
-   "acronym": "MDS",
-   "name": "Chair of Mathematical Data Science",
-   "faculty": "IC",
-   "joint_faculties": [
-    "SB"
-   ],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/mds/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
    "id": "ic-mds2",
    "acronym": "MDS2",
    "name": "Mathematical Data Science",
@@ -2715,22 +2657,6 @@
    "status": "ok",
    "last_checked_at": "2026-11-23T13:50:49+00:00",
    "project_count": 2
-  },
-  {
-   "id": "ic-neuroai-lab",
-   "acronym": "NeuroAI Lab",
-   "name": "NeuroAI Lab",
-   "faculty": "IC",
-   "joint_faculties": [
-    "SV"
-   ],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": null,
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
   },
   {
    "id": "ic-nlp",
@@ -3847,7 +3773,7 @@
    "projects_url": "https://www.epfl.ch/labs/disopt/projects/",
    "status": "ok",
    "last_checked_at": "2026-11-23T13:51:12+00:00",
-   "project_count": 0
+   "project_count": 2
   },
   {
    "id": "sb-dola",
@@ -5146,20 +5072,6 @@
    "project_count": 0
   },
   {
-   "id": "sb-spoc",
-   "acronym": "SPOC",
-   "name": "Statistical Physics of Computation Laboratory",
-   "faculty": "SB",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/spoc/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
    "id": "sb-sqil",
    "acronym": "SQIL",
    "name": "Superconductor Quantum Information Laboratory",
@@ -5839,7 +5751,7 @@
    "projects_url": "https://www.epfl.ch/labs/lben/page-79396-en-html/",
    "status": "ok",
    "last_checked_at": "2026-11-23T13:51:37+00:00",
-   "project_count": 7
+   "project_count": 0
   },
   {
    "id": "sti-lbi",
@@ -6854,9 +6766,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/dangelo-lab/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:34+00:00",
+   "project_count": 1
   },
   {
    "id": "sv-gos",
@@ -6882,9 +6794,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:35+00:00",
+   "project_count": 2
   },
   {
    "id": "sv-gr-jaksic",
@@ -6896,8 +6808,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:36+00:00",
    "project_count": 0
   },
   {
@@ -6910,8 +6822,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-maynard/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:39:57+00:00",
    "project_count": 0
   },
   {
@@ -6924,8 +6836,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-paoli/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:39:59+00:00",
    "project_count": 0
   },
   {
@@ -6938,9 +6850,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-priestley/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:37+00:00",
+   "project_count": 1
   },
   {
    "id": "sv-gr-schuhmacher",
@@ -6952,8 +6864,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:02+00:00",
    "project_count": 0
   },
   {
@@ -6966,8 +6878,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/westmann-lab/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:04+00:00",
    "project_count": 0
   },
   {
@@ -6980,8 +6892,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hanahan-lab/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:07+00:00",
    "project_count": 0
   },
   {
@@ -7016,8 +6928,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lgc/index-html/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:38+00:00",
    "project_count": 0
   },
   {
@@ -7030,8 +6942,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:09+00:00",
    "project_count": 0
   },
   {
@@ -7044,9 +6956,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mckinney-lab/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:39+00:00",
+   "project_count": 2
   },
   {
    "id": "sv-lnco",
@@ -7058,9 +6970,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lnco/student_projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:40+00:00",
+   "project_count": 4
   },
   {
    "id": "sv-lnmc",
@@ -7072,8 +6984,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:13+00:00",
    "project_count": 0
   },
   {
@@ -7086,8 +6998,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpsy/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:41+00:00",
    "project_count": 0
   },
   {
@@ -7124,8 +7036,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsym/393-2/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:43+00:00",
    "project_count": 0
   },
   {
@@ -7138,20 +7050,6 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
-   "id": "sv-naef-lab",
-   "acronym": "Naef Lab",
-   "name": "Computational Systems Biology lab",
-   "faculty": "SV",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/",
    "status": "auto",
    "last_checked_at": null,
    "project_count": 0
@@ -7187,8 +7085,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ablasserlab/openings/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:19+00:00",
    "project_count": 0
   },
   {
@@ -7225,8 +7123,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:22+00:00",
    "project_count": 0
   },
   {
@@ -7261,8 +7159,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/bitbol-lab/join-us/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:23+00:00",
    "project_count": 0
   },
   {
@@ -7275,9 +7173,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:47+00:00",
+   "project_count": 1
   },
   {
    "id": "sv-upbri",
@@ -7289,9 +7187,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/brisken-lab/studentsprojects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:48+00:00",
+   "project_count": 3
   },
   {
    "id": "sv-upcda",
@@ -7303,9 +7201,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:49+00:00",
+   "project_count": 3
   },
   {
    "id": "sv-upcourtine",
@@ -7322,20 +7220,6 @@
    "project_count": 0
   },
   {
-   "id": "sv-updalpe",
-   "acronym": "UPDALPE",
-   "name": "Laboratory for Biomolecular Modeling",
-   "faculty": "SV",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/lbm/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
    "id": "sv-updepalma",
    "acronym": "UPDEPALMA",
    "name": "Prof. De Palma's Lab",
@@ -7345,8 +7229,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:52+00:00",
    "project_count": 0
   },
   {
@@ -7359,9 +7243,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/deplanckelab/open-position/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:33+00:00",
+   "project_count": 1
   },
   {
    "id": "sv-upgallini",
@@ -7387,9 +7271,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/upgoemans/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:35+00:00",
+   "project_count": 2
   },
   {
    "id": "sv-upgon",
@@ -7401,9 +7285,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:54+00:00",
+   "project_count": 6
   },
   {
    "id": "sv-upgraeff",
@@ -7415,8 +7299,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/graefflab/index-html/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:55+00:00",
    "project_count": 0
   },
   {
@@ -7429,8 +7313,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hessbellwald-lab/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:40+00:00",
    "project_count": 0
   },
   {
@@ -7443,8 +7327,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:56+00:00",
    "project_count": 0
   },
   {
@@ -7457,9 +7341,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hummel-lab/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:57+00:00",
+   "project_count": 9
   },
   {
    "id": "sv-upkarthaus",
@@ -7485,8 +7369,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/upkim/join-us/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:47+00:00",
    "project_count": 0
   },
   {
@@ -7521,9 +7405,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:58+00:00",
+   "project_count": 2
   },
   {
    "id": "sv-uplin",
@@ -7535,8 +7419,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:50+00:00",
    "project_count": 0
   },
   {
@@ -7563,8 +7447,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mccabelab/positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:53+00:00",
    "project_count": 0
   },
   {
@@ -7623,8 +7507,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/navarro-lab/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:40:55+00:00",
    "project_count": 0
   },
   {
@@ -7637,9 +7521,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:01:59+00:00",
+   "project_count": 6
   },
   {
    "id": "sv-uporicchio",
@@ -7651,9 +7535,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/oricchiolab/openings/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:02:00+00:00",
+   "project_count": 3
   },
   {
    "id": "sv-uppersat",
@@ -7679,22 +7563,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/radtke-lab/uprad-radtke-lab/master-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
-  },
-  {
-   "id": "sv-upramdya",
-   "acronym": "UPRAMDYA",
-   "name": "Neuroengineering Laboratory",
-   "faculty": "SV",
-   "joint_faculties": [],
-   "heads": [],
-   "ic_domains": [],
-   "research_interests": [],
-   "projects_url": "https://www.epfl.ch/labs/ramdya-lab/available-projects/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "error",
+   "last_checked_at": "2026-11-24T11:02:02+00:00",
    "project_count": 0
   },
   {
@@ -7707,9 +7577,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:02:04+00:00",
+   "project_count": 1
   },
   {
    "id": "sv-upschueder",
@@ -7721,8 +7591,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/schueder-lab/open-positions/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:41:03+00:00",
    "project_count": 0
   },
   {
@@ -7735,8 +7605,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:02:05+00:00",
    "project_count": 0
   },
   {
@@ -7749,8 +7619,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/thoma-lab/join-us/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:41:06+00:00",
    "project_count": 0
   },
   {
@@ -7763,8 +7633,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/upwaszak/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:41:08+00:00",
    "project_count": 0
   },
   {
@@ -7777,9 +7647,9 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/",
-   "status": "auto",
-   "last_checked_at": null,
-   "project_count": 0
+   "status": "ok",
+   "last_checked_at": "2026-11-24T11:02:06+00:00",
+   "project_count": 4
   },
   {
    "id": "sv-vdg",
@@ -7791,8 +7661,8 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/",
-   "status": "auto",
-   "last_checked_at": null,
+   "status": "ok",
+   "last_checked_at": "2026-11-24T09:41:13+00:00",
    "project_count": 0
   }
  ]

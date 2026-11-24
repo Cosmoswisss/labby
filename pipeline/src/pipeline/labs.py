@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import re
 import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -232,6 +233,48 @@ def parse_epfl_labs_page(html: str) -> list[Lab]:
     return sorted(labs.values(), key=lambda lab: lab.id)
 
 
+SHARED_HOSTS = {"www.epfl.ch", "epfl.ch", "people.epfl.ch", "theory.epfl.ch", "inside.epfl.ch"}
+
+
+def site_key(url: str | None) -> str | None:
+    """Identity of a lab's website: www.epfl.ch/labs/<name>, or its own host name."""
+    if not url:
+        return None
+    rest = re.sub(r"^https?://", "", url.strip().lower()).rstrip("/")
+    match = re.match(r"(?:www\.)?epfl\.ch/labs/([^/?#]+)", rest)
+    if match:
+        return f"epfl.ch/labs/{match.group(1)}"
+    host = rest.split("/")[0]
+    return None if host in SHARED_HOSTS else host
+
+
+def _site_keys(lab: Lab) -> set[str]:
+    return {k for k in (site_key(lab.homepage_url), site_key(lab.projects_url)) if k}
+
+
+_NAME_STOPWORDS = {"laboratory", "lab", "laboratoire", "chair", "of", "the", "for", "group", "and"}
+
+
+def relatedness(a: Lab, b: Lab) -> float:
+    """How likely two entries are the same lab: related acronyms or similar names (0-1)."""
+    ka = re.sub(r"[^a-z]", "", a.acronym.lower())
+    kb = re.sub(r"[^a-z]", "", b.acronym.lower())
+    if ka and kb and (ka in kb or kb in ka):
+        return 1.0
+
+    def words(name: str) -> str:
+        return " ".join(w for w in re.findall(r"[a-z]+", name.lower()) if w not in _NAME_STOPWORDS)
+
+    return SequenceMatcher(None, words(a.name), words(b.name)).ratio()
+
+
+def _same_lab_on_site(lab: Lab, by_site: dict[str, list[Lab]]) -> Lab | None:
+    """An existing lab with the same website *and* a related acronym or name."""
+    candidates = {id(c): c for k in _site_keys(lab) for c in by_site.get(k, [])}.values()
+    scored = sorted(((relatedness(lab, c), c) for c in candidates), key=lambda x: -x[0])
+    return scored[0][1] if scored and scored[0][0] >= 0.6 else None
+
+
 def merge_labs(existing: list[Lab], incoming: list[Lab]) -> tuple[list[Lab], int, int]:
     """Adds labs from `incoming` that are not in `existing` (matched by acronym).
 
@@ -240,13 +283,24 @@ def merge_labs(existing: list[Lab], incoming: list[Lab]) -> tuple[list[Lab], int
     """
     by_acronym = {lab.acronym.upper(): lab for lab in existing}
     by_id = {lab.id: lab for lab in existing}
+    by_site: dict[str, list[Lab]] = {}
+    for x in existing:
+        for k in _site_keys(x):
+            by_site.setdefault(k, []).append(x)
     added = updated = 0
     for lab in incoming:
-        match = by_acronym.get(lab.acronym.upper()) or by_id.get(lab.id)
+        # Same lab under another acronym (e.g. "UPRAMDYA" vs "RAMDYA LAB"): same website.
+        match = (
+            by_acronym.get(lab.acronym.upper())
+            or by_id.get(lab.id)
+            or _same_lab_on_site(lab, by_site)
+        )
         if match is None:
             existing.append(lab)
             by_acronym[lab.acronym.upper()] = lab
             by_id[lab.id] = lab
+            for k in _site_keys(lab):
+                by_site.setdefault(k, []).append(lab)
             added += 1
             continue
         changed = False
@@ -261,3 +315,29 @@ def merge_labs(existing: list[Lab], incoming: list[Lab]) -> tuple[list[Lab], int
             changed = True
         updated += changed
     return sorted(existing, key=lambda lab: lab.id), added, updated
+
+
+def dedupe_labs(labs: list[Lab]) -> tuple[list[Lab], list[tuple[str, str]]]:
+    """Folds labs added from the EPFL list into an existing lab with the same website.
+
+    Returns (labs, [(removed id, kept id)]). The kept lab gains the homepage/institutes.
+    """
+    by_site: dict[str, list[Lab]] = {}
+    for x in labs:
+        if x.listed_in != [EPFL_SOURCE_ID]:
+            for k in _site_keys(x):
+                by_site.setdefault(k, []).append(x)
+    kept, removed = [], []
+    for lab in labs:
+        target = None
+        if lab.listed_in == [EPFL_SOURCE_ID]:
+            target = _same_lab_on_site(lab, by_site)
+        if target is None:
+            kept.append(lab)
+            continue
+        target.homepage_url = target.homepage_url or lab.homepage_url
+        target.institutes = target.institutes or lab.institutes
+        if EPFL_SOURCE_ID not in target.listed_in:
+            target.listed_in.append(EPFL_SOURCE_ID)
+        removed.append((lab.id, target.id))
+    return kept, removed

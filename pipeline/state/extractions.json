@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T11:37:24+00:00",
+ "updated_at": "2026-11-24T11:46:14+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -35593,6 +35593,515 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/02/Alex-Dunnett-_-EPFL-Student-Project-Proposal-AM.pdf": {
+   "key": {
+    "content_hash": "fbacdeb19144ce8120e7e4aab6cbca95fea3f6de64c607a0ca4de5843ea47f22",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:37:40+00:00",
+   "input_tokens": 5337,
+   "output_tokens": 807,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Cephalopod-inspired aerial manipulator for sampling fragile ecological specimens",
+     "lab_acronym": null,
+     "summary": "The project aims to break down the tentacular strike of cephalopods and use it to design, manufacture and characterise a fast, compliant, bio-inspired aerial manipulator. The manipulator is intended to retrieve fragile ecological samples from forest canopies, and could later serve as a basis for controller and trajectory planning work.",
+     "project_types": [],
+     "domains": [
+      "aerial robotics",
+      "soft robotics",
+      "bio-inspired design",
+      "compliant manipulation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Mirko Kovac",
+      "Mr Alex Dunnett",
+      "Dr Kevin Holdcroft"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/1.Student-Project_Biodegradable-Motor_Kyung-Sub-Kim.pdf": {
+   "key": {
+    "content_hash": "9397e831334c170e1fa9e33f82e3bf485454730c9cfc1ff6989a6f38cd7f9f50",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:37:49+00:00",
+   "input_tokens": 6488,
+   "output_tokens": 1096,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Biodegradable rotary motors for eco-friendly transient drones",
+     "lab_acronym": null,
+     "summary": "The project aims to develop a fully biodegradable DC motor for transient drones, including biodegradable conductive wire coatings, biodegradable magnetic materials, and motor design. The goal is to integrate the biodegradable motor with a biodegradable drone frame into an aerial robotic platform.",
+     "project_types": [],
+     "domains": [
+      "transient robotics",
+      "biodegradable materials",
+      "soft robotics",
+      "aerial robotics",
+      "electromagnetic devices"
+     ],
+     "skills": [
+      "materials science",
+      "electrical engineering",
+      "mechanical design",
+      "PDMS moulding",
+      "Origin",
+      "Arduino",
+      "AutoCAD",
+      "Tinkercad",
+      "Rhino",
+      "KeyShot"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Dr. Kyung-Sub Kim"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/2.Student-Project_Mushroom-Drone_Kyung-Sub-Kim.pdf": {
+   "key": {
+    "content_hash": "bfc1920b9ce5b46fc7247371c68021e7dbca21cd4e00b6297b8e39f406140187",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:37:59+00:00",
+   "input_tokens": 6583,
+   "output_tokens": 1075,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Mushroom drones for environmental exploration",
+     "lab_acronym": null,
+     "summary": "Develop mycelium-woodchip bio-hybrid composites and optimise their mechanical properties and biodegradability. The work aims to build a transient drone platform for environmental monitoring, with electrode-integrated composites for sensing external stimuli.",
+     "project_types": [],
+     "domains": [
+      "transient robotics",
+      "biodegradable materials",
+      "bio-hybrid materials",
+      "environmental monitoring"
+     ],
+     "skills": [
+      "Arduino",
+      "AutoCAD",
+      "ImageJ",
+      "Origin",
+      "Rhino",
+      "3D printing",
+      "laboratory work with fungi and composites"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Dr. Kyung-Sub Kim"
+     ],
+     "status": "available",
+     "academic_period": "01.07.2026 - 31.12.2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/3.Student-Project_Plant-robot_Kyung-Sub-Kim.pdf": {
+   "key": {
+    "content_hash": "10c3cbf5785f12542afaafb6e9b68a340c85f8cf1311f2e6903b6b5e4bca8408",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:08+00:00",
+   "input_tokens": 6481,
+   "output_tokens": 1015,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Plant grippers for non-invasive environmental exploration robotics",
+     "lab_acronym": null,
+     "summary": "The project develops plant-based hybrid grippers using carnivorous plant structures such as the Venus flytrap and sundew, studying their structure, stimulus-response and adhesion properties. The goal is to integrate these grippers with drone platforms for low-damage collection of insects and micro-organisms.",
+     "project_types": [],
+     "domains": [
+      "bio-hybrid robotics",
+      "soft robotics",
+      "environmental robotics",
+      "plant biology"
+     ],
+     "skills": [
+      "Origin",
+      "Arduino",
+      "AutoCAD",
+      "Rhino",
+      "KeyShot",
+      "optical microscopy",
+      "laser cutting",
+      "3D printing",
+      "high-speed imaging",
+      "plant sample preparation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Dr. Kyung-Sub Kim"
+     ],
+     "status": "unknown",
+     "academic_period": "01.07.2026 - 31.12.2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/4.Student-Project_Biodegradable-Communication-Device_Kyung-Sub-Kim.pdf": {
+   "key": {
+    "content_hash": "fa24ceefa41e3a914d2b2c49eed85e57000a56a22be3975893a89e009bc8c2f9",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:18+00:00",
+   "input_tokens": 6581,
+   "output_tokens": 1106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Biodegradable wireless communication device for environmental monitoring",
+     "lab_acronym": null,
+     "summary": "Develop a chipless wireless environmental monitoring platform that combines biodegradable sensors, batteries, antennas and oscillators. The goal is to generate electromagnetic signals with a Colpitts oscillator whose frequency encodes sensor readings, and to progressively replace conventional components with biodegradable materials.",
+     "project_types": [],
+     "domains": [
+      "biodegradable electronics",
+      "wireless communication",
+      "environmental monitoring",
+      "transient electronics"
+     ],
+     "skills": [
+      "materials science",
+      "electronics",
+      "Colpitts oscillator design",
+      "screen printing",
+      "device fabrication",
+      "report writing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Dr. Kyung-Sub Kim"
+     ],
+     "status": "unknown",
+     "academic_period": "01.07.2026 - 31.12.2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/05/Aerial_Underwater_Module_Quagga_Mussel.pdf": {
+   "key": {
+    "content_hash": "c4f4fc6ff635247c9cc78f5378e3a7bb56bf280118b21d28e6a6c20458ed2d31",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:27+00:00",
+   "input_tokens": 5044,
+   "output_tokens": 372,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Design of a Aerial-Deployed Fin-Powered Underwater Module for Quagga Mussel Monitoring",
+     "lab_acronym": null,
+     "summary": "Design of a biomimetic, fin-powered underwater sensing module deployed by drone, intended for monitoring invasive quagga and zebra mussels in freshwater systems. The work covers system development, hydrodynamic optimisation, camera-based mussel detection and field testing.",
+     "project_types": [],
+     "domains": [
+      "robotics",
+      "bioinspired robotics",
+      "environmental monitoring",
+      "hydrodynamics"
+     ],
+     "skills": [
+      "CAD",
+      "hydrodynamics",
+      "control systems"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Luca Romanello"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/2026_0601_RyoKanno_SPINE_V2.pdf": {
+   "key": {
+    "content_hash": "bed7a063b65b95e7d4f9de8121b5ea41d2a326754fdb1b38ecfa462afbe5e8f0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:34+00:00",
+   "input_tokens": 6534,
+   "output_tokens": 899,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "A Modular Snap-Fit Electromagnetic Hinge for Undulatory / Jellyfish Robots",
+     "lab_acronym": null,
+     "summary": "Develop bio-inspired underwater robots that combine a low-frequency electromagnetic flapping fin with undulatory (fish-like) swimming and jellyfish-like pulsing locomotion, targeting multi-modal locomotion for confined and extreme environments. The work covers literature review, mechanical design and simulation, prototyping, water-tank testing and efficiency analysis.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "bio-inspired robotics",
+      "underwater robotics",
+      "electromagnetic actuation"
+     ],
+     "skills": [
+      "CAD"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Ryo Kanno",
+      "Prof. Dr. Mirko Kovac"
+     ],
+     "status": "available",
+     "academic_period": "HS 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/06/student_proposal_sailmav_LR.pdf": {
+   "key": {
+    "content_hash": "b11d4d11b2f4049a51cfbede02df4da9f921faeb7cc7871892304baeb3d11e93",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:43+00:00",
+   "input_tokens": 5473,
+   "output_tokens": 376,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-06-01",
+   "projects": [
+    {
+     "title": "Design and Autonomous Control of a Flying-Sailing Robot (SailMAV)",
+     "lab_acronym": null,
+     "summary": "Improve the SailMAV hybrid micro aerial vehicle, which can fly, land on water, sail autonomously and take off again, through aerodynamic and mechanical design optimisation, autopilot development with PX4 or ArduPilot, simulation, and outdoor validation.",
+     "project_types": [],
+     "domains": [
+      "robotics",
+      "aerial robotics",
+      "autonomous control",
+      "environmental monitoring"
+     ],
+     "skills": [
+      "PX4",
+      "ArduPilot",
+      "CAD",
+      "control systems",
+      "embedded development",
+      "drones"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Luca Romanello"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/Aerial_Aquatic_Multirotor_Project.pdf": {
+   "key": {
+    "content_hash": "85efdae3a3017c7ee52bdba7dd0b347c617f7997671fe274cb8e598040867be7",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:38:50+00:00",
+   "input_tokens": 5980,
+   "output_tokens": 1208,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Learning-Based Control of a Hybrid Aerial-Aquatic Multirotor",
+     "lab_acronym": null,
+     "summary": "Replace the cascaded flight controller of a quadrotor with a deep reinforcement learning controller that tracks waypoints both in air and underwater. The work includes building a waterproof drone, extending a GPU-accelerated simulator with aquatic dynamics, and transferring the learned policy to hardware in a pool-equipped arena, compared against PID and model-reference adaptive controllers.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "reinforcement learning",
+      "control systems",
+      "sim-to-real transfer"
+     ],
+     "skills": [
+      "deep reinforcement learning",
+      "GPU-accelerated simulation",
+      "PID control",
+      "model-reference adaptive control"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Junghwan Ro",
+      "Dr. Ioannis Mandralis",
+      "Dr. Pham Huy Nguyen"
+     ],
+     "status": "available",
+     "academic_period": "HS 2026 – FS 2027"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_Impinging.pdf": {
+   "key": {
+    "content_hash": "73d69f1be0bc30aec7659120d619a69d5566c5e2c3c73d76d5336a12e886fe98",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:39:00+00:00",
+   "input_tokens": 6838,
+   "output_tokens": 461,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-09-03",
+   "projects": [
+    {
+     "title": "Design and Characterisation of a Lightweight Air-Assisted Impinging Nozzle for Aerial Polyurethane Foam Deposition",
+     "lab_acronym": null,
+     "summary": "Design, build and characterise a lightweight impinging-jet mixing nozzle for two-component polyurethane foam deposition from aerial robots. The work covers analytical sizing, manufacturing of nozzle variants, bench mixing-quality tests and vertical thin-layer deposition trials.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "aerial robotics",
+      "additive manufacturing",
+      "fluid mixing",
+      "polymer processing"
+     ],
+     "skills": [
+      "CAD",
+      "ROS 2",
+      "fluid dynamics",
+      "Reynolds number analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Yusuf Furkan Kaya",
+      "Visnusuthan Vairavipillai"
+     ],
+     "status": "unknown",
+     "academic_period": "HS 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lsr/wp-content/uploads/2026/09/LSR_Student_Project_AAM_MPC.pdf": {
+   "key": {
+    "content_hash": "47a5748bdc060b8bedf921fe9a9a0121ee278f3cf2c6fc11e67dab153a13b8c2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lsr"
+   ],
+   "extracted_at": "2026-11-24T11:39:07+00:00",
+   "input_tokens": 8427,
+   "output_tokens": 794,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Model Predictive Control for Tooltip Stabilisation of a Coaxial Tricopter with a 6 DoF Stewart Parallel Manipulator",
+     "lab_acronym": null,
+     "summary": "Develop a model predictive controller that stabilises the tool tip of a coaxial tricopter carrying a six-degree-of-freedom Stewart platform end effector, predicting the airframe's disturbance motion over the control loop latency and respecting platform joint limits and singularities. The work includes extending the Gazebo/PX4 simulation, validating in simulation and on hardware, and comparing against the existing kinematic baseline.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "aerial manipulation",
+      "model predictive control",
+      "robotics",
+      "aerial robotics"
+     ],
+     "skills": [
+      "ROS",
+      "Gazebo",
+      "PX4",
+      "CasADi",
+      "acados"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Dr. Mirko Kovac",
+      "Yusuf Furkan Kaya",
+      "Visnusuthan Vairavipillai"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lsym/393-2/": {
    "key": {
     "content_hash": "abd869ffdbc24106b05ac3513beb9cb77ce8a74f98ab1a90aa1ae5e548741614",
@@ -35628,6 +36137,194 @@
    "page_kind": "no_projects",
    "page_updated_at": null,
    "projects": []
+  },
+  "https://www.epfl.ch/labs/lte/projects/": {
+   "key": {
+    "content_hash": "a9f85725999e26d992b193d47a5c58486afa21be82d8dc8a73b8e6357411fba4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lte"
+   ],
+   "extracted_at": "2026-11-24T11:39:16+00:00",
+   "input_tokens": 4426,
+   "output_tokens": 1311,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Hydrometeor classification with lidars and ceilometers",
+     "lab_acronym": null,
+     "summary": "Master project on classifying hydrometeors from lidar and ceilometer observations, in collaboration with MeteoSwiss in Payerne.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "atmospheric remote sensing",
+      "meteorology",
+      "lidar"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Stratus detection over the Swiss plateau",
+     "lab_acronym": null,
+     "summary": "Master project on detecting stratus clouds over the Swiss plateau, in collaboration with MeteoSwiss in Payerne.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "atmospheric remote sensing",
+      "meteorology",
+      "cloud detection"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Damages related to extreme precipitation in urban environment",
+     "lab_acronym": null,
+     "summary": "Semester project on damages caused by extreme precipitation in urban environments.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "environmental remote sensing",
+      "urban hydrology",
+      "extreme precipitation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Evaluation of the global LMDZ model for the simulation of clouds and precipitation microphysics in Antarctica",
+     "lab_acronym": null,
+     "summary": "Semester project evaluating the global LMDZ model's simulation of clouds and precipitation microphysics in Antarctica. The page notes it could be modified into a master project.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "climate modelling",
+      "cloud microphysics",
+      "polar atmosphere"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lte/teaching/": {
+   "key": {
+    "content_hash": "cbbc3de77f15b85c717aa4a716335f0f84397dbe698ee273137203ba7ff61617",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-lte"
+   ],
+   "extracted_at": "2026-11-24T11:39:26+00:00",
+   "input_tokens": 4779,
+   "output_tokens": 159,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/ltqe/page-73621-en-html/": {
+   "key": {
+    "content_hash": "02a01bca168745e69f1ee561c205a11d22212174b3263e446d81d48870fc179e",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-ltqe"
+   ],
+   "extracted_at": "2026-11-24T11:39:32+00:00",
+   "input_tokens": 4133,
+   "output_tokens": 701,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Hands4Health",
+     "lab_acronym": null,
+     "summary": "A semester project proposal from LTQE titled Hands4Health, with health as its apparent focus. The page gives no further detail.",
+     "project_types": [],
+     "domains": [
+      "water quality",
+      "public health"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tianqi Zhang"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2022"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/ltqe/wp-content/uploads/2022/07/Semester_project1_fall_2022_LTQE_Urs_von_Gunten.pdf": {
+   "key": {
+    "content_hash": "3597ba29ed9f4afe8f40dd4b5a99934d82ebfa1e15e0dcaec3c3a150a4881488",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-ltqe"
+   ],
+   "extracted_at": "2026-11-24T11:39:41+00:00",
+   "input_tokens": 4548,
+   "output_tokens": 337,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Hands4Health – Reaction kinetics between chlorine and amides in reused handwashing water",
+     "lab_acronym": null,
+     "summary": "Study the reaction kinetics between chlorine and amides at different pH values and temperatures to support chlorine dosing in reused handwashing water for stand-alone handwashing systems used in low- and middle-income countries.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "water treatment",
+      "chemical kinetics",
+      "water quality",
+      "disinfection"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "the postdoc working on this topic"
+     ],
+     "status": "unknown",
+     "academic_period": "Fall 2022"
+    }
+   ]
   },
   "https://www.epfl.ch/labs/lts4/openings/": {
    "key": {
@@ -36191,6 +36888,495 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/luts/semester-projects/": {
+   "key": {
+    "content_hash": "4a3edb6c3d72d19e8dd060b7503f76059685b271ec1c3cd91f1f9b69990534ad",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-luts"
+   ],
+   "extracted_at": "2026-11-24T11:39:47+00:00",
+   "input_tokens": 22698,
+   "output_tokens": 9355,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Multi-agent Reinforcement Learning with History-dependent Rewards for Cooperative Multi-UAV Traffic Monitoring",
+     "lab_acronym": null,
+     "summary": "A drone fleet must coordinate its trajectories over a road network to prioritise important roads, under a history-dependent reward. The project investigates decentralised recurrent policies that use each drone's local observation history.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "reinforcement learning",
+      "multi-agent systems",
+      "traffic monitoring",
+      "drones"
+     ],
+     "skills": [
+      "Python",
+      "NumPy",
+      "PyTorch",
+      "reinforcement learning",
+      "machine learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Yasaman Zolfimoselo"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "Can Vehicle Composition Predict Urban Congestion? Analysis of traffic dynamics using large-scale vehicle trajectories collected from a swarm of drones",
+     "lab_acronym": null,
+     "summary": "The project studies how the mix of vehicle types (cars, motorcycles, buses, trucks) affects the formation and recovery of urban congestion, using drone-extracted vehicle trajectories.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "traffic flow",
+      "urban congestion",
+      "transport data analysis"
+     ],
+     "skills": [
+      "Python",
+      "large dataset processing",
+      "data analysis",
+      "visualization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Manos Barmpounakis"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "A Macroscopic Approach to Managing Prioritized Low-Altitude Aircraft Transport Systems",
+     "lab_acronym": null,
+     "summary": "The project models low-altitude aircraft transport systems within the macroscopic fundamental diagram framework and designs boundary control and departure management strategies that prioritise certain aircraft and separate airspace.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "urban air mobility",
+      "macroscopic fundamental diagram",
+      "traffic control"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "traffic flow theory",
+      "systems and control",
+      "linear algebra"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Can Chen",
+      "Ran Chen"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "Adaptive Drone Sensing for Max-Pressure Traffic Signal Control",
+     "lab_acronym": null,
+     "summary": "The project develops strategies for a limited drone fleet to dynamically choose which intersections to observe for Max-Pressure signal control, comparing them with fixed sensing configurations.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "traffic signal control",
+      "mobile sensing",
+      "traffic simulation"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "SUMO"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marko Susnjar"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "Estimating Macroscopic Traffic Conditions from Sparse Drone Observations",
+     "lab_acronym": null,
+     "summary": "The project investigates whether sparse drone observations can estimate regional traffic states, such as vehicle counts and flows for perimeter control, using simple estimation and machine learning methods.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "traffic estimation",
+      "machine learning",
+      "perimeter control"
+     ],
+     "skills": [
+      "Python",
+      "machine learning",
+      "regression",
+      "random forests"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marko Susnjar"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "Coordination and Efficiency in Persistent Multi-UAV Monitoring",
+     "lab_acronym": null,
+     "summary": "The project studies how multiple UAVs in a grid environment should coordinate to keep information fresh across an area, using control, heuristic or reinforcement learning approaches compared in simulation.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "multi-UAV coordination",
+      "persistent monitoring",
+      "reinforcement learning"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Meng Xu"
+     ],
+     "status": "available",
+     "academic_period": "2026 Fall"
+    },
+    {
+     "title": "Probabilistic Traffic Data Learning with Diffusion Models",
+     "lab_acronym": null,
+     "summary": "The project applies denoising diffusion models to traffic forecasting to produce probabilistic predictions, starting from related work and transferring it to METR-LA and PEMS-Bay, with possible extension to missing-data imputation.",
+     "project_types": [],
+     "domains": [
+      "traffic forecasting",
+      "diffusion models",
+      "probabilistic prediction"
+     ],
+     "skills": [
+      "deep learning",
+      "PyTorch"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Weijiang Xiong"
+     ],
+     "status": "available",
+     "academic_period": "2025 Fall"
+    },
+    {
+     "title": "Pretraining Traffic Forecasting Models",
+     "lab_acronym": null,
+     "summary": "The project explores masked-autoencoder-style pretraining of traffic prediction models to improve generalisation across cities, then fine-tunes the pretrained model on a new urban traffic dataset.",
+     "project_types": [],
+     "domains": [
+      "traffic forecasting",
+      "pretraining",
+      "deep learning"
+     ],
+     "skills": [
+      "deep learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Weijiang Xiong"
+     ],
+     "status": "available",
+     "academic_period": "2025 Fall"
+    },
+    {
+     "title": "Low-Altitude Air City Transport (LAAT) systems",
+     "lab_acronym": null,
+     "summary": "The project evaluates the artificial potential field collision avoidance used in a multi-drone simulator and develops and compares provably safe collision avoidance methods, to improve the accuracy of the LAAT macroscopic fundamental diagram.",
+     "project_types": [],
+     "domains": [
+      "urban air mobility",
+      "collision avoidance",
+      "motion planning"
+     ],
+     "skills": [
+      "control theory",
+      "motion planning",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Ran Chen",
+      "Can Chen"
+     ],
+     "status": "available",
+     "academic_period": "2025 Fall"
+    },
+    {
+     "title": "Parking Availability Monitoring Using Drone Video Analytics",
+     "lab_acronym": null,
+     "summary": "The project builds a parking occupancy estimation pipeline from drone-captured aerial videos, with a dashboard for real-time and predictive parking indicators and a demand case study.",
+     "project_types": [],
+     "domains": [
+      "computer vision",
+      "video analytics",
+      "parking management"
+     ],
+     "skills": [
+      "Python",
+      "machine learning",
+      "computer vision"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Yura Tak"
+     ],
+     "status": "available",
+     "academic_period": "2025 Fall"
+    },
+    {
+     "title": "Coordinated UAV Planning for Urban Delivery and Surveillance",
+     "lab_acronym": null,
+     "summary": "The project designs a decision-making algorithm for UAVs that balances parcel delivery with road surveillance on a graph-based road network where road importance evolves with visits.",
+     "project_types": [],
+     "domains": [
+      "uav planning",
+      "urban logistics",
+      "route planning"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Meng Xu"
+     ],
+     "status": "available",
+     "academic_period": "2025 Fall"
+    },
+    {
+     "title": "On Gaussian Process Dual Control for Multi-Agent Patrolling",
+     "lab_acronym": null,
+     "summary": "The project explores modelling the temporal evolution of congestion with a Gaussian process and formulating a dual control problem to drive adaptive patrolling by a drone fleet.",
+     "project_types": [],
+     "domains": [
+      "gaussian processes",
+      "dual control",
+      "multi-agent patrolling"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marko Maljkovic"
+     ],
+     "status": "available",
+     "academic_period": "2025 Spring"
+    },
+    {
+     "title": "Deep Recurrent Q-Learning for Multi-Agent Patrolling",
+     "lab_acronym": null,
+     "summary": "The project investigates deep recurrent Q-learning to train a fleet of patrolling agents that monitor congestion in a simplified 2D grid city environment.",
+     "project_types": [],
+     "domains": [
+      "reinforcement learning",
+      "multi-agent systems",
+      "drones"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marko Maljkovic"
+     ],
+     "status": "available",
+     "academic_period": "2025 Spring"
+    },
+    {
+     "title": "Road and occlusion segmentation from drone video",
+     "lab_acronym": null,
+     "summary": "The project segments roads and occlusions (buildings, trees) in drone videos, using a segmentation model such as SAM, to support occlusion-aware vehicle detection.",
+     "project_types": [],
+     "domains": [
+      "computer vision",
+      "image segmentation",
+      "traffic monitoring"
+     ],
+     "skills": [
+      "Python",
+      "machine learning",
+      "computer vision"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Yura Tak"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "On-demand Service Integration and Coordination with Bus Schedule Operation",
+     "lab_acronym": null,
+     "summary": "The project develops an optimisation framework that improves on-demand vehicle-to-passenger assignment using historical bus data, so that on-demand micro-transit supports fixed-schedule bus operations.",
+     "project_types": [],
+     "domains": [
+      "public transit",
+      "on-demand mobility",
+      "optimization"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Lynn Fayed"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "Multispecies Traffic as Directed Percolation",
+     "lab_acronym": null,
+     "summary": "The project uses simulation to study multispecies traffic, where two-wheelers percolate through car traffic, as a directed percolation phase transition and its critical exponents.",
+     "project_types": [],
+     "domains": [
+      "statistical physics",
+      "complexity science",
+      "traffic flow"
+     ],
+     "skills": [
+      "simulation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Georg Anagnostopoulos"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "On Dual Control For Traffic Monitoring With a Fleet of Drones",
+     "lab_acronym": null,
+     "summary": "The project designs and tests a multi-agent probabilistic optimal search framework based on dual control for exploration and exploitation, to localise congestion epicentres with a drone fleet using Bayesian inference.",
+     "project_types": [],
+     "domains": [
+      "dual control",
+      "bayesian inference",
+      "drones"
+     ],
+     "skills": [
+      "Python",
+      "model predictive control"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marko Maljkovic"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "Optimizing Fleet Operation using Potential Field-Based Algorithm",
+     "lab_acronym": null,
+     "summary": "The project develops a potential-field algorithm that rebalances empty vehicles in autonomous mobility-on-demand systems, using attractive potentials towards demand and repulsive potentials to avoid clustering.",
+     "project_types": [],
+     "domains": [
+      "autonomous mobility-on-demand",
+      "vehicle rebalancing",
+      "potential fields"
+     ],
+     "skills": [
+      "MATLAB",
+      "control",
+      "robotics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pengbo ZHU"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "Optimizing drone delivery using bus networks",
+     "lab_acronym": null,
+     "summary": "The project develops an optimisation framework in which drones ride buses with set stops and schedules to reduce total flying distance, and compares service levels with a no-bus scenario.",
+     "project_types": [],
+     "domains": [
+      "drone delivery",
+      "vehicle routing",
+      "optimization"
+     ],
+     "skills": [
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Minru Wang"
+     ],
+     "status": "available",
+     "academic_period": "2024 Fall"
+    },
+    {
+     "title": "Estimating the impact of pick-up and drop-off behaviors of ride-hailing vehicles on bus services",
+     "lab_acronym": null,
+     "summary": "The project models the interaction between ride-hailing pick-up and drop-off at curbsides and bus services, using microscopic traffic simulation or an analytical approach.",
+     "project_types": [],
+     "domains": [
+      "curb management",
+      "public transit",
+      "microscopic simulation"
+     ],
+     "skills": [
+      "Python",
+      "SUMO",
+      "Vissim",
+      "Aimsun"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Zhenyu Yang"
+     ],
+     "status": "available",
+     "academic_period": "2024 Spring"
+    },
+    {
+     "title": "Operation of ride-sourcing as a first-mile feeder for public transit",
+     "lab_acronym": null,
+     "summary": "The project models ride-pooling as a first-mile service complementing public transit in a simplified network with spatial restrictions on ride-sourcing access, and evaluates performance across operational scenarios.",
+     "project_types": [],
+     "domains": [
+      "ride-sourcing",
+      "public transit",
+      "ride-pooling"
+     ],
+     "skills": [
+      "Python",
+      "optimization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Minru Wang"
+     ],
+     "status": "available",
+     "academic_period": "2024 Spring"
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lwe/page-142116-en-html/": {
    "key": {
     "content_hash": "aaf49b9070041fea90df207d399446e19dc3f940f79502897917ec8a3dd00197",
@@ -36651,6 +37837,157 @@
      "supervisors": [
       "Tim Tuuva"
      ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/mace/fr/enseignement/projets-de-maitrise/": {
+   "key": {
+    "content_hash": "ab83582282e9fd97b1f65f56851f721c647327d17662557002387ed5e2546602",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-mace"
+   ],
+   "extracted_at": "2026-11-24T11:40:24+00:00",
+   "input_tokens": 4760,
+   "output_tokens": 929,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Composition and function of crysphere microbiomes",
+     "lab_acronym": null,
+     "summary": "Bioinformatic project analysing in-house and publicly available metagenomes to determine the taxonomic composition and functions of cryosphere microbiomes and identify global genomic features. It is followed by a meta-analysis to find trends and patterns across different cryosphere environments.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "metagenomics",
+      "bioinformatics",
+      "cryosphere ecology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Molecular adaptation strategies of alpine snow microorganisms to warming",
+     "lab_acronym": null,
+     "summary": "Laboratory-based project in which alpine snow microbes are isolated and characterised genomically for their metabolic potential in cold and warming adaptation. Isolates are cultivated at a range of temperatures and their RNA/proteins analysed to identify molecular changes and assess the thermal tolerance of cryospheric microorganisms. A bioinformatic component is included, and optional fieldwork is possible.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "molecular biology",
+      "climate change ecology",
+      "genomics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/mace/teaching/master-projects/": {
+   "key": {
+    "content_hash": "50056e9d41e364281581de8e795799f9aea1ef4a715a86847723b7743e03bacb",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-mace"
+   ],
+   "extracted_at": "2026-11-24T11:40:34+00:00",
+   "input_tokens": 5068,
+   "output_tokens": 1645,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Composition and function of crysphere microbiomes",
+     "lab_acronym": null,
+     "summary": "Analysis of in-house and publicly available metagenomes to determine the taxonomic composition and functions of cryosphere microbiomes and identify global genomic features. A meta-analysis would then look for trends and emergent patterns across different cryosphere environments.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "metagenomics",
+      "bioinformatics",
+      "climate change"
+     ],
+     "skills": [
+      "bioinformatics",
+      "metagenomics",
+      "meta-analysis"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Molecular adaptation strategies of alpine snow microorganisms to warming",
+     "lab_acronym": null,
+     "summary": "Isolation of alpine snow microorganisms followed by genomic analysis of their metabolic potential for cold and warming adaptation. Cultivation at a range of temperatures and RNA/protein analysis would reveal molecular changes triggered by temperature and assess the thermal tolerance of cryospheric microorganisms; optional field work is possible.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "molecular biology",
+      "genomics",
+      "climate change"
+     ],
+     "skills": [
+      "microbial cultivation",
+      "genomic analysis",
+      "RNA/protein extraction",
+      "bioinformatics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Alpine microbiome under pressure: Investigating the microbial community and its response to climate change.",
+     "lab_acronym": null,
+     "summary": "Combined dry- and wet-lab project studying the microbial community of barren alpine mountain tops with seasonal snow cover at almost 3000 m, using metagenomics and proteomics. The work couples microbial community data with greenhouse gas emission monitoring at a field site in Crans-Montana, with periodic field visits and laboratory work in Sion.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "metagenomics",
+      "proteomics",
+      "climate change"
+     ],
+     "skills": [
+      "metagenomics",
+      "proteomics",
+      "-omics data analysis",
+      "wet-lab work",
+      "field sampling"
+     ],
+     "language": "EN",
+     "supervisors": [],
      "status": "available",
      "academic_period": null
     }
@@ -37172,6 +38509,115 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/matr/student-projects/": {
+   "key": {
+    "content_hash": "67d517ed367166a74982ef800d0e2c93a14fa57dc58e51758d0ea944d0270e96",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-matr"
+   ],
+   "extracted_at": "2026-11-24T11:40:46+00:00",
+   "input_tokens": 6447,
+   "output_tokens": 1475,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Pathway toward optimized life-cycle management of glass in the construction sector",
+     "lab_acronym": null,
+     "summary": "Investigates glass products, framing systems, flat glass and glass wool used in buildings, reviewing current production, material selection, use and end-of-life practices. The goal is to identify circular economy and material recovery strategies and develop alternative variants, assessed with a bottom-up life-cycle assessment. The project is part of a collaboration with the Canton of Zurich.",
+     "project_types": [],
+     "domains": [
+      "circular economy",
+      "life-cycle assessment",
+      "sustainable construction",
+      "building materials"
+     ],
+     "skills": [
+      "life-cycle assessment",
+      "multi-criteria analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rebecca Hartwell",
+      "Dr. Didier Vuarnoz"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Bio-inspired construction materials",
+     "lab_acronym": null,
+     "summary": "Explores how biological structures and mechanisms can inspire next-generation natural materials and interfaces for sustainable construction. The student will experiment with material formulations, digital fabrication, re-assembly and characterisation to obtain materials with tailored functional properties.",
+     "project_types": [],
+     "domains": [
+      "sustainable materials",
+      "bio-inspired design",
+      "construction materials",
+      "digital fabrication"
+     ],
+     "skills": [
+      "material characterisation",
+      "digital fabrication"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rebecca Hartwell"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Assessment and adaptation of building components for extended service lifetimes",
+     "lab_acronym": null,
+     "summary": "Extends a digital method for assessing the environmental reclamation potential of building elements to support reuse and recycling. Possible directions include disassembly sequencing with interface inventories and knowledge graphs, impact analysis of material value chains, deterioration mechanisms of building envelopes, and non-destructive test protocols.",
+     "project_types": [],
+     "domains": [
+      "circular economy",
+      "building lifecycle",
+      "disassembly planning",
+      "sustainable construction"
+     ],
+     "skills": [
+      "knowledge graphs",
+      "clustering analysis",
+      "AI algorithms"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rebecca Hartwell"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Reversible interfaces for sustainable construction",
+     "lab_acronym": null,
+     "summary": "Researches reversible adhesion for multi-material building components to enable reuse, covering bi-material compatibility, joint geometry optimisation, fabrication and disassembly on demand. The student may study separation of existing composite elements or develop new connection methods.",
+     "project_types": [],
+     "domains": [
+      "reversible adhesion",
+      "sustainable construction",
+      "composite materials",
+      "design for disassembly"
+     ],
+     "skills": [
+      "computational modelling",
+      "experimental testing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rebecca Hartwell"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/mccabelab/positions/": {
    "key": {
     "content_hash": "3d0a11786543a94c818f1cbb66cf772393f5dbf1284806efe8b41e37bc4c7efc",
@@ -37250,6 +38696,24 @@
      "academic_period": null
     }
    ]
+  },
+  "https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/": {
+   "key": {
+    "content_hash": "ec046e2095792b855c6eb1e981a0939ffe779f66fcf444d546b9f0abde574701",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-mcs"
+   ],
+   "extracted_at": "2026-11-24T11:40:56+00:00",
+   "input_tokens": 4133,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/mds/": {
    "key": {
@@ -37373,6 +38837,120 @@
      "supervisors": [
       "Sangwoo Kim"
      ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/microbe/student-project/": {
+   "key": {
+    "content_hash": "6003f447b1de31aba7b54a2c82c6ead4adf6bddacab3392cde00887bed548e3e",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-microbe"
+   ],
+   "extracted_at": "2026-11-24T11:41:02+00:00",
+   "input_tokens": 4302,
+   "output_tokens": 1012,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Engineering environmental microbiomes via selective ion transport",
+     "lab_acronym": null,
+     "summary": "Project on engineering environmental microbial communities by controlling selective ion transport. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microbiology",
+      "environmental engineering",
+      "bioelectrochemistry"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Exploring Predictive Models and Machine Learning for Microbial Communities in Anaerobic Digesters",
+     "lab_acronym": null,
+     "summary": "Project on using predictive models and machine learning to study microbial communities in anaerobic digesters. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "machine learning",
+      "microbial ecology",
+      "anaerobic digestion"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Enrichment and isolation of fermenter bacteria from anaerobic digestion",
+     "lab_acronym": null,
+     "summary": "Project on enriching and isolating fermentative bacteria from anaerobic digestion processes. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microbiology",
+      "anaerobic digestion",
+      "bacterial isolation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Investigating the physiology of CO2-reducing microbes for carbon-neutral, renewable chemical synthesis",
+     "lab_acronym": null,
+     "summary": "Project on the physiology of CO2-reducing microbes with the aim of carbon-neutral, renewable chemical synthesis. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microbial physiology",
+      "carbon dioxide reduction",
+      "biotechnology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Isolation of methane-oxidizing bacteria for greenhouse gas removal",
+     "lab_acronym": null,
+     "summary": "Project on isolating methane-oxidizing bacteria for use in removing greenhouse gases. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microbiology",
+      "methane oxidation",
+      "greenhouse gas mitigation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
      "status": "available",
      "academic_period": null
     }
@@ -40438,6 +42016,69 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/pal/open-positions/": {
+   "key": {
+    "content_hash": "d14bb655469ba6cc0161ec94a02ad6161e608e62fa72014b29ab0342ba17e029",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-pal"
+   ],
+   "extracted_at": "2026-11-24T11:41:10+00:00",
+   "input_tokens": 5402,
+   "output_tokens": 1191,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Soil-plant interactions: Influence of iron dynamics on plant physiology in saline soils",
+     "lab_acronym": null,
+     "summary": "Studies how salinity, flooding and oxygen availability change iron chemistry in soils and how this affects iron availability and plant physiology. The student would build an artificial saline soil system with iron-containing minerals, assess iron geochemistry under different salinity and moisture levels, develop an imaging system to monitor plant growth, and model how salinity, moisture and iron mineralogy affect plant growth.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "plant science",
+      "soil biogeochemistry",
+      "plant physiology",
+      "environmental science"
+     ],
+     "skills": [
+      "Interest in plants and environmental processes",
+      "Wet laboratory experience (useful, not mandatory)",
+      "Proficiency in English"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Priya Ramakrishna",
+      "Meret Aeppli"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/pal/research-projects/": {
+   "key": {
+    "content_hash": "5f1dd890ceb0acad6e4a6e4b928af7d11618e8b79ffc1e6c0a70bd73b49a7335",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-pal"
+   ],
+   "extracted_at": "2026-11-24T11:41:20+00:00",
+   "input_tokens": 4223,
+   "output_tokens": 143,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/pbl/open-positions/": {
    "key": {
     "content_hash": "b9ab2dc5162a18968b267f0b5411557f26fa6f3d8639f2609c3b3ea67e4de79e",
@@ -40468,6 +42109,42 @@
    "extracted_at": "2026-11-24T10:24:55+00:00",
    "input_tokens": 4296,
    "output_tokens": 164,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/perl/fr/perl-fr/student-projects-fr/": {
+   "key": {
+    "content_hash": "ce192c6dc38b6521a472315de473501b24909c13fe7e6f72d714edf459f2e1eb",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-perl"
+   ],
+   "extracted_at": "2026-11-24T11:41:26+00:00",
+   "input_tokens": 4279,
+   "output_tokens": 340,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/perl/perl-home/student-projects/": {
+   "key": {
+    "content_hash": "c2ce3490fc750ba60c2ee13fc29c26a1d9eea8f5af2babe6b789be5ee440beb4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-perl"
+   ],
+   "extracted_at": "2026-11-24T11:41:33+00:00",
+   "input_tokens": 4193,
+   "output_tokens": 180,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -41456,6 +43133,268 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/resslab/semester-projects/": {
+   "key": {
+    "content_hash": "006223099831888de696f74bb03af6c66b8c57ce6a2c5c2d000623bee0e75806",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-resslab"
+   ],
+   "extracted_at": "2026-11-24T11:41:39+00:00",
+   "input_tokens": 5568,
+   "output_tokens": 3009,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Design of a typical steel building",
+     "lab_acronym": null,
+     "summary": "Design of a typical industrial or office steel frame building, covering the floor system, lateral load resisting systems, connections and foundation, with conceptual design and verification of members and frame stability under wind and/or seismic loading. Deliverables include connection detailing drawings and a detailed calculation report.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "structural engineering",
+      "steel structures",
+      "building design"
+     ],
+     "skills": [
+      "structural design software used in design offices",
+      "technical drawing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Stability project using interactive tools (MOLA Kit)",
+     "lab_acronym": null,
+     "summary": "Hands-on physical modelling with the MOLA Structural Kit to explore stability phenomena in frame structures, combining structural dynamics, structural stability and structural analysis.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "structural stability",
+      "structural dynamics",
+      "structural analysis"
+     ],
+     "skills": [
+      "physical modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Seismic stability of base-isolated steel structures",
+     "lab_acronym": null,
+     "summary": "Shaking table tests on typical steel structural configurations, compared with numerical simulations, to evaluate the influence of base isolation on structural response under earthquake shaking.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "earthquake engineering",
+      "structural dynamics",
+      "base isolation"
+     ],
+     "skills": [
+      "shaking table testing",
+      "numerical modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Dynamic stability of steel structures under seismic excitations",
+     "lab_acronym": null,
+     "summary": "Combines theoretical analysis and numerical modelling of the dynamic stability of steel frames under seismic excitation with shake-table tests of an idealised frame built from the MOLA Structural Kit, exploring torsional effects, soft-storey vulnerability and frame stability criteria.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "earthquake engineering",
+      "structural dynamics",
+      "structural stability"
+     ],
+     "skills": [
+      "numerical modelling",
+      "shaking table testing",
+      "structural dynamics theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Nonlinear modelling and analysis of steel structures",
+     "lab_acronym": null,
+     "summary": "Development of frame analysis models for steel structures to study their linear and nonlinear response through static or dynamic analysis procedures. The page lists CIVIL 449 (Nonlinear Analysis of Structures) as a prerequisite.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "structural engineering",
+      "nonlinear analysis",
+      "steel structures"
+     ],
+     "skills": [
+      "frame analysis",
+      "nonlinear structural analysis (CIVIL 449)"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Nonlinear static analysis of steel structures",
+     "lab_acronym": null,
+     "summary": "Development of Python numerical models to simulate the nonlinear static (pushover) analysis of steel structures under wind and/or seismic loading, using fibre-based beam-columns or concentrated plasticity models, with results placed in design context (SIA 269/3, Eurocode 8 part 3).",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "structural engineering",
+      "nonlinear analysis",
+      "earthquake engineering"
+     ],
+     "skills": [
+      "Python",
+      "nonlinear structural analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Nonlinear dynamic analysis of steel structures",
+     "lab_acronym": null,
+     "summary": "Development of Python numerical models to simulate the dynamic response of steel structures under seismic loading, using fibre-based beam-columns or concentrated plasticity models, with results placed in design context.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "earthquake engineering",
+      "nonlinear analysis",
+      "structural dynamics"
+     ],
+     "skills": [
+      "Python",
+      "nonlinear structural analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Conceptual design of a footbridge",
+     "lab_acronym": null,
+     "summary": "As part of a design competition, students draft a project basis, develop several footbridge variants, design the chosen variant, and produce two A1 technical drawing sheets with plan, elevations, sections, details and construction stages.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "bridge engineering",
+      "structural design",
+      "civil engineering"
+     ],
+     "skills": [
+      "AutoCAD",
+      "technical drawing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Assessment of an existing bridge",
+     "lab_acronym": null,
+     "summary": "Assessment of an existing bridge using frame finite element analysis, including ULS and fatigue verifications with recent simulation tools and traffic load models (SIA 269 revision), and, if necessary, a proposed intervention such as reinforcement or monitoring.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "bridge engineering",
+      "structural assessment",
+      "fatigue"
+     ],
+     "skills": [
+      "finite element analysis",
+      "structural verification (ULS, fatigue)"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dimitrios Lignos"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/river/student-projects/": {
+   "key": {
+    "content_hash": "abb58abf1c2c8a9694941491a4cd2812641a3d60cd68e268686b164f44e66458",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-river"
+   ],
+   "extracted_at": "2026-11-24T11:41:55+00:00",
+   "input_tokens": 4162,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/rpgl/teaching/": {
+   "key": {
+    "content_hash": "bc0b3b4a063d758a12cdb64e9b10db76cd218dd6a1b9de6c198655c6df79185a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-rpgl"
+   ],
+   "extracted_at": "2026-11-24T11:42:00+00:00",
+   "input_tokens": 4285,
+   "output_tokens": 153,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/rrl/research-2/ma-projects/": {
    "key": {
     "content_hash": "c6b403d259b0994f3a9543fe9ac4c8a28b8c406f0de7a77a861ecf30a535452f",
@@ -41814,6 +43753,175 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/sci-enac-as/research/": {
+   "key": {
+    "content_hash": "bcc3380d2a09cc3c96b0600f87c55b1f9034f87011bb832b9a0f1d872f064c24",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sci-enac-as"
+   ],
+   "extracted_at": "2026-11-24T11:42:06+00:00",
+   "input_tokens": 6457,
+   "output_tokens": 268,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/": {
+   "key": {
+    "content_hash": "3f0054a89f54d955446ae7db4298a95b891d5db0e26c0652edce7a6e640bccc4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sci-enac-as"
+   ],
+   "extracted_at": "2026-11-24T11:42:13+00:00",
+   "input_tokens": 5234,
+   "output_tokens": 417,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/sense/fr/student-projects/": {
+   "key": {
+    "content_hash": "7b5d23f6ae890ced016a5a927fa411ed9efc884a0e57ce10da13d327b6385a10",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sense"
+   ],
+   "extracted_at": "2026-11-24T11:42:20+00:00",
+   "input_tokens": 6822,
+   "output_tokens": 1651,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Permeance of N2O, NH3 and H2O through two-dimensional graphene membranes",
+     "lab_acronym": null,
+     "summary": "Characterise the permeation coefficients of N2O, NH3 and H2O through atomically thin graphene membranes and benchmark them against existing PDMS membranes used in in-situ dissolved gas probes. The work also quantifies the effects of temperature and salinity.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "membrane separation",
+      "gas sensing",
+      "environmental sensing",
+      "graphene materials"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Kumar Agrawal",
+      "Jérôme Chappellaz"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Automated selection of spectral windows for gas detection and isotopic ratio retrievals from HITRAN database",
+     "lab_acronym": null,
+     "summary": "Develop a reproducible Python tool that uses the HITRAN spectroscopic database to simulate absorption spectra and rank the best spectral windows for detecting target gases and measuring isotopic ratios. The tool aims to support the design of optical greenhouse gas sensors.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "spectroscopy",
+      "optical gas sensing",
+      "greenhouse gas monitoring",
+      "scientific computing"
+     ],
+     "skills": [
+      "Python",
+      "HITRAN database",
+      "spectroscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Jérôme Chappellaz",
+      "Roberto Grilli"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/sense/student-projects-2/": {
+   "key": {
+    "content_hash": "18c1e67ee754ce23c302039d17b9cc69feb8cea19b29f7bf0fad9ab8657fe070",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sense"
+   ],
+   "extracted_at": "2026-11-24T11:42:32+00:00",
+   "input_tokens": 6766,
+   "output_tokens": 1304,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Permeance of N2O, NH3 and H2O through two-dimensional graphene membranes",
+     "lab_acronym": null,
+     "summary": "Characterise the permeation of N2O, NH3 and H2O through existing PDMS membranes and newly built two-dimensional graphene membranes, to benchmark them for in-situ dissolved gas measurements. The work includes measuring permeation coefficients using dry gas mixtures and pressurised water tanks, and quantifying the effects of temperature and salinity.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "membrane separation",
+      "dissolved gas sensing",
+      "graphene materials",
+      "environmental chemistry"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Kumar Agrawal",
+      "Jérôme Chappellaz"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Automated selection of spectral windows for gas detection and isotopic ratio retrievals from HITRAN database",
+     "lab_acronym": null,
+     "summary": "Develop a reproducible, documented Python tool that uses the HITRAN spectroscopic database to identify and rank spectral windows suited to detecting target gases and measuring isotopic ratios. The tool simulates synthetic absorption spectra and scores candidate windows on interference, signal-to-noise and temperature/pressure sensitivity.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "molecular spectroscopy",
+      "optical gas sensing",
+      "greenhouse gas monitoring",
+      "scientific computing"
+     ],
+     "skills": [
+      "Python",
+      "HITRAN"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Jérôme Chappellaz",
+      "Roberto Grilli"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/smal/projects/": {
    "key": {
     "content_hash": "0d8faeebba3287f7779a573c779a8fa74122ba3c26bb46c713db9ca6442d8986",
@@ -42049,6 +44157,180 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/soil/msc-and-sie-projects/": {
+   "key": {
+    "content_hash": "36969194dd3764092e20d435e8eb904df8c68c37fcaf1ade15ecc4af68f91f31",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-soil"
+   ],
+   "extracted_at": "2026-11-24T11:42:42+00:00",
+   "input_tokens": 7020,
+   "output_tokens": 2387,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Field and experimental Data visualization and sharing through software application",
+     "lab_acronym": null,
+     "summary": "Develop further a web application that imports, exports and visualises field and experimental soil and ecology data from two Swiss Alpine study sites, adding interactive maps and plots and a user interface for a broad public audience.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "soil ecology",
+      "data visualisation",
+      "software engineering",
+      "field ecology"
+     ],
+     "skills": [
+      "React",
+      "JavaScript",
+      "Plotly",
+      "Leaflet",
+      "mapping and plotting libraries",
+      "organization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Bence Dienes"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Characterizing the redox parameters dictating the reactivity of Mn(III)-oxides",
+     "lab_acronym": null,
+     "summary": "Determine the thermodynamic and kinetic redox parameters of Mn(III)-oxides (hausmannite and manganite) using mediated electrochemical analyses, and quantify how carbonate, organic matter and ligands affect their reactivity and electron transfer.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "environmental chemistry",
+      "electrochemistry",
+      "redox chemistry",
+      "soil chemistry"
+     ],
+     "skills": [
+      "mediated electrochemical analysis",
+      "wet laboratory work",
+      "scientific writing",
+      "English"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Vineeth Pothanamkandathil",
+      "Meret Aeppli"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Insights into organic carbon mineralization in alpine soils: A soil incubation experiment",
+     "lab_acronym": null,
+     "summary": "Assess how soil moisture influences soil organic carbon mineralisation in Swiss alpine soils through laboratory incubation experiments, measuring respiration, redox conditions and oxygen availability and analysing the results statistically.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "soil biogeochemistry",
+      "carbon cycle",
+      "soil science",
+      "climate change"
+     ],
+     "skills": [
+      "laboratory incubation experiments",
+      "statistical analysis",
+      "written English",
+      "meticulous laboratory practice"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Bence Dienes"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Effect of organic fertilizer plus additives on GHG emissions and soil properties",
+     "lab_acronym": null,
+     "summary": "Evaluate whether organic fertilizers combined with additives, shown promising in laboratory studies, reduce greenhouse gas emissions and change soil properties under real conditions on two Swiss farms, through field GHG measurements and soil analyses.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "agricultural soil science",
+      "greenhouse gas emissions",
+      "soil geochemistry",
+      "regenerative agriculture"
+     ],
+     "skills": [
+      "greenhouse gas flux measurements",
+      "soil characterization",
+      "X-ray fluorescence (XRF)",
+      "texture and pH analysis"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Soil-plant interactions: Influence of iron dynamics on plant physiology in saline soils",
+     "lab_acronym": null,
+     "summary": "Build an artificial saline soil system of sand and iron-bearing minerals to study how salinity and moisture change iron geochemistry and, in turn, plant growth and physiology, including developing an imaging system and a plant growth model.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "soil-plant interactions",
+      "soil geochemistry",
+      "plant physiology",
+      "iron biogeochemistry"
+     ],
+     "skills": [
+      "experimental soil system design",
+      "plant growth experiments",
+      "imaging system development",
+      "modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Priya Ramakrishna",
+      "Meret Aeppli"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/soil/teaching/": {
+   "key": {
+    "content_hash": "fd2ffd2da6f0a2f120a22509e1ccf246c4929d3f4302a14882a10d47c92ffb22",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-soil"
+   ],
+   "extracted_at": "2026-11-24T11:42:56+00:00",
+   "input_tokens": 4128,
+   "output_tokens": 177,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/spark/join-the-lab/": {
    "key": {
     "content_hash": "130fcb15bb7c1240a36fc11b20b6bec399d3c5fe05c4978400b988520ac313f0",
@@ -42102,6 +44384,546 @@
    "page_kind": "no_projects",
    "page_updated_at": null,
    "projects": []
+  },
+  "https://www.epfl.ch/labs/streem/fr/projets-detudiant-e-s-2/": {
+   "key": {
+    "content_hash": "850a38ca3debc01e94b00b4d8ba004450266c93661632361bc9eeb832d90b6e1",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "extracted_at": "2026-11-24T11:43:02+00:00",
+   "input_tokens": 7479,
+   "output_tokens": 2085,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Détection et analyse des formes du lit des rivières à partir de données de laboratoire",
+     "lab_acronym": null,
+     "summary": "Analyse a laboratory dataset of migrating dunes and ripples to estimate their migration speed and two-dimensional shape, starting with PIV-inspired image-pair comparison. The work supports estimating sediment transport and hydraulic roughness in sandy rivers.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "river hydraulics",
+      "sediment transport",
+      "image processing"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "data analysis",
+      "image processing",
+      "PIV"
+     ],
+     "language": "FR",
+     "supervisors": [
+      "Antonio Magherini",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Méthodes d'évaluation des ressources énergétiques hydrocinétiques",
+     "lab_acronym": null,
+     "summary": "Develop a robust analytical or data-based methodology to estimate the hydrokinetic energy resource available in rivers and artificial channels. The long-term aim is a full assessment of hydrokinetic potential in rural areas of Switzerland and Europe.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "renewable energy",
+      "hydrokinetic energy",
+      "hydraulics"
+     ],
+     "skills": [],
+     "language": "FR",
+     "supervisors": [
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Sédimentation dans les réservoirs des barrages : synthèse et extension des ensembles de données existants",
+     "lab_acronym": null,
+     "summary": "Synthesise and extend existing datasets on reservoir sedimentation, with a focus on mitigation strategies in operating dams. The goal is a structured database analysed for trends linking dam characteristics, catchment properties and mitigation efficiency. The project is carried out with Oak Ridge National Laboratory.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "hydropower",
+      "reservoir sedimentation",
+      "data analysis"
+     ],
+     "skills": [
+      "data analysis",
+      "data synthesis"
+     ],
+     "language": "FR",
+     "supervisors": [
+      "Mirko Musa",
+      "Giovanni de Cesare"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Outils numériques pour le transport des sédiments et les simulations morphodynamiques",
+     "lab_acronym": null,
+     "summary": "Evaluate the ability of current numerical tools, notably the BASEMENT hydromorphodynamic software, to simulate sediment transport and bed evolution in simplified natural and laboratory settings. Students run controlled numerical experiments and critically interpret the results.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "sediment transport",
+      "numerical modelling",
+      "river morphodynamics"
+     ],
+     "skills": [
+      "BASEMENT",
+      "numerical simulation"
+     ],
+     "language": "FR",
+     "supervisors": [
+      "Clemente Gotelli",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Prévision de la morphologie fluviale à l'aide de l'IA",
+     "lab_acronym": null,
+     "summary": "Use deep learning models trained on satellite imagery and open datasets to predict long-term changes in braided river configurations. Possible directions include temporal pattern recognition, new architectures and loss functions, hydrological data integration, and model evaluation.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "deep learning",
+      "river morphology",
+      "remote sensing"
+     ],
+     "skills": [
+      "deep learning",
+      "satellite images"
+     ],
+     "language": "FR",
+     "supervisors": [
+      "Antonio Magherini",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/streem/student-projects/": {
+   "key": {
+    "content_hash": "cbfd5dfb2b134a4cb6abd06638de3c84ef40bc5ed819e600773ff6510046449e",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "extracted_at": "2026-11-24T11:43:15+00:00",
+   "input_tokens": 8968,
+   "output_tokens": 3568,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Experiments on fluvial dunes",
+     "lab_acronym": null,
+     "summary": "Controlled laboratory experiments in a narrow recirculating flume to study mobile sand bed dynamics under different flow conditions. High-frequency imaging of the bed and free surface will be processed to characterise bedform evolution, with an optional link to data-driven prediction of bed evolution.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "hydraulic engineering",
+      "sediment transport",
+      "experimental hydraulics"
+     ],
+     "skills": [
+      "data analysis",
+      "scientific computing",
+      "MATLAB",
+      "Python",
+      "R"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Clemente Gotelli",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "River bedforms detection and analysis from laboratory data",
+     "lab_acronym": null,
+     "summary": "Analyse a laboratory dataset of migrating ripples and dunes to estimate their migration speed and two-dimensional shape. The approach applies particle image velocimetry-inspired algorithms that compare consecutive image pairs.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "river hydraulics",
+      "sediment transport",
+      "image processing"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "image processing",
+      "particle image velocimetry"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Antonio Magherini",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Hydrokinetic energy resource assessment methods",
+     "lab_acronym": null,
+     "summary": "Develop an analytical or data-driven methodology to estimate the hydrokinetic energy resource available in rivers and engineered channels. The longer-term aim is an assessment of hydrokinetic potential across rural Switzerland and Europe.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "renewable energy",
+      "hydrokinetic energy",
+      "hydraulics"
+     ],
+     "skills": [
+      "data analysis",
+      "scientific computing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Reservoir Sedimentation at Dams: Synthesis and Expansion of Existing Datasets",
+     "lab_acronym": null,
+     "summary": "Synthesise and expand existing datasets on reservoir sedimentation, with a focus on mitigation strategies at operational dams. The goal is a structured database linking dam characteristics, watershed properties and mitigation effectiveness, analysed for patterns. The project is in collaboration with Oak Ridge National Laboratory.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "reservoir sedimentation",
+      "hydropower",
+      "sediment management"
+     ],
+     "skills": [
+      "data analysis",
+      "database construction",
+      "scientific computing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa",
+      "Giovanni De Cesare"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Sensitivity of Catchment-Scale Sediment Budget Estimates to Sediment Transport Equations and Model Parameters",
+     "lab_acronym": null,
+     "summary": "Use the D-CASCADE sediment connectivity model on the Romanche catchment to test how sediment transport equations (Rickenmann, Wilcock-Crowe-Mueller) and input parameters such as active width, active layer depth and discharge affect sediment budget estimates. The aim is a reproducible sensitivity analysis and guidance on formula suitability and input-data priorities.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "sediment connectivity",
+      "reservoir sedimentation",
+      "river hydraulics"
+     ],
+     "skills": [
+      "D-CASCADE",
+      "basic programming",
+      "sensitivity analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa",
+      "Walter Yana de la Riva"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Morphodynamic Controls on the Evolution of Reservoir Sediment Trapping Efficiency",
+     "lab_acronym": null,
+     "summary": "Use Delft3D to model how sediment trapping efficiency in a reservoir changes as it fills and delta deposits develop. The work will calculate trapping efficiency from sediment mass balances and relate it to storage loss, deposit distribution and flow conditions.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "reservoir sedimentation",
+      "morphodynamics",
+      "numerical modelling"
+     ],
+     "skills": [
+      "Delft3D",
+      "numerical modelling",
+      "basic programming"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa",
+      "Walter Yana de la Riva"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Influence of Dam Idealization on Reservoir Sedimentation Predictions in Delft3D",
+     "lab_acronym": null,
+     "summary": "Compare alternative representations of a dam in Delft3D (such as downstream water level conditions, simplified discharge relationships and explicit hydraulic structures) to quantify how they affect simulated sediment retention and deposition. The study aims to determine the level of model complexity appropriate for different purposes.",
+     "project_types": [
+      "master_thesis",
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "reservoir sedimentation",
+      "numerical modelling",
+      "morphodynamics"
+     ],
+     "skills": [
+      "Delft3D",
+      "numerical modelling",
+      "basic programming"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa",
+      "Walter Yana de la Riva"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Numerical tools for sediment transport and morphodynamic simulations",
+     "lab_acronym": null,
+     "summary": "Evaluate the capability of numerical tools, mainly the BASEMENT hydro-morphodynamic software, to simulate sediment transport and bed evolution in simplified natural and laboratory configurations. Students run controlled numerical experiments to identify strengths and limitations of the tools.",
+     "project_types": [],
+     "domains": [
+      "sediment transport",
+      "numerical modelling",
+      "river morphodynamics"
+     ],
+     "skills": [
+      "BASEMENT",
+      "numerical simulation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Clemente Gotelli",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "AI-Driven Prediction of River Morphology",
+     "lab_acronym": null,
+     "summary": "Develop deep-learning models that forecast long-term planform changes of complex river systems, especially braided rivers, using satellite imagery and open-source datasets. Possible directions include new architectures and loss functions, integrating hydrologic data and evaluating model performance.",
+     "project_types": [],
+     "domains": [
+      "deep learning",
+      "river morphology",
+      "remote sensing"
+     ],
+     "skills": [
+      "deep learning",
+      "satellite imagery analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Antonio Magherini",
+      "Mirko Musa"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/STREEM_project_DLRiverMorphology.pdf": {
+   "key": {
+    "content_hash": "944e19d49f9a9d5c1aac9b5d379cace5bbe2bbfc2c5ae78d2c214a9e512f7ed0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "extracted_at": "2026-11-24T11:43:32+00:00",
+   "input_tokens": 6502,
+   "output_tokens": 650,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "AI for river morphology",
+     "lab_acronym": null,
+     "summary": "Develop and improve deep-learning models that predict the planform morphological evolution of (braided) rivers, using satellite imagery collections and hydrological data. The student defines a research plan, may generate new river datasets, and assesses model performance and limitations.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "machine learning",
+      "river morphology",
+      "remote sensing",
+      "hydrology"
+     ],
+     "skills": [
+      "Machine learning",
+      "Deep learning",
+      "Python",
+      "Google Earth Engine",
+      "Satellite imagery"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Mirko Musa",
+      "Antonio Magherini"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2025/11/Semester_project_proposal.pdf": {
+   "key": {
+    "content_hash": "ad6d7e46ac28bba724d01554bebf453d36015fac1d3b1ff787a199f087969ec3",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "extracted_at": "2026-11-24T11:43:40+00:00",
+   "input_tokens": 5509,
+   "output_tokens": 741,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Semester Project Proposal",
+     "lab_acronym": null,
+     "summary": "Evaluate the capability of the BASEMENT hydro-morphodynamic software to simulate sediment transport and bed evolution in simplified natural and laboratory river configurations. The student sets up, runs and interprets 2D hydrodynamic and sediment transport simulations and identifies the challenges of modelling natural rivers.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "sediment transport",
+      "river morphodynamics",
+      "hydraulic modelling",
+      "geomorphology"
+     ],
+     "skills": [
+      "BASEMENT",
+      "numerical modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Mirko Musa",
+      "Clemente Gotelli"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/streem/wp-content/uploads/2026/08/Semester_project_proposal_Dunes.pdf": {
+   "key": {
+    "content_hash": "bf4a0efe9d13c68b5a402081624764f9eefad387d73bbbea17c0244ec570990b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-streem"
+   ],
+   "extracted_at": "2026-11-24T11:43:49+00:00",
+   "input_tokens": 5817,
+   "output_tokens": 762,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Semester Project Proposal",
+     "lab_acronym": null,
+     "summary": "Experimental study of the temporal evolution of a mobile sand bed in a narrow recirculating flume, using high-frequency imaging to reconstruct bed and free-surface evolution and relate bedform dynamics to hydraulic conditions. Exploring data-driven or machine-learning prediction of bed evolution is an optional extension.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "sediment transport",
+      "hydraulic engineering",
+      "bedform dynamics",
+      "experimental hydraulics"
+     ],
+     "skills": [
+      "experimental hydraulics",
+      "data analysis",
+      "Python",
+      "image processing",
+      "fluid mechanics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Mirko Musa",
+      "Clemente Gotelli"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
   },
   "https://www.epfl.ch/labs/sunmil/teaching/": {
    "key": {
@@ -42176,6 +44998,42 @@
    "extracted_at": "2026-11-24T11:21:08+00:00",
    "input_tokens": 4150,
    "output_tokens": 213,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/sxl/education/": {
+   "key": {
+    "content_hash": "ba94c8edbe53785cc2627e08fd960bc06753aee378b42216ea4b968aea52bd85",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sxl"
+   ],
+   "extracted_at": "2026-11-24T11:43:57+00:00",
+   "input_tokens": 9470,
+   "output_tokens": 240,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/sxl/job-openings/": {
+   "key": {
+    "content_hash": "dc90536af08d94a927ba47825d5a6e4f453648364c29f8846b9b173dbe34509f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-sxl"
+   ],
+   "extracted_at": "2026-11-24T11:44:03+00:00",
+   "input_tokens": 4275,
+   "output_tokens": 184,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -44022,6 +46880,246 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/thema/enac-semester-project-unearthing-foundations/": {
+   "key": {
+    "content_hash": "6c99323842891210cb6c053fbc433a41521e9eb1d8b2a0e548a5b0b0d8b2f3e8",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "extracted_at": "2026-11-24T11:44:09+00:00",
+   "input_tokens": 4485,
+   "output_tokens": 928,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "ENAC Semester Project: Foundation",
+     "lab_acronym": null,
+     "summary": "The project examines how internationally recognized buildings look when foundations and the below-ground structure are considered alongside the above-ground building, using physical models to reveal the material use and embodied carbon hidden beneath expressions of lightness and transparency. The results will contribute to a public exhibition at Archizoom in Fall 2027.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "architecture",
+      "structural engineering",
+      "embodied carbon",
+      "physical modelling"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Sarah Nichols",
+      "Prof. David Ruggiero",
+      "Stefana (Fany) Kuzmova"
+     ],
+     "status": "unknown",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/thema/research/": {
+   "key": {
+    "content_hash": "a1df95c8944f89ecfdae1755b7baf7433d3e2e9b334c0c82ea606a65f1bbde24",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "extracted_at": "2026-11-24T11:44:18+00:00",
+   "input_tokens": 4364,
+   "output_tokens": 293,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/thema/teaching/masters-projects/": {
+   "key": {
+    "content_hash": "75f2b1a1f3bff3adc0ce89c019e21aacb7238fbc6cff77a4defcab6c3a5bed0e",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-thema"
+   ],
+   "extracted_at": "2026-11-24T11:44:26+00:00",
+   "input_tokens": 5498,
+   "output_tokens": 2376,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Gabarits/Baugespanne/Building Profiles",
+     "lab_acronym": null,
+     "summary": "Examines how building profiles (gabarits) are used, where, and why, how the practice has changed over time, and when it is helpful or misleading.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "architecture history",
+      "construction practice",
+      "urban planning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "The Life of Grande Dixence as Construction Site",
+     "lab_acronym": null,
+     "summary": "Uses the on-site journal and films of the construction process as primary material to characterize life on the construction sites of the Dixence-Cleuson hydropower complex over the decade of construction.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "construction history",
+      "infrastructure",
+      "architecture history"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Existing buildings as continued material commitments",
+     "lab_acronym": null,
+     "summary": "Identifies buildings renovated over multiple cycles, such as exposed-concrete examples like St. Antonius Church in Basel and the Goetheanum in Dornach, to understand material expenditure as a continual commitment rather than a one-time act.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "architecture history",
+      "material culture",
+      "building conservation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Contemporary History Tracing: Constructing Architecture: Materials Processes Structures",
+     "lab_acronym": null,
+     "summary": "Traces the influence of the 2005 book Constructing Architecture: Materials Processes Structures, examining where it is used as a textbook and reference, how its use differs from the authors' intention, and what its influence says about architectural practice today.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "architecture history",
+      "architectural theory",
+      "building materials"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "The City, Underground: Lausanne",
+     "lab_acronym": null,
+     "summary": "Characterizes and precisely draws the underground of Lausanne, including parking, metro, and train infrastructure (LEB, TRIDEL), examining how these spaces were imagined, how much remains, and what the future holds for them.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "urban studies",
+      "infrastructure",
+      "architecture history"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Follow the Things: M3 Construction",
+     "lab_acronym": null,
+     "summary": "Studies the history and planning of the M3 project in Lausanne, asking whether it is still defensible and what alternatives exist, and surveys where its construction and excavated materials come from and whether alternatives exist.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "urban studies",
+      "construction materials",
+      "infrastructure"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Lausanne Main Station",
+     "lab_acronym": null,
+     "summary": "Studies the history and planning of the new Lausanne main station, asking whether the project is still defensible and what alternatives exist.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "urban studies",
+      "infrastructure",
+      "architecture history"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Contractors",
+     "lab_acronym": null,
+     "summary": "Examines the history and operating strategy of local contractors such as Orlatti and Implenia.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "construction industry",
+      "architecture history",
+      "labor"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tiffanie Paré"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/theos/page-102234-en-html/": {
    "key": {
     "content_hash": "7dfb0f4b97b3845aa75a8e52f29ab059c64bddbb382943384f3b64b1aed8b184",
@@ -44198,6 +47296,42 @@
    "extracted_at": "2026-11-24T10:27:35+00:00",
    "input_tokens": 4717,
    "output_tokens": 271,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/tpod/diploma-thesis/": {
+   "key": {
+    "content_hash": "a2ea7f85fd069d0b7e9b4bd2a25fd1cb0f7abd1286775586d8e35e1833e897c4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-tpod"
+   ],
+   "extracted_at": "2026-11-24T11:44:40+00:00",
+   "input_tokens": 4451,
+   "output_tokens": 259,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/tpod/job-position/": {
+   "key": {
+    "content_hash": "b94ac90e9c08c385a9ea3960835af83dcde14d69a02b4ef44b2cf5e9098bc0a8",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-tpod"
+   ],
+   "extracted_at": "2026-11-24T11:44:46+00:00",
+   "input_tokens": 4139,
+   "output_tokens": 106,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -44457,6 +47591,400 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/urbdemo/urbdemo/education/": {
+   "key": {
+    "content_hash": "3090dbfdd93663955c571b979190fa74274d5f8a9826381b3f7e4c2a0a7a3aea",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-gr-urbdemo"
+   ],
+   "extracted_at": "2026-11-24T11:44:52+00:00",
+   "input_tokens": 4268,
+   "output_tokens": 146,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/urbdemo/urbdemo/projects/": {
+   "key": {
+    "content_hash": "fbb2a21d1c5b5da18ba6fc7c7a8c62daaf4618f76915a86294b08844e2675148",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-gr-urbdemo"
+   ],
+   "extracted_at": "2026-11-24T11:44:58+00:00",
+   "input_tokens": 4189,
+   "output_tokens": 660,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Migration in cities of the global south",
+     "lab_acronym": null,
+     "summary": "Studies migration flows and their role in urban growth in cities of the global south.",
+     "project_types": [],
+     "domains": [
+      "urban demography",
+      "migration studies",
+      "urbanization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Migration and urbanization in Switzerland",
+     "lab_acronym": null,
+     "summary": "Examines migration and urbanization patterns within Switzerland.",
+     "project_types": [],
+     "domains": [
+      "urban demography",
+      "migration studies",
+      "urbanization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Fertility decline in low- and middle-income countries",
+     "lab_acronym": null,
+     "summary": "Analyses the decline of fertility rates in low- and middle-income countries.",
+     "project_types": [],
+     "domains": [
+      "demography",
+      "fertility",
+      "population studies"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/urbes/student-projects/": {
+   "key": {
+    "content_hash": "c085ca9b59789f817bdfff5af4e6a580b35dcaade55a540c0da0ef4788c2b266",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-urbes"
+   ],
+   "extracted_at": "2026-11-24T11:45:06+00:00",
+   "input_tokens": 6690,
+   "output_tokens": 4154,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Modelling urban growth",
+     "lab_acronym": null,
+     "summary": "Review the literature on the space-time evolution of urban areas, study feedbacks between population growth and urban transport networks, and test and adapt an existing urban growth model to explain complex urban dynamics with simple spatial rules.",
+     "project_types": [],
+     "domains": [
+      "urban science",
+      "mathematical modelling",
+      "urban growth"
+     ],
+     "skills": [
+      "partial differential equations",
+      "Matlab",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Modelling groundwater pollution & remediation",
+     "lab_acronym": null,
+     "summary": "Simulate flow and transport processes in the subsurface to assess groundwater contamination at a selected site and explore remediation options.",
+     "project_types": [],
+     "domains": [
+      "hydrogeology",
+      "groundwater",
+      "environmental modelling"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Monitoring and modeling urban CO2 fluxes",
+     "lab_acronym": null,
+     "summary": "Test urban climate sensors (such as a flux tower at the UNIL campus, thermal cameras and drones), analyse the collected data, and/or develop an anthropogenic CO2 emissions model to compare observations with theoretical results.",
+     "project_types": [],
+     "domains": [
+      "urban climate",
+      "atmospheric science",
+      "carbon emissions"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Stochastic modelling of urban climate",
+     "lab_acronym": null,
+     "summary": "Develop a stochastic description of urban climate to characterise the space-time variability of urban surface and air temperature fields.",
+     "project_types": [],
+     "domains": [
+      "urban climate",
+      "stochastic modelling",
+      "physics"
+     ],
+     "skills": [
+      "stochastic differential equations",
+      "climate physics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Urban wind energy multiscale modeling",
+     "lab_acronym": null,
+     "summary": "Ingest the swissBUILDING3D 3.0 high-resolution building morphology dataset into the PALM-4U CFD model to explore urban wind energy potential across major Swiss conurbations.",
+     "project_types": [],
+     "domains": [
+      "urban wind energy",
+      "computational fluid dynamics",
+      "renewable energy"
+     ],
+     "skills": [
+      "AutoCAD",
+      "(Arc/Q)GIS",
+      "PALM-4U"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli",
+      "Dr. Aldo Brandi"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Modeling traffic flows",
+     "lab_acronym": null,
+     "summary": "Describe traffic flows in cities using theories and approaches from fluid dynamics and porous media, based on existing high-resolution datasets.",
+     "project_types": [],
+     "domains": [
+      "traffic modelling",
+      "fluid dynamics",
+      "urban mobility"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Machine Learning applications to urban sciences",
+     "lab_acronym": null,
+     "summary": "Apply machine learning to urban climate prediction (temperature, humidity, wind speed), land use change over time, and mobility and urban growth.",
+     "project_types": [],
+     "domains": [
+      "machine learning",
+      "urban climate",
+      "urban mobility"
+     ],
+     "skills": [
+      "machine learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Predicting population changes in time and space",
+     "lab_acronym": null,
+     "summary": "Develop a gravitational model to describe space-time variations in population density resulting from human mobility, from hourly to seasonal timescales.",
+     "project_types": [],
+     "domains": [
+      "population dynamics",
+      "human mobility",
+      "urban science"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Investigating commuting patterns in Switzerland using mobility models",
+     "lab_acronym": null,
+     "summary": "Analyse commuting flows in Switzerland using the Communal Matrix dataset, test existing mobility models such as those in the scikit-mobility package to predict flows, and compare results with other datasets such as Spanish mobility data.",
+     "project_types": [],
+     "domains": [
+      "human mobility",
+      "transport modelling",
+      "urban science"
+     ],
+     "skills": [
+      "Python",
+      "scikit-mobility"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli",
+      "Guo-Shiuan Lin"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Impact of extreme heat on transport infrastructures",
+     "lab_acronym": null,
+     "summary": "Assess changes in the frequency of future rail track buckling and other transport-related risks under heat, using the spatial and temporal distribution of transport infrastructure and temperature projections.",
+     "project_types": [],
+     "domains": [
+      "climate risk",
+      "transport infrastructure",
+      "climate change"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Computational fluid dynamics for urban cooling",
+     "lab_acronym": null,
+     "summary": "Study urban cooling with computational fluid dynamics. The page marks this topic as coming soon and recommends experience with ENVI-met or similar CFD codes.",
+     "project_types": [],
+     "domains": [
+      "urban climate",
+      "computational fluid dynamics",
+      "urban cooling"
+     ],
+     "skills": [
+      "ENVI-met",
+      "CFD"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Modeling visitors–residents competition in overtourism",
+     "lab_acronym": null,
+     "summary": "Model the competition between visitors and residents in overtourism. The page marks this topic as coming soon and gives no further details.",
+     "project_types": [],
+     "domains": [
+      "overtourism",
+      "urban science",
+      "modelling"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Aesthetics of scientific data",
+     "lab_acronym": null,
+     "summary": "Combine algorithmic techniques with state-of-the-art datasets to create critically articulated and aesthetically appealing visualizations of scientific data.",
+     "project_types": [],
+     "domains": [
+      "data visualization",
+      "design",
+      "scientific computing"
+     ],
+     "skills": [
+      "programming",
+      "design"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Impact of weather on mobility",
+     "lab_acronym": null,
+     "summary": "Assess how weather such as rainfall and heat affects mobility patterns and transport mode choice, using a dataset provided on the page.",
+     "project_types": [],
+     "domains": [
+      "human mobility",
+      "climate impacts",
+      "transport"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Gabriele Manoli"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Climate risk and nature-based solutions in humanitarian settings",
+     "lab_acronym": null,
+     "summary": "Study climate risk and nature-based solutions in humanitarian settings, possibly in collaboration with MEDAIR using a geospatial inventory for Lebanon. The specific topic is still to be defined.",
+     "project_types": [],
+     "domains": [
+      "climate risk",
+      "nature-based solutions",
+      "humanitarian action"
+     ],
+     "skills": [
+      "geospatial analysis"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/": {
    "key": {
     "content_hash": "cfdde4e65f796ba949b1e528a9cefdb1299eb3f71eb03a4695934c0b67a47eb9",
@@ -44469,6 +47997,24 @@
    "extracted_at": "2026-11-24T11:21:52+00:00",
    "input_tokens": 4813,
    "output_tokens": 193,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/weir/student-projects/": {
+   "key": {
+    "content_hash": "37efc1956878a7bb4e2ca709f25fd2426c83c5028d8b46eb165f1dcd29d74716",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-weir"
+   ],
+   "extracted_at": "2026-11-24T11:45:25+00:00",
+   "input_tokens": 4297,
+   "output_tokens": 187,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -44492,6 +48038,258 @@
    "page_kind": "no_projects",
    "page_updated_at": null,
    "projects": []
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/": {
+   "key": {
+    "content_hash": "440a8805bde9583a076912c3a2172ceb70415db121f9f4aced38667a6d737003",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:45:32+00:00",
+   "input_tokens": 4190,
+   "output_tokens": 157,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/investigation-of-flow-development-in-thermally-stratified-turbulent-boundary-layers/": {
+   "key": {
+    "content_hash": "5f4700de7905612d8a75ed03d5e9b84b14435aebe1ff17b4730cb3734c8f8a57",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:45:37+00:00",
+   "input_tokens": 4932,
+   "output_tokens": 421,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Investigation of flow development in thermally-stratified turbulent boundary layers",
+     "lab_acronym": null,
+     "summary": "Experimental study of how thermally stratified turbulent boundary layers develop in the WiRE boundary layer wind tunnel, under unstable, neutral and stable atmospheric-like temperature conditions and varying free stream velocities. The work includes pitot tube and thermocouple measurements, PIV feasibility tests, heat flux measurements, and power curve tests of a miniature wind turbine.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "wind engineering",
+      "atmospheric boundary layer",
+      "experimental fluid mechanics",
+      "wind energy"
+     ],
+     "skills": [
+      "wind tunnel experiments",
+      "data analysis",
+      "big data management",
+      "technical writing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Fernando Porté-Agel"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-project-wind-tunnel/": {
+   "key": {
+    "content_hash": "2646137be946052f92cbcf6a5957eda51b9bd5f306ace20fc973f6b3cf734132",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:45:44+00:00",
+   "input_tokens": 4832,
+   "output_tokens": 832,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Wind tunnel study of wind turbine performance and wind turbine wakes over complex terrain",
+     "lab_acronym": null,
+     "summary": "Wind tunnel experiments will study the performance of wind turbines placed on idealized terrains such as cliffs and isolated hills, in order to optimize turbine placement on the landscape. The study also examines turbine wakes over complex terrain.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "wind energy",
+      "wind tunnel experiments",
+      "fluid dynamics",
+      "atmospheric boundary layer"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Professor Fernando Porté-Agel"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Wind tunnel study on wind farm design optimization",
+     "lab_acronym": null,
+     "summary": "Scaled-down wind turbine models will be used in a wind tunnel to study how turbulent boundary layer flow interacts with wind farms of different configurations and turbine densities. The goal is to optimize wind farm design by maximizing energy output and minimizing fatigue loads.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "wind energy",
+      "wind tunnel experiments",
+      "wind farm design",
+      "fluid dynamics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Professor Fernando Porté-Agel"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-forecast/": {
+   "key": {
+    "content_hash": "c7ae47c60b11829225a07723437b28a864d600b205cce65e24d65052e3d8869d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:45:52+00:00",
+   "input_tokens": 4623,
+   "output_tokens": 368,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "A multiscale forecasting system for wind energy production",
+     "lab_acronym": null,
+     "summary": "Use online observation data to validate WIRE's multiscale simulation system for forecasting wind and energy output from wind farms over complex terrain, applied as a case study to the JUVENT wind farm in the Jura mountains, Switzerland.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "wind energy",
+      "wind power forecasting",
+      "environmental engineering",
+      "fluid mechanics"
+     ],
+     "skills": [
+      "MATLAB",
+      "fluid mechanics",
+      "statistics",
+      "quantitative methods"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof Fernando Porte-Agel",
+      "Dr. Jiannong Fang"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/ms-wind-energy-optimization/": {
+   "key": {
+    "content_hash": "b74f7920ad1dc9d9734b8fd887fce81bc7fd2a4ee69745b02f817e83bcbb1bb9",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:45:59+00:00",
+   "input_tokens": 5701,
+   "output_tokens": 761,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Example 4: Wind Energy Optimization",
+     "lab_acronym": null,
+     "summary": "Master student project on optimizing wind energy projects by improving predictions of wind and turbulence around turbines and wind farms. Tasks include developing a virtual wind simulator (large-eddy simulation and simpler analytical models), field measurements with scanning LiDARs, and wind-tunnel experiments on wind farm layouts and turbine siting over complex terrain.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "wind energy",
+      "computational fluid dynamics",
+      "atmospheric boundary layer",
+      "wind tunnel experiments",
+      "lidar measurements"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/wire/ms-thesis-project/wake-characteristics-of-a-wind-farm-sited-in-a-multiscale-rough-topography/": {
+   "key": {
+    "content_hash": "318eb3bbfaef315b3dd900566cb90748f21255ff41ff2f067cebae2f09927310",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "enac-wire"
+   ],
+   "extracted_at": "2026-11-24T11:46:08+00:00",
+   "input_tokens": 4708,
+   "output_tokens": 359,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Example 2: Wake characteristics of a wind farm sited in a multiscale rough topography",
+     "lab_acronym": null,
+     "summary": "Wind tunnel experiments on a wind farm sited in a multiscale rough topography, comparing power performance and wake characteristics with an ideal flat terrain and benchmarking analytical wake models for prediction in such terrain.",
+     "project_types": [],
+     "domains": [
+      "wind energy",
+      "wind tunnel experiments",
+      "atmospheric boundary layers",
+      "wake modeling"
+     ],
+     "skills": [
+      "data analysis",
+      "big data management",
+      "analytical modeling",
+      "technical writing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Fernando Porté-Agel"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
   },
   "https://www.epfl.ch/schools/enac/education/interdisciplinary-teaching/master-in-urban-systems/": {
    "key": {

@@ -115,3 +115,35 @@ def test_malformed_href_is_ignored():
     assert [c.url for c in candidate_links(html, HOME)] == [
         "https://www.epfl.ch/labs/vision/student-projects/"
     ]
+
+
+def test_same_lab_under_another_acronym_is_folded():
+    from pipeline.labs import dedupe_labs, site_key
+
+    assert site_key("https://www.epfl.ch/labs/ramdya-lab/available-projects/") == (
+        "epfl.ch/labs/ramdya-lab"
+    )
+    assert site_key("https://indy.epfl.ch/projects") == "indy.epfl.ch"
+    assert site_key("https://people.epfl.ch/someone") is None
+    curated = Lab(
+        id="sv-ramdya-lab", acronym="RAMDYA LAB", name="Neuroengineering", faculty="SV",
+        projects_url="https://www.epfl.ch/labs/ramdya-lab/available-projects/",
+        listed_in=["ic-mcs"],
+    )  # fmt: skip
+    dup = Lab(
+        id="sv-upramdya", acronym="UPRAMDYA", name="Neuroengineering Laboratory", faculty="SV",
+        homepage_url="https://www.epfl.ch/labs/ramdya-lab/", listed_in=["epfl-all"],
+    )  # fmt: skip
+    subunit_host = Lab(
+        id="enac-lasur", acronym="LASUR", name="Urban Sociology Laboratory", faculty="ENAC",
+        homepage_url="https://www.epfl.ch/labs/lasur/", listed_in=["epfl-all"],
+    )  # fmt: skip
+    subunit = Lab(
+        id="enac-tmu", acronym="TMU", name="Time Machine", faculty="ENAC",
+        projects_url="https://www.epfl.ch/labs/lasur/time-machine-unit/projects/",
+        listed_in=["ic-mcs"],
+    )  # fmt: skip
+    kept, folded = dedupe_labs([curated, dup, subunit_host, subunit])
+    assert folded == [("sv-upramdya", "sv-ramdya-lab")]  # LASUR/TMU are distinct units
+    assert curated.homepage_url == "https://www.epfl.ch/labs/ramdya-lab/"
+    assert {x.id for x in kept} == {"sv-ramdya-lab", "enac-lasur", "enac-tmu"}

@@ -1,25 +1,26 @@
 {
- "generated_at": "2026-11-24T10:28:03+00:00",
- "labs": 471,
+ "generated_at": "2026-11-24T11:48:27+00:00",
+ "labs": 462,
  "labs_by_status": {
-  "ok": 172,
-  "auto": 277,
+  "ok": 281,
+  "auto": 158,
   "none": 16,
   "js_rendered": 1,
   "restricted": 3,
-  "blocked": 2
+  "blocked": 2,
+  "error": 1
  },
- "labs_with_projects": 117,
- "projects": 905,
+ "labs_with_projects": 172,
+ "projects": 1215,
  "projects_by_status": {
-  "available": 780,
-  "unknown": 117,
+  "available": 1067,
+  "unknown": 140,
   "reserved": 8
  },
- "pages_crawled": 542,
- "pages_extracted": 542,
+ "pages_crawled": 737,
+ "pages_extracted": 737,
  "pages_failed": 0,
  "pages_not_yet_extracted": 0,
- "extraction_tokens_in": 3221501,
- "extraction_tokens_out": 548727
+ "extraction_tokens_in": 4361190,
+ "extraction_tokens_out": 701303
 }

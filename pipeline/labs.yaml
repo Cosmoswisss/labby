@@ -1153,29 +1153,15 @@ labs:
   - multiscale modeling
   - data science
   - machine learning
-  homepage_url: null
-  projects_url: https://www.epfl.ch/labs/lmd/student-projects/
-  source_type: auto
-  listed_in:
-  - ic-mcs
-  institutes: []
-  notes: null
-- id: enac-lmmd
-  acronym: LMMD
-  name: Data-Driven Mechanics Laboratory
-  faculty: ENAC
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
   homepage_url: https://www.epfl.ch/labs/lmd/
   projects_url: https://www.epfl.ch/labs/lmd/student-projects/
   source_type: auto
   listed_in:
+  - ic-mcs
   - epfl-all
   institutes:
   - IIC
-  notes: auto-discovered (high confidence, link 'Student Projects'), review
+  notes: null
 - id: enac-lms
   acronym: LMS
   name: Laboratory of Soil Mechanics
@@ -2226,21 +2212,6 @@ labs:
   - epfl-all
   institutes: []
   notes: auto-discovered (high confidence, link 'Student Projects & Summer Internships'), review
-- id: ic-indy
-  acronym: INDY
-  name: lnformation and Network Dynamics Laboratory
-  faculty: IC
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://indy.epfl.ch/
-  projects_url: https://indy.epfl.ch/projects
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes: []
-  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-indy1
   acronym: INDY1
   name: Information and Network Dynamics 1
@@ -2257,11 +2228,12 @@ labs:
   - discrete choice theory and applications
   - recommender systems
   - data mining
-  homepage_url: null
+  homepage_url: https://indy.epfl.ch/
   projects_url: https://indy.epfl.ch/projects
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
   institutes: []
   notes: null
 - id: ic-indy2
@@ -2329,21 +2301,6 @@ labs:
   - epfl-all
   institutes: []
   notes: null
-- id: ic-lamp
-  acronym: LAMP
-  name: Programming Methods Laboratory
-  faculty: IC
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/lamp/
-  projects_url: https://www.epfl.ch/labs/lamp/teaching/teaching-projects/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes: []
-  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-lamp1
   acronym: LAMP1
   name: Programming Methods 1
@@ -2361,11 +2318,12 @@ labs:
   - sanitization
   - automated testing
   - compartmentalization
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/lamp/
   projects_url: https://www.epfl.ch/labs/lamp/teaching/teaching-projects/
   source_type: auto
   listed_in:
   - ic-mcs
+  - epfl-all
   institutes: []
   notes: null
 - id: ic-lap
@@ -2674,23 +2632,6 @@ labs:
   - ic-mcs
   institutes: []
   notes: null
-- id: ic-mds
-  acronym: MDS
-  name: Chair of Mathematical Data Science
-  faculty: IC
-  joint_faculties:
-  - SB
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/mds/
-  projects_url: https://www.epfl.ch/labs/mds/teaching/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - MATH
-  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: ic-mds2
   acronym: MDS2
   name: Mathematical Data Science
@@ -2708,12 +2649,14 @@ labs:
   - reasoning in machine learning
   - information compression
   - random structures and algorithms
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/mds/
   projects_url: https://www.epfl.ch/labs/mds/
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - MATH
   notes: null
 - id: ic-mil
   acronym: MIL
@@ -2868,23 +2811,6 @@ labs:
   - epfl-all
   institutes: []
   notes: null
-- id: ic-neuroai-lab
-  acronym: NeuroAI Lab
-  name: NeuroAI Lab
-  faculty: IC
-  joint_faculties:
-  - SV
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/schrimpflab/
-  projects_url: null
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - Neuro-X
-  notes: no student-project link found on the homepage, review
 - id: ic-nlp
   acronym: NLP
   name: Natural Language Processing
@@ -3356,12 +3282,14 @@ labs:
   - to problems in machine learning
   - signal processing
   - inference and optimization
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/spoc/
   projects_url: https://www.epfl.ch/labs/spoc/open-positions/
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - IPHYS
   notes: null
 - id: ic-spring
   acronym: SPRING
@@ -3576,12 +3504,14 @@ labs:
   - natural language processing
   - human alignment
   - startups
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/schrimpflab/
   projects_url: https://www.epfl.ch/labs/schrimpflab/#prospective
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - Neuro-X
   notes: null
 - id: ic-upwei
   acronym: UPWEI
@@ -5466,22 +5396,6 @@ labs:
   institutes:
   - IPHYS
   notes: auto-discovered (low confidence, link 'Teaching'), review
-- id: sb-spoc
-  acronym: SPOC
-  name: Statistical Physics of Computation Laboratory
-  faculty: SB
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/spoc/
-  projects_url: https://www.epfl.ch/labs/spoc/open-positions/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - IPHYS
-  notes: auto-discovered (low confidence, link 'Open Positions'), review
 - id: sb-sqil
   acronym: SQIL
   name: Superconductor Quantum Information Laboratory
@@ -7530,12 +7444,14 @@ labs:
   - antimicrobial resistance
   - nanopore sensing
   - structural biology
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/lbm/
   projects_url: https://www.epfl.ch/labs/lbm/openings/
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - IBI
   notes: null
 - id: sv-lgc
   acronym: LGC
@@ -7690,22 +7606,6 @@ labs:
   institutes:
   - GHI
   notes: no student-project link found on the homepage, review
-- id: sv-naef-lab
-  acronym: Naef Lab
-  name: Computational Systems Biology lab
-  faculty: SV
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/naef-lab/
-  projects_url: https://www.epfl.ch/labs/naef-lab/page-115324-en-html/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - IBI
-  notes: auto-discovered (high confidence, link 'Master & Semester projects'), review
 - id: sv-ramdya-lab
   acronym: RAMDYA LAB
   name: Neuroengineering
@@ -7719,12 +7619,14 @@ labs:
   - behavior
   - robotics
   - evolution
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/ramdya-lab/
   projects_url: https://www.epfl.ch/labs/ramdya-lab/available-projects/
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - BMI
   notes: null
 - id: sv-upablasser
   acronym: UPABLASSER
@@ -7886,22 +7788,6 @@ labs:
   institutes:
   - Neuro-X
   notes: no student-project link found on the homepage, review
-- id: sv-updalpe
-  acronym: UPDALPE
-  name: Laboratory for Biomolecular Modeling
-  faculty: SV
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/lbm/
-  projects_url: https://www.epfl.ch/labs/lbm/teaching/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - IBI
-  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: sv-updepalma
   acronym: UPDEPALMA
   name: Prof. De Palma's Lab
@@ -8204,12 +8090,14 @@ labs:
   - quantitative biology
   - transcription
   - gene regulation
-  homepage_url: null
+  homepage_url: https://www.epfl.ch/labs/naef-lab/
   projects_url: https://www.epfl.ch/labs/naef-lab/page-115324-en-html/
   source_type: auto
   listed_in:
   - ic-mcs
-  institutes: []
+  - epfl-all
+  institutes:
+  - IBI
   notes: null
 - id: sv-upnavarro
   acronym: UPNAVARRO
@@ -8292,22 +8180,6 @@ labs:
   institutes:
   - ISREC
   notes: auto-discovered (high confidence, link 'this page'), review
-- id: sv-upramdya
-  acronym: UPRAMDYA
-  name: Neuroengineering Laboratory
-  faculty: SV
-  joint_faculties: []
-  heads: []
-  ic_domains: []
-  research_interests: []
-  homepage_url: https://www.epfl.ch/labs/ramdya-lab/
-  projects_url: https://www.epfl.ch/labs/ramdya-lab/available-projects/
-  source_type: auto
-  listed_in:
-  - epfl-all
-  institutes:
-  - BMI
-  notes: auto-discovered (high confidence, link 'Master and Bachelor student projects'), review
 - id: sv-upschoonjans
   acronym: UPSCHOONJANS
   name: Laboratory of Metabolic Signaling

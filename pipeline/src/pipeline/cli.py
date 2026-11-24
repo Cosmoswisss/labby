@@ -40,6 +40,7 @@ def labs(
     from pipeline.fetch import Fetcher
     from pipeline.labs import (
         EPFL_LABS_URL,
+        dedupe_labs,
         dump_labs_yaml,
         load_labs,
         merge_labs,
@@ -55,8 +56,11 @@ def labs(
             raise typer.Exit(1)
         incoming = parse_epfl_labs_page(result.body.decode("utf-8", errors="replace"))
         merged, added, updated = merge_labs(load_labs(output), incoming)
+        merged, folded = dedupe_labs(merged)
         dump_labs_yaml(merged, output)
         typer.echo(f"{len(incoming)} labs on {EPFL_LABS_URL}: {added} added, {updated} updated")
+        for removed, kept in folded:
+            typer.echo(f"  same lab: {removed} folded into {kept}")
         typer.echo(f"  faculty: {dict(Counter(lab.faculty for lab in merged))}")
         typer.echo("New labs have no projects_url yet: run `pipeline discover`, then review.")
         return
