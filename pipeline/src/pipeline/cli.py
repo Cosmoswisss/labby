@@ -191,13 +191,24 @@ def extract(
 
     labs = load_labs(labs_file)
     extractor = Extractor(ClaudeCodeEngine(model=model), config.CACHE_DIR, config.STATE_DIR)
-    report = extractor.run(
+    from pipeline.extract import ExtractionLocked, extraction_lock
+
+    run = lambda: extractor.run(  # noqa: E731
         labs,
         lab_ids=set(lab) if lab else None,
         limit=limit,
         max_input_tokens=max_input_tokens,
         dry_run=dry_run,
     )
+    if dry_run:
+        report = run()
+    else:
+        try:
+            with extraction_lock(config.STATE_DIR):
+                report = run()
+        except ExtractionLocked as exc:
+            typer.echo(f"Not started: {exc}")
+            raise typer.Exit(2) from exc
     typer.echo("")
     typer.echo(f"Engine: {report.engine}  prompt: {report.prompt}")
     typer.echo(

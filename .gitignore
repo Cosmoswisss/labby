@@ -27,3 +27,6 @@ Thumbs.db
 
 # Eval page snapshots (copies of third-party pages)
 pipeline/eval/pages/
+
+# Running-extraction lock
+pipeline/state/.extract.lock

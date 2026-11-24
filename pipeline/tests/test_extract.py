@@ -224,3 +224,27 @@ def test_five_hour_limit_message_is_recognised():
     msg = "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)"
     assert USAGE_LIMIT_RE.search(msg)
     assert not USAGE_LIMIT_RE.search("claude error: invalid output: missing field")
+
+
+def test_extraction_lock_blocks_a_second_run(tmp_path):
+    import os
+    import time
+
+    import pytest
+
+    from pipeline.extract import ExtractionLocked, extraction_lock
+
+    with extraction_lock(tmp_path):
+        with pytest.raises(ExtractionLocked):
+            with extraction_lock(tmp_path):
+                pass
+    # released after the first run
+    with extraction_lock(tmp_path):
+        pass
+    # a stale lock (crashed run) is replaced
+    lock = tmp_path / ".extract.lock"
+    lock.write_text("old", encoding="utf-8")
+    old = time.time() - 7 * 3600
+    os.utime(lock, (old, old))
+    with extraction_lock(tmp_path):
+        pass

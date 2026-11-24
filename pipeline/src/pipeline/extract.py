@@ -256,3 +256,37 @@ def load_extractions(path: Path) -> dict:
         if data.get("version") == EXTRACTIONS_VERSION:
             return data
     return {"version": EXTRACTIONS_VERSION, "updated_at": None, "pages": {}}
+
+
+class ExtractionLocked(RuntimeError):
+    """Another extraction is running (it would overwrite extractions.json)."""
+
+
+class extraction_lock:  # noqa: N801 (used as a context manager)
+    """Prevents two extractions from running at once on the same state directory.
+
+    Both would load extractions.json at start and rewrite it after every page, so one
+    would silently overwrite the other's results. A lock older than `stale_after`
+    seconds is considered abandoned (crashed run) and replaced.
+    """
+
+    def __init__(self, state_dir: Path, stale_after: float = 6 * 3600) -> None:
+        self.path = state_dir / ".extract.lock"
+        self.stale_after = stale_after
+
+    def __enter__(self) -> extraction_lock:
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        if self.path.exists() and time.time() - self.path.stat().st_mtime > self.stale_after:
+            self.path.unlink(missing_ok=True)
+        try:
+            with self.path.open("x", encoding="utf-8") as f:
+                f.write(now_utc().isoformat(timespec="seconds"))
+        except FileExistsError as exc:
+            started = self.path.read_text(encoding="utf-8").strip()
+            raise ExtractionLocked(
+                f"another extraction is running (started {started}); lock file: {self.path}"
+            ) from exc
+        return self
+
+    def __exit__(self, *exc: object) -> None:
+        self.path.unlink(missing_ok=True)
