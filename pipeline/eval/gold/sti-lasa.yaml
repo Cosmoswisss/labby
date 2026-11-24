@@ -1,0 +1,42 @@
+# Master and semester sections; one item 'Not available currently' (excluded). Supervisors shown only for some items.
+projects:
+- title: Soft Tactile Sensor Simulation & Sim-to-Real Engineering
+  project_types:
+  - master_thesis
+  supervisors:
+  - Aude Billard
+- title: Robust Stable Manipulation with Dexterous Hands under Changing External Forces
+  project_types:
+  - master_thesis
+  supervisors: []
+- title: Objective Evaluation of Surgical Skills Training Tools
+  project_types:
+  - master_thesis
+  supervisors:
+  - Aude Billard
+- title: 'Defying Newton''s third law: designing a vibrotactile stimulator without recoil'
+  project_types: null
+  supervisors:
+  - Aude Billard
+- title: Surgical Robotics Competitivity Report
+  project_types: null
+  supervisors: null
+  optional: true
+- title: Quantitative Assessment of Microsurgical Skills
+  project_types: null
+  supervisors: []
+- title: Multi-Arm Manipulation of Deformable Objects in Contact-Rich Environments
+  project_types: null
+  supervisors: []
+- title: A Modular Simulation and Analysis Platform for Multi-Limb Coordination
+  project_types: null
+  supervisors: []
+- title: Force-Aware Sequential Multi-Object Grasping with Coupled Contact
+  project_types: null
+  supervisors: []
+- title: Human-Robot Collaborative Manipulation
+  project_types: null
+  supervisors: []
+- title: Open Source Cloud Robotic Manipulation
+  project_types: null
+  supervisors: []

@@ -1,56 +1,40 @@
 {
- "started_at": "2026-11-23T14:01:27+00:00",
- "finished_at": "2026-11-23T14:02:15+00:00",
- "duration_s": 48.2,
+ "started_at": "2026-11-24T09:46:05+00:00",
+ "finished_at": "2026-11-24T09:50:26+00:00",
+ "duration_s": 261.1,
  "offline": false,
- "labs_total": 114,
+ "labs_total": 80,
  "labs_by_status": {
-  "ok": 92,
-  "none": 16,
-  "js_rendered": 1,
-  "restricted": 3,
-  "blocked": 2
+  "ok": 80
  },
- "pages_total": 253,
- "pages_new": 0,
- "pages_changed": 3,
- "pages_unchanged": 243,
- "pages_error": 4,
+ "pages_total": 274,
+ "pages_new": 269,
+ "pages_changed": 0,
+ "pages_unchanged": 0,
+ "pages_error": 2,
  "pages_duplicate": 3,
- "pages_stale": 27,
+ "pages_stale": 0,
  "little_text_pages": [
-  "https://www.epfl.ch/labs/dcsl/ma-ba-projects/",
-  "https://www.epfl.ch/schools/ic/ipg/research-topics/"
+  "https://www.epfl.ch/labs/emc/projects/",
+  "https://www.epfl.ch/labs/lmc/page-39752-en-html/page-156319-en-html/"
  ],
  "errors": [
   {
-   "lab": "ent-imaging-ge",
-   "url": "https://imaging.epfl.ch/students-projects",
-   "status": "error",
-   "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)"
-  },
-  {
-   "lab": "ic-cvlab",
-   "url": "https://www.epfl.ch/labs/cvlab/projects/stacked-objects-counting-segmenting-reconstructing/",
+   "lab": "sti-lasa",
+   "url": "https://www.epfl.ch/labs/lasa/student-projects/microsurgery-skill-assesment/",
    "status": "error",
    "error": "HTTP 404"
   },
   {
-   "lab": "sti-lidiap",
-   "url": "https://www.epfl.ch/labs/idiap/student-projects/Idiap",
+   "lab": "sti-lrese",
+   "url": "https://www.epfl.ch/labs/lrese/education/fb301d87-d1b2-4f77-aca2-e33274c90863",
    "status": "error",
    "error": "HTTP 404"
-  },
-  {
-   "lab": "sti-lts2",
-   "url": "https://lts2.epfl.ch/projects/list",
-   "status": "error",
-   "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)"
   }
  ],
  "fetcher": {
-  "network": 12,
-  "cache_hits": 251,
+  "network": 256,
+  "cache_hits": 19,
   "not_modified": 0,
   "errors": 2
  }

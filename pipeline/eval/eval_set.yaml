@@ -29,3 +29,10 @@ pages:
   - {id: entc, url: "https://www.epfl.ch/labs/entc/research/our-student-projects/"}
   - {id: lmd-pdf, url: "https://www.epfl.ch/labs/lmd/wp-content/uploads/2026/06/2026-available-pdms-lmd.pdf"}
   - {id: dedis-spring2025, url: "https://www.epfl.ch/labs/dedis/student-projects-spring-2025/"}
+  - {id: sti-gfo, url: "https://www.epfl.ch/labs/gfo/page-61073-en-html/"}
+  - {id: sti-lnet, url: "https://www.epfl.ch/labs/lnet/student-projects/"}
+  - {id: sti-emsi, url: "https://www.epfl.ch/labs/emsi/teaching/"}
+  - {id: sti-tic, url: "https://www.epfl.ch/labs/tic/page-25453-en-html/page-39144-en-html/"}
+  - {id: sti-unfold, url: "https://www.epfl.ch/labs/unfold/studentprojects/"}
+  - {id: sti-rrl-ma, url: "https://www.epfl.ch/labs/rrl/research-2/ma-projects/"}
+  - {id: sti-lasa, url: "https://www.epfl.ch/labs/lasa/student-projects/"}

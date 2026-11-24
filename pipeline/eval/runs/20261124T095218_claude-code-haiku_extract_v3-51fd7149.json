@@ -1,0 +1,408 @@
+{
+ "engine": "claude-code:haiku",
+ "prompt": "extract_v3:51fd7149",
+ "predictions": {
+  "sti-gfo": {
+   "input_tokens": 4256,
+   "output_tokens": 106,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "sti-lnet": {
+   "input_tokens": 4242,
+   "output_tokens": 157,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "sti-emsi": {
+   "input_tokens": 4538,
+   "output_tokens": 146,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "sti-tic": {
+   "input_tokens": 4333,
+   "output_tokens": 192,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "sti-unfold": {
+   "input_tokens": 4639,
+   "output_tokens": 228,
+   "page_kind": "no_projects",
+   "error": null,
+   "projects": []
+  },
+  "sti-rrl-ma": {
+   "input_tokens": 5293,
+   "output_tokens": 1174,
+   "page_kind": "single_project",
+   "error": null,
+   "projects": [
+    {
+     "title": "Terrain-Adaptive Robotic Foot Using Negative Stiffness Structure",
+     "lab_acronym": null,
+     "summary": "Develop a legged-robot foot that switches between a compact, stiff configuration on rigid ground and an expanded load-bearing configuration on deformable terrain such as sand. The design uses curved-origami structures with programmable positive and negative stiffness, and the foot is to be compared experimentally with a conventional rigid foot.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "legged locomotion",
+      "compliant mechanisms",
+      "origami structures"
+     ],
+     "skills": [
+      "CAD modeling",
+      "3D printing",
+      "mechanical design and prototyping",
+      "experimental analysis",
+      "robot control"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Hwayeong Jeong",
+      "Prof. Jamie Paik"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "sti-lasa": {
+   "input_tokens": 4711,
+   "output_tokens": 2877,
+   "page_kind": "project_list",
+   "error": null,
+   "projects": [
+    {
+     "title": "Soft Tactile Sensor Simulation & Sim-to-Real Engineering",
+     "lab_acronym": null,
+     "summary": "Develop simulation of soft tactile sensors and transfer their behaviour from simulation to the real world (sim-to-real). The page gives no further detail.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "tactile sensing",
+      "robotics",
+      "simulation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Robust Stable Manipulation with Dexterous Hands under Changing External Forces",
+     "lab_acronym": null,
+     "summary": "Study stable robotic manipulation with dexterous hands when external forces change. The page gives no further detail.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "dexterous manipulation",
+      "control"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Objective Evaluation of Surgical Skills Training Tools",
+     "lab_acronym": null,
+     "summary": "Objectively evaluate tools used to train surgical skills. The page gives no further detail.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "surgical robotics",
+      "medical robotics",
+      "skill assessment"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Defying Newton's third law: designing a vibrotactile stimulator without recoil",
+     "lab_acronym": null,
+     "summary": "Design a vibrotactile stimulator that produces no recoil, so that it does not push back on its support as it vibrates. The page gives no further detail.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "haptics",
+      "mechatronics",
+      "tactile sensing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Surgical Robotics Competitivity Report",
+     "lab_acronym": null,
+     "summary": "Write a report analysing the competitive landscape of surgical robotics. The page gives no further detail.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "surgical robotics",
+      "medical robotics",
+      "market analysis"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Quantitative Assessment of Microsurgical Skills",
+     "lab_acronym": null,
+     "summary": "Quantitatively assess microsurgical skills. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "surgical robotics",
+      "skill assessment",
+      "medical robotics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multi-Arm Manipulation of Deformable Objects in Contact-Rich Environments",
+     "lab_acronym": null,
+     "summary": "Manipulate deformable objects with multiple robotic arms in environments with rich contact. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "dexterous manipulation",
+      "deformable objects"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "A Modular Simulation and Analysis Platform for Multi-Limb Coordination",
+     "lab_acronym": null,
+     "summary": "Build a modular simulation and analysis platform for coordinating multiple limbs. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "simulation",
+      "motor coordination"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Force-Aware Sequential Multi-Object Grasping with Coupled Contact",
+     "lab_acronym": null,
+     "summary": "Grasp multiple objects in sequence using force awareness and coupled contact. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotic grasping",
+      "robotics",
+      "force control"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Human-Robot Collaborative Manipulation",
+     "lab_acronym": null,
+     "summary": "Study manipulation tasks performed collaboratively by humans and robots. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "human-robot interaction",
+      "robotics",
+      "manipulation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Open Source Cloud Robotic Manipulation",
+     "lab_acronym": null,
+     "summary": "Develop open-source cloud-based infrastructure for robotic manipulation. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "cloud robotics",
+      "robotics",
+      "open source software"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  }
+ },
+ "summary": {
+  "projects": {
+   "tp": 11,
+   "fp": 0,
+   "fn": 0,
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0
+  },
+  "fields": {
+   "project_types": {
+    "accuracy": 1.0,
+    "n": 3
+   },
+   "supervisors": {
+    "accuracy": 1.0,
+    "n": 11
+   },
+   "status": {
+    "accuracy": 1.0,
+    "n": 11
+   },
+   "lab_acronym": {
+    "accuracy": null,
+    "n": 0
+   }
+  },
+  "pages_with_errors": 0,
+  "unexpected_names": 0,
+  "meta_summaries": 11,
+  "input_tokens": 32012,
+  "output_tokens": 4880
+ },
+ "pages": [
+  {
+   "page_id": "sti-gfo",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-lnet",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-emsi",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-tic",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-unfold",
+   "tp": 0,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-rrl-ma",
+   "tp": 1,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  },
+  {
+   "page_id": "sti-lasa",
+   "tp": 10,
+   "fp": 0,
+   "fn": 0,
+   "false_positives": [],
+   "missed": [],
+   "field_errors": [],
+   "unexpected_names": [],
+   "error": null
+  }
+ ]
+}
