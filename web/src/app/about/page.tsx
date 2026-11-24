@@ -69,9 +69,8 @@ export default function AboutPage() {
           ))}
         </ol>
         <p className="mt-6 max-w-3xl text-fg-muted">
-          Current coverage: all labs of the School of Computer and Communication Sciences (IC) and
-          the School of Engineering (STI), plus labs of other schools accredited for IC students.
-          The remaining schools (SB, SV, ENAC, CDM, CDH) are being added. The code is open source on{" "}
+          Current coverage: all labs of the IC, STI, SV and ENAC schools, plus labs of other
+          schools accredited for IC students. Basic Sciences (SB), CDM and CDH are being added. The code is open source on{" "}
           <a href={SITE.repoUrl} className="font-medium text-primary-text underline underline-offset-2">
             GitHub
           </a>

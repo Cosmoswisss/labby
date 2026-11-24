@@ -100,7 +100,7 @@ export default function LabsPage() {
       <PageHeader
         eyebrow="Coverage"
         title="Labs"
-        description="All EPFL labs from the official list. IC and STI labs are indexed; the other schools are being added. For labs without a public project list, Labby links to their page so you can contact them directly."
+        description="All EPFL labs from the official list. IC, STI, SV and ENAC labs are indexed; SB, CDM and CDH are being added. For labs without a public project list, Labby links to their page so you can contact them directly."
       >
         <dl className="mt-8 grid max-w-2xl grid-cols-3 gap-4">
           {stats.map((s) => (
