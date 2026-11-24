@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:48:27+00:00",
+ "generated_at": "2026-11-24T12:39:40+00:00",
  "labs": [
   {
    "id": "cdm-ban",
@@ -32,7 +32,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/cfi/teaching-2/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -46,7 +46,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -82,7 +82,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/stip/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -118,7 +118,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/oes/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -132,7 +132,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/pasu/pasu-chair-of-policy-and-sustainability/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -146,7 +146,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/rao/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -160,7 +160,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -174,7 +174,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -188,7 +188,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sfi-pcd/wp-content/uploads/2024/12/gutman_disc_2007.pdf",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -202,7 +202,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -216,7 +216,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -230,7 +230,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/tom/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3486,7 +3486,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/metmrs/research/master-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3500,7 +3500,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mrs4brain/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3514,7 +3514,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/schools/sv/yang-group/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3528,7 +3528,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/amcv/amcv/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3542,7 +3542,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/anchp/index-html/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3556,7 +3556,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3570,7 +3570,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3584,7 +3584,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/biostat/supervision/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3598,7 +3598,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/c3mp/index-html/positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3612,7 +3612,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/cag/page-135646-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3626,7 +3626,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/cmatd/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3640,7 +3640,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3654,7 +3654,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/cqsl/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3668,7 +3668,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/crt/mainpage/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3682,7 +3682,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/csea/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3718,7 +3718,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/csqi/page-99719-fr-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3732,7 +3732,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ctmc/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3746,7 +3746,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3805,7 +3805,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ecom/ecom-chair-of-extremal-combinatorics/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3819,7 +3819,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3833,7 +3833,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/erg/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3847,7 +3847,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/fsl/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3861,7 +3861,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3875,7 +3875,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/scd/scd/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3889,7 +3889,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gr-ost/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3903,7 +3903,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gscp/gscp/master-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3917,7 +3917,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gse/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3931,7 +3931,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/het/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3945,7 +3945,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hpnalgs/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3959,7 +3959,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/hqc/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3975,7 +3975,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/k-lab/positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -3989,7 +3989,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/las/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4003,7 +4003,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/laspe/open-position/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4017,7 +4017,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lastro/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4031,7 +4031,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4045,7 +4045,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lbs/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4059,7 +4059,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcbc/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4073,7 +4073,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4087,7 +4087,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcmd/page-50412-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4101,7 +4101,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4115,7 +4115,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcps/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4129,7 +4129,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcpt/wp-content/uploads/2018/08/Master_projects_2012.pdf",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4143,7 +4143,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcs/master-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4157,7 +4157,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcsa/job-openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4173,7 +4173,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcsb/master-and-semester-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4187,7 +4187,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lcso/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4201,7 +4201,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/leb/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4215,7 +4215,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lem/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4229,7 +4229,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lesm/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4243,7 +4243,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lfim/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4277,7 +4277,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/libn/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4291,7 +4291,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lifmet/teaching/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4305,7 +4305,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/limno/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4319,7 +4319,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4333,7 +4333,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4349,7 +4349,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lmsc/wp-content/uploads/2022/05/Overview-Projects_2022.pdf",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4363,7 +4363,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4377,7 +4377,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lnce/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4391,7 +4391,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lnd/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4405,7 +4405,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lnq/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4419,7 +4419,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lns/page-92568-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4433,7 +4433,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpap/?page_id=910",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4447,7 +4447,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpbs/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4461,7 +4461,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpdc/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4475,7 +4475,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lphe/tp3/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4489,7 +4489,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpi/jobs/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4503,7 +4503,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpl/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4517,7 +4517,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lpmt/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4531,7 +4531,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4545,7 +4545,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lptp/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4559,7 +4559,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://quantumgases.ch/teaching",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4573,7 +4573,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lqm/jobs-and-student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4587,7 +4587,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lqno/openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4601,7 +4601,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lqp/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4615,7 +4615,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lrm/job-openings/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4629,7 +4629,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lrs/project-proposals-for-students/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4645,7 +4645,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsam/join-us/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4659,7 +4659,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsci/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4673,7 +4673,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsme/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4687,7 +4687,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lsmo/page-110175-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4701,7 +4701,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4715,7 +4715,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ltfp/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4729,7 +4729,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ltm/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4743,7 +4743,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/ltpn/index-html/page-70697-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4757,7 +4757,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/lumes/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4771,7 +4771,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/luxs/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4785,7 +4785,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mathicse/page-142879-en-html/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4799,7 +4799,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/matmat/matmat/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4813,7 +4813,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mns/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4829,7 +4829,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mrism/mrism/students-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4843,7 +4843,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4857,7 +4857,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/optim/student-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4871,7 +4871,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/pcsl/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4885,7 +4885,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/pde/fr/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4899,7 +4899,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/prob/enseignement/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4913,7 +4913,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/propde/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4927,7 +4927,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/prst/enseignement/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4941,7 +4941,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4955,7 +4955,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/rgm/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4969,7 +4969,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/mechanical-spectroscopy/education/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4983,7 +4983,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gcc/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -4997,7 +4997,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5011,7 +5011,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5025,7 +5025,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/gbf/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5039,7 +5039,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sds/students-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5053,7 +5053,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/smat/semester-projects/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5067,7 +5067,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/sois/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5081,7 +5081,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": null,
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5095,7 +5095,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/stoan/open-positions/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5109,7 +5109,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/tan/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },
@@ -5123,7 +5123,7 @@
    "ic_domains": [],
    "research_interests": [],
    "projects_url": "https://www.epfl.ch/labs/tn/number-theory-tn/teaching/",
-   "status": "auto",
+   "status": "pending",
    "last_checked_at": null,
    "project_count": 0
   },

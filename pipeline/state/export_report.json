@@ -1,10 +1,11 @@
 {
- "generated_at": "2026-11-24T11:48:27+00:00",
+ "generated_at": "2026-11-24T12:39:40+00:00",
  "labs": 462,
  "labs_by_status": {
   "ok": 281,
-  "auto": 158,
+  "pending": 123,
   "none": 16,
+  "auto": 35,
   "js_rendered": 1,
   "restricted": 3,
   "blocked": 2,
@@ -21,6 +22,6 @@
  "pages_extracted": 737,
  "pages_failed": 0,
  "pages_not_yet_extracted": 0,
- "extraction_tokens_in": 4361190,
- "extraction_tokens_out": 701303
+ "extraction_tokens_in": 4355971,
+ "extraction_tokens_out": 694402
 }

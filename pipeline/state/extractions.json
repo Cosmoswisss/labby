@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T11:46:14+00:00",
+ "updated_at": "2026-11-24T12:39:30+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -34181,15 +34181,15 @@
   "https://www.epfl.ch/labs/lpdi/": {
    "key": {
     "content_hash": "baa3da87a8b308077da471e30f926ab9be619cd7ea07177755cfa377e1aab90b",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lpdi"
    ],
-   "extracted_at": "2026-11-23T12:53:07+00:00",
-   "input_tokens": 4000,
-   "output_tokens": 106,
+   "extracted_at": "2026-11-24T12:31:29+00:00",
+   "input_tokens": 4181,
+   "output_tokens": 149,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -34974,15 +34974,15 @@
   "https://www.epfl.ch/labs/lsens/master-projects/": {
    "key": {
     "content_hash": "85b16d43c2d2e139107ec97a7922479eebfee956a600e9e6a52374cac8ab20b3",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sv-lsens"
    ],
-   "extracted_at": "2026-11-23T12:53:12+00:00",
-   "input_tokens": 4021,
-   "output_tokens": 160,
+   "extracted_at": "2026-11-24T12:31:34+00:00",
+   "input_tokens": 4205,
+   "output_tokens": 187,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -36329,15 +36329,15 @@
   "https://www.epfl.ch/labs/lts4/openings/": {
    "key": {
     "content_hash": "753c43babbad5c6d6f5a75f101b4d072623ec541ad30f623ae2fde736cf2f5e2",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lts4"
    ],
-   "extracted_at": "2026-11-23T12:53:17+00:00",
-   "input_tokens": 4430,
-   "output_tokens": 187,
+   "extracted_at": "2026-11-24T12:31:39+00:00",
+   "input_tokens": 4617,
+   "output_tokens": 179,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -36347,15 +36347,15 @@
   "https://www.epfl.ch/labs/lts4/sprojects/": {
    "key": {
     "content_hash": "16347e13bdf7b3ff6b2f540b5b02d598b3e8ba4a0ec2430e001370c324d635a7",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lts4"
    ],
-   "extracted_at": "2026-11-23T12:53:23+00:00",
-   "input_tokens": 4095,
-   "output_tokens": 201,
+   "extracted_at": "2026-11-24T12:31:45+00:00",
+   "input_tokens": 4288,
+   "output_tokens": 184,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -36365,30 +36365,31 @@
   "https://www.epfl.ch/labs/lts4/studentprojects/": {
    "key": {
     "content_hash": "ba72b624cf3d5b1e952f44ea9678b8eb41aeb7a3ec46422ad26326cc3fe3977c",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lts4"
    ],
-   "extracted_at": "2026-11-23T12:53:28+00:00",
-   "input_tokens": 13610,
-   "output_tokens": 7318,
+   "extracted_at": "2026-11-24T12:31:50+00:00",
+   "input_tokens": 13798,
+   "output_tokens": 5329,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
    "page_updated_at": null,
    "projects": [
     {
-     "title": "Concept-based representations in pretrained vision models: concept bottleneck models vs sparse autoencoders",
+     "title": "Concept-Based Representations in Pretrained Vision Models: Concept Bottlenecks vs. Sparse Autoencoders",
      "lab_acronym": null,
-     "summary": "Compares concept bottleneck models (CBMs), sparse autoencoders (SAEs), and hybrids of the two for learning concept-oriented representations in pretrained vision models. The goal is to assess interpretability, disentanglement, information leakage, and downstream usefulness.",
-     "project_types": [],
+     "summary": "Compares concept bottleneck models, sparse autoencoders and hybrids of the two for learning concept-oriented representations in pretrained vision models. The project assesses interpretability, disentanglement, information leakage and downstream usefulness.",
+     "project_types": [
+      "semester_master"
+     ],
      "domains": [
       "computer vision",
       "interpretability",
-      "concept-based learning",
-      "representation learning"
+      "machine learning"
      ],
      "skills": [],
      "language": "EN",
@@ -36399,10 +36400,11 @@
      "academic_period": null
     },
     {
-     "title": "Learning from Art Brut: reading cognitive signatures in artworks",
+     "title": "Reading Inner Experience through Art Brut",
      "lab_acronym": null,
-     "summary": "Applies deep learning and computer vision to digitised Art Brut collections from Lausanne, Bern and Heidelberg to extract and cluster recurrent visual patterns across diagnoses and artists. The aim is to find cognitive signatures of mental disorders, in collaboration with art-history and symbolism experts.",
+     "summary": "Applies deep learning and computer vision to digitised Art Brut collections to extract and cluster recurrent visual patterns across diagnoses and artists. The aim is to find cognitive signatures linked to mental disorders, in collaboration with experts in art history and symbolism.",
      "project_types": [
+      "semester_bachelor",
       "semester_master"
      ],
      "domains": [
@@ -36415,34 +36417,32 @@
       "PyTorch",
       "JAX",
       "CLIP",
-      "vision transformers"
+      "Vision transformers"
      ],
      "language": "EN",
      "supervisors": [
-      "Pascal Frossard",
-      "Raphaelle Luisier"
+      "Pascal Frossard"
      ],
      "status": "available",
      "academic_period": null
     },
     {
-     "title": "Machine learning for molecular identification from tandem mass spectra",
+     "title": "Generative Models for Molecular Structure Identification from Mass Spectra",
      "lab_acronym": null,
-     "summary": "Aims to identify small molecules from tandem mass spectrometry data, which mostly remain unmatched to structures. Possible directions include conditional graph generative models, self-supervised foundation models for spectra, combinatorial optimization over molecular space, and uncertainty quantification. The project has a strong research focus and may lead to a publication.",
+     "summary": "Develops machine learning methods to link tandem mass spectra to molecular structures, using self-supervised spectrum models and generative models of molecular graphs. Possible directions include conditional graph generation, foundation models for spectra, combinatorial optimization over molecules and uncertainty quantification.",
      "project_types": [
       "semester_master",
       "master_thesis"
      ],
      "domains": [
       "machine learning",
-      "mass spectrometry",
       "computational chemistry",
-      "generative models"
+      "graph learning"
      ],
      "skills": [
       "PyTorch",
-      "strong programming skills",
-      "graph learning"
+      "Graph deep learning",
+      "Python"
      ],
      "language": "EN",
      "supervisors": [
@@ -36452,48 +36452,45 @@
      "academic_period": null
     },
     {
-     "title": "Mechanistic interpretability of looped diffusion language models",
+     "title": "Mechanistic Analysis of Looped Diffusion Language Models",
      "lab_acronym": null,
-     "summary": "Studies and compares the internal dynamics of standard masked diffusion language models and looped/recursive variants using lens-based interpretability tools such as Logit Lens, Tuned Lens and Jacobian Lens. The goal is to understand how and when predictions form across layers, loops and denoising steps.",
+     "summary": "Studies and compares the internal dynamics of standard masked diffusion language models and looped/recursive variants using logit lens, tuned lens and Jacobian lens interpretability tools. The goal is to understand how predictions form across layers, loops and denoising steps.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
-      "interpretability",
-      "language models",
+      "natural language processing",
       "diffusion models",
-      "deep learning"
+      "interpretability"
      ],
      "skills": [
       "PyTorch",
-      "transformers",
-      "deep learning"
+      "Transformers",
+      "Deep learning"
      ],
      "language": "EN",
      "supervisors": [
-      "Alba Carballo Castro",
       "Amel Abdelraheem"
      ],
      "status": "available",
      "academic_period": null
     },
     {
-     "title": "Graph diffusion with joint node-edge constraints",
+     "title": "Graph Diffusion with Joint Node-Edge Constraints",
      "lab_acronym": null,
-     "summary": "Aims to develop a graph diffusion method that natively enforces joint node-edge constraints during generation, such as valence consistency in molecular graphs. The goal is to improve state-of-the-art performance on real-world tasks such as molecular design.",
+     "summary": "Aims to develop a graph diffusion method that enforces joint node and edge constraints during generation, for example validity constraints in molecular design. The project targets improved state-of-the-art performance on real-world graph generation tasks.",
      "project_types": [
       "semester_master"
      ],
      "domains": [
       "graph generative models",
       "diffusion models",
-      "molecular design"
+      "machine learning"
      ],
      "skills": [
       "PyTorch",
-      "graph deep learning",
-      "diffusion models"
+      "Deep learning"
      ],
      "language": "EN",
      "supervisors": [
@@ -36504,45 +36501,46 @@
      "academic_period": null
     },
     {
-     "title": "Low-rank edge representations for scalable graph transformers",
+     "title": "Low-Rank Edge Representations for Scalable Graph Transformers",
      "lab_acronym": null,
-     "summary": "Investigates low-rank edge representations in graph transformers used for graph diffusion, to reduce the memory cost of the dense edge state. The project quantifies expressivity of low-rank edges and tests an implementation on benchmarks, including large graphs.",
+     "summary": "Proposes replacing dense edge-state matrices in graph diffusion transformers with low-rank representations to reduce memory cost. The project quantifies the expressivity of low-rank edges and tests their implementation on benchmarks, including large graphs.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
-      "graph transformers",
-      "graph generation",
-      "scalable deep learning"
+      "graph neural networks",
+      "graph generative models",
+      "machine learning"
      ],
-     "skills": [],
+     "skills": [
+      "Python",
+      "PyTorch"
+     ],
      "language": "EN",
      "supervisors": [
-      "Vincent Jung",
       "Alba Carballo Castro"
      ],
      "status": "available",
      "academic_period": null
     },
     {
-     "title": "Optimal-transport-based train/test splits for distribution shift",
+     "title": "Optimal Transport-Based Construction of Challenging Train/Test Splits",
      "lab_acronym": null,
-     "summary": "Develops optimization-based methods that build challenging train/test splits by maximizing the optimal transport discrepancy between training and test sets. The project has five difficulty levels, scaled to bachelor, master short-project, or master thesis scope, and requires efficient algorithms for large datasets.",
+     "summary": "Develops optimisation-based methods that build train/test splits maximising the optimal transport discrepancy between training and test sets, to reveal distribution shifts. The project involves designing scalable algorithms that accommodate different transport costs and experiments on real datasets.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "optimization",
       "optimal transport",
-      "machine learning",
-      "distribution shift"
+      "optimization",
+      "machine learning"
      ],
      "skills": [
-      "convex optimization",
       "Python",
+      "Convex optimization",
       "PyTorch"
      ],
      "language": "EN",
@@ -36553,9 +36551,9 @@
      "academic_period": null
     },
     {
-     "title": "Neural ODE graph networks for latent graph trajectories",
+     "title": "Neural ODE Learning of Latent Graph Trajectories for Temporal Data",
      "lab_acronym": null,
-     "summary": "Uses a Neural ODE formulation to learn latent graph trajectories with graph neural networks for temporal data, separating spatial and temporal updates. The goal is interpretability of the flow field and learning in scarce-data settings.",
+     "summary": "Investigates how a Neural ODE formulation can learn latent graph trajectories for temporal graph data, separating spatial and temporal updates. The aim is interpretable flow fields and learning in data-scarce settings.",
      "project_types": [
       "semester_master"
      ],
@@ -36575,21 +36573,21 @@
     {
      "title": "Topoformer: A Spatial-Informed Foundation Model for Spatial-Biology",
      "lab_acronym": null,
-     "summary": "Builds a foundation model for spatial biology by converting tissue images into compact spatial tokens using topological data analysis, then training transformers with self-supervised pretraining on large public cohorts. Target tasks include patient stratification, survival prediction and biomarker discovery.",
+     "summary": "Builds a foundation model for spatial biology that turns tissue imaging data into spatial tokens using topological data analysis, then trains transformers with self-supervised pretraining on large public cohorts. Target tasks include patient stratification, survival prediction and biomarker discovery.",
      "project_types": [
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "computational biology",
       "spatial biology",
       "topological data analysis",
       "foundation models"
      ],
      "skills": [
-      "topological data analysis",
-      "transformers",
-      "self-supervised learning"
+      "PyTorch",
+      "Python",
+      "Transformers",
+      "Self-supervised learning"
      ],
      "language": "EN",
      "supervisors": [
@@ -36603,17 +36601,17 @@
     {
      "title": "Robust Automatic Pathological Speech Detection",
      "lab_acronym": null,
-     "summary": "Develops robust deep learning approaches for automatic pathological speech detection that withstand recording artifacts and spurious correlations such as noise disparity between classes. The aim is to support clinical assessment of speech disorders.",
+     "summary": "Develops robust deep learning approaches for automatic pathological speech detection that withstand recording artifacts and spurious correlations in training data. The goal is to support clinical auditory-perceptual assessment of speech disorders.",
      "project_types": [],
      "domains": [
       "speech processing",
       "deep learning",
-      "medical applications"
+      "healthcare"
      ],
      "skills": [
       "PyTorch",
       "Python",
-      "machine learning"
+      "Machine learning"
      ],
      "language": "EN",
      "supervisors": [],
@@ -36623,17 +36621,16 @@
     {
      "title": "Physics-Informed Graph Neural Networks for High-Resolution Mesh-Based Simulations",
      "lab_acronym": null,
-     "summary": "Explores physics-informed graph neural networks to scale mesh-based simulations to high resolution, using coarser surrogate representations and hierarchical multi-scale modeling. The initial testbed is wind-tunnel dynamics.",
+     "summary": "Explores physics-informed graph neural networks that learn coarser-mesh surrogate dynamics and hierarchical multi-scale models for high-resolution mesh-based simulations. The initial testbed is wind-tunnel dynamics.",
      "project_types": [],
      "domains": [
       "graph neural networks",
       "scientific machine learning",
-      "surrogate modeling",
-      "fluid dynamics"
+      "computational physics"
      ],
      "skills": [
       "PyTorch",
-      "deep learning"
+      "Deep learning"
      ],
      "language": "EN",
      "supervisors": [],
@@ -36643,17 +36640,16 @@
     {
      "title": "Graph Latent Diffusion Models",
      "lab_acronym": null,
-     "summary": "Aims to develop a graph-specific latent diffusion model that runs the diffusion process in a lower-dimensional latent space, to scale graph generation beyond small graphs.",
+     "summary": "Aims to develop graph-specific latent diffusion models that run the diffusion process in a smaller latent space, so that large graphs can be generated efficiently. The approach is inspired by latent diffusion for image generation.",
      "project_types": [],
      "domains": [
       "graph generative models",
-      "latent diffusion models",
-      "diffusion models"
+      "diffusion models",
+      "machine learning"
      ],
      "skills": [
       "PyTorch",
-      "deep learning",
-      "graph deep learning"
+      "Graph deep learning"
      ],
      "language": "EN",
      "supervisors": [],
@@ -36663,18 +36659,17 @@
     {
      "title": "Scalable Graph Generation via Link Prediction",
      "lab_acronym": null,
-     "summary": "Aims to make graph generation scalable by replacing quadratic-cost sparse graph transformers with message-passing and link prediction modules that match transformer performance. Goals include reproducing SparseDiff and exploring other scalable methods such as latent diffusion.",
+     "summary": "Aims to make graph generation scalable by replacing quadratic edge prediction with message-passing and link prediction modules, reproducing SparseDiff results and matching transformer performance. Exploring other scalable methods such as latent diffusion is also encouraged.",
      "project_types": [],
      "domains": [
       "graph generative models",
-      "graph transformers",
-      "message passing"
+      "graph neural networks",
+      "machine learning"
      ],
      "skills": [
       "Python",
-      "statistics",
-      "machine learning",
-      "PyTorch"
+      "PyTorch",
+      "Statistics"
      ],
      "language": "EN",
      "supervisors": [],
@@ -36686,15 +36681,15 @@
   "https://www.epfl.ch/labs/lts5/student_projects-html/": {
    "key": {
     "content_hash": "b941d473e164276bea4fc68596ea4786d61a77a13ba84dc94a9b543eaac795f5",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-lts5"
    ],
-   "extracted_at": "2026-11-23T12:53:59+00:00",
-   "input_tokens": 12092,
-   "output_tokens": 3148,
+   "extracted_at": "2026-11-24T12:32:13+00:00",
+   "input_tokens": 12280,
+   "output_tokens": 3978,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -36703,15 +36698,15 @@
     {
      "title": "Synthetic Stroke Lesion Simulation and Deep Learning Segmentation Using HCP Data",
      "lab_acronym": null,
-     "summary": "Develop a simulation framework that generates synthetic acute stroke lesions on high-quality HCP diffusion and structural MRI, then train a deep segmentation network on this synthetic data. The trained model is to be evaluated on real stroke images from open clinical datasets such as ISLES and on CHUV network prototypes.",
+     "summary": "Develop a simulation framework that creates synthetic acute ischemic stroke lesions on high-quality HCP diffusion and structural MRI, then train a deep segmentation network on this simulated data. The trained model is to be evaluated on real stroke images from open clinical datasets such as ISLES and on CHUV prototypes.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "medical imaging",
       "diffusion mri",
+      "medical imaging",
       "deep learning",
       "image segmentation"
      ],
@@ -36724,7 +36719,7 @@
      ],
      "language": "EN",
      "supervisors": [
-      "Dr. Jonathan Rafael Patiño",
+      "Dr Jonathan Rafael Patiño",
       "Prof. Jean-Philippe Thiran"
      ],
      "status": "available",
@@ -36733,17 +36728,17 @@
     {
      "title": "Deep Neural Network uncertainty quantification: beyond Deep Ensemble",
      "lab_acronym": null,
-     "summary": "Survey whether the reconstruction quality and uncertainty estimates of a deep ensemble can be obtained at lower cost with a single network or modified architecture. Compare input perturbation, weight perturbation (e.g. Laplace-style approximation), and Bayesian neural network architectures.",
+     "summary": "Survey whether the reconstruction quality and uncertainty estimates of a deep ensemble can be obtained at lower cost with a single network or modified architecture. Three directions are compared: input perturbation, weight perturbation (e.g. Laplace-style approximation), and Bayesian neural network architectures.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "machine learning",
+      "deep learning",
       "uncertainty quantification",
-      "bayesian deep learning",
-      "image reconstruction"
+      "medical imaging",
+      "bayesian neural networks"
      ],
      "skills": [],
      "language": "EN",
@@ -36758,7 +36753,7 @@
     {
      "title": "Physics-Informed Learning for Sparse Measurement Selection in Diffusion MRI Protocol Design",
      "lab_acronym": null,
-     "summary": "Use machine learning to select a compact subset of diffusion MRI measurements that remains informative for estimating white matter model parameters, guided by physics-informed criteria such as Fisher information. The learned protocol is to be compared with baseline selection strategies using simulations and parameter estimation.",
+     "summary": "Learn a compact subset of diffusion MRI measurements from a larger candidate set that remains informative for estimating white matter model parameters. Selection is guided by physics-informed criteria such as Fisher information, and the learned protocol is compared with baseline strategies using simulations.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -36768,7 +36763,7 @@
       "diffusion mri",
       "machine learning",
       "signal processing",
-      "numerical optimization"
+      "protocol design"
      ],
      "skills": [
       "Python",
@@ -36788,21 +36783,23 @@
     {
      "title": "Development of a pre-processing pipeline for diffusion-weighted MRI data followed by the implementation of a deep-learning-based automatic lymph-node segmentation tool",
      "lab_acronym": null,
-     "summary": "Build a body DW-MRI pre-processing pipeline with quality control and non-rigid co-registration, then design and evaluate a deep-learning model that automatically segments lymph nodes from the co-registered volumes. The work also compares supervised, transfer-learning and self/unsupervised data strategies.",
+     "summary": "Consolidate and extend a body DW-MRI preprocessing pipeline with quality control and noise estimation, add non-rigid co-registration across shells and protocols, and build a deep-learning tool that automatically segments lymph nodes. The work includes a comparison of supervised, transfer-learning and self-/unsupervised strategies given limited ground truth.",
      "project_types": [
+      "semester_bachelor",
+      "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "medical imaging",
+      "medical image analysis",
       "diffusion mri",
       "deep learning",
-      "image registration"
+      "image segmentation"
      ],
      "skills": [
       "Python",
       "scientific computing",
       "deep learning",
-      "ANTs"
+      "medical imaging tools"
      ],
      "language": "EN",
      "supervisors": [
@@ -36816,19 +36813,24 @@
     {
      "title": "Wavefield Extrapolation in Polar Coordinates for Ultrasound Imaging in Heterogeneous Media",
      "lab_acronym": null,
-     "summary": "Derive and implement a paraxial approximation of the 2D Helmholtz equation in polar coordinates to extrapolate acoustic wavefields over smoothly varying sound-speed media for curved ultrasound arrays. The solver is to be validated on simulated ultrasound data and benchmarked for accuracy, stability and efficiency, and released as open-source code.",
-     "project_types": [],
+     "summary": "Derive and implement a paraxial approximation of the 2D Helmholtz equation in polar coordinates to extrapolate acoustic wavefields for smoothly varying sound-speed media, as needed for curved ultrasound arrays. The solver is to be validated on simulated ultrasound data and benchmarked for accuracy, stability and speed.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
      "domains": [
       "medical ultrasound",
-      "computational modeling",
       "wave propagation",
+      "computational modeling",
       "inverse problems"
      ],
      "skills": [
       "Python",
       "C++",
       "CUDA",
-      "Git"
+      "Git",
+      "wave physics"
      ],
      "language": "EN",
      "supervisors": [
@@ -36841,8 +36843,12 @@
     {
      "title": "Data-driven wave propagation modeling for ultrasound imaging",
      "lab_acronym": null,
-     "summary": "Investigate data-driven modeling strategies that build a proxy for the wave propagation operator directly from recorded ultrasound signals, avoiding full-wave simulations. The goal is a low-dimensional, cheap model compared against model-based wavefields across media of varying complexity.",
-     "project_types": [],
+     "summary": "Build a data-driven proxy for the wave propagation operator directly from recorded ultrasound signals, bypassing full-wave simulations. The resulting low-dimensional model is to be compared with model-based wavefields across media of varying complexity.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
      "domains": [
       "medical ultrasound",
       "wave propagation",
@@ -36854,7 +36860,8 @@
       "C++",
       "CUDA",
       "Git",
-      "linear algebra"
+      "linear algebra",
+      "wave physics"
      ],
      "language": "EN",
      "supervisors": [
@@ -36867,11 +36874,15 @@
     {
      "title": "Project at CHUV – Mapping functional connectivity in callosal dysgenesis",
      "lab_acronym": null,
-     "summary": "Analyse ADC-fMRI data from a cohort of children with callosal dysgenesis, from diffusion MRI timeseries preprocessing to group comparisons of brain activity and functional connectivity. The project is based at the CHUV Radiology Research Unit with a start date of Fall 2026.",
-     "project_types": [],
+     "summary": "Analyse ADC-fMRI data from a cohort of children with callosal dysgenesis, from diffusion MRI time-series preprocessing to group comparisons of brain activity and functional connectivity. The project is carried out in the Radiology Research Unit of CHUV with a start in Fall 2026.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
      "domains": [
       "neuroimaging",
-      "functional mri",
+      "functional connectivity",
       "diffusion mri",
       "pediatric neuroimaging"
      ],
@@ -36884,7 +36895,7 @@
      "language": "EN",
      "supervisors": [],
      "status": "available",
-     "academic_period": "Fall 2026"
+     "academic_period": "Autumn 2026"
     }
    ]
   },
@@ -38718,15 +38729,15 @@
   "https://www.epfl.ch/labs/mds/": {
    "key": {
     "content_hash": "d55546dc2aba41fc157730492445e5083623d190deb164f0baa4db8790f7e069",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mds2"
    ],
-   "extracted_at": "2026-11-23T12:54:13+00:00",
-   "input_tokens": 4033,
-   "output_tokens": 106,
+   "extracted_at": "2026-11-24T12:32:31+00:00",
+   "input_tokens": 4219,
+   "output_tokens": 150,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -39208,15 +39219,15 @@
   "https://www.epfl.ch/labs/mints/student-projects/": {
    "key": {
     "content_hash": "ee7563e2c65e50568ae60ec73321a5e1f3ef47fcd2c3a38863b03e10c1b3272c",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-mints"
    ],
-   "extracted_at": "2026-11-23T12:54:18+00:00",
-   "input_tokens": 5941,
-   "output_tokens": 2565,
+   "extracted_at": "2026-11-24T12:32:36+00:00",
+   "input_tokens": 6127,
+   "output_tokens": 2733,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -39225,15 +39236,15 @@
     {
      "title": "Contrastive latent alignment for multimodal reasoning",
      "lab_acronym": null,
-     "summary": "Explore a contrastive latent alignment process that enforces cross-modal and preference alignment within continuous latent reasoning paths, to handle conflicting sensory inputs that corrupt latent representations. Suggested methods include cross-modal contrastive trajectory optimization and direct preference alignment over continuous latent manifolds.",
+     "summary": "Explore a contrastive latent alignment process that enforces cross-modal and preference alignment within continuous latent reasoning paths, so that conflicting multimodal inputs (e.g. visual hallucinations contradicting audio or text) produce consistent hidden representations. The approach may combine cross-modal contrastive trajectory optimization with direct preference alignment over continuous latent manifolds.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
       "multimodal learning",
-      "machine learning",
-      "latent reasoning"
+      "latent reasoning",
+      "preference alignment"
      ],
      "skills": [],
      "language": "EN",
@@ -39246,14 +39257,14 @@
     {
      "title": "Locating and ablating circuit-level private attribute sub-networks",
      "lab_acronym": null,
-     "summary": "Use activation-space dictionary learning to map the circuits that encode specific private attributes (PII) in AI models, then ablate or orthogonalize these latent directions. The goal is to remove PII while preserving zero-shot task performance, without retraining or fine-tuning the model.",
+     "summary": "Use activation-space dictionary learning to map the circuits of AI models that encode specific private attributes (PII), then ablate or orthogonalize those latent directions. The goal is to remove PII from models without retraining or fine-tuning, while preserving zero-shot task performance.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
       "privacy",
-      "machine learning",
+      "interpretability",
       "machine unlearning"
      ],
      "skills": [],
@@ -39267,15 +39278,15 @@
     {
      "title": "Continuous latent flow matching for multimodal spatial reasoning",
      "lab_acronym": null,
-     "summary": "Develop a single-step continuous latent flow architecture that maps directly from multimodal inputs (video, audio, language instructions) to latent action-reasoning representations for Vision-Language-Action models. The aim is accurate spatial problem-solving in a single forward pass, replacing multi-step chain-of-thought generation.",
+     "summary": "Develop a single-step continuous latent flow architecture that replaces iterative chain-of-thought generation in Vision-Language-Action models with a vector-field mapping from video, audio and language instructions to latent action-reasoning representations. The aim is accurate spatial problem-solving in a single forward pass.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
+      "vision-language-action models",
       "robotics",
-      "multimodal learning",
-      "vision-language models"
+      "multimodal learning"
      ],
      "skills": [],
      "language": "EN",
@@ -39288,14 +39299,15 @@
     {
      "title": "Alignment-based conformance checking",
      "lab_acronym": null,
-     "summary": "Build a neuro-symbolic conformance checking framework that translates natural language regulatory articles (e.g. EU AI Act, GDPR) into linear temporal logic specifications and evaluates them on execution traces of multi-agent systems. The aim is a transparent mechanism that detects and explains compliance risks.",
+     "summary": "Build a neuro-symbolic conformance checking framework that translates natural-language regulatory articles (e.g. EU AI Act, GDPR) into linear temporal logic specifications and evaluates them on execution traces of multi-agent workflows. The framework should detect and explain compliance risks or failures in a transparent way.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
+      "conformance checking",
+      "temporal logic",
       "regulatory compliance",
-      "formal methods",
       "multi-agent systems"
      ],
      "skills": [],
@@ -39309,7 +39321,7 @@
     {
      "title": "Visual stream parsing for compliance auditing",
      "lab_acronym": null,
-     "summary": "Design a dynamic legal-visual (or legal-audio-visual) concept engine that extends static concept probing to real-time video streams. It would fuse vision-language or audio-visual-language streaming backbones with ontology graph mapping to track entities, infer sensitive personal attributes and map scene semantics to legal frameworks.",
+     "summary": "Design a dynamic legal-visual concept engine that extends static concept probing to real-time video streams. The project fuses vision-language or audio-visual-language streaming transformers with ontology graph mapping to track entities, infer sensitive personal attributes and map scene semantics to legal frameworks.",
      "project_types": [
       "semester_master",
       "other"
@@ -39317,7 +39329,8 @@
      "domains": [
       "computer vision",
       "video analytics",
-      "regulatory compliance"
+      "regulatory compliance",
+      "privacy"
      ],
      "skills": [],
      "language": "EN",
@@ -39330,15 +39343,15 @@
     {
      "title": "Voice anonymization with preservation of emotional prosody in multilingual settings",
      "lab_acronym": null,
-     "summary": "Design, implement and evaluate an AI-based acoustic transformation framework that masks speaker identity while preserving emotional prosody, semantic meaning and intelligibility. The focus is French/Italian or German, including Swiss German, with evaluation with human participants and real-world datasets in collaboration with RTS.",
+     "summary": "Design, implement and evaluate an AI-based acoustic transformation framework that masks speaker identity while preserving emotional prosody, semantic meaning and intelligibility. The focus is French, Italian or German (including Swiss German), with evaluation on real-world data and human participants in collaboration with RTS.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
       "speech processing",
-      "privacy",
-      "speech anonymization"
+      "voice anonymization",
+      "privacy"
      ],
      "skills": [],
      "language": "EN",
@@ -39351,15 +39364,15 @@
     {
      "title": "Linguistic and stylometric style transfer for long-form speech anonymization",
      "lab_acronym": null,
-     "summary": "Use sequence-to-sequence style-transfer models to translate or obfuscate individual speaking styles, syntax and dialectal markers in long-form recordings, so speakers cannot be re-identified from linguistic cues. The focus is French/Italian or German, including Swiss German, with evaluation with human participants and real-world datasets in collaboration with RTS.",
+     "summary": "Use sequence-to-sequence style-transfer models to translate or obfuscate individual speaking styles, syntax, dialectal markers and phrasing habits in long-form recordings, so that speakers cannot be re-identified from linguistic cues. The focus is French, Italian or German (including Swiss German), with evaluation in collaboration with RTS.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
-      "speech processing",
+      "speech privacy",
       "natural language processing",
-      "privacy"
+      "style transfer"
      ],
      "skills": [],
      "language": "EN",
@@ -39372,15 +39385,15 @@
     {
      "title": "Privacy guarantees for speech anonymization",
      "lab_acronym": null,
-     "summary": "Build a framework that explicitly bounds and minimizes mutual information across speech modalities (acoustic, emotional prosody, linguistic stylometrics), providing information-theoretic privacy guarantees against adaptive adversaries. The work combines AI signal processing, deep generative modeling and privacy theory, with evaluation with human participants and RTS data.",
+     "summary": "Build a framework that explicitly bounds and minimizes mutual information across acoustic, emotional and linguistic characteristics of speech, providing information-theoretic privacy guarantees against adaptive adversaries. Evaluation with human participants and real-world datasets is planned in collaboration with RTS.",
      "project_types": [
       "semester_master",
       "other"
      ],
      "domains": [
-      "privacy",
-      "speech processing",
-      "information theory"
+      "information theory",
+      "speech privacy",
+      "deep generative models"
      ],
      "skills": [],
      "language": "EN",
@@ -39395,15 +39408,15 @@
   "https://www.epfl.ch/labs/ml4ed/92-2/students-projects/": {
    "key": {
     "content_hash": "43c180776c14ae888bc34767f1b6f1e6946c78980ea1a1de8f9337645549e681",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-ml4ed"
    ],
-   "extracted_at": "2026-11-23T12:54:31+00:00",
-   "input_tokens": 7160,
-   "output_tokens": 1767,
+   "extracted_at": "2026-11-24T12:32:49+00:00",
+   "input_tokens": 7353,
+   "output_tokens": 2005,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -39412,14 +39425,14 @@
     {
      "title": "Analysing the Effect of Assistant Post-Training on Diversity and Sycophancy in Pedagogical LLMs",
      "lab_acronym": null,
-     "summary": "Studies how diversity, sycophancy and safety change across the post-training stages (base, SFT, DPO, RLVR) of the open model Olmo 3 7B when generating feedback on open-ended student work. The project aims to find internal features linked to these behaviours and to test lightweight interventions (weight interpolation, feature steering, short LoRA fine-tuning) that improve diversity and reduce sycophancy without undermining safety.",
+     "summary": "Studies how output diversity, sycophancy and safety change across the post-training stages (base, SFT, DPO, RLVR) of the Olmo 3 7B model when generating feedback on student work. The project aims to find internal features behind these behaviours and to test lightweight interventions, such as weight interpolation, feature steering or short LoRA fine-tuning, that yield diverse and honest feedback without losing safety.",
      "project_types": [
-      "semester_master"
+      "master_thesis"
      ],
      "domains": [
       "llm alignment",
       "interpretability",
-      "educational technology",
+      "edtech",
       "natural language processing"
      ],
      "skills": [
@@ -39438,15 +39451,15 @@
     {
      "title": "Robustness of LLM Reasoning Strategies for Educational Applications",
      "lab_acronym": null,
-     "summary": "Investigates how different reasoning strategies (linear, symbolic, reflective, iterative) affect the robustness and reliability of LLMs under controlled perturbations in educational tasks such as misconception detection and educational content generation. It evaluates accuracy, explanation consistency, error propagation, recovery and the trade-off with computational cost.",
+     "summary": "Compares how different LLM reasoning strategies (e.g. linear, symbolic, reflective, iterative chain-of-thought) hold up under controlled perturbations in educational tasks such as misconception detection and educational content generation. The project measures accuracy, explanation consistency, error propagation and recovery, and the trade-off with computational cost.",
      "project_types": [
-      "semester_master"
+      "master_thesis"
      ],
      "domains": [
       "natural language processing",
       "llm reasoning",
       "evaluation",
-      "education"
+      "educational technology"
      ],
      "skills": [
       "ML/NLP libraries",
@@ -39462,9 +39475,9 @@
     {
      "title": "Mapping Failures of AI Agents on Educational Tasks",
      "lab_acronym": null,
-     "summary": "Analyses a dataset of agent interactions across six learning contexts to map failures of agentic AI systems on education tasks (understanding the learning context and modelling learner data) to generic failure taxonomies. The goal is to develop an education-specific coding scheme, combine manual and LLM-based trace analysis, and identify where existing taxonomies need refinement.",
+     "summary": "Analyses agent trajectories from dozens of interactions across six learning contexts, where agents understood educational contexts and modelled learner data. The goal is to map failures to generic agent-failure taxonomies, develop an education-specific coding scheme, and identify where these taxonomies need refinement.",
      "project_types": [
-      "semester_master"
+      "master_thesis"
      ],
      "domains": [
       "agentic ai",
@@ -39488,9 +39501,9 @@
     {
      "title": "Do Questions Trigger Misconceptions? Measuring When Student Misconceptions Show Up",
      "lab_acronym": null,
-     "summary": "Uses existing anonymised Eedi diagnostic maths responses to measure the trigger strength of each question-misconception pair and test whether it predicts when a student's misconception reappears, controlling for ability and difficulty. It also compares a persona-prompted open LLM simulator (e.g. Qwen3-8B) with real students' misconception rates.",
+     "summary": "Uses existing Eedi diagnostic maths responses to measure the trigger strength of each question-misconception pair and tests whether high-trigger questions make students re-show a misconception more often. The project also compares the misconception rates of a persona-prompted open LLM simulator (e.g. Qwen3-8B) with those of real students.",
      "project_types": [
-      "semester_master"
+      "master_thesis"
      ],
      "domains": [
       "educational data mining",
@@ -39517,15 +39530,15 @@
   "https://www.epfl.ch/labs/ml4ed/?page_id=1700&preview=true": {
    "key": {
     "content_hash": "5890a63414a34c935ccfec5d3d09090f2bac836f39360751d8aeac27ffe9d719",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-ml4ed"
    ],
-   "extracted_at": "2026-11-23T12:54:41+00:00",
-   "input_tokens": 7268,
-   "output_tokens": 190,
+   "extracted_at": "2026-11-24T12:33:00+00:00",
+   "input_tokens": 7455,
+   "output_tokens": 159,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -39535,15 +39548,15 @@
   "https://www.epfl.ch/labs/mlo/page-135359-en-html/": {
    "key": {
     "content_hash": "bec13959ff6d45870191f637e6fcaef7008c4fa8f82ea7a95b55c8a33678d92a",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mlo"
    ],
-   "extracted_at": "2026-11-23T13:05:48+00:00",
-   "input_tokens": 27705,
-   "output_tokens": 7018,
+   "extracted_at": "2026-11-24T12:33:05+00:00",
+   "input_tokens": 11930,
+   "output_tokens": 3573,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -39552,11 +39565,8 @@
     {
      "title": "Data curation and curriculum learning for pre-training, theory and practice",
      "lab_acronym": null,
-     "summary": "Semester project around LLM pre-training, covering data curation and curriculum learning, with both theoretical and practical components. Part of the MLO large language model project offer.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project within the Apertus LLM line on data curation and curriculum learning for LLM pre-training, combining theory and practice. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "machine learning",
@@ -39571,11 +39581,8 @@
     {
      "title": "Scaling to longer context windows through modifications of attention",
      "lab_acronym": null,
-     "summary": "Semester project on extending the context length of LLMs by modifying the attention mechanism. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project on scaling LLMs to longer context windows by modifying the attention mechanism. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "attention mechanisms",
@@ -39590,15 +39597,12 @@
     {
      "title": "Efficiency engineering for LLM pretraining and specifically MoE architectures",
      "lab_acronym": null,
-     "summary": "Semester project on improving the computational efficiency of LLM pre-training, with a focus on mixture-of-experts (MoE) architectures. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project on improving the efficiency of LLM pre-training, with a focus on mixture-of-experts (MoE) architectures. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "mixture of experts",
-      "high-performance computing"
+      "efficient training"
      ],
      "skills": [],
      "language": "EN",
@@ -39609,11 +39613,8 @@
     {
      "title": "Tools-usage during pretraining & finetuning",
      "lab_acronym": null,
-     "summary": "Semester project on enabling tool usage by LLMs during pre-training and fine-tuning. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project on enabling LLMs to use tools during pre-training and fine-tuning. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "tool use",
@@ -39628,15 +39629,12 @@
     {
      "title": "Safety and alignment during pretraining",
      "lab_acronym": null,
-     "summary": "Semester project on integrating safety and alignment considerations into LLM pre-training. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project on incorporating safety and alignment considerations into LLM pre-training. Apply via the application form.",
+     "project_types": [],
      "domains": [
+      "large language models",
       "ai safety",
-      "alignment",
-      "large language models"
+      "alignment"
      ],
      "skills": [],
      "language": "EN",
@@ -39647,15 +39645,12 @@
     {
      "title": "Novel architectures (including efficient long context or MoE related mechanisms)",
      "lab_acronym": null,
-     "summary": "Semester project on new LLM architectures, including efficient long-context and mixture-of-experts mechanisms. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project on new LLM architectures, including efficient long-context and mixture-of-experts mechanisms. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "neural architectures",
-      "machine learning"
+      "mixture of experts"
      ],
      "skills": [],
      "language": "EN",
@@ -39666,15 +39661,12 @@
     {
      "title": "Optimization dynamics for LLMs (e.g. Muon and AdEMAmix variants, and interactions with architecture)",
      "lab_acronym": null,
-     "summary": "Semester project studying optimization dynamics of LLM training, such as Muon and AdEMAmix variants and their interaction with architecture. Part of the MLO large language model project offer around Apertus.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Project studying optimization dynamics of LLM training, such as Muon and AdEMAmix variants and their interaction with architecture. Apply via the application form.",
+     "project_types": [],
      "domains": [
-      "optimization",
       "large language models",
-      "machine learning"
+      "optimization",
+      "deep learning"
      ],
      "skills": [],
      "language": "EN",
@@ -39685,15 +39677,12 @@
     {
      "title": "LLM inference on old V100 GPUs",
      "lab_acronym": null,
-     "summary": "Aims to run recent large open-weight MoE models efficiently on the EPFL cluster of V100 GPUs and compare with newer GPU versions, applying quantization and communication-efficient parallelism with inference frameworks such as vLLM or SGLang in multi-GPU settings.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Make recent large open-weight MoE models run efficiently on the EPFL cluster of V100 GPUs, using quantization, communication-efficient parallelism and inference frameworks such as vLLM or SGLang, and compare with newer GPUs. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
-      "inference efficiency",
-      "high-performance computing"
+      "efficient inference",
+      "distributed computing"
      ],
      "skills": [
       "vLLM",
@@ -39709,15 +39698,12 @@
     {
      "title": "Communication-efficient gossip methods for replacing all-reduce in distributed LLM training",
      "lab_acronym": null,
-     "summary": "Implement decentralized pairwise averaging of model weights instead of all-to-all communication, and investigate how model and data parallelism settings and communication compression affect distributed LLM pre-training.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Replace all-to-all communication with decentralized pairwise weight averaging in distributed LLM pre-training, studying model and data parallelism settings and communication compression. Apply via the application form.",
+     "project_types": [],
      "domains": [
-      "distributed optimization",
-      "large language models",
-      "decentralized learning"
+      "distributed learning",
+      "decentralized optimization",
+      "large language models"
      ],
      "skills": [],
      "language": "EN",
@@ -39728,15 +39714,12 @@
     {
      "title": "AI safety evaluations feeding back into Apertus Posttraining",
      "lab_acronym": null,
-     "summary": "Work with UN agencies such as UNICC to incorporate findings from recent red-teaming studies into the posttraining recipes (safety SFT and RL) of the next generation Apertus model.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Incorporate findings from red-teaming studies, in collaboration with UN agencies such as UNICC, into the safety SFT and RL post-training recipes of the next Apertus generation. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "ai safety",
-      "red teaming",
-      "large language models"
+      "large language models",
+      "red teaming"
      ],
      "skills": [],
      "language": "EN",
@@ -39747,15 +39730,12 @@
     {
      "title": "LLM Pretraining Data Curation",
      "lab_acronym": null,
-     "summary": "Advance pre-training data curation beyond baselines such as FineWeb-2 HQ through new techniques for signal extraction, semantic filtering and partially synthetic augmentation or rephrasing, in English or multilingual settings. One idea is to study the impact of data quality on the curse of multilinguality and its relation to scaling laws.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Advance pre-training data curation beyond baselines such as FineWeb-2 HQ using new signal extraction, semantic filtering and synthetic rephrasing, in English or multilingual settings, possibly studying data quality and the curse of multilinguality. Apply via the application form.",
+     "project_types": [],
      "domains": [
-      "data curation",
       "large language models",
-      "scaling laws"
+      "data curation",
+      "multilingual nlp"
      ],
      "skills": [],
      "language": "EN",
@@ -39766,11 +39746,8 @@
     {
      "title": "Learning to sample on the fly for SGD / curriculum learning",
      "lab_acronym": null,
-     "summary": "Train an auxiliary network that assigns scores to training data points and use these scores to select an improved set of training points, exploring several ways of training the auxiliary parameters.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Train an auxiliary network that scores training data points so that an improved subset can be selected during SGD training, as a form of curriculum learning. Contact via the application form.",
+     "project_types": [],
      "domains": [
       "optimization",
       "curriculum learning",
@@ -39788,15 +39765,12 @@
     {
      "title": "Improving factuality understanding for LLM training",
      "lab_acronym": null,
-     "summary": "Add a factuality tag or masking to each document to guide an LLM's understanding of what is factual, with the goal of enhancing factuality and reducing hallucinations; post-training techniques may also be investigated.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Add a per-document factuality tag or masking to guide LLM training toward distinguishing factual from non-factual content, with the goal of reducing hallucinations; post-training techniques may also be explored. Apply via the application form.",
+     "project_types": [],
      "domains": [
       "large language models",
       "factuality",
-      "hallucination reduction"
+      "hallucination"
      ],
      "skills": [],
      "language": "EN",
@@ -39807,20 +39781,18 @@
     {
      "title": "Build decentralized LLMs in the browser",
      "lab_acronym": null,
-     "summary": "Practical project joining a larger team effort to build decentralized and federated training software in which many clients (e.g. phones or hospitals) collaboratively train models such as smaller LLMs while preserving data privacy; students would help integrate the Burn framework within DISCO.",
-     "project_types": [
-      "semester_bachelor",
-      "semester_master"
-     ],
+     "summary": "Practical project within the larger DISCO team effort to build decentralized, federated training software in which many clients, such as phones or hospitals, collaboratively train models such as smaller LLMs while preserving data privacy. Students familiar with Rust (or willing to learn) are sought to integrate Burn within DISCO.",
+     "project_types": [],
      "domains": [
       "federated learning",
       "decentralized learning",
       "privacy"
      ],
      "skills": [
+      "Rust",
       "JavaScript",
       "TypeScript",
-      "Rust"
+      "Burn"
      ],
      "language": "EN",
      "supervisors": [
@@ -39834,15 +39806,15 @@
   "https://www.epfl.ch/labs/mmspg/studentprojects/": {
    "key": {
     "content_hash": "128608e4d240a89b4dedc7076aa7e249010443e0fee0c4bcb323f91a059b1ed2",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-mmspg"
    ],
-   "extracted_at": "2026-11-23T12:55:03+00:00",
-   "input_tokens": 7148,
-   "output_tokens": 2115,
+   "extracted_at": "2026-11-24T12:33:22+00:00",
+   "input_tokens": 7333,
+   "output_tokens": 1901,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -39851,20 +39823,20 @@
     {
      "title": "Image compression for DNA based storage",
      "lab_acronym": null,
-     "summary": "Study state-of-the-art approaches for storing information in DNA and build an end-to-end image compression simulator for DNA storage based on publicly available implementations. The student analyses the simulator's performance.",
+     "summary": "Study state-of-the-art approaches for storing information in DNA and build an end-to-end image compression simulator for DNA storage based on publicly available implementations. The work includes analysing the simulator's performance.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "dna data storage",
       "image compression",
+      "dna storage",
       "signal processing"
      ],
      "skills": [
-      "Signal and image processing",
-      "Good programming skills"
+      "Good programming skills",
+      "Basic knowledge of signal and image processing"
      ],
      "language": "EN",
      "supervisors": [
@@ -39876,7 +39848,7 @@
     {
      "title": "Deep learning for deepfake detection",
      "lab_acronym": null,
-     "summary": "Train convolutional neural networks in a supervised way to detect deepfake images and videos, collecting existing deepfake datasets and studying ensembles of trained CNNs. The student assesses performance across several datasets.",
+     "summary": "Train convolutional neural networks in a supervised way to detect deepfake images and videos, using publicly available or generated deepfake datasets. The project also studies ensembling of the trained networks and assesses performance across several datasets.",
      "project_types": [
       "semester_master",
       "master_thesis"
@@ -39884,7 +39856,7 @@
      "domains": [
       "deepfake detection",
       "deep learning",
-      "media forensics"
+      "image processing"
      ],
      "skills": [
       "Python",
@@ -39902,7 +39874,7 @@
     {
      "title": "Mobile App for Privacy Protection on iOS or Android Platform",
      "lab_acronym": null,
-     "summary": "Develop a smartphone app that obfuscates personal visual information in images in a secure and recoverable way, with multi-region selection by touch and a simple key management system. The app should also support sharing protected images on social networks.",
+     "summary": "Develop a smartphone app that obfuscates personal visual information in images in a secure, recoverable way (e.g. scrambling), with multi-region selection by touch and a simple key management system. The app should also allow sharing images on online social networks securely.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -39915,7 +39887,7 @@
      "skills": [
       "Objective-C",
       "iOS or Android development",
-      "Image processing"
+      "Basic knowledge of image processing"
      ],
      "language": "EN",
      "supervisors": [
@@ -39928,20 +39900,20 @@
     {
      "title": "Reverse image search for media-context verification in multimodal fact-checking",
      "lab_acronym": null,
-     "summary": "Build a component that searches the Web for earlier appearances of a submitted image and recovers their date, location and event, to improve detection of out-of-context misinformation in a JPEG Trust fact-checking pipeline. The work includes comparing candidate tools and evaluating on multimodal misinformation datasets.",
+     "summary": "Build a component that searches the Web for earlier appearances of a submitted image and recovers their date, location and event, to improve detection of out-of-context misinformation. The module will be connected to an existing fact-checking pipeline and evaluated on multimodal misinformation datasets.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "misinformation detection",
-      "image retrieval",
-      "multimedia forensics"
+      "reverse image search",
+      "multimodal fact-checking",
+      "image similarity"
      ],
      "skills": [
       "Python",
-      "Basic image processing",
+      "Basic knowledge of image processing",
       "Deep learning (asset)"
      ],
      "language": "EN",
@@ -39955,15 +39927,16 @@
     {
      "title": "Representation and interpretation of a Factuality Trust Indicator in JPEG Trust",
      "lab_acronym": null,
-     "summary": "Define and implement a JPEG Trust compatible way to represent content-based factuality information in media assets, with tools to generate and read it. The student builds Trust Profile examples combining factuality with other trust information and evaluates how factuality affects the Trust Report.",
+     "summary": "Define a prototype way to represent content-based factuality information in a JPEG Trust compatible manner, and implement tools to generate and read it. The work also builds Trust Profile examples combining factuality with provenance, authenticity or metadata.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "media standards",
-      "trust and provenance",
+      "jpeg trust",
+      "media trust",
+      "multimedia standardization",
       "metadata"
      ],
      "skills": [
@@ -39985,15 +39958,15 @@
   "https://www.epfl.ch/labs/mobots/education/student-projects/": {
    "key": {
     "content_hash": "584f4a0f5f92690e07aeb9d22bf39d9b6bbb945f11d6782918a9394cca8c6011",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:15+00:00",
-   "input_tokens": 5286,
-   "output_tokens": 889,
+   "extracted_at": "2026-11-24T12:33:33+00:00",
+   "input_tokens": 5468,
+   "output_tokens": 1583,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -40002,11 +39975,15 @@
     {
      "title": "AI TOOLS – Understanding Learning Through Pipeline Transparency",
      "lab_acronym": null,
-     "summary": "Student project on AI tools for education, examining how pipeline transparency helps learners understand learning. The page gives only the title and a downloadable document, with no further description.",
-     "project_types": [],
+     "summary": "Educational AI-tools project on how transparency of the machine learning pipeline helps people understand learning. Details are given in a downloadable project document.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
      "domains": [
-      "education",
-      "artificial intelligence",
+      "educational technology",
+      "machine learning",
       "human-computer interaction"
      ],
      "skills": [],
@@ -40018,10 +39995,14 @@
     {
      "title": "AI tools – Impact of glass-boxing the Machine Learning pipeline on learning",
      "lab_acronym": null,
-     "summary": "Student project studying the impact of making the machine learning pipeline transparent (glass-boxing) on learning. The page gives only the title and a downloadable document, with no further description.",
-     "project_types": [],
+     "summary": "Study of how making the steps of the machine learning pipeline transparent (glass-boxing) affects learning. Details are given in a downloadable project document.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
      "domains": [
-      "education",
+      "educational technology",
       "machine learning",
       "explainable ai"
      ],
@@ -40036,15 +40017,15 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/Development-of-grading-tool-with-GPT-Enhancing-Efficiency-and-Consistency-in-Education.pdf": {
    "key": {
     "content_hash": "9f383d92649c4cb18d640a70a2425e5c786cf08cf89fc5ece48ee8427ef4a28f",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:23+00:00",
-   "input_tokens": 4891,
-   "output_tokens": 390,
+   "extracted_at": "2026-11-24T12:33:44+00:00",
+   "input_tokens": 5073,
+   "output_tokens": 385,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40053,22 +40034,23 @@
     {
      "title": "Development of grading tool with GPT: Enhancing Efficiency and Consistency in Education",
      "lab_acronym": null,
-     "summary": "Develop an AI-driven grading tool using GPT models to automate grading of student solutions such as coding assignments and open-ended responses. The work compares GPT-based grading with existing human grading data and aims to improve GPT's grading through a corrective framework.",
+     "summary": "Develop an AI-driven grading tool that uses GPT models to grade student solutions, such as coding assignments and text-based responses, and compare GPT grading with existing human grading data to improve consistency and efficiency in education assessment.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
-      "artificial intelligence in education",
-      "large language models",
+      "artificial intelligence",
       "educational technology",
-      "data analysis"
+      "data science",
+      "large language models"
      ],
      "skills": [
-      "Programming",
-      "Data analysis",
+      "programming",
+      "data analysis",
       "GPT models",
-      "English"
+      "English",
+      "French (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -40084,15 +40066,15 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/Enhancing-Debugging-Skills-in-Education-From-Task-Design-to-Learning-Analytics.pdf": {
    "key": {
     "content_hash": "bc488c0c7e087922da6a212bb7e074bff17a0b3e3e8196ef5beb5c6d33a83b0f",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:29+00:00",
-   "input_tokens": 4867,
-   "output_tokens": 1079,
+   "extracted_at": "2026-11-24T12:33:49+00:00",
+   "input_tokens": 5053,
+   "output_tokens": 933,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40101,7 +40083,7 @@
     {
      "title": "Enhancing Debugging Skills in Education: From Task Design to Learning Analytics",
      "lab_acronym": null,
-     "summary": "The project aims to design effective debugging tasks and assess debugging skills using tools such as Karel programming environments and paper-based assessments. The student would test the tasks with the PISA network, design and run a study comparing them with interactive debugging tasks, and perform learning analytics and statistical analysis on users' action sequences.",
+     "summary": "The project aims to design effective debugging tasks and assess debugging skills using tools such as Karel programming environments and paper-based assessments. The student would test tasks with the PISA network, design and run a study comparing them with interactive debugging tasks, and analyse users' action sequences with learning analytics and statistical methods.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -40113,11 +40095,12 @@
       "human-computer interaction"
      ],
      "skills": [
-      "programming",
+      "coding",
       "data analysis",
-      "statistical analysis",
+      "statistics",
       "human-computer interaction",
-      "English"
+      "English",
+      "French (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -40125,23 +40108,23 @@
       "Engin Bumbacher",
       "Jérôme Brender"
      ],
-     "status": "unknown",
-     "academic_period": null
+     "status": "available",
+     "academic_period": "Spring 2025"
     }
    ]
   },
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/11/UnpluggedAItools.pdf": {
    "key": {
     "content_hash": "a1b819caa215f9e25552d9035b0085ad81fbab6fc3bdf8517ea0a99482b9315f",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:38+00:00",
-   "input_tokens": 5125,
-   "output_tokens": 352,
+   "extracted_at": "2026-11-24T12:33:57+00:00",
+   "input_tokens": 5310,
+   "output_tokens": 775,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40150,22 +40133,22 @@
     {
      "title": "Unplugged AI Tools: Activities to Teach AI Concepts in School",
      "lab_acronym": null,
-     "summary": "Develop unplugged, computer-free activities that introduce foundational AI concepts to primary and middle school students. The work covers a literature review, activity and teacher-guide design, prototyping, and optional pilot testing in Swiss schools.",
+     "summary": "Design, prototype and pilot unplugged (computer-free) activities that introduce foundational AI concepts to primary and middle school students. The work includes a literature review, activity design, teacher guides, and optional pilot testing with Swiss schools followed by iterative refinement.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
       "AI education",
-      "computing education",
-      "human-computer interaction"
+      "computer science education",
+      "K-12 education"
      ],
      "skills": [],
      "language": "EN",
      "supervisors": [
-      "Prof. Francesco Mondada",
       "Valentina Ferraioli",
-      "Manuel Bernal-Lecina"
+      "Manuel Bernal-Lecina",
+      "Francesco Mondada"
      ],
      "status": "available",
      "academic_period": null
@@ -40175,15 +40158,15 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2024/12/PdS-25a-Weatherproof-data-logging-system.pdf": {
    "key": {
     "content_hash": "537f67493d7e11aef7eda06d413d3126c976457e8940891d0a589391816ada8c",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:43+00:00",
-   "input_tokens": 4760,
-   "output_tokens": 1061,
+   "extracted_at": "2026-11-24T12:34:05+00:00",
+   "input_tokens": 4947,
+   "output_tokens": 861,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40192,17 +40175,16 @@
     {
      "title": "Weatherproof data logging system for honeybee colony metabolic investigation",
      "lab_acronym": null,
-     "summary": "Design and build a weatherproof data logging system that interfaces with robotic frames, an array of CO2 sensors and a local weather station, to study the thermal and metabolic behaviour of honeybee colonies in observation hives. The system is to be installed in a real setting, and its data will be compared with measurements from empty and full hives.",
+     "summary": "Design and build a weatherproof data logging system that interfaces with robotic frames, an array of CO2 sensors and a local weather station, to study thermal and metabolic behaviour of honeybee colonies in box hives. A weather station and a bio-accepted CO2 sensor array will be developed and installed in a real setting.",
      "project_types": [
-      "semester_bachelor",
-      "semester_master",
-      "master_thesis"
+      "master_thesis",
+      "semester_master"
      ],
      "domains": [
       "robotics",
+      "apiculture",
       "embedded systems",
-      "bee behaviour",
-      "environmental sensing"
+      "environmental monitoring"
      ],
      "skills": [
       "ESP32",
@@ -40224,24 +40206,24 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/04/20250405_UXGUI_for_educational_robotics.pdf": {
    "key": {
     "content_hash": "bbc8f7db9799fe51ce28d8496ebf4cc1e7a6041f837284829d76421fddbf8d35",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:55:52+00:00",
-   "input_tokens": 5159,
-   "output_tokens": 905,
+   "extracted_at": "2026-11-24T12:34:12+00:00",
+   "input_tokens": 5345,
+   "output_tokens": 364,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
    "page_updated_at": "2025-04-05",
    "projects": [
     {
-     "title": "Robotic Sculptures for Education: Sthymuli - User experience programming and validation",
+     "title": "Robotic Sculptures for Education - Sthymuli: User experience programming and validation",
      "lab_acronym": null,
-     "summary": "Complete the development of the Sthymuli educational robot prototype by documenting it, redesigning its graphic interface and user experience, and building a web-based application for programming its modules. The work includes testing and evaluating the robot with the EPFL community and volunteer teachers.",
+     "summary": "Complete the development of the Sthymuli educational robot prototype by documenting it, redesigning its graphic interface and user experience, and evaluating it with the EPFL community and volunteer teachers. The result should be a functional upgraded robot, a set of modules, a web-based programming interface and a user guide.",
      "project_types": [
       "master_thesis"
      ],
@@ -40251,19 +40233,13 @@
       "user experience",
       "robotics"
      ],
-     "skills": [
-      "web-based application development",
-      "graphical user interface design",
-      "firmware development",
-      "user studies and surveys"
-     ],
+     "skills": [],
      "language": "EN",
      "supervisors": [
       "Manuel Bernal Lecina",
-      "Léa Pereyre",
       "Francesco Mondada"
      ],
-     "status": "available",
+     "status": "unknown",
      "academic_period": null
     }
    ]
@@ -40271,15 +40247,15 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2025/12/DT_PdS_AITools-2026-1.pdf": {
    "key": {
     "content_hash": "706b697b1420b078434f13b9ffde47ddb31150ebf46a7de8ba558ddb1f4cab72",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:56:00+00:00",
-   "input_tokens": 4927,
-   "output_tokens": 722,
+   "extracted_at": "2026-11-24T12:34:18+00:00",
+   "input_tokens": 5109,
+   "output_tokens": 613,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40288,27 +40264,26 @@
     {
      "title": "AI TOOLS | Impact of glass-boxing the Machine Learning pipeline on learning",
      "lab_acronym": null,
-     "summary": "Develop a custom web-based platform to run a study comparing three levels of transparency (glass box, gray box, black box) in a decision-tree machine learning task where users predict a dinosaur's diet from field notes. The project adapts an existing paper-based experiment to a digital environment to test whether exposing data preparation or model logic improves understanding of ML.",
+     "summary": "Develop a custom web-based platform that teaches users to predict a dinosaur's diet from field notes using decision trees, and use it in a study comparing three transparency levels (glass box, gray box, black box). The study tests whether exposing data preparation steps or model logic improves understanding of machine learning.",
      "project_types": [
       "semester_master"
      ],
      "domains": [
-      "machine learning",
-      "education technology",
+      "machine learning education",
       "human-computer interaction",
-      "web development"
+      "decision trees",
+      "web applications"
      ],
      "skills": [
       "React",
       "Vue",
       "Python",
-      "Node",
-      "decision trees"
+      "Node.js"
      ],
      "language": "EN",
      "supervisors": [
-      "Valentina Ferraioli",
-      "Francesco Mondada"
+      "Prof. Francesco Mondada",
+      "Valentina Ferraioli"
      ],
      "status": "available",
      "academic_period": null
@@ -40318,15 +40293,15 @@
   "https://www.epfl.ch/labs/mobots/wp-content/uploads/2026/07/20260707_ThinkAloud_AITools.pdf": {
    "key": {
     "content_hash": "8c5eb9c9e4dfcb2d47894eb52935f6ceb296345c3d0433e56c3177462db16281",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-mobots"
    ],
-   "extracted_at": "2026-11-23T12:56:07+00:00",
-   "input_tokens": 4891,
-   "output_tokens": 850,
+   "extracted_at": "2026-11-24T12:34:25+00:00",
+   "input_tokens": 5082,
+   "output_tokens": 411,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -40335,7 +40310,7 @@
     {
      "title": "Understanding Learning Through Pipeline Transparency: A Thinking-Aloud Study of the Decision-Tree Transparency Platform",
      "lab_acronym": null,
-     "summary": "Follow-up to a previous semester project that built a web platform for studying 'Pipeline Transparency' in ML education with three decision-tree conditions (Glass Box, Gray Box, Black Box). The student will run Thinking Aloud sessions with about 12 participants, then do a qualitative thematic analysis to characterize students' reasoning about data and model transparency and the mental models they form of the ML pipeline.",
+     "summary": "A qualitative thinking-aloud study on an existing web platform that compares three ML transparency conditions (glass box, gray box, black box) in a decision-tree task. The student designs the protocol, runs about 12 sessions, and performs thematic analysis of students' reasoning and misconceptions about the ML pipeline.",
      "project_types": [
       "semester_master",
       "master_thesis"
@@ -40343,15 +40318,12 @@
      "domains": [
       "machine learning education",
       "human-computer interaction",
-      "qualitative research",
-      "learning sciences"
+      "qualitative research"
      ],
      "skills": [
-      "Thinking Aloud protocols",
-      "qualitative analysis",
       "thematic analysis",
-      "screen and audio recording",
-      "interaction logging"
+      "protocol design",
+      "qualitative data analysis"
      ],
      "language": "EN",
      "supervisors": [
@@ -40481,15 +40453,15 @@
   "https://www.epfl.ch/labs/nal/semester-projects/": {
    "key": {
     "content_hash": "3c9d174561ede692c04594e8e0965a516dc2192a7e1b00e132c8d0ce273dcb5e",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-nal"
    ],
-   "extracted_at": "2026-11-23T12:56:29+00:00",
-   "input_tokens": 4547,
-   "output_tokens": 905,
+   "extracted_at": "2026-11-24T12:34:32+00:00",
+   "input_tokens": 4735,
+   "output_tokens": 906,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -40498,7 +40470,7 @@
     {
      "title": "Using math to infer network behavior",
      "lab_acronym": null,
-     "summary": "Infer network behavior, such as traffic de-prioritization, using only external observations of a flow. The student would help reconstruct the queuing delay process seen by a flow from its own irregular observations.",
+     "summary": "Infer network device behavior, such as consistent de-prioritization of certain traffic, using only external observations. The student would reconstruct the queuing delay process seen by a flow from the flow's own irregular observations.",
      "project_types": [
       "semester_bachelor"
      ],
@@ -40522,18 +40494,18 @@
     {
      "title": "Testing a neutrality-detection tool",
      "lab_acronym": null,
-     "summary": "Final pre-deployment testing of a tool that localizes where ISPs throttle, block, or de-prioritize traffic. The work includes running experiments on various networks, analyzing results to evaluate accuracy and robustness, and suggesting improvements.",
+     "summary": "Final pre-deployment testing of a tool that localizes where Internet service providers throttle, block, or de-prioritize traffic. The student would run experiments on various networks, analyze the tool's accuracy and robustness, and suggest improvements.",
      "project_types": [
       "semester_bachelor"
      ],
      "domains": [
-      "networking",
       "internet neutrality",
-      "software testing"
+      "networking",
+      "internet measurement",
+      "software tools"
      ],
      "skills": [
-      "software development",
-      "experimental evaluation"
+      "software development"
      ],
      "language": "EN",
      "supervisors": [
@@ -41638,15 +41610,15 @@
   "https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/student-projects/": {
    "key": {
     "content_hash": "9171d98621b9e2618d9578839ba3594c0e31726d8bda5da60eda3e37ea025e37",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sv-uplamanno"
    ],
-   "extracted_at": "2026-11-23T12:56:37+00:00",
-   "input_tokens": 6077,
-   "output_tokens": 1748,
+   "extracted_at": "2026-11-24T12:34:40+00:00",
+   "input_tokens": 6259,
+   "output_tokens": 1622,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -41655,28 +41627,26 @@
     {
      "title": "A Cross-Species Meta-Analysis of Astrocyte Transcriptional Diversity in Development and Disease (Dry)",
      "lab_acronym": null,
-     "summary": "Computational meta-analysis integrating public mouse and human single-cell and single-nucleus RNA-seq and multiomics datasets to build a cross-species astrocyte transcriptomic atlas. The project maps developmental and disease-associated astrocyte states and links them to GWAS risk loci for neurological and psychiatric disorders.",
+     "summary": "Systematic meta-analysis of astrocyte transcriptional states by integrating public single-cell and single-nucleus RNA-seq and multiomics datasets from mouse and human, covering development and neurological disease. The goal is a curated cross-species astrocyte atlas and insights into the determinants of astrocyte identity.",
      "project_types": [
       "master_thesis"
      ],
      "domains": [
-      "single-cell genomics",
       "computational biology",
+      "single-cell transcriptomics",
       "neuroscience",
-      "bioinformatics"
+      "genomics"
      ],
      "skills": [
       "omics data analysis",
       "pandas",
       "scikit-learn",
-      "RNA-seq analysis",
-      "neuroscience background"
+      "Python"
      ],
      "language": "EN",
      "supervisors": [
       "Gioele La Manno",
-      "Amanda Brosius Lutz",
-      "Gioele La Manno"
+      "Dr. Amanda Brosius Lutz"
      ],
      "status": "available",
      "academic_period": null
@@ -41684,7 +41654,7 @@
     {
      "title": "Linking Neuronal Function to Molecular Identity in Mouse Barrel Cortex (Dry and Wet)",
      "lab_acronym": null,
-     "summary": "Interdisciplinary project combining in vivo two-photon calcium imaging with spatial transcriptomics (Direct HybISS) to relate the activity of neurons to their molecular identity in adult mouse barrel cortex. The student contributes to an experimental pipeline that registers the same neurons across functional imaging and post-mortem transcriptomics.",
+     "summary": "Combines in vivo two-photon calcium imaging with spatial transcriptomics (Direct HybISS) to relate the activity of neurons during behaviour to their molecular identity in adult mouse barrel cortex. The student contributes to a pipeline that registers the same neurons across functional imaging and post-mortem transcriptomics.",
      "project_types": [
       "master_thesis"
      ],
@@ -41696,10 +41666,9 @@
      ],
      "skills": [
       "histology",
-      "imaging",
+      "confocal imaging",
       "microfluidics",
-      "confocal microscopy",
-      "Python (optional)"
+      "Python"
      ],
      "language": "EN",
      "supervisors": [
@@ -41712,9 +41681,8 @@
     {
      "title": "Ex utero metabolic perturbation of the developing mouse brain",
      "lab_acronym": null,
-     "summary": "Wet and dry lab project in which the student acutely perturbs lipid metabolism in ex utero cultured mouse embryos during early brain formation. Effects are assessed with MALDI imaging mass spectrometry, spatial transcriptomics and confocal microscopy, followed by computational integration of spatial datasets.",
+     "summary": "Uses ex utero mouse embryo culture to acutely perturb lipid metabolism during brain formation, then examines the effects with MALDI imaging mass spectrometry, spatial transcriptomics and confocal microscopy. The aim is to understand how lipid patterns shape neural identity.",
      "project_types": [
-      "master_thesis",
       "semester_master"
      ],
      "domains": [
@@ -41725,10 +41693,10 @@
      ],
      "skills": [
       "embryo culture",
-      "cryosectioning",
       "MALDI imaging",
       "spatial transcriptomics",
-      "Python (appreciated)"
+      "confocal microscopy",
+      "Python"
      ],
      "language": "EN",
      "supervisors": [
@@ -42727,15 +42695,15 @@
   "https://www.epfl.ch/labs/qcc/research/": {
    "key": {
     "content_hash": "fe5395bdc5d48cd0b54ccc094d420b8683d47e25a56268b0d10a6a89955dfa7a",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-qcc"
    ],
-   "extracted_at": "2026-11-23T12:56:48+00:00",
-   "input_tokens": 4070,
-   "output_tokens": 164,
+   "extracted_at": "2026-11-24T12:34:51+00:00",
+   "input_tokens": 4257,
+   "output_tokens": 224,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -43466,15 +43434,15 @@
   "https://www.epfl.ch/labs/sacs/student-projects/": {
    "key": {
     "content_hash": "4b4e9916a8444d31825e2f3788a37eda8c5df34e7d21ba006a824a030e6abcfc",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-sacs"
    ],
-   "extracted_at": "2026-11-23T12:57:03+00:00",
-   "input_tokens": 7387,
-   "output_tokens": 1678,
+   "extracted_at": "2026-11-24T12:34:56+00:00",
+   "input_tokens": 7573,
+   "output_tokens": 1478,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -43483,7 +43451,7 @@
     {
      "title": "Does Personalization in Medical Collaborative Learning Learn Site Shortcuts?",
      "lab_acronym": null,
-     "summary": "Investigates whether standard personalized federated learning methods learn site-specific shortcuts (spurious correlations) on medical data, with the goal of informing a personalization method that keeps useful site-specific features while avoiding shortcuts.",
+     "summary": "Investigates whether standard personalized federated learning methods learn site-specific shortcuts (spurious correlations) when trained on medical data across hospitals. The results are meant to inform a personalization method that keeps useful site-specific features while avoiding shortcuts.",
      "project_types": [
       "master_thesis",
       "semester_master"
@@ -43491,13 +43459,13 @@
      "domains": [
       "federated learning",
       "medical imaging",
-      "machine learning",
-      "privacy"
+      "machine learning"
      ],
      "skills": [
       "Python",
       "PyTorch",
-      "deep learning for image classification",
+      "deep learning",
+      "image classification",
       "federated learning"
      ],
      "language": "EN",
@@ -43510,7 +43478,7 @@
     {
      "title": "Whose bubble is it? Harvesting idle capacity in data-parallel, expert-parallel LLM serving",
      "lab_acronym": null,
-     "summary": "Characterizes where GPU idle capacity arises in data-parallel, expert-parallel Mixture-of-Experts LLM serving and determines when it can be harvested for parameter-efficient fine-tuning without violating service-level objectives through coupling between replicas.",
+     "summary": "Characterizes where GPU idle capacity arises in data-parallel, expert-parallel Mixture-of-Experts LLM serving, and determines under what conditions it can be harvested for parameter-efficient fine-tuning without violating service-level objectives through coupling between replicas.",
      "project_types": [
       "master_thesis",
       "semester_master"
@@ -43518,8 +43486,8 @@
      "domains": [
       "llm serving",
       "distributed systems",
-      "scheduling",
-      "performance modeling"
+      "gpu scheduling",
+      "mixture of experts"
      ],
      "skills": [
       "Python",
@@ -43537,7 +43505,7 @@
     {
      "title": "Noise or Lies? Distinguishing privacy protection from fairwashing in black-box audits",
      "lab_acronym": null,
-     "summary": "Studies when an external auditor, who only sees black-box query answers, can distinguish an honest privacy-preserving platform (random, public noise) from a manipulative platform that performs fairwashing to hide discrimination.",
+     "summary": "Studies when an external auditor, querying a black-box ML model through a platform, can distinguish an honest privacy-preserving platform (random, public noise) from a manipulative one that performs fairwashing (targeted alteration of answers to hide discrimination).",
      "project_types": [
       "master_thesis",
       "semester_master"
@@ -43553,9 +43521,7 @@
       "machine learning",
       "classification",
       "model evaluation",
-      "differential privacy",
-      "algorithmic fairness",
-      "hypothesis testing"
+      "differential privacy"
      ],
      "language": "EN",
      "supervisors": [
@@ -43567,24 +43533,23 @@
     {
      "title": "Privacy Vulnerability Transfer in Model Merging",
      "lab_acronym": null,
-     "summary": "Studies how privacy vulnerabilities, including membership inference and extraction risks, propagate into merged language models built with model merging and task arithmetic, and how merging coefficients, number of merged models and task similarity affect this transfer.",
+     "summary": "Investigates how privacy vulnerabilities of independently fine-tuned language models propagate into merged models built with model merging and task arithmetic, using membership inference and extraction attacks. The work analyzes how merging coefficients, number of merged models and task similarity affect vulnerability transfer.",
      "project_types": [
       "master_thesis",
       "semester_master"
      ],
      "domains": [
-      "model merging",
-      "language models",
       "privacy",
+      "large language models",
+      "model merging",
       "membership inference"
      ],
      "skills": [
-      "decoder-based language models",
-      "fine-tuning",
+      "Python",
       "PyTorch",
       "Hugging Face",
-      "membership inference attacks",
-      "differential privacy"
+      "decoder-based language models",
+      "fine-tuning"
      ],
      "language": "EN",
      "supervisors": [
@@ -43651,15 +43616,15 @@
   "https://www.epfl.ch/labs/schrimpflab/#prospective": {
    "key": {
     "content_hash": "089045dcaec5426c7be3530091fb25ee726666260eecce62a7c71a3227e29247",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-upschrimpf2"
    ],
-   "extracted_at": "2026-11-23T12:57:14+00:00",
-   "input_tokens": 6857,
-   "output_tokens": 236,
+   "extracted_at": "2026-11-24T12:35:05+00:00",
+   "input_tokens": 7047,
+   "output_tokens": 213,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -43669,15 +43634,15 @@
   "https://www.epfl.ch/labs/schrimpflab/projects/": {
    "key": {
     "content_hash": "b82a6847554445ea992622d3bf7bf67726b7b6e4617d7fd720a4ef6dc0ef99d8",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-upschrimpf2"
    ],
-   "extracted_at": "2026-11-23T12:57:19+00:00",
-   "input_tokens": 5797,
-   "output_tokens": 1277,
+   "extracted_at": "2026-11-24T12:35:11+00:00",
+   "input_tokens": 5975,
+   "output_tokens": 1007,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -43686,18 +43651,18 @@
     {
      "title": "Learning trajectories in models and children",
      "lab_acronym": null,
-     "summary": "Treats language model training as a developmental trajectory and asks whether the order and timing of language abilities emerging in artificial systems match those of children. The work combines training densely checkpointed models from scratch (with learned tokenizers, joint text-vision-audio learning, and constrained initializations) with structural probing, in collaboration with developmental neuroscientists and psycholinguists.",
+     "summary": "Treats language model training as a developmental trajectory and asks whether the order and timing of language abilities emerging in artificial models match those in children. The work involves training and densely checkpointing models from scratch, probing their representations, and comparing them with developmental and psycholinguistic measures.",
      "project_types": [],
      "domains": [
       "computational linguistics",
       "language acquisition",
-      "cognitive science",
+      "developmental cognitive science",
       "machine learning"
      ],
      "skills": [
       "machine learning",
-      "language model training",
-      "structural probing"
+      "computational linguistics",
+      "cognitive science"
      ],
      "language": "EN",
      "supervisors": [
@@ -43711,18 +43676,17 @@
     {
      "title": "Characterizing Neuronal Activity in Brain Organoids Across Neurodevelopmental Disorder Mutants",
      "lab_acronym": null,
-     "summary": "Analyzes existing multielectrode array (MEA) recordings from brain organoids carrying neurodevelopmental disorder-associated mutations and healthy controls, quantifying network activity features such as firing rates, bursts and synchrony. The student then trains interpretable machine learning classifiers to distinguish mutant from wildtype organoids, with an optional extension on developmental timepoints.",
+     "summary": "Analyses existing multielectrode array recordings from brain organoids carrying neurodevelopmental disorder-associated mutations and healthy controls. The student quantifies network activity features such as firing rates, bursts and synchrony, and trains interpretable machine learning classifiers to distinguish mutant from wildtype organoids.",
      "project_types": [],
      "domains": [
       "computational neuroscience",
-      "neurodevelopmental disorders",
+      "neural data analysis",
       "brain organoids",
       "machine learning"
      ],
      "skills": [
       "Python",
       "scikit-learn",
-      "neural data analysis",
       "spike sorting",
       "time-series analysis"
      ],
@@ -44352,15 +44316,15 @@
   "https://www.epfl.ch/labs/spoc/open-positions/": {
    "key": {
     "content_hash": "f86edb5c5c1c92b1614c919674d0936e07d90221b929db8788090e101dc2ceb8",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-spoc2"
    ],
-   "extracted_at": "2026-11-23T12:57:28+00:00",
-   "input_tokens": 4560,
-   "output_tokens": 225,
+   "extracted_at": "2026-11-24T12:35:19+00:00",
+   "input_tokens": 4744,
+   "output_tokens": 198,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -44370,15 +44334,15 @@
   "https://www.epfl.ch/labs/spoc/wp-content/uploads/2026/09/EPFL_SPOC_Postdoctoral_Positions.pdf": {
    "key": {
     "content_hash": "6a9c3e7e5fdb6c14b4bad1baadc7d0b82ebdb98d71c6541ad0c4d0ffabe8eb2e",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-spoc2"
    ],
-   "extracted_at": "2026-11-23T12:57:34+00:00",
-   "input_tokens": 4677,
-   "output_tokens": 176,
+   "extracted_at": "2026-11-24T12:35:25+00:00",
+   "input_tokens": 4859,
+   "output_tokens": 180,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -45043,15 +45007,15 @@
   "https://www.epfl.ch/labs/sycamore/action-space-reduction-for-learning-robotic-manipulation-semester-project/": {
    "key": {
     "content_hash": "ea11b5448bbc6e6ccddc0e5c92a61f5ff8ff9558bc77c1052e85472bedfd5895",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:57:39+00:00",
-   "input_tokens": 4999,
-   "output_tokens": 836,
+   "extracted_at": "2026-11-24T12:35:30+00:00",
+   "input_tokens": 5186,
+   "output_tokens": 846,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45060,7 +45024,7 @@
     {
      "title": "Action Space Reduction for Learning Robotic Manipulation (Semester Project)",
      "lab_acronym": null,
-     "summary": "Study how reducing the action space with eigengrasps (a low-dimensional hand synergy basis extracted by PCA from grasping data) affects reinforcement or imitation learning of dexterous manipulation with a fully actuated hand. Performance is compared against a baseline on task success rate and reward, with optional deployment on real hardware.",
+     "summary": "The project studies how reducing the action space helps learning dexterous manipulation with a fully actuated robotic hand. Grasping data will be used to extract a low-dimensional eigengrasp basis via PCA, and reinforcement or imitation learning policies will be trained on the reduced space and compared against a baseline.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -45073,10 +45037,10 @@
      ],
      "skills": [
       "Python",
-      "machine learning",
-      "reinforcement learning",
-      "strong mathematical background",
-      "robotics",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Strong mathematical background",
+      "Robotics",
       "ROS"
      ],
      "language": "EN",
@@ -45084,22 +45048,22 @@
       "Gregorio Valenti"
      ],
      "status": "available",
-     "academic_period": "Fall 2026"
+     "academic_period": null
     }
    ]
   },
   "https://www.epfl.ch/labs/sycamore/augmented-robot-reality-projecting-the-virtual-into-the-real-world/": {
    "key": {
     "content_hash": "d2837c30bab29ec6824a674f567c4090aa4865db80743022018ad4c0eacc2e28",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:57:46+00:00",
-   "input_tokens": 4584,
-   "output_tokens": 566,
+   "extracted_at": "2026-11-24T12:35:39+00:00",
+   "input_tokens": 4774,
+   "output_tokens": 370,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45108,17 +45072,17 @@
     {
      "title": "Augmented Robot Reality: Projecting the Virtual into the Real World",
      "lab_acronym": null,
-     "summary": "The project aims to visualise virtual information in real time to augment a multi-robot testbed, overlaying robot decision-making data on camera video feeds and projecting virtual environments onto the ground. The work includes mapping camera and projector pixels to the robot configuration space, correcting lens and projector distortion, and building an interactive tool that integrates into the existing robot control system.",
+     "summary": "Develop real-time visualisation of virtual information overlaid on camera feeds and projected onto the ground to augment a multi-robot testbed. The work involves mapping camera and projector pixel arrays to the robot configuration space, correcting lens and projector distortion, and using a camera-projector feedback loop to reduce mapping errors.",
      "project_types": [],
      "domains": [
       "robotics",
       "multi-robot systems",
       "computer vision",
-      "control"
+      "augmented reality"
      ],
      "skills": [
       "Python",
-      "ROS (Robot Operating System)",
+      "ROS",
       "rigid body transformations",
       "linear algebra"
      ],
@@ -45126,7 +45090,7 @@
      "supervisors": [
       "Tony Wood"
      ],
-     "status": "available",
+     "status": "unknown",
      "academic_period": null
     }
    ]
@@ -45134,15 +45098,15 @@
   "https://www.epfl.ch/labs/sycamore/controlling-soft-robotic-arm-via-mpc-and-reinforcement-learning-semester-project-master-thesis/": {
    "key": {
     "content_hash": "6c5613a3391a44b611b3afbe4e974469b836f5bc1098cb5decd2aac02e508af9",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:57:53+00:00",
-   "input_tokens": 4505,
-   "output_tokens": 658,
+   "extracted_at": "2026-11-24T12:35:45+00:00",
+   "input_tokens": 4691,
+   "output_tokens": 637,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45151,7 +45115,7 @@
     {
      "title": "Controlling soft robotic arm via MPC and reinforcement learning (Semester Project / Master Thesis)",
      "lab_acronym": null,
-     "summary": "The project aims to develop an accurate controller for soft robotic arms that achieves reliable trajectory tracking across varying spatial poses and payload conditions. It will explore model predictive control based on identified or neural network models, and reinforcement learning with domain randomization or adaptation.",
+     "summary": "Develop an accurate controller for soft robotic arms that achieves reliable trajectory tracking across varying spatial poses and payload conditions. The project explores model predictive control based on identified or neural network models, and reinforcement learning with domain randomization or adaptation.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -45161,7 +45125,7 @@
       "soft robotics",
       "model predictive control",
       "reinforcement learning",
-      "robotics"
+      "robot control"
      ],
      "skills": [
       "Python",
@@ -45180,15 +45144,15 @@
   "https://www.epfl.ch/labs/sycamore/fine-tuning-of-vision-language-action-models-for-real-world-robotic-manipulation-tasks-semester-project-master-thesis/": {
    "key": {
     "content_hash": "e40fabde94cea47e424859c61b94e23c865213defb0d27979747003858be5e2a",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:57:59+00:00",
-   "input_tokens": 4426,
-   "output_tokens": 654,
+   "extracted_at": "2026-11-24T12:35:53+00:00",
+   "input_tokens": 4611,
+   "output_tokens": 414,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45197,7 +45161,7 @@
     {
      "title": "Fine-Tuning of Vision-Language-Action Models for Real World Robotic Manipulation Tasks (Semester Project / Master Thesis)",
      "lab_acronym": null,
-     "summary": "Build an end-to-end pipeline for real-robot manipulation: teleoperate the robot to collect demonstrations, create a clean dataset, and fine-tune an open-source Vision-Language-Action model to train imitation policies. The stated goal is to set up the system for the WBCD manipulation competition (What Bimanuals Can Do) at IROS 2026.",
+     "summary": "Build an end-to-end pipeline for real-robot manipulation: teleoperate the robot to collect demonstrations, curate a dataset, and fine-tune an open-source Vision-Language-Action model to train imitation policies. The goal is to set up the system for the WBCD manipulation competition (What Bimanuals Can Do) at IROS 2026.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -45207,13 +45171,13 @@
       "robotics",
       "imitation learning",
       "vision-language-action models",
-      "robot manipulation"
+      "manipulation"
      ],
      "skills": [
       "Python",
       "PyTorch",
       "ROS",
-      "machine learning"
+      "real robot experience"
      ],
      "language": "EN",
      "supervisors": [],
@@ -45225,15 +45189,15 @@
   "https://www.epfl.ch/labs/sycamore/imitation-learning-inverse-reinforcement-learning-for-dexterous-robotic-manipulation-master-thesis/": {
    "key": {
     "content_hash": "b00c4adfd6af56078a5d231c526eecda285050aa288ede8ef02f68da538e0389",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:05+00:00",
-   "input_tokens": 4750,
-   "output_tokens": 723,
+   "extracted_at": "2026-11-24T12:35:59+00:00",
+   "input_tokens": 4933,
+   "output_tokens": 716,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45242,7 +45206,7 @@
     {
      "title": "Finetuning Policy via Reinforcement Learning from Human Preferences (Semester Project/ Master Thesis)",
      "lab_acronym": null,
-     "summary": "The project aims to fine-tune robotic manipulation policies with reinforcement learning from human preferences (RLHF), done offline from a pre-collected exploratory dataset to avoid costly or harmful online RL on the real system. The work includes simulation implementation and validation on the real-world robotic system.",
+     "summary": "The project aims to fine-tune robotic manipulation policies using reinforcement learning from human preferences (RLHF). The goal is to improve policies learned by RL in simulation or by behavioral cloning, doing the fine-tuning offline on a pre-collected exploratory dataset from the real robotic system.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -45251,6 +45215,7 @@
      "domains": [
       "reinforcement learning",
       "robotics",
+      "robotic manipulation",
       "machine learning"
      ],
      "skills": [
@@ -45267,15 +45232,15 @@
   "https://www.epfl.ch/labs/sycamore/information-design-in-local-energy-markets/": {
    "key": {
     "content_hash": "3365c34c6168233258f6ec59628b51c5c0d9fe1c460b9579472403969c5f6809",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:12+00:00",
-   "input_tokens": 4820,
-   "output_tokens": 543,
+   "extracted_at": "2026-11-24T12:36:06+00:00",
+   "input_tokens": 5009,
+   "output_tokens": 351,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45284,7 +45249,7 @@
     {
      "title": "Information Design in Local Energy Markets (Semester Project)",
      "lab_acronym": null,
-     "summary": "The project applies the theory of signalling in games (Bayesian persuasion) to local energy markets, investigating whether the market operator can strategically communicate weather or renewable production forecasts to prosumers to achieve more efficient and fair outcomes. It involves literature review, implementation of signalling code, and experiments on real-world distribution grid and consumption data.",
+     "summary": "Apply the theory of signalling in games (Bayesian persuasion) to local energy markets, studying whether a market operator can strategically communicate weather or renewable production forecasts to prosumers to improve market efficiency and fairness. Simulations are run on real-world distribution grids.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -45292,8 +45257,8 @@
      "domains": [
       "energy systems",
       "game theory",
-      "information design",
-      "optimization"
+      "convex optimization",
+      "information design"
      ],
      "skills": [
       "Python",
@@ -45304,7 +45269,7 @@
      ],
      "language": "EN",
      "supervisors": [],
-     "status": "available",
+     "status": "unknown",
      "academic_period": null
     }
    ]
@@ -45312,15 +45277,15 @@
   "https://www.epfl.ch/labs/sycamore/learning-robotic-manipulation-with-tunable-compliance-master-thesis/": {
    "key": {
     "content_hash": "2618644aa3a5fa04d225d4f26ceb7dd750073e5571d8d1731376f5af9a58c15e",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:18+00:00",
-   "input_tokens": 5034,
-   "output_tokens": 758,
+   "extracted_at": "2026-11-24T12:36:12+00:00",
+   "input_tokens": 5224,
+   "output_tokens": 796,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45329,20 +45294,20 @@
     {
      "title": "Learning Robotic Manipulation with Tunable Compliance (Master Thesis)",
      "lab_acronym": null,
-     "summary": "Build an imitation learning framework for a 20-DoF Wuji Hand and a 7-DoF arm, commanded in position, with an admittance controller and demonstrations labelled by stiffness. A diffusion transformer policy conditioned on the stiffness label should make compliance tunable after training and in real time, evaluated on tasks such as pick and place under different stiffness values.",
+     "summary": "Build an imitation learning framework for a 20-DoF dexterous hand and a 7-DoF arm, with an admittance controller and demonstrations annotated with stiffness labels. A diffusion transformer policy conditioned on stiffness would make compliance tunable after training and in real time, evaluated on pick-and-place tasks under different stiffness values.",
      "project_types": [
       "master_thesis"
      ],
      "domains": [
       "robotics",
       "imitation learning",
-      "robot manipulation",
-      "compliance control"
+      "robotic manipulation",
+      "control"
      ],
      "skills": [
       "Python",
-      "machine learning",
-      "reinforcement learning",
+      "Machine Learning",
+      "Reinforcement Learning",
       "robotics and control theory",
       "strong mathematical background"
      ],
@@ -45352,22 +45317,22 @@
       "Lorenzo Vignoli"
      ],
      "status": "available",
-     "academic_period": null
+     "academic_period": "Between September and December 2026"
     }
    ]
   },
   "https://www.epfl.ch/labs/sycamore/sim-to-real-transfer-for-jetbot-via-domain-randomization-and-adaptation-master-thesis/": {
    "key": {
     "content_hash": "9298d9da30afaf8b0b66d3e664d9ee72297bb52e2380cda336ee965dfefa345f",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:25+00:00",
-   "input_tokens": 4968,
-   "output_tokens": 404,
+   "extracted_at": "2026-11-24T12:36:19+00:00",
+   "input_tokens": 5154,
+   "output_tokens": 835,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -45376,23 +45341,25 @@
     {
      "title": "Sim-to-Real Transfer for JetBot via Domain Randomization and Adaptation",
      "lab_acronym": null,
-     "summary": "Develop and evaluate reinforcement learning policies that transfer robustly from simulation to the real NVIDIA JetBot, using domain randomization, domain adaptation, and hybrid sim-real fine-tuning. The work covers simulation setup, policy training, adversarial feature alignment, and real-robot deployment with minimal fine-tuning.",
+     "summary": "Develop and evaluate reinforcement learning policies that transfer robustly from simulation to the real NVIDIA JetBot, using domain randomization, domain adaptation, and hybrid sim-real fine-tuning. The work compares these techniques for JetBot navigation in obstacle-rich environments, aiming for zero-shot transfer performance with minimal real-world fine-tuning.",
      "project_types": [
-      "master_thesis"
+      "semester_bachelor",
+      "semester_master"
      ],
      "domains": [
       "reinforcement learning",
-      "robotics",
       "sim-to-real transfer",
+      "robotics",
       "domain adaptation"
      ],
      "skills": [
+      "reinforcement learning",
       "PyTorch",
       "ROS",
-      "reinforcement learning",
-      "dynamical systems and control",
+      "Isaac Sim",
+      "Gazebo",
       "machine learning",
-      "mathematics"
+      "control"
      ],
      "language": "EN",
      "supervisors": [],
@@ -45404,15 +45371,15 @@
   "https://www.epfl.ch/labs/sycamore/student-projects/": {
    "key": {
     "content_hash": "12e73d7e35adf87b3749c891ff996b28c60c6be08ed3d31ac127d130cb3fcca3",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:31+00:00",
-   "input_tokens": 8007,
-   "output_tokens": 2255,
+   "extracted_at": "2026-11-24T12:36:27+00:00",
+   "input_tokens": 8186,
+   "output_tokens": 2122,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -45421,12 +45388,13 @@
     {
      "title": "Controlling a Multi-drone Fleet for Traffic Monitoring",
      "lab_acronym": null,
-     "summary": "Coordinate a fleet of UAVs that collect traffic data at multiple locations, deciding where and when each drone collects data based on road importance and previous visits. The page text is truncated.",
+     "summary": "Coordinate a fleet of unmanned aerial vehicles (UAVs) that complement fixed traffic sensors by collecting data at multiple locations. The project addresses deciding where and when each UAV collects data, based on road importance and the fleet's previous visits.",
      "project_types": [],
      "domains": [
+      "robotics",
       "traffic monitoring",
       "multi-agent systems",
-      "robotics"
+      "optimization"
      ],
      "skills": [],
      "language": "EN",
@@ -45437,13 +45405,14 @@
     {
      "title": "Reinforcement learning to achieve efficient equilibria in repeated games with partial observability",
      "lab_acronym": null,
-     "summary": "Design online learning algorithms that learn efficient equilibria of a long-horizon repeated game, focusing on leader-follower games where the follower's actions are partially observable. Master's thesis project at the intersection of reinforcement learning and game theory.",
+     "summary": "Design online learning algorithms that learn efficient equilibria of a long-horizon repeated game. The focus is on leader-follower games where the follower's actions are partially observable.",
      "project_types": [
       "master_thesis"
      ],
      "domains": [
       "reinforcement learning",
-      "game theory"
+      "game theory",
+      "online learning"
      ],
      "skills": [],
      "language": "EN",
@@ -45454,11 +45423,12 @@
     {
      "title": "Multi-Objective Optimization for Automated Theorem Proving",
      "lab_acronym": null,
-     "summary": "Work on automated theorem proving, where large language models trained with reinforcement learning generate formal proofs checked by proof assistants such as Lean or Isabelle. The page text is truncated.",
+     "summary": "Study automated theorem proving, where large language models trained with reinforcement learning generate formal proofs checked by proof assistants such as Lean or Isabelle. The project targets multi-objective optimization for this setting.",
      "project_types": [],
      "domains": [
       "automated theorem proving",
       "reinforcement learning",
+      "large language models",
       "optimization"
      ],
      "skills": [],
@@ -45470,7 +45440,7 @@
     {
      "title": "Hybrid soft-actor critic benchmark",
      "lab_acronym": null,
-     "summary": "Benchmark a hybrid variant of soft actor-critic (SAC) that learns to autonomously build an arch, a task with a mix of continuous and discrete actions, against existing methods such as hybrid PPO. The page text is truncated.",
+     "summary": "Benchmark a hybrid soft actor-critic (SAC) variant that handles mixed continuous and discrete actions, used to autonomously build an arch. The benchmark compares it against existing methods such as hybrid PPO.",
      "project_types": [],
      "domains": [
       "reinforcement learning",
@@ -45485,14 +45455,14 @@
     {
      "title": "Algorithmic collusion in electricity markets",
      "lab_acronym": null,
-     "summary": "Semester project investigating collusive outcomes when autonomous agents learn to bid in electricity markets, mainly through numerical simulations combined with theory.",
+     "summary": "Investigate collusive outcomes when autonomous learning agents bid in electricity markets. The project relies mainly on numerical simulations combined with game-theoretic analysis.",
      "project_types": [
       "semester_master"
      ],
      "domains": [
-      "electricity markets",
       "game theory",
-      "multi-agent systems"
+      "electricity markets",
+      "multi-agent learning"
      ],
      "skills": [],
      "language": "EN",
@@ -45503,12 +45473,13 @@
     {
      "title": "Multi-Agent Traffic Monitoring with Limited Information Sharing",
      "lab_acronym": null,
-     "summary": "Coordinate a UAV fleet that collects traffic data where fixed sensors are absent, prioritising important roads under limited information sharing between drones. The page text is truncated.",
+     "summary": "Coordinate a fleet of UAVs that collect traffic data to complement fixed sensors, prioritizing important roads under limited information sharing between agents. The goal is informative traffic data collection as monitoring needs change.",
      "project_types": [],
      "domains": [
-      "traffic monitoring",
       "multi-agent systems",
-      "robotics"
+      "traffic monitoring",
+      "robotics",
+      "optimization"
      ],
      "skills": [],
      "language": "EN",
@@ -45521,15 +45492,15 @@
   "https://www.epfl.ch/labs/sycamore/students/": {
    "key": {
     "content_hash": "bbae182210bd8eea9bfd1a264bc999d6aab35009a22fe50beb97c7bb6ff23c69",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-sycamore"
    ],
-   "extracted_at": "2026-11-23T12:58:44+00:00",
-   "input_tokens": 4359,
-   "output_tokens": 106,
+   "extracted_at": "2026-11-24T12:36:39+00:00",
+   "input_tokens": 4540,
+   "output_tokens": 165,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -45687,15 +45658,15 @@
   "https://www.epfl.ch/labs/tcl/page-87315-en-html/": {
    "key": {
     "content_hash": "d70a47eab268735bb160e39a1c33e887f97372ef187a89b3ca299177729640fc",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-tcl"
    ],
-   "extracted_at": "2026-11-23T12:58:48+00:00",
-   "input_tokens": 4078,
-   "output_tokens": 193,
+   "extracted_at": "2026-11-24T12:36:44+00:00",
+   "input_tokens": 4261,
+   "output_tokens": 214,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -45705,15 +45676,15 @@
   "https://www.epfl.ch/labs/tcl/wp-content/uploads/2023/12/ProjectProposalsSpring2024.pdf": {
    "key": {
     "content_hash": "9fdfffcbdd1d57dd90f79b616b108160e1403c4cb15e49de5e161f531cfeeb39",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-tcl"
    ],
-   "extracted_at": "2026-11-23T12:58:54+00:00",
-   "input_tokens": 11177,
-   "output_tokens": 7050,
+   "extracted_at": "2026-11-24T12:36:49+00:00",
+   "input_tokens": 11370,
+   "output_tokens": 7582,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -45722,19 +45693,20 @@
     {
      "title": "DPTLSL RISC-V System-On-Chip",
      "lab_acronym": null,
-     "summary": "Build a very small version of the X-HEEP RISC-V microcontroller (CPU, one memory bank, GPIOs) and synthesize it with a custom differential-logic standard-cell library, producing a verified post-synthesis netlist.",
+     "summary": "Build a very small version of the X-HEEP RISC-V microcontroller (CPU, one memory bank, GPIOs) and synthesize it with a custom standard-cell library using differential logic, producing a verified post-synthesis netlist. Optional post-processing with the open-source Yosys synthesizer.",
      "project_types": [],
      "domains": [
       "digital design",
       "chip design",
-      "eda tools",
-      "risc-v"
+      "risc-v",
+      "asic synthesis"
      ],
      "skills": [
       "Verilog",
       "TCL",
-      "DC",
-      "Innovus common UI"
+      "Design Compiler (DC)",
+      "Innovus common UI",
+      "yosys (bonus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -45747,13 +45719,13 @@
     {
      "title": "chip2chip serial-link for RISC-V Microcontrollers",
      "lab_acronym": null,
-     "summary": "Integrate a chip-to-chip serial-link IP into X-HEEP so two microcontrollers can exchange memory-mapped read/write data, extending the Pynq-Z2 FPGA support and testing on two FPGAs.",
+     "summary": "Integrate the PULP chip2chip serial-link IP into X-HEEP so that two microcontrollers can exchange memory-mapped read/write data. The work includes extending the Pynq-Z2 FPGA support and running a C test across two FPGAs.",
      "project_types": [],
      "domains": [
-      "digital design",
-      "fpga",
+      "embedded systems",
       "risc-v",
-      "computer architecture"
+      "fpga",
+      "hardware design"
      ],
      "skills": [
       "SystemVerilog",
@@ -45771,12 +45743,12 @@
     {
      "title": "Design automation of in-memory computing",
      "lab_acronym": null,
-     "summary": "Automate the physical design of the BLADE in-memory computing architecture for arbitrary configurations in 65nm, starting with the memory decoder and local memory controller, and later explore open-source PnR tools.",
+     "summary": "Automate the physical design of the BLADE in-memory computing (IMC) architecture in 65nm for arbitrary configurations, covering the memory decoder and local memory controller in Innovus, with later exploration of open-source PnR tools.",
      "project_types": [],
      "domains": [
       "in-memory computing",
-      "chip design",
-      "eda tools"
+      "vlsi physical design",
+      "eda automation"
      ],
      "skills": [
       "VHDL",
@@ -45795,7 +45767,7 @@
     {
      "title": "Characterization of an in-memory computing on Silicon",
      "lab_acronym": null,
-     "summary": "Characterize two fabricated 65nm BLADE in-memory computing configurations across voltage and temperature conditions, using on-board test programs to extract memory metrics and verify functionality.",
+     "summary": "Characterize two fabricated 65nm configurations of the BLADE in-memory computing chips across voltage and temperature conditions, by writing test programs for the board, measuring memory functionality and metrics, and analysing data.",
      "project_types": [],
      "domains": [
       "in-memory computing",
@@ -45820,12 +45792,12 @@
     {
      "title": "Decoder with Bit-Flipping Post-Processing for 6G wireless",
      "lab_acronym": null,
-     "summary": "Develop a low-complexity bit-flipping post-processing decoder for 6G wireless, design its hardware architecture, implement it in VHDL, and benchmark and optimize it.",
+     "summary": "Develop a low-complexity bit-flipping post-processing algorithm to improve a 6G error-correction decoder, then design its hardware architecture, implement it in VHDL and benchmark it against throughput and power targets.",
      "project_types": [],
      "domains": [
+      "channel coding",
       "wireless communications",
-      "error-correction coding",
-      "hardware design"
+      "hardware architecture"
      ],
      "skills": [
       "VHDL",
@@ -45843,12 +45815,12 @@
     {
      "title": "High-Throughput Hard-Decision Decoder for Optical Communications",
      "lab_acronym": null,
-     "summary": "Develop a low-complexity iterative bounded-distance hard-decision decoder for two-dimensional parity codes targeting 400G-800G optical fiber standards, implement it in VHDL, and benchmark it.",
+     "summary": "Design a low-complexity iterative bounded-distance hard-decision decoder for two-dimensional parity-check codes targeting 400G-ZR/800G-ZR optical fiber links. The work covers algorithm study, VHDL architecture implementation and benchmarking.",
      "project_types": [],
      "domains": [
+      "channel coding",
       "optical communications",
-      "error-correction coding",
-      "hardware design"
+      "hardware architecture"
      ],
      "skills": [
       "VHDL",
@@ -45866,11 +45838,11 @@
     {
      "title": "Test Platform of Error-Correction Decoders on FPGA SoC",
      "lab_acronym": null,
-     "summary": "Build a reconfigurable FPGA SoC test platform for error-correction decoders (5G, 6G, optical), configuring I/O and CPU-FPGA communication, implementing and benchmarking the platform.",
+     "summary": "Build a hardware test platform on an FPGA SoC to accelerate and evaluate error-correction decoders (5G, 6G, optical fiber), including I/O, bus and CPU-FPGA communication configuration, implementation, verification and benchmarking.",
      "project_types": [],
      "domains": [
       "fpga",
-      "error-correction coding",
+      "channel coding",
       "embedded systems"
      ],
      "skills": [
@@ -45888,16 +45860,17 @@
     {
      "title": "GC-RAM Controller for X-HEEP",
      "lab_acronym": null,
-     "summary": "Design and implement a smart memory controller for dynamic GC-RAM integrated into the X-HEEP platform, handling refresh, access multiplexing, error detection and correction, and interfacing to a system bus.",
+     "summary": "Design and implement in VHDL a smart memory controller for dynamic GC-RAM, handling refresh, access multiplexing and error detection/correction, and interfacing it with the X-HEEP system bus.",
      "project_types": [],
      "domains": [
       "memory systems",
-      "digital design",
-      "risc-v"
+      "embedded systems",
+      "digital design"
      ],
      "skills": [
       "VHDL",
-      "embedded systems"
+      "embedded systems",
+      "bus protocols"
      ],
      "language": "EN",
      "supervisors": [
@@ -45909,17 +45882,17 @@
     {
      "title": "Design of a Wireless Modem for IoT",
      "lab_acronym": null,
-     "summary": "Implement a LoRa transmitter: build a golden model including fixed-point arithmetic, design and implement its architecture in VHDL with a bus interface, and test it on an FPGA.",
+     "summary": "Design a LoRa physical-layer transmitter for ultra-low-power IoT nodes: build a fixed-point golden model, develop and implement the architecture in VHDL with a bus interface, and test it on an FPGA.",
      "project_types": [],
      "domains": [
       "iot",
       "wireless communications",
-      "hardware design"
+      "digital design"
      ],
      "skills": [
       "VHDL",
-      "FPGA",
       "fixed-point arithmetic",
+      "FPGA",
       "software"
      ],
      "language": "EN",
@@ -45932,12 +45905,12 @@
     {
      "title": "Test of the fabricated GC-eDRAM chip",
      "lab_acronym": null,
-     "summary": "Characterize fabricated GC-eDRAM chips in the lab by establishing communication with the chip, measuring temperature, voltage and frequency behavior, and comparing results with CAD simulations.",
+     "summary": "Characterize fabricated GC-eDRAM memory chips in the lab by establishing communication between a computer and the chip, running temperature, voltage and frequency analyses, and comparing results with CAD simulations.",
      "project_types": [],
      "domains": [
       "memory circuits",
       "hardware characterization",
-      "integrated circuits"
+      "embedded memory"
      ],
      "skills": [
       "Python",
@@ -45954,16 +45927,16 @@
     {
      "title": "Improving blocks of the GC-eDRAM in 28nm FDSOI Process",
      "lab_acronym": null,
-     "summary": "Design new full-custom analog blocks (charge pump, sense amplifier) for the GC-eDRAM macro in 28nm FDSOI to extend data retention time, including simulation, layout and post-layout optimization.",
+     "summary": "Design new full-custom analog blocks (such as a charge pump or sense amplifier) for the GC-eDRAM macro in 28nm FDSOI to extend data retention time, including simulation with the macro and layout optimisation.",
      "project_types": [],
      "domains": [
       "analog circuit design",
       "memory circuits",
-      "low-power design"
+      "integrated circuits"
      ],
      "skills": [
       "analog circuit design",
-      "Virtuoso"
+      "Cadence Virtuoso"
      ],
      "language": "EN",
      "supervisors": [
@@ -45975,7 +45948,7 @@
     {
      "title": "Designing Analog Blocks for the GC-eDRAM at 16nm FINFET",
      "lab_acronym": null,
-     "summary": "Design well-known analog blocks (ADC and voltage buffers) for characterizing the new GC-eDRAM macro in 16nm FinFET technology, including literature research, layout and post-layout optimization.",
+     "summary": "Design well-known analog blocks (ADC and voltage buffers) for characterising the new 16nm GC-eDRAM macro, and explore adaptive self-calibrating macros, including layout and post-layout optimisation.",
      "project_types": [],
      "domains": [
       "analog circuit design",
@@ -45984,7 +45957,7 @@
      ],
      "skills": [
       "analog and digital circuit design",
-      "Virtuoso"
+      "Cadence Virtuoso"
      ],
      "language": "EN",
      "supervisors": [
@@ -45996,11 +45969,11 @@
     {
      "title": "Designing a decoder in 16nm FinFet",
      "lab_acronym": null,
-     "summary": "Implement a full-custom GRAND-based error-correction decoder in 16nm FinFET using dynamic logic and an in-memory computation style, and automate layout generation with Python scripts.",
+     "summary": "Implement a full-custom error-correction decoder for the GRAND algorithm in 16nm FinFET, using dynamic logic and an in-memory computation style, and automate layout generation with Python scripts.",
      "project_types": [],
      "domains": [
-      "full-custom design",
-      "error-correction coding",
+      "channel coding",
+      "full-custom circuit design",
       "integrated circuits"
      ],
      "skills": [
@@ -46019,15 +45992,15 @@
     {
      "title": "Mixed signal compute block",
      "lab_acronym": null,
-     "summary": "Design analog sorter blocks, including DACs and comparators, compatible with standard-cell dimensions, as a mixed-signal approach to accelerate digital bottlenecks in 5G/6G algorithms.",
+     "summary": "Design analog sorter blocks, including DACs and comparators, that are compatible with standard-cell dimensions, as a mixed-signal approach to accelerating digital sorting bottlenecks in 5G/6G algorithms.",
      "project_types": [],
      "domains": [
       "mixed-signal circuits",
       "integrated circuits",
-      "telecommunications"
+      "wireless communications"
      ],
      "skills": [
-      "Cadence",
+      "Cadence tools",
       "HDL",
       "Python"
      ],
@@ -46041,15 +46014,15 @@
     {
      "title": "Designing a Leakage Suppression SRAM / ROM in 16nm FinFET",
      "lab_acronym": null,
-     "summary": "Evaluate leakage suppression techniques on a memory macro for an always-on low-power circuit, characterize speed and leakage, and design a bitcell array with leakage suppression.",
+     "summary": "Evaluate leakage suppression techniques on a memory macro in 16nm FinFET for always-on low-power circuits, characterise speed and leakage, and design a bitcell array with leakage suppression.",
      "project_types": [],
      "domains": [
-      "low-power design",
+      "low-power circuits",
       "memory circuits",
       "integrated circuits"
      ],
      "skills": [
-      "Virtuoso",
+      "Cadence Virtuoso",
       "analog and digital circuit design"
      ],
      "language": "EN",
@@ -46062,18 +46035,17 @@
     {
      "title": "Project 1: Localization and User Activity Detection",
      "lab_acronym": null,
-     "summary": "Collect and label Wi-Fi signal data for different activities and locations, develop preprocessing and classification or localization models, and present a system detecting user activity, room state and location.",
+     "summary": "Detect user activity, room state and location from Wi-Fi signals without cameras or wearables, by collecting and labelling data and developing preprocessing and classification or localization models.",
      "project_types": [],
      "domains": [
       "wireless sensing",
-      "signal processing",
-      "machine learning"
+      "machine learning",
+      "signal processing"
      ],
      "skills": [
       "MATLAB",
       "Python",
-      "signal processing",
-      "machine learning"
+      "machine learning (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -46085,18 +46057,17 @@
     {
      "title": "Project 2: Vital-Signs Estimation",
      "lab_acronym": null,
-     "summary": "Use reflected wireless signals to estimate breathing rates of one or several people in different scenarios, collecting data and developing preprocessing and estimation models.",
+     "summary": "Estimate breathing and heart-beat rates of one or several people from reflected wireless signals, collecting data at different breathing rates and distances and developing estimation models.",
      "project_types": [],
      "domains": [
       "wireless sensing",
-      "signal processing",
-      "health monitoring"
+      "vital signs monitoring",
+      "signal processing"
      ],
      "skills": [
       "MATLAB",
       "Python",
-      "signal processing",
-      "machine learning"
+      "machine learning (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -46108,7 +46079,7 @@
     {
      "title": "Project 3: Hardware and Machine Learning for Enhancing Wi-Fi Radar",
      "lab_acronym": null,
-     "summary": "Design, implement and test a quantized neural-network canceller that removes the router's own transmit signal from received Wi-Fi signals, so that environmental reflections can be sensed.",
+     "summary": "Cancel the direct transmit signal in a Wi-Fi radar so that environmental reflections become visible, using a hardware or machine-learning canceller implemented as a quantized neural network and tested in a real system.",
      "project_types": [],
      "domains": [
       "wireless sensing",
@@ -46121,8 +46092,8 @@
       "SystemVerilog",
       "C",
       "Python",
-      "PyTorch",
-      "TensorFlow"
+      "PyTorch or TensorFlow",
+      "neural networks (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -46134,12 +46105,12 @@
     {
      "title": "Project 4: 4G LTE Localization",
      "lab_acronym": null,
-     "summary": "Adapt an open-source 4G software radio suite to collect channel state information from LTE signals and use it to localize devices or device-free targets.",
+     "summary": "Adapt an open-source 4G software radio suite to collect channel state information from LTE signals and use it to localize a device or a device-free target.",
      "project_types": [],
      "domains": [
-      "wireless localization",
+      "wireless sensing",
       "software radio",
-      "signal processing"
+      "localization"
      ],
      "skills": [
       "C++",
@@ -46155,18 +46126,18 @@
     {
      "title": "Project 5: UWB Environment and Human Activity Sensing",
      "lab_acronym": null,
-     "summary": "Sense environments, vital signs and human activities from UWB/Wi-Fi channel estimates by synchronizing and preprocessing channel impulse responses and extracting activity information.",
+     "summary": "Sense environments, vital signs and human activities from UWB/Wi-Fi channel estimates by synchronising and preprocessing channel impulse responses and extracting activity information.",
      "project_types": [],
      "domains": [
       "wireless sensing",
-      "signal processing",
-      "machine learning"
+      "uwb",
+      "signal processing"
      ],
      "skills": [
       "Python",
       "C/C++",
       "digital signal processing",
-      "wireless communication"
+      "machine learning (a plus)"
      ],
      "language": "EN",
      "supervisors": [
@@ -46178,12 +46149,12 @@
     {
      "title": "Project 1: LoRa Transceiver Optimization and Evaluation",
      "lab_acronym": null,
-     "summary": "Characterize the open-source LoRa transceiver in terms of memory footprint, computational load and performance, then add features to the public repository.",
+     "summary": "Characterize the memory footprint, computational load and performance of an open-source LoRa transceiver, then add features to the public repository to help the research and radio-enthusiast community.",
      "project_types": [],
      "domains": [
+      "lpwan",
       "software-defined radio",
-      "iot",
-      "wireless communications"
+      "iot"
      ],
      "skills": [
       "C++",
@@ -46200,12 +46171,12 @@
     {
      "title": "Project 2: LoRaWAN for SDR",
      "lab_acronym": null,
-     "summary": "Add LoRaWAN support to the open-source LoRa transceiver by creating an interface between an existing MAC-layer library and the SDR implementation in GNU Radio.",
+     "summary": "Add LoRaWAN support to an open-source LoRa physical-layer implementation by interfacing an existing MAC-layer library with the LoRa transceiver in GNU Radio.",
      "project_types": [],
      "domains": [
+      "lpwan",
       "software-defined radio",
-      "iot",
-      "wireless communications"
+      "iot"
      ],
      "skills": [
       "C++",
@@ -46221,18 +46192,17 @@
     {
      "title": "Project 3: Implementing a Mioty Transceiver",
      "lab_acronym": null,
-     "summary": "Build the first open-source software-defined radio implementation of a simple Mioty LPWAN transceiver and verify its compatibility with commercial radio chips.",
+     "summary": "Build the first open-source software-defined radio implementation of the Mioty LPWAN standard, including a simple transceiver that is verified for compatibility with commercial radio chips.",
      "project_types": [],
      "domains": [
+      "lpwan",
       "software-defined radio",
-      "iot",
-      "wireless communications"
+      "iot"
      ],
      "skills": [
       "C++",
       "GNU Radio",
-      "wireless communication basics",
-      "datasheet analysis"
+      "wireless communication basics"
      ],
      "language": "EN",
      "supervisors": [
@@ -46244,16 +46214,17 @@
     {
      "title": "Project 4: Characterizing the New WiFi HaLow",
      "lab_acronym": null,
-     "summary": "Set up a WiFi HaLow test environment at EPFL, define a test plan, and measure the performance and power of the first WiFi HaLow network in Switzerland, then write a report.",
+     "summary": "Set up a WiFi HaLow test environment at EPFL and characterize the performance and power of the new IoT-oriented Wi-Fi standard through a test plan and measurements in and around EPFL.",
      "project_types": [],
      "domains": [
       "iot",
       "wireless communications",
-      "embedded systems"
+      "performance measurement"
      ],
      "skills": [
       "embedded hardware",
-      "measurements"
+      "measurements",
+      "system design"
      ],
      "language": "EN",
      "supervisors": [
@@ -46267,15 +46238,15 @@
   "https://www.epfl.ch/labs/tcl/wp-content/uploads/2024/12/25s-tclprojects.pdf": {
    "key": {
     "content_hash": "4306a1fdc68a58f53e90b25f2832cb4fb3d817b9e6de18d5b282e9cf2aa6d28b",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-tcl"
    ],
-   "extracted_at": "2026-11-23T12:59:21+00:00",
-   "input_tokens": 8896,
-   "output_tokens": 5320,
+   "extracted_at": "2026-11-24T12:37:20+00:00",
+   "input_tokens": 9079,
+   "output_tokens": 4948,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -46284,17 +46255,17 @@
     {
      "title": "Chip for Wi-Fi sensing",
      "lab_acronym": null,
-     "summary": "Move the lab's current FPGA-based Wi-Fi sensing system (activity detection, localization, vital-sign estimation) to a semi-custom ASIC, optimizing for area, power and speed. Work involves circuit design in Cadence with a standard-cell flow, plus exploration with VHDL/Verilog.",
+     "summary": "Transition an existing FPGA-based Wi-Fi sensing system for activity detection, localization and breathing monitoring into a semi-custom ASIC, optimizing area, power and speed. The work uses Cadence tools and a standard-cell flow, with additional VHDL/Verilog exploration.",
      "project_types": [],
      "domains": [
-      "vlsi",
-      "digital design",
       "wireless sensing",
-      "asic design"
+      "asic design",
+      "vlsi",
+      "digital design"
      ],
      "skills": [
       "Cadence",
-      "standard-cell design",
+      "standard-cell design flow",
       "VHDL",
       "Verilog"
      ],
@@ -46309,13 +46280,13 @@
     {
      "title": "Drone Detection Radar Design",
      "lab_acronym": null,
-     "summary": "Design an RF circuit on PCB to detect the speed and position of drones, model the RF system for simulation, and process the data on a software-defined radio for real-time signal processing.",
+     "summary": "Design an RF radar circuit on a PCB to detect the speed and position of drones, with a model of the RF system for simulation and digital processing on a software-defined radio.",
      "project_types": [],
      "domains": [
       "radar",
       "rf circuits",
       "signal processing",
-      "security"
+      "drone detection"
      ],
      "skills": [
       "KiCad",
@@ -46333,19 +46304,19 @@
     {
      "title": "Open Reimplementation of the RP2040 PIO (Master Thesis)",
      "lab_acronym": null,
-     "summary": "Read the specifications of the Raspberry Pi RP2040 programmable I/O (PIO) block, implement its state machines in RTL, and integrate the result into the HEEP system with FPGA prototyping.",
+     "summary": "Read the specifications of the Raspberry Pi RP2040 programmable I/O block, implement its functionality in RTL and integrate it into the HEEP system, with FPGA prototyping.",
      "project_types": [
       "master_thesis"
      ],
      "domains": [
       "digital design",
       "rtl design",
-      "fpga"
+      "fpga",
+      "embedded systems"
      ],
      "skills": [
       "VHDL",
       "Verilog",
-      "RTL design",
       "FPGA prototyping"
      ],
      "language": "EN",
@@ -46359,7 +46330,7 @@
     {
      "title": "Integrating High-Speed Test Infrastructure into XHeep (Semester Project)",
      "lab_acronym": null,
-     "summary": "Integrate the IPbus-based high-speed Ethernet test infrastructure, already used at TCL for testing custom ASICs, into the XHeep project to replace slow legacy test interfaces.",
+     "summary": "Integrate the IPbus-based Ethernet high-speed test infrastructure already developed at TCL for custom ASIC testing into the XHeep project.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -46367,7 +46338,7 @@
      "domains": [
       "digital design",
       "asic testing",
-      "networking"
+      "ethernet communication"
      ],
      "skills": [
       "VHDL",
@@ -46387,12 +46358,13 @@
     {
      "title": "Analog High-Performance Sorters for Telecommunications",
      "lab_acronym": null,
-     "summary": "Evaluate mixed-signal architectures for sorters that find the U smallest elements in large sets, as needed in 5G/6G and high-speed fiber systems. Optimize area, power and speed and compare against purely digital implementations in 16nm FinFET.",
+     "summary": "Evaluate mixed-signal architectures for high-speed sorters that find the U smallest elements in communication systems, and compare them with purely digital implementations in 16nm FinFET technology.",
      "project_types": [],
      "domains": [
       "analog circuits",
       "mixed-signal design",
-      "telecommunications"
+      "telecommunications",
+      "vlsi"
      ],
      "skills": [
       "Cadence",
@@ -46411,12 +46383,13 @@
     {
      "title": "Efficient MVM for Syndrome Computation in Decoders",
      "lab_acronym": null,
-     "summary": "Design a full-custom GF(2) matrix-vector multiplication accelerator in 16nm FinFET for syndrome computation in channel decoders, and compare it with standard-cell implementations in efficiency and performance.",
+     "summary": "Design a full-custom matrix-vector multiplication accelerator in 16nm FinFET for GF(2) syndrome computation in channel decoders, and compare it with standard-cell implementations.",
      "project_types": [],
      "domains": [
-      "vlsi",
       "channel coding",
-      "full-custom design"
+      "full-custom circuit design",
+      "vlsi",
+      "decoders"
      ],
      "skills": [
       "Cadence",
@@ -46434,7 +46407,7 @@
     {
      "title": "Multi-Bit Error Correction Code (ECC) for Gain-Cell eDRAM",
      "lab_acronym": null,
-     "summary": "Explore a better trade-off between parity storage overhead, latency and system power for multi-bit error correction in gain-cell eDRAM, then design, verify and implement the chosen ECC in ASIC.",
+     "summary": "Explore and implement a multi-bit error correction code that trades off parity storage overhead, latency and power to mitigate retention-time failures in gain-cell eDRAM.",
      "project_types": [],
      "domains": [
       "error correction codes",
@@ -46459,12 +46432,12 @@
     {
      "title": "Optimize Gain-Cell eDRAM Performance on X-Heep Platform",
      "lab_acronym": null,
-     "summary": "Optimize the cache line structure of gain-cell eDRAM on the X-Heep SoC platform by adding one or more buffer cache lines, to reduce read-modify-write and refresh overhead. Requires running benchmarks and hardware/software co-optimization.",
+     "summary": "Add cache-line buffering to a gain-cell eDRAM on the X-Heep platform to reduce read-modify-write and refresh overhead, and optimize the cache line structure using benchmarks.",
      "project_types": [],
      "domains": [
-      "computer architecture",
-      "memory design",
-      "soc design"
+      "memory systems",
+      "soc architecture",
+      "computer architecture"
      ],
      "skills": [
       "VHDL",
@@ -46483,12 +46456,12 @@
     {
      "title": "Ultra-low power standard-cells library optimization for AO systems",
      "lab_acronym": null,
-     "summary": "Optimize, design and characterize a full-custom differential standard-cell library (DPTLSL) for always-on, leakage-dominated systems, and compare it with a standard CMOS library.",
+     "summary": "Optimize, design and characterize a full-custom differential standard-cell library for always-on systems to improve robustness and reduce leakage, and compare it with a standard CMOS library.",
      "project_types": [],
      "domains": [
-      "low-power circuits",
-      "standard cell libraries",
-      "vlsi"
+      "low-power design",
+      "standard cells",
+      "full-custom design"
      ],
      "skills": [
       "Cadence Virtuoso",
@@ -46507,7 +46480,7 @@
     {
      "title": "Design of A Matrix with Multiple Sizes and Its Decoder Implementation",
      "lab_acronym": null,
-     "summary": "Given a base matrix, design LDPC matrices with several lifting sizes (smaller ones nested in larger ones), analyze them in Matlab or C++, and verify them in a configurable LDPC ASIC decoder.",
+     "summary": "Design an LDPC parity-check matrix with several nested lifting sizes from a given base matrix, and verify it in a configurable LDPC ASIC decoder.",
      "project_types": [],
      "domains": [
       "ldpc codes",
@@ -46515,7 +46488,7 @@
       "asic design"
      ],
      "skills": [
-      "Matlab",
+      "MATLAB",
       "C++",
       "VHDL",
       "Verilog",
@@ -46531,15 +46504,15 @@
     {
      "title": "Routing Design for Data Coupling in Decoders",
      "lab_acronym": null,
-     "summary": "Simplify the design of a flexible routing network that supports global coupling between cores in a multi-core LDPC decoder, analyze its performance in Matlab or C++, and implement it in ASIC.",
+     "summary": "Simplify the design of a flexible routing network that supports global coupling among cores in a multi-core LDPC decoder, and implement it in ASIC.",
      "project_types": [],
      "domains": [
       "channel coding",
-      "ldpc codes",
+      "multi-core architecture",
       "asic design"
      ],
      "skills": [
-      "Matlab",
+      "MATLAB",
       "C++",
       "VHDL",
       "Verilog",
@@ -46556,22 +46529,22 @@
     {
      "title": "Elaboration of an In-Memory Computing Memory Compiler (Master Thesis)",
      "lab_acronym": null,
-     "summary": "Design an in-memory computing memory compiler in 65nm using open-source tools that generates GDS, LEF, LIB and SPICE files from memory size and configuration. Work covers physical design, simulation, characterization and scripting automation.",
+     "summary": "Design an in-memory computing memory compiler in 65nm using open-source tools that generates GDS, LEF, LIB and SPICE files from a memory size and configuration.",
      "project_types": [
       "master_thesis"
      ],
      "domains": [
       "in-memory computing",
       "memory design",
-      "eda tools"
+      "edge ai",
+      "physical design"
      ],
      "skills": [
       "Python",
       "TCL",
       "SPICE",
       "HDL",
-      "git",
-      "digital and full-custom design flows"
+      "git"
      ],
      "language": "EN",
      "supervisors": [
@@ -46584,7 +46557,7 @@
     {
      "title": "Mioty Implementation",
      "lab_acronym": null,
-     "summary": "Improve the synchronization of an existing open-source software-defined radio implementation of the Mioty LPWAN standard so it works in real-world communications, and build a transceiver compatible with commercial devices.",
+     "summary": "Improve the synchronization of an existing software-defined-radio implementation of the Mioty LPWAN standard and build a transceiver compatible with commercial devices, validated with real transmissions.",
      "project_types": [],
      "domains": [
       "wireless communications",
@@ -46594,27 +46567,29 @@
      "skills": [
       "C++",
       "Python",
-      "basics of wireless communications"
+      "wireless communications"
      ],
      "language": "EN",
-     "supervisors": [],
+     "supervisors": [
+      "Joachim Tapparel"
+     ],
      "status": "available",
      "academic_period": "Spring 2025"
     },
     {
      "title": "Cellular Sensing: Traffic Safety Alert",
      "lab_acronym": null,
-     "summary": "Use real-time channel state information from cellular signals to detect the speed of approaching vehicles and classify traffic as safe or dangerous, to alert distracted pedestrians.",
+     "summary": "Use real-time cellular channel state information to estimate vehicle speed and classify traffic as safe or dangerous, in order to alert distracted pedestrians of fast-approaching vehicles.",
      "project_types": [],
      "domains": [
       "cellular sensing",
       "signal processing",
-      "machine learning"
+      "wireless communications"
      ],
      "skills": [
       "Python",
       "C++",
-      "basics of wireless communications"
+      "wireless communications"
      ],
      "language": "EN",
      "supervisors": [
@@ -46626,20 +46601,19 @@
     {
      "title": "Improved Belief Propagation Decoding for Short Codes",
      "lab_acronym": null,
-     "summary": "Improve sparse parity-check matrix transformations for belief propagation decoding of short codes, using machine learning, and construct short linear codes suited to sparse BP decoding for 6G uRLLC. Recommended for groups of at least two students.",
+     "summary": "Improve belief propagation decoding of short codes by using machine learning to refine sparsified parity-check matrices and by constructing short linear codes suited to sparse BP decoding, for 6G uRLLC scenarios.",
      "project_types": [],
      "domains": [
       "channel coding",
-      "belief propagation",
+      "belief propagation decoding",
       "machine learning"
      ],
      "skills": [
-      "Matlab",
+      "MATLAB",
       "C++",
       "Python",
       "linear algebra",
-      "machine learning",
-      "coding theory"
+      "machine learning"
      ],
      "language": "EN",
      "supervisors": [
@@ -46654,34 +46628,34 @@
   "https://www.epfl.ch/labs/tcl/wp-content/uploads/2025/12/26s-tclprojects.pdf": {
    "key": {
     "content_hash": "94585fbf714d15badd78509b39b3c99917d3ade45e12a003bb930e3dc230eef4",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "sti-tcl"
    ],
-   "extracted_at": "2026-11-23T12:59:42+00:00",
-   "input_tokens": 6778,
-   "output_tokens": 3836,
+   "extracted_at": "2026-11-24T12:37:40+00:00",
+   "input_tokens": 6960,
+   "output_tokens": 3126,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
    "page_updated_at": null,
    "projects": [
     {
-     "title": "Interconnect-aware BP decoder architecture study (routing congestion)",
+     "title": "Interconnect-aware routing analysis of belief-propagation decoder architectures",
      "lab_acronym": null,
-     "summary": "Compare routing behavior of different belief-propagation (BP) decoder architectures to identify interconnect bottlenecks and scaling limits. The goal is to derive guidelines for a scalable, interconnect-aware BP decoder, evaluating how wire congestion affects area, power and delay.",
+     "summary": "Compare the routing behaviour of different belief-propagation (BP) decoder architectures, including compute-in-memory bit-serial designs, to find interconnect bottlenecks and scaling limits. The goal is to derive guidelines for scalable, interconnect-aware BP decoders by measuring how wire congestion affects area, power and delay.",
      "project_types": [],
      "domains": [
       "vlsi design",
       "digital design",
-      "error-correcting codes"
+      "error-correcting codes",
+      "computer architecture"
      ],
      "skills": [
       "VHDL",
       "Verilog",
-      "RTL development",
       "semi-custom placement and routing"
      ],
      "language": "EN",
@@ -46692,19 +46666,18 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Compact low-static-power CAM bitcell",
+     "title": "Compact low-leakage CAM bitcell design",
      "lab_acronym": null,
-     "summary": "Design and simulate a novel compact CAM (content-addressable memory) bitcell with lower static leakage than conventional compact (<6T) cells, while keeping fast match-line evaluation. The design is to be validated under PVT variations and mismatch. Suited to 1-2 students.",
+     "summary": "Design and simulate a novel compact content-addressable memory (CAM) bitcell with lower static leakage than conventional 10T SRAM-based CAMs and than existing compact (<6T) cells. The bitcell should also support fast match-line evaluation and be validated under PVT variations and mismatch.",
      "project_types": [],
      "domains": [
-      "vlsi design",
-      "memory circuits",
-      "full-custom design"
+      "integrated circuits",
+      "memory design",
+      "low-power circuits"
      ],
      "skills": [
       "full-custom schematic design",
-      "full-custom layout design",
-      "circuit simulation"
+      "full-custom layout design"
      ],
      "language": "EN",
      "supervisors": [
@@ -46714,18 +46687,18 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "DPTLSL leakage-suppression logic characterization",
+     "title": "Cell characterization of the DPTLSL leakage-suppression logic family",
      "lab_acronym": null,
-     "summary": "Characterize and optimize cells and circuit architecture for the DPTLSL leakage-suppression logic family developed at TCL, targeting low-leakage, reliable operation for a FIR filter circuit. The work includes comparison with a standard CMOS library.",
+     "summary": "Characterize and optimise cells and circuit architectures of DPTLSL, a leakage-suppression logic family developed at TCL, for low-leakage, reliable low-frequency operation, demonstrated on an FIR filter. The work also compares the results against a standard CMOS library.",
      "project_types": [],
      "domains": [
-      "low-power circuits",
-      "vlsi design",
-      "cell characterization"
+      "integrated circuits",
+      "low-power design",
+      "digital design"
      ],
      "skills": [
       "Cadence Virtuoso",
-      "SPICE simulation",
+      "SPICE",
       "PEX simulation",
       "Python"
      ],
@@ -46737,9 +46710,9 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Configurable NM-Caesar near-memory computing RTL",
+     "title": "Configurable near-memory computing accelerator (NM-Caesar)",
      "lab_acronym": null,
-     "summary": "Improve the NM-Caesar near-memory computing RTL so that memory size and number of banks are configurable. The work also aims to optimize the design and highlight energy, area and performance trade-offs.",
+     "summary": "Improve the NM-Caesar near-memory computing RTL so that it is configurable in memory size and number of banks. The project also aims to optimise and quantify energy, area and performance trade-offs.",
      "project_types": [],
      "domains": [
       "computer architecture",
@@ -46759,14 +46732,14 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Morphological filter circuit architectures (iterative, pipelined, unrolled)",
+     "title": "Circuit architectures for morphological filters",
      "lab_acronym": null,
-     "summary": "Starting from a Python description of morphological filters (erosion, dilation, opening, closing), design three hardware circuit architectures (iterative, pipelined, unrolled). Compare them through post-synthesis power, performance and area (PPA) extraction.",
+     "summary": "Design three hardware architectures (iterative, pipelined and unrolled) for morphological filters (erosion, dilation, opening, closing) starting from an existing Python description. The architectures will be compared through post-synthesis power, performance and area (PPA) extraction.",
      "project_types": [],
      "domains": [
       "digital design",
-      "hardware accelerators",
-      "image processing"
+      "image processing",
+      "edge computing"
      ],
      "skills": [
       "RTL development",
@@ -46782,44 +46755,43 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Algorithms robust to errors in 3T-1C GC-eDRAM",
+     "title": "Algorithms that tolerate errors in 3T-1C GC-eDRAM",
      "lab_acronym": null,
-     "summary": "Explore algorithms that can tolerate the random data losses of gain-cell eDRAM (GC-eDRAM) caused by limited retention time, such as neural networks and error-correction codes. The goal is to build a model relating algorithm accuracy to system power.",
+     "summary": "Explore algorithms, such as neural networks and error-correction codes, that remain accurate despite random data loss in low-power 3T-1C gain-cell eDRAM. The project aims to build a model that estimates algorithm accuracy and system power.",
      "project_types": [],
      "domains": [
-      "memory systems",
+      "memory design",
       "approximate computing",
       "machine learning"
      ],
      "skills": [
       "Python",
-      "C/C++",
+      "C",
+      "C++",
       "VHDL",
-      "Verilog",
-      "modelling"
+      "Verilog"
      ],
      "language": "EN",
      "supervisors": [
-      "Dr. Wenqing Song"
+      "Wenqing Song"
      ],
      "status": "available",
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Experimental evaluation of an SDR LoRa implementation",
+     "title": "LoRa software-defined radio error-rate evaluation",
      "lab_acronym": null,
-     "summary": "Evaluate the error-rate performance of the group's open-source software-defined radio (SDR) implementation of LoRa and compare it with commercial LoRa hardware implementations, using experimental evaluation with SDRs.",
+     "summary": "Experimentally evaluate the error-rate performance of an existing open-source software-defined radio (SDR) implementation of LoRa and compare it with commercial LoRa hardware. The results are intended to increase the impact of the open-source implementation.",
      "project_types": [],
      "domains": [
-      "wireless communication",
+      "wireless communications",
       "software-defined radio",
       "iot"
      ],
      "skills": [
       "C++",
       "Python",
-      "software-defined radio",
-      "experimental evaluation"
+      "software-defined radios"
      ],
      "language": "EN",
      "supervisors": [
@@ -46832,7 +46804,7 @@
     {
      "title": "Machine-learning-based drone localization with LoRa",
      "lab_acronym": null,
-     "summary": "Implement machine learning models that estimate drone location from noisy LoRa RSSI/SNR signals, using about 75k drone measurements taken around EPFL with four campus gateways. The goal is to evaluate their performance and robustness in LoRa-based IoT systems.",
+     "summary": "Implement machine-learning models that estimate drone location from noisy LoRa RSSI and SNR signals, using about 75k drone measurements taken around EPFL. The models will be evaluated for performance and robustness in LoRa-based IoT systems.",
      "project_types": [],
      "domains": [
       "machine learning",
@@ -46841,8 +46813,7 @@
      ],
      "skills": [
       "Python",
-      "machine learning",
-      "algorithms"
+      "machine learning"
      ],
      "language": "EN",
      "supervisors": [
@@ -46853,26 +46824,27 @@
      "academic_period": "Spring 2026"
     },
     {
-     "title": "Low-complexity FEC decoding for optical communication",
+     "title": "Forward error correction decoding for optical communications",
      "lab_acronym": null,
-     "summary": "Explore forward error correction (FEC) decoding algorithms that meet optical communication standards for AI data center networks, and reduce their decoding complexity. Hardware decoder implementation is optional.",
+     "summary": "Explore forward error correction (FEC) decoding algorithms that meet optical communication standards for AI data-center networks, with reduced decoding complexity. An optional part is the implementation of a decoder.",
      "project_types": [],
      "domains": [
-      "optical communication",
       "error-correcting codes",
-      "channel coding"
+      "optical communications",
+      "information theory"
      ],
      "skills": [
-      "probability theory",
       "Python",
-      "C/C++",
+      "C",
+      "C++",
       "VHDL",
-      "Verilog"
+      "Verilog",
+      "probability"
      ],
      "language": "EN",
      "supervisors": [
-      "Dr. Wenqing Song",
-      "Dr. Yifei Shen",
+      "Wenqing Song",
+      "Yifei Shen",
       "Alessandro Cardinale"
      ],
      "status": "available",
@@ -47213,15 +47185,15 @@
   "https://www.epfl.ch/labs/tml/theory-of-machine-learning/student-projects/": {
    "key": {
     "content_hash": "c1d00fb7b846c2d28635773eab13b89864d603e0b9ac2ccfa7a531553df7ac20",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-tml"
    ],
-   "extracted_at": "2026-11-23T12:59:59+00:00",
-   "input_tokens": 4167,
-   "output_tokens": 544,
+   "extracted_at": "2026-11-24T12:37:56+00:00",
+   "input_tokens": 4357,
+   "output_tokens": 320,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -47230,20 +47202,20 @@
     {
      "title": "In-context learning as approximated Bayesian inference",
      "lab_acronym": null,
-     "summary": "Examines whether the in-context learning ability of transformers can be explained as implicit gradient descent, as the 'ICL as GD' hypothesis proposes. The project aims to show that for more complex statistical problems and architectures, transformers learn more sophisticated mechanisms, such as approximated Bayesian inference.",
+     "summary": "Investigates whether transformers performing in-context learning implement more sophisticated mechanisms than gradient descent for complex statistical problems and architectures, challenging the \"ICL as GD\" hypothesis. The project frames in-context learning as approximated Bayesian inference.",
      "project_types": [],
      "domains": [
       "machine learning theory",
-      "transformers",
       "in-context learning",
-      "statistical learning"
+      "transformers",
+      "bayesian inference"
      ],
      "skills": [],
      "language": "EN",
      "supervisors": [
       "Francesco D'Angelo"
      ],
-     "status": "unknown",
+     "status": "available",
      "academic_period": null
     }
    ]
@@ -47341,15 +47313,15 @@
   "https://www.epfl.ch/labs/transp-or/": {
    "key": {
     "content_hash": "27b96e24fde2aa073ac44fde6c126e8afc1f07032a35da571512f3b0f096c8a2",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "enac-transp-or"
    ],
-   "extracted_at": "2026-11-23T13:00:06+00:00",
-   "input_tokens": 4311,
-   "output_tokens": 159,
+   "extracted_at": "2026-11-24T12:38:01+00:00",
+   "input_tokens": 4490,
+   "output_tokens": 179,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48294,15 +48266,15 @@
   "https://www.epfl.ch/schools/enac/education/interdisciplinary-teaching/master-in-urban-systems/": {
    "key": {
     "content_hash": "aed698ff70c94c651ca93f6973b47abe8690c02814a0e1ce80bee5a0a8f09eb1",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "enac-eso"
    ],
-   "extracted_at": "2026-11-23T13:00:11+00:00",
-   "input_tokens": 6202,
-   "output_tokens": 159,
+   "extracted_at": "2026-11-24T12:38:06+00:00",
+   "input_tokens": 6391,
+   "output_tokens": 153,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48312,15 +48284,15 @@
   "https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/laboratories-and-groups-3/environmental-sensing-observatory/student-projects/": {
    "key": {
     "content_hash": "9eed95221710455266d6ef224da9176870721007cb707905101b62365b292cb1",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "enac-eso"
    ],
-   "extracted_at": "2026-11-23T13:00:16+00:00",
-   "input_tokens": 6741,
-   "output_tokens": 176,
+   "extracted_at": "2026-11-24T12:38:11+00:00",
+   "input_tokens": 6920,
+   "output_tokens": 174,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48330,7 +48302,7 @@
   "https://www.epfl.ch/schools/ic/ipg/proposed-projects/": {
    "key": {
     "content_hash": "39faa87dfcd721226c9529c09d41ab968e47709e3eca404c598d8671c55344ff",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
@@ -48339,9 +48311,9 @@
     "ic-lthi",
     "ic-smils"
    ],
-   "extracted_at": "2026-11-23T13:00:21+00:00",
-   "input_tokens": 4038,
-   "output_tokens": 205,
+   "extracted_at": "2026-11-24T12:38:16+00:00",
+   "input_tokens": 4227,
+   "output_tokens": 155,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48351,7 +48323,7 @@
   "https://www.epfl.ch/schools/ic/ipg/research-topics/": {
    "key": {
     "content_hash": "0d2586a745bb76f2caba2db1fc354f1b1a2261c23fe357c28d1bc9b49ffaf8bc",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
@@ -48360,9 +48332,9 @@
     "ic-lthi",
     "ic-smils"
    ],
-   "extracted_at": "2026-11-23T13:06:14+00:00",
-   "input_tokens": 4025,
-   "output_tokens": 181,
+   "extracted_at": "2026-11-24T12:38:21+00:00",
+   "input_tokens": 4209,
+   "output_tokens": 106,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48372,7 +48344,7 @@
   "https://www.epfl.ch/schools/ic/ipg/student-projects/": {
    "key": {
     "content_hash": "1a7f50eb93908ad648390613c9653073dfb60498e301c53235fb1f278bf4a1c4",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
@@ -48381,8 +48353,8 @@
     "ic-lthi",
     "ic-smils"
    ],
-   "extracted_at": "2026-11-23T13:00:31+00:00",
-   "input_tokens": 4072,
+   "extracted_at": "2026-11-24T12:38:26+00:00",
+   "input_tokens": 4257,
    "output_tokens": 106,
    "truncated": false,
    "error": null,
@@ -48393,7 +48365,7 @@
   "https://www.epfl.ch/schools/ic/ipg/student-projects/bachelor-projects/": {
    "key": {
     "content_hash": "bbe158ed54de313d0df681701134709a54ec65c04f661bf9a4e57bfc039582d7",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
@@ -48402,19 +48374,19 @@
     "ic-lthi",
     "ic-smils"
    ],
-   "extracted_at": "2026-11-23T13:00:37+00:00",
-   "input_tokens": 4085,
-   "output_tokens": 216,
+   "extracted_at": "2026-11-24T12:38:30+00:00",
+   "input_tokens": 4274,
+   "output_tokens": 105,
    "truncated": false,
    "error": null,
-   "page_kind": "no_projects",
+   "page_kind": "project_list",
    "page_updated_at": null,
    "projects": []
   },
   "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/": {
    "key": {
     "content_hash": "faa123a04990f5e72b0502bc72ed8147783be43a9b1762f4d5b9d649b9a8d22f",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
@@ -48423,9 +48395,9 @@
     "ic-lthi",
     "ic-smils"
    ],
-   "extracted_at": "2026-11-23T13:00:42+00:00",
-   "input_tokens": 4260,
-   "output_tokens": 966,
+   "extracted_at": "2026-11-24T12:38:35+00:00",
+   "input_tokens": 4449,
+   "output_tokens": 850,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -48434,15 +48406,15 @@
     {
      "title": "Quantum constraint satisfaction problems",
      "lab_acronym": "SMILS",
-     "summary": "Investigate quantum versions of constraint satisfaction problems such as K-SAT, where N quantum bits (spin-1/2) are subject to M constraints acting on them.",
+     "summary": "Investigate quantum versions of constraint satisfaction problems such as K-SAT, with N quantum bits (spin-1/2) subject to M constraints acting on them.",
      "project_types": [
       "semester_master",
       "master_thesis"
      ],
      "domains": [
       "quantum computing",
-      "constraint satisfaction",
-      "statistical mechanics"
+      "statistical mechanics",
+      "constraint satisfaction"
      ],
      "skills": [],
      "language": "EN",
@@ -48453,7 +48425,7 @@
     {
      "title": "Message passing for Quantum Models",
      "lab_acronym": "SMILS",
-     "summary": "Develop message passing techniques for simple quantum spin models on graphs.",
+     "summary": "Develop message passing techniques for simple quantum spin models defined on graphs.",
      "project_types": [
       "semester_master",
       "master_thesis"
@@ -48496,15 +48468,15 @@
   "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/markov-chain-monte-carlo": {
    "key": {
     "content_hash": "c7e2928fea0e6f1157fb0162f9d5074fb516c690cf3f3641041af2be37d5b860",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-linx"
    ],
-   "extracted_at": "2026-11-23T13:00:50+00:00",
-   "input_tokens": 4551,
-   "output_tokens": 986,
+   "extracted_at": "2026-11-24T12:38:42+00:00",
+   "input_tokens": 4734,
+   "output_tokens": 321,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -48513,15 +48485,12 @@
     {
      "title": "Quantum constraint satisfaction problems (SMILS)",
      "lab_acronym": null,
-     "summary": "The project investigates quantum versions of constraint satisfaction problems such as quantum K-SAT, aiming to determine the phase diagram as a function of constraint density and to find product-state ground states (PRODSAT phase) with algorithmic methods. It starts from a study of the basic literature on the topic.",
-     "project_types": [
-      "semester_master",
-      "master_thesis"
-     ],
+     "summary": "Investigate quantum versions of constraint satisfaction problems such as quantum K-SAT, studying the phase diagram as a function of constraint density and algorithmic methods to construct product-state ground states. The project starts from the basic literature on the topic.",
+     "project_types": [],
      "domains": [
       "quantum computing",
-      "quantum information",
       "constraint satisfaction",
+      "quantum many-body physics",
       "statistical physics"
      ],
      "skills": [],
@@ -48529,7 +48498,7 @@
      "supervisors": [
       "Nicolas Macris"
      ],
-     "status": "available",
+     "status": "unknown",
      "academic_period": null
     }
    ]
@@ -48537,15 +48506,15 @@
   "https://www.epfl.ch/schools/ic/ipg/student-projects/master-semester-master-thesis-projects/message-passing-for-quantum-models-lthc/": {
    "key": {
     "content_hash": "8291c3b19b8e01f4208bf3b8b3c00c730c08277899337b8a395d52cbabfee169",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-linx"
    ],
-   "extracted_at": "2026-11-23T13:00:59+00:00",
-   "input_tokens": 4182,
-   "output_tokens": 285,
+   "extracted_at": "2026-11-24T12:38:47+00:00",
+   "input_tokens": 4368,
+   "output_tokens": 294,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -48553,8 +48522,8 @@
    "projects": [
     {
      "title": "Message passing for quantum models (SMILS)",
-     "lab_acronym": null,
-     "summary": "Develop message passing techniques for simple quantum spin models on graphs, using functional integral and/or discrete phase space representations, with a focus on investigating topological phases.",
+     "lab_acronym": "SMILS",
+     "summary": "Develop message passing techniques for simple quantum spin models on graphs, using functional integral and/or discrete phase space representations. The work focuses on investigating topological phases with these methods.",
      "project_types": [],
      "domains": [
       "quantum information",
@@ -48576,15 +48545,15 @@
   "https://www.epfl.ch/schools/ic/ipg/student-projects/universal-prediction-and-alpha-mutual-information/": {
    "key": {
     "content_hash": "66f566515d50a3318c97a14571126ee2aae8ce69ec5ceb5cec3fee5634433fd5",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-linx"
    ],
-   "extracted_at": "2026-11-23T13:01:04+00:00",
-   "input_tokens": 4595,
-   "output_tokens": 674,
+   "extracted_at": "2026-11-24T12:38:53+00:00",
+   "input_tokens": 4780,
+   "output_tokens": 586,
    "truncated": false,
    "error": null,
    "page_kind": "single_project",
@@ -48593,12 +48562,13 @@
     {
      "title": "Universal prediction and alpha-mutual information",
      "lab_acronym": null,
-     "summary": "The project studies Alpha-NML predictors, a class of estimators interpolating between the Krichevsky-Trofimov (KT) and Normalized Maximum Likelihood (NML) estimators for universal prediction under log loss. Students would run experimental work (MATLAB or Python) to extend closed-form gamma-function formulas to longer sequences, derive formulas for non-i.i.d. sources such as Markov sources, and assess average-case performance compared with KT and NML.",
+     "summary": "Experimental study of Alpha-NML predictors, a class of estimators interpolating between the Krichevsky-Trofimov (KT) and Normalized Maximum Likelihood (NML) estimators for universal prediction under log loss. Possible directions include extending the gamma-function closed forms to longer sequences, deriving closed forms for non-i.i.d. sources such as Markov sources, and assessing average-case performance against KT and NML.",
      "project_types": [],
      "domains": [
       "information theory",
+      "machine learning",
       "universal prediction",
-      "machine learning"
+      "statistical estimation"
      ],
      "skills": [
       "MATLAB",
@@ -48608,7 +48578,7 @@
      "supervisors": [
       "Marco Bondaschi"
      ],
-     "status": "available",
+     "status": "unknown",
      "academic_period": null
     }
    ]
@@ -48616,15 +48586,15 @@
   "https://www.idiap.ch/en/education/courses#student-projects": {
    "key": {
     "content_hash": "d1f3199b96faeb04214341c9d67b0b1575309f00f633edc0a139dacb1365b3bb",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-sci-ic-dgp"
    ],
-   "extracted_at": "2026-11-23T13:01:11+00:00",
-   "input_tokens": 4937,
-   "output_tokens": 139,
+   "extracted_at": "2026-11-24T12:38:59+00:00",
+   "input_tokens": 5111,
+   "output_tokens": 168,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -48634,14 +48604,14 @@
   "https://www.light-laboratory.org/": {
    "key": {
     "content_hash": "977fd7ac6df5a0c21bc42e6b118cb41d3a070db3515ad40b9789169826ba378c",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-light"
    ],
-   "extracted_at": "2026-11-23T13:01:16+00:00",
-   "input_tokens": 6075,
+   "extracted_at": "2026-11-24T12:39:04+00:00",
+   "input_tokens": 6262,
    "output_tokens": 158,
    "truncated": false,
    "error": null,
@@ -48652,15 +48622,15 @@
   "https://www.spring.mpi-sp.org/student_projects.html": {
    "key": {
     "content_hash": "c3e91db819254409db3f78021e45143e1b703e8602ede839701bf08d97902924",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-spring"
    ],
-   "extracted_at": "2026-11-23T13:06:19+00:00",
-   "input_tokens": 5811,
-   "output_tokens": 1482,
+   "extracted_at": "2026-11-24T12:39:09+00:00",
+   "input_tokens": 5988,
+   "output_tokens": 1645,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -48669,24 +48639,26 @@
     {
      "title": "NET1: Recovering User Questions from the Web Traffic of AI Search and Crawling APIs",
      "lab_acronym": null,
-     "summary": "Studies whether network observers can infer or recover user prompts from the traffic generated when AI search and crawling APIs (such as Exa or Firecrawl) retrieve and scrape web content. The student builds a corpus of questions, runs them through these services under controlled conditions, and records the resulting network activity.",
+     "summary": "Studies whether network traces produced by AI search and crawling APIs (such as Exa or Firecrawl) leak metadata about the user prompts that trigger them, and whether the original prompt can be recovered from that traffic. The student builds a corpus of questions, runs them through these services under controlled conditions, and records the resulting network activity.",
      "project_types": [
-      "semester_master"
+      "semester_master",
+      "master_thesis"
      ],
      "domains": [
       "network security",
-      "privacy",
       "traffic analysis",
+      "privacy",
       "machine learning"
      ],
      "skills": [
       "Python",
-      "ML frameworks for classification",
+      "ML frameworks for traffic classification",
       "DNS",
-      "TLS 1.3 and SNI",
+      "TLS 1.3",
+      "SNI",
       "HTTP/2",
       "QUIC",
-      "traffic capture tooling",
+      "traffic capture tools",
       "Linux",
       "SSH",
       "Claude Code"
@@ -48701,22 +48673,23 @@
     {
      "title": "SYS1: Empirical Threat Models in Censorship Circumvention",
      "lab_acronym": null,
-     "summary": "Examines why some censorship circumvention designs achieve large-scale success while others with strong theoretical potential have had no practical impact. The project takes a cryptographic threat-modelling perspective on empirical censorship behaviour and deployed circumvention tools.",
+     "summary": "Examines why some censorship circumvention tools achieve large real-world success while others with strong theoretical potential have had no practical impact. The project takes a cryptographic threat-modelling perspective on empirical censorship behaviour and deployed circumvention tools.",
      "project_types": [
       "semester_bachelor",
-      "semester_master"
+      "semester_master",
+      "master_thesis"
      ],
      "domains": [
       "system security",
       "censorship circumvention",
-      "applied cryptography",
+      "cryptography",
       "threat modelling"
      ],
      "skills": [
       "Software prototyping",
       "Threat modelling",
-      "Cryptography",
-      "Claude Code"
+      "Claude Code",
+      "Applied cryptography"
      ],
      "language": "EN",
      "supervisors": [
@@ -48730,15 +48703,15 @@
   "https://www.thecoalalab.com/": {
    "key": {
     "content_hash": "1b68f5ab0f6efd4de750f2ef4a341331ce6f4d6db7e4c6396cee26ea3a0c2f34",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
     "ic-coala"
    ],
-   "extracted_at": "2026-11-23T13:01:33+00:00",
-   "input_tokens": 8710,
-   "output_tokens": 1845,
+   "extracted_at": "2026-11-24T12:39:19+00:00",
+   "input_tokens": 8888,
+   "output_tokens": 2098,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -48747,7 +48720,7 @@
     {
      "title": "Human-AI co-orchestration of group collaborative argumentation and ideation",
      "lab_acronym": null,
-     "summary": "Student project on human-AI co-orchestration to support group collaborative argumentation and ideation. The page gives only the title and the list of open formats.",
+     "summary": "Explores how AI can orchestrate group collaborative argumentation and ideation between human participants. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48756,8 +48729,9 @@
      ],
      "domains": [
       "human-computer interaction",
-      "computer-supported collaborative learning",
-      "artificial intelligence"
+      "artificial intelligence",
+      "learning sciences",
+      "computer-supported collaboration"
      ],
      "skills": [],
      "language": "EN",
@@ -48770,7 +48744,7 @@
     {
      "title": "Human-AI interactions that preserve and elevate human expertise in AI-augmented work",
      "lab_acronym": null,
-     "summary": "Student project on designing human-AI interactions that preserve and elevate human expertise in AI-augmented work. The page gives only the title and the list of open formats.",
+     "summary": "Investigates human-AI interaction designs that keep and strengthen human expertise in AI-augmented work. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48779,7 +48753,7 @@
      ],
      "domains": [
       "human-computer interaction",
-      "human-ai interaction",
+      "artificial intelligence",
       "future of work"
      ],
      "skills": [],
@@ -48793,7 +48767,7 @@
     {
      "title": "Designing real-time AI support for collaborative, inquiry-based science learning",
      "lab_acronym": null,
-     "summary": "Student project on designing real-time AI support for collaborative, inquiry-based science learning. The page gives only the title and the list of open formats.",
+     "summary": "Focuses on designing real-time AI support for students engaged in collaborative, inquiry-based science learning. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48802,8 +48776,9 @@
      ],
      "domains": [
       "learning sciences",
+      "artificial intelligence",
       "human-computer interaction",
-      "artificial intelligence in education"
+      "science education"
      ],
      "skills": [],
      "language": "EN",
@@ -48816,7 +48791,7 @@
     {
      "title": "Interactive tools to prepare citizens for democratic deliberation and policy co-creation",
      "lab_acronym": null,
-     "summary": "Student project on interactive tools that help citizens prepare for democratic deliberation and policy co-creation. The page gives only the title and the list of open formats.",
+     "summary": "Aims to create interactive tools that help citizens prepare for democratic deliberation and co-creation of policy. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48826,7 +48801,8 @@
      "domains": [
       "human-computer interaction",
       "participatory design",
-      "democratic deliberation"
+      "civic technology",
+      "artificial intelligence"
      ],
      "skills": [],
      "language": "EN",
@@ -48839,7 +48815,7 @@
     {
      "title": "Participatory and community-based approaches to AI development",
      "lab_acronym": null,
-     "summary": "Student project on participatory and community-based approaches to AI development. The page gives only the title and the list of open formats.",
+     "summary": "Studies participatory and community-based approaches that involve diverse stakeholders in AI development. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48847,9 +48823,9 @@
       "other"
      ],
      "domains": [
-      "participatory ai",
-      "human-computer interaction",
-      "responsible ai"
+      "participatory design",
+      "responsible ai",
+      "human-computer interaction"
      ],
      "skills": [],
      "language": "EN",
@@ -48862,7 +48838,7 @@
     {
      "title": "Worker-centred design of workplace AI systems",
      "lab_acronym": null,
-     "summary": "Student project on designing workplace AI systems centred on the needs of workers. The page gives only the title and the list of open formats.",
+     "summary": "Focuses on designing workplace AI systems around the needs and expertise of workers. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48872,7 +48848,7 @@
      "domains": [
       "human-computer interaction",
       "future of work",
-      "human-ai interaction"
+      "artificial intelligence"
      ],
      "skills": [],
      "language": "EN",
@@ -48885,7 +48861,7 @@
     {
      "title": "AI agents that foster learners' critical thinking through argumentation",
      "lab_acronym": null,
-     "summary": "Student project on AI agents designed to foster learners' critical thinking through argumentation. The page gives only the title and the list of open formats.",
+     "summary": "Develops AI agents designed to foster learners' critical thinking through argumentation. The page lists it as open to semester projects, master's theses and internship projects.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -48894,7 +48870,7 @@
      ],
      "domains": [
       "learning sciences",
-      "artificial intelligence in education",
+      "artificial intelligence",
       "human-computer interaction"
      ],
      "skills": [],
