@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T10:05:37+00:00",
+ "updated_at": "2026-11-24T10:17:56+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -17077,6 +17077,1009 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/grid-ess/grid-integrated-energy-storage-systems-lab/student-projects/": {
+   "key": {
+    "content_hash": "78b9b0e3e21cca326248fe55c4f2c009ff32f5b01e152a9f5ec97a4a16aea0c7",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:05:52+00:00",
+   "input_tokens": 5243,
+   "output_tokens": 1782,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "LLM-Evolved Repair Layers for Neural Optimal Power Flow Proxies",
+     "lab_acronym": null,
+     "summary": "Develops repair layers, evolved with large language models, to improve neural network proxies for optimal power flow in power systems.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "power systems",
+      "machine learning",
+      "optimal power flow"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Grid-Aware, Fair and Adaptive Formation of Local Energy Communities",
+     "lab_acronym": null,
+     "summary": "Studies how local energy communities can be formed in a grid-aware, fair and adaptive way.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "energy communities",
+      "power distribution grids",
+      "optimization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimal PV Feed-in Limits in Swiss Distribution Grids: Trading off Curtailment Remuneration against Grid Reinforcement",
+     "lab_acronym": null,
+     "summary": "Investigates optimal photovoltaic feed-in limits in Swiss distribution grids, weighing curtailment remuneration against grid reinforcement costs.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "distribution grids",
+      "photovoltaics",
+      "energy systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Dynamic Operating Envelopes Using Voltage Sensitivity for Distribution Networks",
+     "lab_acronym": null,
+     "summary": "Explores dynamic operating envelopes for distribution networks based on voltage sensitivity analysis.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "distribution networks",
+      "voltage control",
+      "power systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Fair and Efficient Optimization of Distribution Grid Interconnection Queues Using Flexible Connection Agreements",
+     "lab_acronym": null,
+     "summary": "Aims to optimize distribution grid interconnection queues fairly and efficiently using flexible connection agreements.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "distribution grids",
+      "optimization",
+      "power systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Physics-Grounded RAG-Enhanced LLM Agents for Reliable Power-System Simulation, Optimization, and Security Assessment",
+     "lab_acronym": null,
+     "summary": "Develops LLM agents grounded in physics and augmented with retrieval for power-system simulation, optimization and security assessment.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "power systems",
+      "large language models",
+      "retrieval-augmented generation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Data-driven Network Reduction for Electrical Distribution Networks for TSO-DSO Coordination",
+     "lab_acronym": null,
+     "summary": "Studies data-driven network reduction of electrical distribution networks to support coordination between transmission and distribution system operators.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "distribution networks",
+      "data-driven methods",
+      "power systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Extrapolation and Directional Anisotropic Behavior of Neural Operators for Power-Flow Applications",
+     "lab_acronym": null,
+     "summary": "Examines extrapolation and directional anisotropic behaviour of neural operators applied to power-flow problems.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "neural operators",
+      "power flow",
+      "machine learning"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/07/DOE_MSc_thesis-1.pdf": {
+   "key": {
+    "content_hash": "921d91fa5695abf5c198c851d01c9870665e75fb4d8f0d9437f24cf3b4835870",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:01+00:00",
+   "input_tokens": 5309,
+   "output_tokens": 418,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Dynamic Operating Envelopes Using Voltage Sensitivity for Distribution Networks",
+     "lab_acronym": null,
+     "summary": "Develop a framework for computing dynamic operating envelopes in distribution networks that combines local voltage measurements with voltage sensitivity information to define adaptive, risk-aware, real-time limits on DER power injection or consumption. The work includes a baseline DOE implementation, a feedback-based DOE design, and performance comparison on a distribution grid model.",
+     "project_types": [
+      "master_thesis",
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "power distribution networks",
+      "distributed energy resources",
+      "voltage control",
+      "power systems optimization"
+     ],
+     "skills": [
+      "Python",
+      "OpenDSS",
+      "Pandapower",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/07/Data_driven_network_reduction.pdf": {
+   "key": {
+    "content_hash": "0adad075ff0007d0c38ce7ef5054870156b3e305426d32f63c1fd5693e38d10f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:07+00:00",
+   "input_tokens": 5001,
+   "output_tokens": 465,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Data-driven Network Reduction for Electrical Distribution Networks for TSO-DSO Coordination",
+     "lab_acronym": null,
+     "summary": "Develop data-driven techniques to reduce the complexity of electrical distribution network models while preserving the operational characteristics needed for TSO-DSO coordination. The reduced-order models are to be evaluated for accuracy, computational efficiency, and suitability for congestion management, flexibility assessment and voltage stability analysis.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "power systems",
+      "network reduction",
+      "machine learning",
+      "smart grids"
+     ],
+     "skills": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "power flow analysis",
+      "Pandapower",
+      "MATPOWER",
+      "PyPSA",
+      "DIgSILENT PowerFactory",
+      "OpenDSS",
+      "Git"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/07/Extrapolation_NNs_PINNs.pdf": {
+   "key": {
+    "content_hash": "cab621e55b8d00295345bba8f0fbaba01824dd6db050cd9ffb756b0279ae136f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:13+00:00",
+   "input_tokens": 5066,
+   "output_tokens": 435,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Extrapolation and Directional Anisotropic Behavior of Neural Operators for Power-Flow Applications",
+     "lab_acronym": null,
+     "summary": "Study how neural network and physics-informed neural network surrogates for power flow and optimal power flow solvers extrapolate beyond their training regions. The goal is to quantify the reliability radius of these surrogates, its directional anisotropy, and its scaling with network width and depth.",
+     "project_types": [
+      "master_thesis",
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "power systems",
+      "machine learning",
+      "physics-informed neural networks",
+      "optimization"
+     ],
+     "skills": [
+      "Python",
+      "pandapower",
+      "PyPSA",
+      "MATPOWER",
+      "machine learning",
+      "optimization",
+      "numerical linear algebra",
+      "power flow",
+      "optimal power flow",
+      "physics-informed neural networks"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/07/LLM_PowerSystem.pdf": {
+   "key": {
+    "content_hash": "973ccafae5cfd27a31c3abe3b81381f970a5a9743e9213845e4b90245b2fc01b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:18+00:00",
+   "input_tokens": 5368,
+   "output_tokens": 443,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Physics-Grounded RAG-Enhanced LLM Agents for Reliable Power-System Simulation, Optimization, and Security Assessment",
+     "lab_acronym": null,
+     "summary": "Develop an agentic AI framework in which LLMs, retrieval-augmented generation, and power-system simulation tools (e.g. pandapower) answer natural-language requests such as power flow, optimal power flow and N-1 contingency analysis, with physics-based validation of the results and explanatory reports.",
+     "project_types": [
+      "master_thesis",
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "power systems",
+      "large language models",
+      "retrieval-augmented generation",
+      "agentic ai",
+      "smart grid"
+     ],
+     "skills": [
+      "Python",
+      "pandas",
+      "NumPy",
+      "pandapower",
+      "MATPOWER",
+      "Ollama",
+      "RAG",
+      "power flow analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/07/OptimizeQueue_MSc_thesis.pdf": {
+   "key": {
+    "content_hash": "5d3f543f2a74c722379ae707e446602f270a1b18696873d28bba6e2f858394fc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:24+00:00",
+   "input_tokens": 5163,
+   "output_tokens": 409,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Fair and Efficient Optimization of Distribution Grid Interconnection Queues Using Flexible Connection Agreements",
+     "lab_acronym": null,
+     "summary": "Develop and test an optimization-based framework for allocating scarce distribution-grid capacity among queued DER connection projects. The work explores flexible or curtailable connection agreements to increase connected projects while maintaining network security and fairness.",
+     "project_types": [
+      "master_thesis",
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "power systems",
+      "distribution grids",
+      "optimization",
+      "energy storage"
+     ],
+     "skills": [
+      "Python",
+      "power-system analysis",
+      "pandapower",
+      "OpenDSS",
+      "Pyomo",
+      "linear programming",
+      "mixed-integer programming",
+      "optimal power flow"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/10/Energy_Communities_Formation.pdf": {
+   "key": {
+    "content_hash": "6f08f784ffd99f3285c82d4f8835b94e0cc4c02d34326cde1e9944e890663133",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:30+00:00",
+   "input_tokens": 5563,
+   "output_tokens": 624,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Grid-Aware, Fair and Adaptive Formation of Local Energy Communities",
+     "lab_acronym": null,
+     "summary": "Develop a scalable method that recommends which buildings should form a local energy community, how benefits are shared, and how the community adapts as members change. The approach combines coalition formation, fair benefit sharing (Shapley, nucleolus, pro-rata) and optimisation-based control of heat pumps, storage and EVs within distribution system operator limits.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "energy communities",
+      "power systems",
+      "optimisation",
+      "game theory",
+      "smart grids"
+     ],
+     "skills": [
+      "Python",
+      "power systems",
+      "distribution grids",
+      "pandapower",
+      "Pyomo",
+      "Gurobi",
+      "mixed-integer programming",
+      "game theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/10/Project_PV_Curtailment_Optimal_k.pdf": {
+   "key": {
+    "content_hash": "34f25fe2985cc353adbaa68dcb5c7226e78b4caa0d23f0da9e9bf7b64ba93e87",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:36+00:00",
+   "input_tokens": 5481,
+   "output_tokens": 440,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Optimal PV Feed-in Limits in Swiss Distribution Grids: Trading off Curtailment Remuneration against Grid Reinforcement",
+     "lab_acronym": null,
+     "summary": "Develop an optimization-based planning framework to find the optimal PV feed-in limit k* in Swiss distribution grids, minimising the DSO's curtailment remuneration cost plus grid reinforcement capex. The approach uses a two-stage stochastic MILP with LinDistFlow constraints and compares fixed-tariff, spot, and DLMP remuneration.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "power systems",
+      "distribution grids",
+      "optimization",
+      "electricity markets"
+     ],
+     "skills": [
+      "Python",
+      "pandapower",
+      "Pyomo",
+      "Gurobi",
+      "power-system analysis",
+      "linear/mixed-integer programming"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/grid-ess/wp-content/uploads/2026/11/LLM_Repair_Layers_OPF_Proxies.pdf": {
+   "key": {
+    "content_hash": "a39fba3e813df1eff7fb7a7ab4f7a8d1b74bc91025f02cc2cae81ca8b4573574",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-grid-ess"
+   ],
+   "extracted_at": "2026-11-24T10:06:42+00:00",
+   "input_tokens": 5983,
+   "output_tokens": 421,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "LLM-Evolved Repair Layers for Neural Optimal Power Flow Proxies",
+     "lab_acronym": null,
+     "summary": "Uses large language models in an evolutionary program-search loop to design repair procedures that turn neural-network optimal power flow proxy outputs into feasible operating points. The goal is to restore AC feasibility faster and closer to optimality than hand-designed repairs, and to test whether the evolved programs transfer across grids, proxies and operating conditions.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "power systems",
+      "optimal power flow",
+      "machine learning",
+      "large language models",
+      "program search"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "power systems",
+      "optimal power flow",
+      "pandapower",
+      "PowerModels.jl",
+      "Ipopt",
+      "LLM APIs"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Rahul Gupta"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/head/open-masters-projects/": {
+   "key": {
+    "content_hash": "d48078e1c97e38dbf5336f59e63b3872fa56bf9c3b32e9a87c9d8f046b81e671",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-head"
+   ],
+   "extracted_at": "2026-11-24T10:06:47+00:00",
+   "input_tokens": 6947,
+   "output_tokens": 1299,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Stability of Gravity Jets",
+     "lab_acronym": null,
+     "summary": "Investigates the dynamics of a horizontal jet of heavy salt water injected into lighter fresh water, which is relevant to pollutant dispersion and outfall design. The work combines theoretical analysis and OpenFOAM numerical simulations to clarify how trajectory, dilution and mixing depend on the Richardson number.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "fluid dynamics",
+      "environmental flows",
+      "stratified flows",
+      "numerical simulation"
+     ],
+     "skills": [
+      "OpenFOAM"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. E. Yim"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Wind driven rotating sloshing waves in hydro turbine draft tube",
+     "lab_acronym": null,
+     "summary": "Develops a theoretical description of the wind-driven free-surface sloshing wave in a partially filled hydro turbine draft tube operating in condenser mode. The work starts from linear stability analysis of gravity waves under parallel air flow and extends it to a cylindrical geometry to study azimuthal modes.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "fluid dynamics",
+      "hydropower",
+      "free-surface waves",
+      "linear stability analysis"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. E. Yim",
+      "Dr. E. Vagnoni"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Bubble vortex breakdown in a cylindrical cavity",
+     "lab_acronym": null,
+     "summary": "Studies the base flow and axisymmetric stability of a swirling flow in a cylindrical cavity with a small second-phase bubble on the axis. Numerical simulations (COMSOL or Basilisk) are used to determine parameter ranges (Reynolds, Froude, Weber numbers and aspect ratio) that sustain a stable bubble.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "fluid dynamics",
+      "two-phase flow",
+      "flow stability",
+      "numerical simulation"
+     ],
+     "skills": [
+      "COMSOL",
+      "Basilisk",
+      "C",
+      "Linux",
+      "Navier-Stokes numerical methods"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/student-projects/": {
+   "key": {
+    "content_hash": "4c757f27ced7b3a143c58d1aaf173c2a0b0c99bc7bcc89723359b394c9117db9",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:06:56+00:00",
+   "input_tokens": 4408,
+   "output_tokens": 1522,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Shape Light with Nanostructures – Semester Project in Ultrafast Photonics",
+     "lab_acronym": null,
+     "summary": "A semester project on shaping light with nanostructures in the context of ultrafast photonics. The page lists it under master thesis announcements.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "photonics",
+      "nanophotonics",
+      "ultrafast optics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Development of a heterodyne detection system",
+     "lab_acronym": null,
+     "summary": "Development of a heterodyne detection system, a measurement technique used in photonics and terahertz research.",
+     "project_types": [],
+     "domains": [
+      "photonics",
+      "terahertz",
+      "optical measurement"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Cryogenic study of millimeter-wave/terahertz integrated chips",
+     "lab_acronym": null,
+     "summary": "Cryogenic characterisation of integrated chips operating at millimeter-wave and terahertz frequencies.",
+     "project_types": [],
+     "domains": [
+      "terahertz",
+      "millimeter-wave",
+      "integrated circuits",
+      "cryogenics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Designing and simulation of phase-matched THz transmission line on fully etched thin-film lithium niobate",
+     "lab_acronym": null,
+     "summary": "Design and simulation of a phase-matched terahertz transmission line and integrated THz device on fully etched thin-film lithium niobate.",
+     "project_types": [],
+     "domains": [
+      "terahertz",
+      "integrated photonics",
+      "lithium niobate"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Designing, Simulating and Characterizing Periodically Poled Lithium Niobate Waveguides",
+     "lab_acronym": null,
+     "summary": "Design, simulation and characterisation of periodically poled lithium niobate (PPLN) waveguides.",
+     "project_types": [],
+     "domains": [
+      "integrated photonics",
+      "nonlinear optics",
+      "lithium niobate"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/wp-content/uploads/2025/03/Student-project_Jiawen-1.pdf": {
+   "key": {
+    "content_hash": "7ff416c4049703d318b167a7530ae970917fceb555f086051ac59877cc4cb806",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:07:05+00:00",
+   "input_tokens": 4677,
+   "output_tokens": 399,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Cryogenic study of millimeter-wave/terahertz integrated chips",
+     "lab_acronym": null,
+     "summary": "Characterise millimeter-wave and terahertz photonic integrated circuits on thin-film lithium niobate at cryogenic temperatures (4 K or below) using a cryostat or dilution refrigerator. The work involves designing microwave and fiber-based optical setups inside the cryostat.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "photonics",
+      "integrated photonics",
+      "cryogenics",
+      "microwave engineering"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "experimental physics",
+      "microwave engineering",
+      "photonics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Jiawen Liu",
+      "Prof. Cristina Benea-Chelmus"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/wp-content/uploads/2025/04/Designing-and-simulation-of-integrated-THz-device-for-fully-etched-thin-film-lithium-niobate-device.pdf": {
+   "key": {
+    "content_hash": "440d4bdd7608e62435b7be809da99cf6072448ce226331119e7e3ecc84390759",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:07:11+00:00",
+   "input_tokens": 4588,
+   "output_tokens": 766,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Designing and simulation of phase-matched THz transmission line on fully etched thin-film lithium niobate",
+     "lab_acronym": null,
+     "summary": "Design a new integrated THz device structure with a phase-matched transmission line on a fully etched thin-film lithium niobate waveguide (about 600 nm) to avoid the crosstalk and interference signal seen in partly etched (about 300 nm) designs. The work includes simulation of the device.",
+     "project_types": [],
+     "domains": [
+      "integrated photonics",
+      "terahertz",
+      "nonlinear optics"
+     ],
+     "skills": [
+      "CST Studio Suite"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xuhui Cao",
+      "Prof. Cristina Benea-Chelmus"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/wp-content/uploads/2025/04/Master-thesis-announcements.pdf": {
+   "key": {
+    "content_hash": "9e12eaf252378d04ee0418c781912f5609ed187ad70e89f126b8843dd64cb893",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:07:18+00:00",
+   "input_tokens": 4917,
+   "output_tokens": 699,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Shape Light with Nanostructures – Semester Project in Ultrafast Photonics",
+     "lab_acronym": null,
+     "summary": "Design, simulate and experimentally characterize photonic nanostructures that control the phase and amplitude of femtosecond laser pulses. Simulated nanostructures are to be fabricated at CMI and tested by reconstructing the shaped pulse with FROG.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "photonics",
+      "ultrafast optics",
+      "nanophotonics",
+      "pulse shaping"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Zahra Basiri",
+      "Prof. Cristina Benea-Chelmus"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/wp-content/uploads/2025/04/Student_Project_Heterodyne.pdf": {
+   "key": {
+    "content_hash": "ea555103cc155c1fdbe71c287e1aac2fbda14c8c0cbf56fd5b3844abcd19769d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:07:25+00:00",
+   "input_tokens": 4673,
+   "output_tokens": 354,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Development of a heterodyne detection system",
+     "lab_acronym": null,
+     "summary": "Develop a heterodyne detection system that mixes a monochromatic reference laser with unknown light on a photodetector, so that the resulting AC voltage can be used to characterise the spectrum of the light under test. The work includes a systematic study of measurement characteristics across hardware and software configurations.",
+     "project_types": [],
+     "domains": [
+      "optics",
+      "photonics",
+      "signal processing",
+      "metrology"
+     ],
+     "skills": [
+      "Python",
+      "fiber-based optical setups",
+      "signal processing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Gabriel Jülg",
+      "Prof. Cristina Benea-Chelmus"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hylab/wp-content/uploads/2026/06/PPLN_Ad.pdf": {
+   "key": {
+    "content_hash": "6df8d1976536683a8ccd5df8bb694bb34a614ee0ab30645ae2725a3cc5df221c",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-hylab"
+   ],
+   "extracted_at": "2026-11-24T10:07:30+00:00",
+   "input_tokens": 4763,
+   "output_tokens": 999,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Periodically Poled Lithium Niobate Waveguides",
+     "lab_acronym": null,
+     "summary": "Design, simulate and characterize periodically poled lithium niobate (PPLN) waveguides for second harmonic generation, for applications in quantum technologies and telecommunications. The student would also work on poling stations and optical characterization setups.",
+     "project_types": [
+      "other"
+     ],
+     "domains": [
+      "nonlinear optics",
+      "integrated photonics",
+      "quantum technologies"
+     ],
+     "skills": [
+      "Python",
+      "CST Microwave Studio",
+      "COMSOL"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Cristina Benea-Chelmus",
+      "Kailyn Vaillancourt"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/idephics/open-positions/": {
+   "key": {
+    "content_hash": "a58f669335ce760db10c41a69c4d3997df528b4442c9498e99c688f0e00bee88",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-idephics"
+   ],
+   "extracted_at": "2026-11-24T10:07:38+00:00",
+   "input_tokens": 4683,
+   "output_tokens": 175,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/idiap/open-positions/student-projects/": {
    "key": {
     "content_hash": "15b20ed4decd89f953fe4f3538e9f9861ddbec806cbd35e7ce30c423114c09d7",
@@ -18686,6 +19689,277 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/instantlab/studentprojects/": {
+   "key": {
+    "content_hash": "694f0ebf3640c426952acf626dc87f0c3615d9f882c5b39e3999223026b4dd91",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-instant-lab"
+   ],
+   "extracted_at": "2026-11-24T10:07:43+00:00",
+   "input_tokens": 7875,
+   "output_tokens": 3395,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Advanced Flexure-Mechanism Design",
+     "lab_acronym": null,
+     "summary": "Develop a new design and modelling framework for flexure-based mechanisms that addresses several performance criteria at once and robustness to manufacturing tolerances. The work includes literature review, analytical and numerical modelling, design, and experimental validation. The project is a Master's project from January 2027 to August 2027, with an option to continue as a PhD thesis from October 2027.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "mechanical engineering",
+      "compliant mechanisms",
+      "precision engineering",
+      "micro-mechanics"
+     ],
+     "skills": [
+      "CAD",
+      "FEM simulation",
+      "analytical and numerical modelling",
+      "prototyping (laser cutting, 3D printing)",
+      "mathematics",
+      "physics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "January 2027 to August 2027"
+    },
+    {
+     "title": "Rotoprinter 1 – Interface material for 3D printing",
+     "lab_acronym": null,
+     "summary": "Experimentally compare interface materials for 3D printing. The project is part of the Rotoprinter line of work on additive manufacturing.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "additive manufacturing",
+      "materials science"
+     ],
+     "skills": [
+      "material sciences",
+      "experimental protocol",
+      "prototyping"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    },
+    {
+     "title": "Mechanical analog computation with flexures mechanisms",
+     "lab_acronym": null,
+     "summary": "Develop new miniaturized fully mechanical computing modules based on flexure mechanisms, as an alternative to electronic computing for extreme environments. The work covers mechanical design, modelling, simulation and prototyping, with possible development of digital logic families.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "mechanical computing",
+      "micro-manufacturing",
+      "compliant mechanisms"
+     ],
+     "skills": [
+      "mechanical design",
+      "modelling",
+      "simulation",
+      "prototyping"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    },
+    {
+     "title": "Design of a new musical instrument: acoustic simulation and modeling of sound generation through stick and slip, followed by prototyping",
+     "lab_acronym": null,
+     "summary": "Simulate a new type of musical instrument based on stick-slip sound generation and model its acoustics. Depending on the student's profile, the project can also include mechanical design and prototyping to test the theoretical predictions.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "acoustics",
+      "musical instruments",
+      "mechanical design"
+     ],
+     "skills": [
+      "modelling",
+      "simulation",
+      "mechanical design",
+      "prototyping"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    },
+    {
+     "title": "Surgical knot tension measurement device",
+     "lab_acronym": null,
+     "summary": "Design and prototype a handheld or table-mounted mechanical device that measures the pretension applied when tying surgical knots, with a tunable force-limitation system and ergonomic design. The device is intended for surgeon training and evaluation, and is validated with different filaments and knots. The project can be a semester project or a master's thesis.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "medical robotics",
+      "surgical training",
+      "mechanical design",
+      "flexure mechanisms"
+     ],
+     "skills": [
+      "CAD",
+      "FEM simulation",
+      "prototyping (laser cutters, 3D printers)",
+      "mechanical design"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    },
+    {
+     "title": "Biomimetic Mechanical Sound Generation",
+     "lab_acronym": null,
+     "summary": "Design a new biomimetic sound-producing mechanism inspired by cricket stridulation, for applications such as watch alarms or musical instruments. The project offers either mechanical design and manufacturing of a prototype, or physical modelling of the stridulation principle.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "biomimetics",
+      "mechanical sound generation",
+      "acoustics"
+     ],
+     "skills": [
+      "mechanical design",
+      "manufacturing",
+      "physical modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    },
+    {
+     "title": "Flexure based surgical tool",
+     "lab_acronym": null,
+     "summary": "Develop a flexible flexure-based structure for a micro-surgical tool providing two rotational degrees of freedom, with a gripper or other end effector adapted to the medical application. The tool should be usable with manual or robotic actuation.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "medical robotics",
+      "micro-surgery",
+      "flexure mechanisms"
+     ],
+     "skills": [
+      "mechanical design"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Guillaume Lods"
+     ],
+     "status": "available",
+     "academic_period": "September 2026 to January 2027"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/instantlab/studentprojects/page-105158-en-html/": {
+   "key": {
+    "content_hash": "ec992a19ebd6e534df204096477f4d8f018a726aeee5984ccb14c432ce34347b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-instant-lab"
+   ],
+   "extracted_at": "2026-11-24T10:07:59+00:00",
+   "input_tokens": 4876,
+   "output_tokens": 150,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/instantlab/studentprojects/page-105159-en-html/": {
+   "key": {
+    "content_hash": "f9f8588333cb4df28352dc246332b1905e8e00ac2a737c84510ce1f9851028ad",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-instant-lab"
+   ],
+   "extracted_at": "2026-11-24T10:08:04+00:00",
+   "input_tokens": 4896,
+   "output_tokens": 141,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/ipese/ipese-teaching/student_projects/": {
+   "key": {
+    "content_hash": "8c195788ef5ef3acdcfeca28d3b4b81209189e59ecbe05fd706d970927554e19",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-sci-sti-fm"
+   ],
+   "extracted_at": "2026-11-24T10:08:09+00:00",
+   "input_tokens": 4729,
+   "output_tokens": 237,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/ipese/ipese-teaching/student_projects/doc/": {
+   "key": {
+    "content_hash": "4d626e124b4b9e1a37eb500598c4ac0c427c5c5be7288d749c9bd772db2f4eab",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-sci-sti-fm"
+   ],
+   "extracted_at": "2026-11-24T10:08:15+00:00",
+   "input_tokens": 4306,
+   "output_tokens": 151,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/ivrl/available-projects/": {
    "key": {
     "content_hash": "97a9d9870581757a3a67ad12e184195717aafaf9b42af5a5146ac880a9c668b1",
@@ -18751,6 +20025,1508 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/la/info-isa-project-on-wp/": {
+   "key": {
+    "content_hash": "7e1417e189cddb88fde14cf757d1a2795f0de7a6c1f034a9997c7f285ca4f171",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-la"
+   ],
+   "extracted_at": "2026-11-24T10:08:19+00:00",
+   "input_tokens": 4725,
+   "output_tokens": 170,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": "2020-12-14",
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/la/pi/": {
+   "key": {
+    "content_hash": "2402701a59f6d2cdca4f560da3bbfa14d4e13bb46e8db5a5b333c7affc6b9c3d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-la"
+   ],
+   "extracted_at": "2026-11-24T10:08:24+00:00",
+   "input_tokens": 9902,
+   "output_tokens": 4252,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Extending data-driven controller synthesis to new performance objectives",
+     "lab_acronym": null,
+     "summary": "Extend the lab's data-driven controller synthesis framework, which currently handles H2, Hinf and IQC-based robustness specifications, to alternative objectives such as H1 and regret-based criteria. The work includes theory, implementation in the datadriven library, and experimental validation on lab systems with saturation constraints.",
+     "project_types": [],
+     "domains": [
+      "data-driven control",
+      "robust control",
+      "optimal control"
+     ],
+     "skills": [
+      "Python",
+      "numerical optimization",
+      "control theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alireza Karimi",
+      "Vaibhav Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "EPFL babyfoot ball handling and control improvement",
+     "lab_acronym": null,
+     "summary": "Improve the ball handling of the EPFL babyfoot robot so it can capture a moving ball, pass it, juggle, and shoot toward the opponent goal. Students may also propose their own improvements.",
+     "project_types": [],
+     "domains": [
+      "robotics",
+      "control",
+      "real-time systems"
+     ],
+     "skills": [
+      "LabVIEW"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Christophe Salzmann"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Digital twin of an industrial thermal process with neural optimal control",
+     "lab_acronym": null,
+     "summary": "Build a digital twin simulator of an industrial thermal process (e.g. oven, dryer or reactor) with a PID controller in the loop. Then apply neural-network optimal control methods to outperform the baseline PID controller.",
+     "project_types": [],
+     "domains": [
+      "process control",
+      "learning-based control",
+      "industrial automation"
+     ],
+     "skills": [
+      "Control theory",
+      "PyTorch",
+      "Python",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Contextual data-driven robust control with conformal prediction",
+     "lab_acronym": null,
+     "summary": "Develop a contextual data-driven robust control framework that builds context-dependent uncertainty sets from historical data using conformal prediction, with coverage guarantees for the disturbance. The work includes theory and validation on benchmark control tasks.",
+     "project_types": [],
+     "domains": [
+      "robust control",
+      "conformal prediction",
+      "machine learning"
+     ],
+     "skills": [
+      "Convex and robust optimization",
+      "machine learning theory",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate",
+      "Julien Pallage"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Robust real-time controller for adaptive optics",
+     "lab_acronym": null,
+     "summary": "Design and synthesise a robust real-time controller for an adaptive optics system that corrects atmospheric wavefront distortions in ground-based telescopes. Validation is planned through simulation and on an adaptive optics testbed. The project is run with an external partner at the Department of Astronomy, University of Geneva.",
+     "project_types": [],
+     "domains": [
+      "robust control",
+      "adaptive optics",
+      "control systems"
+     ],
+     "skills": [
+      "Frequency-domain control",
+      "robust control"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alireza Karimi",
+      "Vaibhav Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Distributionally robust control within data-driven controller synthesis",
+     "lab_acronym": null,
+     "summary": "Extend the lab's data-driven controller synthesis framework with Distributionally Robust Control (DRO) objectives. The work includes theory, implementation in the datadriven library, and experimental validation on lab systems with saturation-related constraints.",
+     "project_types": [],
+     "domains": [
+      "data-driven control",
+      "distributionally robust control",
+      "optimal control"
+     ],
+     "skills": [
+      "Python",
+      "numerical optimization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alireza Karimi",
+      "Vaibhav Gupta"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Partial feedback linearization for inverted pendulum swing-up",
+     "lab_acronym": null,
+     "summary": "Implement a partial feedback linearization algorithm for swinging up an inverted pendulum, then extend the algorithm to the data-driven setting. The controller will be tested on the hardware setup using LabVIEW.",
+     "project_types": [],
+     "domains": [
+      "nonlinear control",
+      "data-driven control",
+      "robotics"
+     ],
+     "skills": [
+      "LabVIEW"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alireza Karimi",
+      "Vishnu Varadan"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Performance boosting for non-holonomic bumper cars",
+     "lab_acronym": null,
+     "summary": "Improve the performance of three non-holonomic bumper cars in a 7x10 arena so they reach target positions with a prescribed final orientation. The method uses reference Performance Boosting, a learned component added to a base controller on top of a data-driven MLP model of the cars, while preserving stability guarantees.",
+     "project_types": [],
+     "domains": [
+      "learning-based control",
+      "nonlinear control",
+      "robotics"
+     ],
+     "skills": [
+      "Neural networks",
+      "data-driven modelling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate",
+      "Simone Baratto"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Meta-learning neural controllers for quadcopter disturbance rejection",
+     "lab_acronym": null,
+     "summary": "Use meta-learning (e.g. MAML) to train neural-network controllers that adapt quickly to changing disturbance profiles such as wind. Methods will be implemented in a simulated quadcopter environment and compared with standard training from scratch.",
+     "project_types": [],
+     "domains": [
+      "meta-learning",
+      "neural control",
+      "robotics"
+     ],
+     "skills": [
+      "PyTorch",
+      "Python",
+      "PyBullet",
+      "control theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate",
+      "Riccardo Cescon"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Meta-learning for neural network control of the Franka robot",
+     "lab_acronym": null,
+     "summary": "Investigate meta-learning methods such as MAML for neural-network controllers in control tasks, integrating control-specific architectures. Performance will be assessed through simulations of the Franka robot.",
+     "project_types": [],
+     "domains": [
+      "meta-learning",
+      "neural control",
+      "robotics"
+     ],
+     "skills": [
+      "PyTorch",
+      "Python",
+      "control theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate",
+      "Christophe Salzmann"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Online switching schemes for performance-boosting controllers (wind turbine)",
+     "lab_acronym": null,
+     "summary": "Design new online switching schemes for performance-boosting controllers, inspired by online convex optimization, and prove regret guarantees for them. The schemes will be tested in simulation for wind turbine control. The project is linked to the external DECODE project.",
+     "project_types": [],
+     "domains": [
+      "online optimization",
+      "learning-based control",
+      "wind energy"
+     ],
+     "skills": [
+      "Convex optimization",
+      "Python",
+      "PyTorch",
+      "control theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giancarlo Ferrari Trecate",
+      "Sabri El Amrani"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Data-driven adaptive control of an active suspension test bench",
+     "lab_acronym": null,
+     "summary": "Set up an active suspension test bench and apply data-driven adaptive control techniques to it. The controller should be robust to parametric uncertainties and will be verified on the test bench.",
+     "project_types": [],
+     "domains": [
+      "data-driven control",
+      "adaptive control",
+      "mechatronics"
+     ],
+     "skills": [
+      "LabVIEW",
+      "NI DAQ",
+      "data acquisition"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alireza Karimi",
+      "Vishnu Varadan"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/la/wp-content/uploads/2018/08/Directives_projets_LA_2014.pdf": {
+   "key": {
+    "content_hash": "bbe15e594599c237d2719707220c35c81b62d0f99c3e8b2ebcf92ffccf4c4232",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-la"
+   ],
+   "extracted_at": "2026-11-24T10:08:43+00:00",
+   "input_tokens": 6424,
+   "output_tokens": 345,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/la3/17-2/teaching/student-projects/": {
+   "key": {
+    "content_hash": "6a748ecf53af83fc6f4ef4785d37b9e80ee9d5b43970c5af289ca39f40ff78b4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-la3"
+   ],
+   "extracted_at": "2026-11-24T10:08:50+00:00",
+   "input_tokens": 4251,
+   "output_tokens": 503,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Bachelor project : Mini-segway racing",
+     "lab_acronym": null,
+     "summary": "A bachelor project on mini-segway racing, in which a self-balancing mini-segway is used as a platform for control and racing. The page gives only the title and general context on the lab's student projects in control and robotics.",
+     "project_types": [
+      "semester_bachelor"
+     ],
+     "domains": [
+      "control",
+      "robotics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/laft/open-positions/": {
+   "key": {
+    "content_hash": "dc7a42e28ffeb902464b6e0409a88224f5217762cc978cad680dab97794add11",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-laft"
+   ],
+   "extracted_at": "2026-11-24T10:08:57+00:00",
+   "input_tokens": 4231,
+   "output_tokens": 159,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lai/studentprojects/": {
+   "key": {
+    "content_hash": "c95b7b29fc7f50e93aaebe7cf51d025ead6b6fcf39332f450195216d03be66d4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lai"
+   ],
+   "extracted_at": "2026-11-24T10:09:03+00:00",
+   "input_tokens": 4210,
+   "output_tokens": 191,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lai/studentprojects/page-34569-en-html/": {
+   "key": {
+    "content_hash": "2bb683b5aa604648046c25a69e4f097086c0fd2faed7f28e3d39135016584ed7",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lai"
+   ],
+   "extracted_at": "2026-11-24T10:09:08+00:00",
+   "input_tokens": 12835,
+   "output_tokens": 4813,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Control of a Soft Biomimetic Fish Robot",
+     "lab_acronym": null,
+     "summary": "Implement a control algorithm to position the caudal fin of a soft robotic fish driven by fiber-reinforced dielectric elastomer actuators with a buckling beam, enabling steering and speed control. The work includes a state-of-the-art review of control for multi-stable systems and integration with the hardware into a working demonstrator.",
+     "project_types": [],
+     "domains": [
+      "soft robotics",
+      "control systems",
+      "underwater robotics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Markus Koenigsdorff",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Smart Actuators: Exploring Ultrasonic Vibration Sources",
+     "lab_acronym": null,
+     "summary": "Explore, design and evaluate compact actuators based on piezoelectric and magnetostrictive smart materials to generate high-frequency vibrations for the core actuation unit of a dental medical device. The project includes building a proof-of-concept prototype and experimentally characterising its frequency, amplitude and temperature variation, in collaboration with an industry partner.",
+     "project_types": [],
+     "domains": [
+      "smart materials",
+      "actuators",
+      "medical devices"
+     ],
+     "skills": [
+      "simulation",
+      "hands-on experimental lab work",
+      "prototyping"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xinxin Liao",
+      "Zhanghao Huang"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Characterization of a miniaturized actuation module used in biomedical applications",
+     "lab_acronym": null,
+     "summary": "Characterise experimentally and model numerically the miniature coreless DC motor and gear train that actuates modules of a reconfigurable diabetic insole. The goal is to identify lumped electro-mechanical parameters, validate an analytical model, estimate energy consumption, and optimise a commercial ripple-counting motor driver firmware.",
+     "project_types": [],
+     "domains": [
+      "biomedical devices",
+      "electric motors",
+      "modelling"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "Simulink",
+      "3D CAD",
+      "STM32",
+      "motor physics",
+      "control electronics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Federico Reato"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Investigation of auxetic meta-structures for intelligent offloading footwear",
+     "lab_acronym": null,
+     "summary": "Investigate synclastic auxetic meta-structures capable of double Gaussian curvature to redistribute plantar pressure in an intelligent offloading insole. The project covers a Python tool for unit-cell design, experimental validation on a test bench, and fabrication of prototypes.",
+     "project_types": [],
+     "domains": [
+      "metamaterials",
+      "wearable medical devices",
+      "biomedical engineering"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "3D CAD",
+      "3D printing",
+      "laser cutting",
+      "moulding"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Federico Reato"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Multilayer Dielectric Elastomer Actuators for Intelligent Pressure Offloading in Diabetic Footwear",
+     "lab_acronym": null,
+     "summary": "Design and fabricate multilayer dielectric elastomer actuators with around 100 layers to provide large displacement and stiffness modulation for plantar pressure offloading. The student will characterise displacement, force, stiffness and reliability, and investigate failure mechanisms.",
+     "project_types": [],
+     "domains": [
+      "soft robotics",
+      "dielectric elastomer actuators",
+      "biomedical engineering"
+     ],
+     "skills": [
+      "basic electronics",
+      "high-voltage systems",
+      "mechanical design",
+      "prototyping",
+      "experimental testing",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Amine Benouhiba",
+      "Maël Dagon",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Soft Fluidic Memory Sensor for Intelligent Offloading Footwear",
+     "lab_acronym": null,
+     "summary": "Perform a first experimental validation of a soft fluidic sensing element based on a flexible polymer structure with conductive fluid, whose impedance changes under compression. The project tests fabrication, compares design variations and evaluates signal amplitude, repeatability, drift and transient response.",
+     "project_types": [],
+     "domains": [
+      "soft sensors",
+      "wearable systems",
+      "biomedical sensing"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "CAD",
+      "fabrication",
+      "impedance measurement",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Self-Clearing Carbon Black Electrodes for Durable Soft Cardiac Actuators",
+     "lab_acronym": null,
+     "summary": "Develop ultra-thin self-clearing carbon black electrodes for dielectric elastomer actuators used in soft heart assist devices. The student will prepare formulations varying carbon black concentration and deposition, and characterise conductivity, adhesion, stretchability, cyclic stability and self-clearing behaviour.",
+     "project_types": [],
+     "domains": [
+      "soft robotics",
+      "electroactive polymers",
+      "cardiac assist devices"
+     ],
+     "skills": [
+      "laboratory experience",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Amine Benouhiba",
+      "Julia Platz",
+      "Armando Walter"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Bidirectional Flyback converter for high voltage applications",
+     "lab_acronym": null,
+     "summary": "Add bidirectionality to a flyback DC-DC converter that steps low voltages up to kilovolt levels to power a dielectric elastomer actuator, enabling energy recovery from the load. The project covers topology analysis, simulation with parasitic-aware component selection, implementation and validation.",
+     "project_types": [],
+     "domains": [
+      "power electronics",
+      "high-voltage converters",
+      "dielectric elastomer actuators"
+     ],
+     "skills": [
+      "PCB design (Altium, KiCad, OrCAD)",
+      "LTspice",
+      "SPICE simulation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maribel Caceres Rivera"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Self-sensing for artificial muscles",
+     "lab_acronym": null,
+     "summary": "Investigate using dielectric elastomer actuators as self-sensing elements by exploiting their deformation-dependent capacitance, including parallel configurations to increase sensitivity. The student will fabricate prototypes and correlate electrical measurements with mechanical deformation for real-time monitoring.",
+     "project_types": [],
+     "domains": [
+      "soft actuators",
+      "self-sensing",
+      "dielectric elastomers"
+     ],
+     "skills": [
+      "soft material prototyping",
+      "electronics",
+      "sensor measurement",
+      "Python",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xiaohan Han"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Origami\\Kirigami as Negative Biasing Mechanism for Dielectric Elastomer Actuators",
+     "lab_acronym": null,
+     "summary": "Use Kresling origami and kirigami structures as a bistable negative biasing mechanism to provide optimal pre-stretch for stacked dielectric elastomer actuators and achieve high strains. The student will fabricate the structures, integrate them with DEA prototypes and characterise the actuation performance.",
+     "project_types": [],
+     "domains": [
+      "origami",
+      "soft actuators",
+      "metamaterials"
+     ],
+     "skills": [
+      "fabrication",
+      "CAD",
+      "COMSOL",
+      "experimental design"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xiaohan Han"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Dielectric Elastomer Actuators characterization",
+     "lab_acronym": null,
+     "summary": "Characterise tubular dielectric elastomer actuators as distributed transmission-line structures by extracting per-unit-length RLCG parameters from impedance measurements. The project also includes building a mechanical setup to map capacitance against controlled deformation, as a step towards self-sensing.",
+     "project_types": [],
+     "domains": [
+      "dielectric elastomer actuators",
+      "electrical modelling",
+      "impedance measurement"
+     ],
+     "skills": [
+      "impedance analysis",
+      "instrumentation",
+      "measurement automation",
+      "embedded systems"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alexis Boegli",
+      "Paolo Germano",
+      "Julia Platz"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lai/studentprojects/page-34570-en-html/": {
+   "key": {
+    "content_hash": "4868da1ec7333c5d5ed315f564f3cafe2a965cc6c44fd9b1f4f72d1f0dafd412",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lai"
+   ],
+   "extracted_at": "2026-11-24T10:09:30+00:00",
+   "input_tokens": 12912,
+   "output_tokens": 3966,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Control of a Soft Biomimetic Fish Robot",
+     "lab_acronym": null,
+     "summary": "Implement a control algorithm to position the caudal fin of a soft robotic fish driven by fiber-reinforced dielectric elastomer actuators, enabling steering and speed control of a future untethered version. The work includes a state-of-the-art review of control for multi-stable systems and integration with the hardware into a working demonstrator.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "control systems",
+      "dielectric elastomer actuators",
+      "underwater robotics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Markus Koenigsdorff",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Smart Actuators: Exploring Ultrasonic Vibration Sources",
+     "lab_acronym": null,
+     "summary": "Explore, design and evaluate compact actuators based on piezoelectric and magnetostrictive smart materials to generate high-frequency vibrations for a dental medical device. A proof-of-concept prototype will be built and characterized for frequency, amplitude and temperature variation.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "smart materials",
+      "actuators",
+      "medical devices",
+      "mechanical engineering"
+     ],
+     "skills": [
+      "modeling",
+      "simulation",
+      "experimental characterization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xinxin Liao",
+      "Zhanghao Huang"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Characterization of a miniaturized actuation module used in biomedical applications",
+     "lab_acronym": null,
+     "summary": "Experimentally characterize and numerically model the miniature coreless DC motor and gear train of a reconfigurable insole module, identifying its lumped parameters. The resulting model will estimate energy consumption and support control and sensing algorithms, with some firmware optimization of a ripple-counting motor driver.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "electromechanical systems",
+      "biomedical devices",
+      "motor control",
+      "embedded systems"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "Simulink",
+      "3D CAD",
+      "STM32"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Federico Reato"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Investigation of auxetic meta-structures for intelligent offloading footwear",
+     "lab_acronym": null,
+     "summary": "Investigate synclastic auxetic meta-structures that produce double Gaussian curvature for an intelligent offloading insole intended to reduce high plantar pressure in diabetic patients. The project includes a Python design tool, experimental validation on a test bench, and prototype fabrication.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metamaterials",
+      "biomedical devices",
+      "soft robotics",
+      "manufacturing"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "3D CAD",
+      "3D printing",
+      "laser cutting"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Federico Reato"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Multilayer Dielectric Elastomer Actuators for Intelligent Pressure Offloading in Diabetic Footwear",
+     "lab_acronym": null,
+     "summary": "Design, fabricate and characterize multilayer dielectric elastomer actuators with around 100 layers to provide displacement and stiffness modulation for plantar pressure offloading in footwear. The student will develop fabrication methods and test mechanical behavior, reliability and failure mechanisms.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "artificial muscles",
+      "wearable medical devices",
+      "smart materials"
+     ],
+     "skills": [
+      "basic electronics",
+      "mechanical design",
+      "experimental testing",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Amine Benouhiba",
+      "Maël Dagon",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Soft Fluidic Memory Sensor for Intelligent Offloading Footwear",
+     "lab_acronym": null,
+     "summary": "Experimentally validate an early-stage soft fluidic sensing element combining a flexible polymer structure, conductive fluid and impedance measurement, to detect plantar loading and its history. The student will fabricate prototypes, test design variations under compression, and analyze their transient response.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft sensors",
+      "wearable systems",
+      "impedance sensing",
+      "smart materials"
+     ],
+     "skills": [
+      "MATLAB",
+      "Python",
+      "CAD",
+      "hands-on fabrication",
+      "electronics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maël Dagon",
+      "Andres Osorio Salazar"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Self-Clearing Carbon Black Electrodes for Durable Soft Cardiac Actuators",
+     "lab_acronym": null,
+     "summary": "Develop ultra-thin self-clearing carbon black electrodes for dielectric elastomer actuators used in soft heart assist devices. The student will prepare electrode formulations and characterize their conductivity, adhesion, stretchability and cyclic stability, including behavior under electrical breakdown.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "electroactive polymers",
+      "biomedical devices",
+      "materials"
+     ],
+     "skills": [
+      "laboratory experience",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Amine Benouhiba",
+      "Julia Platz",
+      "Armando Walter"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Bidirectional Flyback converter for high voltage applications",
+     "lab_acronym": null,
+     "summary": "Add and implement bidirectionality in a high-voltage flyback DC-DC converter that drives a dielectric elastomer actuator, so that charge can be recovered from the load. The project includes simulation, PCB implementation and validation of the kilovolt-range converter.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "power electronics",
+      "high voltage systems",
+      "dc-dc converters",
+      "electroactive actuators"
+     ],
+     "skills": [
+      "PCB design (Altium, KiCad, OrCAD)",
+      "LTSpice",
+      "SPICE simulation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maribel Caceres Rivera"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Self-sensing for artificial muscles",
+     "lab_acronym": null,
+     "summary": "Investigate using the capacitance of dielectric elastomer actuators as a self-sensing signal to monitor their deformation in real time. The project explores parallel DEA configurations to increase sensitivity and correlates electrical measurements with mechanical deformation on fabricated prototypes.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "self-sensing",
+      "artificial muscles",
+      "sensors"
+     ],
+     "skills": [
+      "soft material prototyping",
+      "electronics",
+      "sensor measurement",
+      "Python",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xiaohan Han"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Origami\\Kirigami as Negative Biasing Mechanism for Dielectric Elastomer Actuators",
+     "lab_acronym": null,
+     "summary": "Investigate whether Kresling origami or kirigami structures can provide the optimal pre-stretch for stacked dielectric elastomer actuators to achieve high strains. The student will fabricate these structures, integrate them with DEA prototypes and characterize the achievable strain.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "origami mechanics",
+      "metamaterials",
+      "artificial muscles"
+     ],
+     "skills": [
+      "fabrication",
+      "CAD",
+      "COMSOL",
+      "experimental design"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xiaohan Han"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Dielectric Elastomer Actuators characterization",
+     "lab_acronym": null,
+     "summary": "Characterize tubular dielectric elastomer actuators as distributed transmission-line structures, extracting their RLCG parameters from impedance measurements. The project also aims to map capacitance against mechanical deformation with a custom setup to enable self-sensing.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "dielectric elastomer actuators",
+      "electrical modeling",
+      "transmission lines",
+      "self-sensing"
+     ],
+     "skills": [
+      "impedance measurement",
+      "instrumentation and measurement automation",
+      "physical modeling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Alexis Boegli",
+      "Paolo Germano",
+      "Julia Platz"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lai/studentprojects/page-34571-en-html/": {
+   "key": {
+    "content_hash": "ca0eacde5de257fea57fd892144f6db5699a2bbefbdf7d2310696496488f4f62",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lai"
+   ],
+   "extracted_at": "2026-11-24T10:09:49+00:00",
+   "input_tokens": 4812,
+   "output_tokens": 161,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lai/studentprojects/page-34573-en-html/": {
+   "key": {
+    "content_hash": "ca3e7d948933701f3ba3cc3d2f567addabd46957f9677a74ef36833a26bcfa50",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lai"
+   ],
+   "extracted_at": "2026-11-24T10:09:55+00:00",
+   "input_tokens": 4638,
+   "output_tokens": 149,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lamd/projects/": {
+   "key": {
+    "content_hash": "1cbbab50184d547bf3d61faca1a582a3dcf837d954b31d8f981eb9c409995864",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:00+00:00",
+   "input_tokens": 4202,
+   "output_tokens": 1188,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Bearings",
+     "lab_acronym": null,
+     "summary": "A master or semester project on bearings, a core machine element in mechanical design.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "mechanical design",
+      "bearings",
+      "tribology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Turbomachinery",
+     "lab_acronym": null,
+     "summary": "A master or semester project on turbomachinery, the design and analysis of machines that exchange energy with a fluid.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "turbomachinery",
+      "fluid mechanics",
+      "mechanical engineering"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Design",
+     "lab_acronym": null,
+     "summary": "A master or semester project in mechanical design at the Laboratory for Applied Mechanical Design.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "mechanical design",
+      "mechanical engineering"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2024/06/Finite-Element-solution_AC.pdf": {
+   "key": {
+    "content_hash": "f52ff869feded74fda3406e321bf30a4db7f8eeeca8fe2e67e71962ecca30f39",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:10+00:00",
+   "input_tokens": 4834,
+   "output_tokens": 396,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Finite Element solution of the Reynolds equation for compressible fluids",
+     "lab_acronym": null,
+     "summary": "Develop a Finite Element Method (FEM) solver for the Reynolds equation governing compressible gas-lubricated bearings, and compare it with the Finite Difference solution currently used in the lab in terms of accuracy, mesh requirements and numerical stability near fluid-film boundaries.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "numerical methods",
+      "finite element method",
+      "gas-lubricated bearings",
+      "tribology"
+     ],
+     "skills": [
+      "Finite Element Methods",
+      "MATLAB",
+      "Numerical methods",
+      "Dynamics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Arnau Català",
+      "Emanuele Pallaoro",
+      "Jürg Schiffmann"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2025/06/Semester-project-Nonlinear-behavior-gas-bearings.pdf": {
+   "key": {
+    "content_hash": "f36b324ad8c051a0a53e2e0caaff0cd7357cc831a325813e72a7ace8c501ab3c",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:17+00:00",
+   "input_tokens": 4987,
+   "output_tokens": 407,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Identification of strong non-linear behavior in gas bearings: comparison with experimental data",
+     "lab_acronym": null,
+     "summary": "Assess whether discrepancies previously observed between linearized predictions and experimental data for gas-lubricated bearings can be resolved by re-evaluating the speed instability threshold with newly developed tools that capture non-linear behavior.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "rotordynamics",
+      "gas-lubricated bearings",
+      "nonlinear dynamics",
+      "applied mechanical design"
+     ],
+     "skills": [
+      "MATLAB",
+      "dynamics and vibrations"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Arnau Català",
+      "Emanuele Pallaoro",
+      "Hendrik Schillinger",
+      "Prof. Jürg Schiffmann"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/01/Project_proposal_kite_surfing-2.pdf": {
+   "key": {
+    "content_hash": "ca130c6d59b42ff235d5317160813658059beadaa1e11e8d091bef6e2bcae639",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:23+00:00",
+   "input_tokens": 5902,
+   "output_tokens": 431,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-01-01",
+   "projects": [
+    {
+     "title": "Simulating Kite Surfing: From Real-World Data to a Virtual Training Environment for RL Agents",
+     "lab_acronym": null,
+     "summary": "Build data-driven and physics-based models of kite surfing from real sensor data collected from kite surfers, and create a flexible virtual simulation environment in which reinforcement learning agents are trained to find efficient kite surfing strategies.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "reinforcement learning",
+      "physics-based modeling",
+      "simulation",
+      "data analysis",
+      "sports engineering"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "Unity",
+      "Unreal Engine",
+      "MuJoCo",
+      "PyBullet",
+      "Blender",
+      "Simulink"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "A. Artomov",
+      "H. Jubran",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/07/Project_proposal_MSc_thesis_sept_2026___IPM_machines-5.pdf": {
+   "key": {
+    "content_hash": "ec6ea7618c9acdf5b5a74e22dfbd027926535af5251ec0a53343acc4d1b76fe0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:29+00:00",
+   "input_tokens": 7219,
+   "output_tokens": 1046,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Surrogate Modelling and Transfer Learning for IPM Electric Machines",
+     "lab_acronym": null,
+     "summary": "Build a validated FEA (FEMAG) dataset covering the design space of interior permanent-magnet (IPM) machines, then develop and compare machine-learning surrogate models for their electromagnetic fields and derived quantities such as torque and flux linkage. Transfer learning from an existing SPM-trained surrogate is explored to reduce the IPM data requirement.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "surrogate modelling",
+      "transfer learning",
+      "electric machines",
+      "finite element analysis",
+      "machine learning"
+     ],
+     "skills": [
+      "Python",
+      "NumPy",
+      "PyTorch",
+      "PyTorch Geometric",
+      "graph neural networks",
+      "FEA (FEMAG)",
+      "electromagnetism"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "E. Alwash",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/08/CAD_Master_Project-1.pdf": {
+   "key": {
+    "content_hash": "649d20338bdc3eab306c9ac19ccf937612a2f327a3f39c24856070b280ba1da2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:38+00:00",
+   "input_tokens": 6020,
+   "output_tokens": 611,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Adaptive Multimodal AI for CAD Generation",
+     "lab_acronym": null,
+     "summary": "Investigate multimodal generative AI methods that turn different forms of design information (text, images, sketches, geometry) into executable and editable parametric CAD models, with a focus on robustness, flexibility and geometric accuracy. The exact research direction is defined with the selected student.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "generative ai",
+      "computer vision",
+      "cad",
+      "3d geometry"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "machine learning",
+      "deep learning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "H. Jubran",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/08/Multi_Fidelity_Benchmark_Project.pdf": {
+   "key": {
+    "content_hash": "a70533986030a2f60528d98b20d371eefcee7a354150f098408e2b2d88e3c085",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:45+00:00",
+   "input_tokens": 6566,
+   "output_tokens": 409,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-08-01",
+   "projects": [
+    {
+     "title": "Synthetic Benchmark Development for Multi-Fidelity Optimization with Heterogeneous Input Spaces",
+     "lab_acronym": null,
+     "summary": "Design and implement a modular Python library of synthetic benchmark problems for multi-fidelity optimization where fidelity levels use different input representations. The student will build a configurable generator of paired design representations with native simulator functions and evaluate baseline representation learning methods on it.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "multi-fidelity optimization",
+      "representation learning",
+      "benchmarking",
+      "bayesian optimization"
+     ],
+     "skills": [
+      "Python",
+      "NumPy",
+      "PyTorch",
+      "machine learning",
+      "optimization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "A. Abramishvili",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/09/ForceControllerStudentProject.pdf": {
+   "key": {
+    "content_hash": "6620e6f700e8a38c2dafe4db7074730963912b93c3f62df7ced8299e06a957b5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:51+00:00",
+   "input_tokens": 5568,
+   "output_tokens": 405,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Development of an Automated Load Application System for Aerodynamic Bearing Testing",
+     "lab_acronym": null,
+     "summary": "Develop the control system and PXI/LabVIEW software to automatically apply controlled loads to aerodynamic bearings using three electric cylinders, enabling automated load-capacity characterization. The work covers force distribution for arbitrary load directions, closed-loop force control, and automated test sequences.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "mechatronics",
+      "control systems",
+      "mechanical design",
+      "test automation"
+     ],
+     "skills": [
+      "LabVIEW",
+      "PXI",
+      "control systems",
+      "PID control",
+      "kinematics",
+      "MATLAB",
+      "Python"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Hendrik Schillinger",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lamd/wp-content/uploads/2026/11/Project_proposal_MSc_thesis_jan_2027_Scroll_compressors-1.pdf": {
+   "key": {
+    "content_hash": "11e77b65d192c0e36630f929bcf85791fb065d548db3b0ad3c990216133fe64a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lamd"
+   ],
+   "extracted_at": "2026-11-24T10:10:56+00:00",
+   "input_tokens": 6687,
+   "output_tokens": 887,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Parametric Modelling and Surrogate Modelling of Scroll Compressors",
+     "lab_acronym": null,
+     "summary": "Build a validated, parametrised GT-Suite model of a scroll compressor and use it to generate a simulation dataset over its geometric and operating design space. Develop and compare machine-learning surrogate models that predict compressor performance, with a Master thesis extending them to crank-angle-resolved outputs and a design optimisation task.",
+     "project_types": [
+      "master_thesis",
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "surrogate modelling",
+      "compressor modelling",
+      "machine learning",
+      "thermodynamics",
+      "mechanical design"
+     ],
+     "skills": [
+      "Python",
+      "NumPy",
+      "PyTorch",
+      "GT-Suite",
+      "thermodynamics",
+      "fluid mechanics",
+      "regression",
+      "neural networks"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "E. Alwash",
+      "Prof. J. Schiffmann"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lamp/projects/": {
    "key": {
     "content_hash": "f11cf8310735360f1378bd0e82d33f9a6c803beb43b7fb189bd446e921bc1ccf",
@@ -18783,6 +21559,78 @@
    "extracted_at": "2026-11-23T12:48:10+00:00",
    "input_tokens": 4070,
    "output_tokens": 255,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lanes/index-html/research-topics/": {
+   "key": {
+    "content_hash": "114e96c95188bf2f00ca34890be44fb16e7d3c412e50f529ae88371b74b3ad0a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lanes"
+   ],
+   "extracted_at": "2026-11-24T10:11:04+00:00",
+   "input_tokens": 4595,
+   "output_tokens": 151,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lanes/page-31692-en-html/": {
+   "key": {
+    "content_hash": "42ecefbd02df0e6f3e70c43218dc0ba17825806206637a541c9d59de7970996f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lanes"
+   ],
+   "extracted_at": "2026-11-24T10:11:09+00:00",
+   "input_tokens": 4855,
+   "output_tokens": 168,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lanes/phd-studentship-in-electronics-of-2d-materials/": {
+   "key": {
+    "content_hash": "ff883acb8389f74d2e78c6bdb2493c6e51c30c80627db0ea99bc94052e546c1a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lanes"
+   ],
+   "extracted_at": "2026-11-24T10:11:14+00:00",
+   "input_tokens": 4553,
+   "output_tokens": 184,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lanes/phd/": {
+   "key": {
+    "content_hash": "7ce7f54a6dd606ee7acf7eac1c36482288bb83911ae113329ce8e716b307e906",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lanes"
+   ],
+   "extracted_at": "2026-11-24T10:11:19+00:00",
+   "input_tokens": 4606,
+   "output_tokens": 168,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -19003,6 +21851,679 @@
    "extracted_at": "2026-11-23T12:48:51+00:00",
    "input_tokens": 5370,
    "output_tokens": 171,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lapd/page-40471-en-html/": {
+   "key": {
+    "content_hash": "3f3242e0784acf9edf2565daa6c52bb7a51e9ac21cc74cb1bd28238d8820f3c5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lapd"
+   ],
+   "extracted_at": "2026-11-24T10:11:23+00:00",
+   "input_tokens": 7010,
+   "output_tokens": 2941,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Two-photon endoscopic imaging using a multi-mode fiber",
+     "lab_acronym": null,
+     "summary": "Develop two-photon fluorescence endoscopic imaging through a multi-mode fiber using an ultrashort pulsed laser. The work must address pulse broadening from group velocity dispersion in the fiber to enable nonlinear imaging.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "biomedical imaging",
+      "nonlinear optics",
+      "fiber optics",
+      "endoscopy"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Uncovering and Solving O2-Gradient Induced Artifacts in TVAM",
+     "lab_acronym": null,
+     "summary": "Systematically test the achievable resolution of tomographic volumetric additive manufacturing (TVAM) prints under various resins, vial geometries and illumination settings. The project combines a diffusion-aware optimization model, the open-source Dr.TVAM framework, simulations and experimental validation to map resolution limits.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "volumetric additive manufacturing",
+      "photopolymerization",
+      "optical simulation",
+      "optimization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Design and Application of Organ-on-chip Platforms via Tomographic Printing",
+     "lab_acronym": null,
+     "summary": "Use tomographic volumetric additive manufacturing to directly print high-complexity, perfusable models inside preassembled, leak-proof TVAM-compatible chips with integrated fluidics. The goal is to create organ-on-chip platforms for drug discovery and safety testing.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "organ-on-chip",
+      "bioprinting",
+      "microfluidics",
+      "additive manufacturing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Control Plane Design for Optical Switch",
+     "lab_acronym": null,
+     "summary": "Develop the control plane software that manages the state of an optical switch, translating high-level network requests into commands for the optical engine and reporting telemetry to a central SDN controller. The student will build a switch management daemon and an abstraction of optical components as logical network resources.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "software defined networking",
+      "optical switching",
+      "distributed systems",
+      "network orchestration"
+     ],
+     "skills": [
+      "Python",
+      "C++",
+      "API design",
+      "Software Defined Networking (SDN)"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimization of Fiber Probes and Imaging Conditions for Biological Samples",
+     "lab_acronym": null,
+     "summary": "Optimize the FLIMME fluorescence lifetime endomicroscope, which combines wavefront shaping through a single multimode fiber with frequency-domain FLIM, for imaging organoids, transwell cultures and excised tissue. The goal is to adapt the probe and imaging conditions to these biological samples.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "fluorescence lifetime imaging",
+      "endomicroscopy",
+      "wavefront shaping",
+      "biomedical optics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Printing in situ using an ultra-thin MMF probe",
+     "lab_acronym": null,
+     "summary": "Explore light-based microfabrication delivered through an ultra-thin multimode optical fiber probe, using wavefront shaping to generate a focused spot at the fiber tip. The aim is in-situ fabrication in confined or inaccessible environments, including adapter design for the printing probe.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microfabrication",
+      "wavefront shaping",
+      "fiber optics",
+      "additive manufacturing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Engineering strategies to perfuse bioprinted 3D models of pancreatic cancer",
+     "lab_acronym": null,
+     "summary": "Develop strategies to perfuse bioprinted 3D models of pancreatic tissue in order to study the molecular interactions between pancreatic cancer cells and stromal cells. The models aim to better understand the stiffening tumor microenvironment.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "bioprinting",
+      "cancer research",
+      "tissue engineering",
+      "perfusion"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Opto-Mechanical Design of Optical Switches for AI",
+     "lab_acronym": null,
+     "summary": "Design the mechanical architecture of a compact multi-layer optical switching unit housing optical engines, mirrors, SLMs and fibers while keeping micron-level alignment stable under thermal load. The work includes CAD design, thermal and vibration analysis, and prototyping of the unit.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "opto-mechanics",
+      "thermal analysis",
+      "precision engineering",
+      "optical switching"
+     ],
+     "skills": [
+      "SolidWorks",
+      "CATIA",
+      "ANSYS",
+      "COMSOL",
+      "CAD",
+      "3D printing"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lapd/page-40476-en-html/": {
+   "key": {
+    "content_hash": "1b737d83172a3bd655756579656ec946575463df20c55a24a074db2d8cc3603c",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lapd"
+   ],
+   "extracted_at": "2026-11-24T10:11:37+00:00",
+   "input_tokens": 4361,
+   "output_tokens": 203,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lapd/semester-master-project-printing-in-situ-using-an-ultra-thin-mmf-probe/": {
+   "key": {
+    "content_hash": "a24ad2b680d950f5803d8a5b5e460346ce84acceeb3f785e52ea3226a08483d2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lapd"
+   ],
+   "extracted_at": "2026-11-24T10:11:42+00:00",
+   "input_tokens": 6341,
+   "output_tokens": 566,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Printing in situ using an ultra-thin MMF probe",
+     "lab_acronym": null,
+     "summary": "Develop and characterize an ultra-thin multimode fiber probe for in-situ 3D printing by photopolymerization, using wavefront shaping on the FLIMME setup. The work covers improving the trapped-air probe design, measuring the printing dose response, and building Python-based pattern generation for complex structures.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "3d printing",
+      "photopolymerization",
+      "wavefront shaping",
+      "optics"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "experimental optics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lasa/prospective-students/": {
+   "key": {
+    "content_hash": "1d8f1943d4974d2662ea8430adafa36f4b99875dadfa5e691961d3cf63e6fad2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:11:48+00:00",
+   "input_tokens": 4621,
+   "output_tokens": 146,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lasa/research/": {
+   "key": {
+    "content_hash": "4e476f5800fd3b4fc9ca24f56abe35092c6914527de9fadf6aa69bd45b38e546",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:11:53+00:00",
+   "input_tokens": 4262,
+   "output_tokens": 342,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lasa/student-projects/": {
+   "key": {
+    "content_hash": "e63936f927f57d58759f8145500bd48b62bc940a62bd8cc1d1b7aef5e9a83568",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:11:59+00:00",
+   "input_tokens": 4715,
+   "output_tokens": 2897,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Soft Tactile Sensor Simulation & Sim-to-Real Engineering",
+     "lab_acronym": null,
+     "summary": "Develop simulation models of soft tactile sensors and transfer them to real hardware (sim-to-real).",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "tactile sensing",
+      "robotics",
+      "simulation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Robust Stable Manipulation with Dexterous Hands under Changing External Forces",
+     "lab_acronym": null,
+     "summary": "Study stable manipulation with dexterous robotic hands when external forces change over time.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "robotics",
+      "dexterous manipulation",
+      "control"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Objective Evaluation of Surgical Skills Training Tools",
+     "lab_acronym": null,
+     "summary": "Build objective methods to evaluate the effectiveness of tools used to train surgical skills.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "surgical robotics",
+      "human motor skills",
+      "evaluation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Defying Newton's third law: designing a vibrotactile stimulator without recoil",
+     "lab_acronym": null,
+     "summary": "Design a vibrotactile stimulator that produces vibration without generating reaction forces or recoil.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "haptics",
+      "tactile sensing",
+      "mechatronics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Aude Billard"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Surgical Robotics Competitivity Report",
+     "lab_acronym": null,
+     "summary": "Produce a report analysing the competitive landscape of surgical robotics.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "surgical robotics",
+      "market analysis"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Quantitative Assessment of Microsurgical Skills",
+     "lab_acronym": null,
+     "summary": "Quantitatively assess microsurgical skills from measured data.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "surgical robotics",
+      "human motor skills"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multi-Arm Manipulation of Deformable Objects in Contact-Rich Environments",
+     "lab_acronym": null,
+     "summary": "Coordinate multiple robotic arms to manipulate deformable objects in environments with many contacts.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "manipulation",
+      "deformable objects"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "A Modular Simulation and Analysis Platform for Multi-Limb Coordination",
+     "lab_acronym": null,
+     "summary": "Build a modular platform to simulate and analyse coordination among multiple limbs.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "simulation",
+      "motor coordination"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Force-Aware Sequential Multi-Object Grasping with Coupled Contact",
+     "lab_acronym": null,
+     "summary": "Grasp multiple objects in sequence while taking contact forces into account.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotic grasping",
+      "robotics",
+      "force control"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Human-Robot Collaborative Manipulation",
+     "lab_acronym": null,
+     "summary": "Develop manipulation tasks in which a robot and a human collaborate on the same object.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "human-robot interaction",
+      "robotics",
+      "manipulation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Open Source Cloud Robotic Manipulation",
+     "lab_acronym": null,
+     "summary": "Build an open-source cloud-based system for robotic manipulation.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "cloud robotics",
+      "robotics",
+      "open source software"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lasa/student-projects/robust-stable-manipulation-with-dexterous-hands-under-changing-external-forces/": {
+   "key": {
+    "content_hash": "dc523a25a8d2a6816e8cf859177775124695faa6981becb5045bf0d773837648",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:12:13+00:00",
+   "input_tokens": 5567,
+   "output_tokens": 607,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-02-09",
+   "projects": [
+    {
+     "title": "Robust Stable Manipulation with Dexterous Hands under Changing External Forces",
+     "lab_acronym": null,
+     "summary": "Extends a previous bimanual gripper planning approach to multi-finger dexterous hands, aiming to keep manipulation stable under time-varying external wrenches. The work combines an online stability margin estimator, a constrained controller respecting contact, friction and actuation limits, and optimization-based strategy reconfiguration with minimal switching.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "dexterous manipulation",
+      "contact-rich control",
+      "robustness",
+      "constrained optimization"
+     ],
+     "skills": [
+      "C++",
+      "Python",
+      "robotics fundamentals (kinematics, dynamics, control)",
+      "QP",
+      "MPC"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Kuanqi Cai"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lasa/student-projects/simulation-and-analysis-platform-mlc/": {
+   "key": {
+    "content_hash": "12a31662bc8342325e2480a25ab5a9b71db2c082e884cdb5cc3e1bcca4d52e69",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:12:20+00:00",
+   "input_tokens": 4657,
+   "output_tokens": 615,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": "2026-01-12",
+   "projects": [
+    {
+     "title": "A Modular Simulation and Analysis Platform for Multi-Limb Coordination",
+     "lab_acronym": null,
+     "summary": "Build a lightweight, modular Python platform that combines motion data processing with simulation-based evaluation of existing dynamical system controllers. The student does not design new control or learning algorithms; the focus is on infrastructure for testing, visualizing and comparing models in multi-limb scenarios.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "robotics",
+      "human motion analysis",
+      "simulation",
+      "dynamical systems"
+     ],
+     "skills": [
+      "Python",
+      "data analysis",
+      "linear algebra",
+      "control systems",
+      "MuJoCo"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Hanli Zhang"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lasa/wp-content/uploads/2025/08/Eng-Student-Project_-Vibration-device-parameters.pdf": {
+   "key": {
+    "content_hash": "652ebf47d8cd35cef29651e5db4c7424ea590660c9a645aef79fa0cf6d8fa20a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:12:26+00:00",
+   "input_tokens": 5374,
+   "output_tokens": 627,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Defying Newton's third law: designing a vibrotactile stimulator without recoil",
+     "lab_acronym": null,
+     "summary": "Design and prototype a handheld, wireless vibrotactile stimulator that delivers precise vibrations for self-testing of touch sensitivity, paired with a smartphone app. The central challenge is making the tip vibrate without transmitting off-target vibration and acoustic noise to the handle.",
+     "project_types": [],
+     "domains": [
+      "biomedical devices",
+      "haptics",
+      "robotics",
+      "vibration isolation",
+      "human-machine interaction"
+     ],
+     "skills": [
+      "Mechanical design for vibration isolation",
+      "Control systems",
+      "Precision actuation",
+      "Sensor integration",
+      "Signal processing",
+      "Mobile app development",
+      "Bluetooth",
+      "Laser Doppler vibrometry",
+      "Bench testing"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lasa/wp-content/uploads/2026/10/Bevaix_Internship-2027_Soft_Tactile_Sensor_Simulation-GLR.pdf": {
+   "key": {
+    "content_hash": "45154d564669c402c2e14d351baa0f2bd61dcce3bdda80923bc301d5827cc1b0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lasa"
+   ],
+   "extracted_at": "2026-11-24T10:12:32+00:00",
+   "input_tokens": 4980,
+   "output_tokens": 291,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -19736,6 +23257,377 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/lbmm/students-projects/": {
+   "key": {
+    "content_hash": "e452a61147f9083b2d0c5f46df05e2a5a706a0059ec7758142a53dff9990859d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbmm"
+   ],
+   "extracted_at": "2026-11-24T10:12:38+00:00",
+   "input_tokens": 6353,
+   "output_tokens": 1347,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Master thesis position: High-throughput in vitro screening of hybridoma libraries for the identification of HER2-targeting agonistic antibodies",
+     "lab_acronym": null,
+     "summary": "Screen the lab's existing hybridoma libraries in vitro to find antibodies that bind HER2+ breast cancer cells, then test binders in functional cell-based assays to identify at least one validated agonistic antibody to serve as a positive control. The work combines flow cytometry and ELISA with receptor activation and signaling assays.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "antibody discovery",
+      "cancer immunology",
+      "cell biology",
+      "high-throughput screening"
+     ],
+     "skills": [
+      "mammalian cell culture",
+      "flow cytometry",
+      "ELISA",
+      "hybridoma handling",
+      "functional cell-based assays",
+      "data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Christoph Merten",
+      "Tianhao Li"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master thesis position: Integration of a signature matching algorithm into a scRNAseq bioinformatic pipeline for agonistic antibody discovery",
+     "lab_acronym": null,
+     "summary": "Integrate a newly developed signature matching package into the lab's R-based scRNAseq pipeline so that individual cell profiles are matched directly to pathways in public databases, without prior clustering. The project includes code refactoring, computational optimisation, and benchmarking against clustering-based methods for identifying agonistic antibodies.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "bioinformatics",
+      "single-cell rna sequencing",
+      "computational immunology",
+      "pathway analysis"
+     ],
+     "skills": [
+      "R",
+      "Seurat",
+      "Bioconductor",
+      "scRNAseq analysis",
+      "algorithm benchmarking"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Christoph Merten",
+      "Tianhao Li"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Microfluidics-guided personalized cancer immunotherapy",
+     "lab_acronym": null,
+     "summary": "Establish light-sheet imaging-based fluorescence assays on microfluidic tumor biopsy platforms to measure killing of cancer cells by T-cells, with the goal of predicting outcomes of immune therapies. The work includes optimising fluorescent antibody staining of different cell types.",
+     "project_types": [],
+     "domains": [
+      "microfluidics",
+      "cancer immunotherapy",
+      "biomedical imaging",
+      "image analysis"
+     ],
+     "skills": [
+      "cell culture",
+      "fluorescence imaging",
+      "light-sheet imaging",
+      "image analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Christoph Merten",
+      "Tianhao Li"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lbni/join/student-projects/": {
+   "key": {
+    "content_hash": "4bfbca7c5b89de8f2e88458d2db0b31c824bc2f9f513afc4d2c4815d9ae07b07",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbni"
+   ],
+   "extracted_at": "2026-11-24T10:12:47+00:00",
+   "input_tokens": 4192,
+   "output_tokens": 159,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lbni/join/student-projects/current-projects/": {
+   "key": {
+    "content_hash": "9c981fb164d3c2b6e1f605c43882b0e6ad0e05f7814bdd9caf727f20742ce064",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbni"
+   ],
+   "extracted_at": "2026-11-24T10:12:52+00:00",
+   "input_tokens": 7135,
+   "output_tokens": 2463,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Integration of sharp tips for high resolution AFM imaging",
+     "lab_acronym": null,
+     "summary": "Develop a microfabrication process that adds sharp silicon tips to AFM cantilevers directly during fabrication, instead of adding them manually one by one. This is a proof-of-concept fabrication project for self-sensing cantilevers.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microfabrication",
+      "atomic force microscopy",
+      "mems",
+      "nanotechnology"
+     ],
+     "skills": [
+      "photolithography",
+      "thin film deposition",
+      "dry/wet etching",
+      "layout design",
+      "MEMS fundamentals"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Georg Fantner"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Integration of shielded tip-connection for electrical AFM measurements",
+     "lab_acronym": null,
+     "summary": "Modify the cantilever process flow to add a grounded metal connection between the two signal lines, reducing cross-talk between embedded electronics and the tip connection. The goal is to use the fabricated cantilevers for electrical AFM measurements such as piezoresponse force microscopy.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microfabrication",
+      "atomic force microscopy",
+      "mems",
+      "nanotechnology"
+     ],
+     "skills": [
+      "microfabrication process flow",
+      "photolithography",
+      "AFM imaging"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Georg Fantner"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimisation of cantilever sensors to increase signal-to-noise ratio",
+     "lab_acronym": null,
+     "summary": "Replace the current polysilicon piezoresistive sensing element of the cantilevers with single crystal silicon, which has a much higher gauge factor, to improve the signal-to-noise ratio. This requires modifying the current process flow.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microfabrication",
+      "atomic force microscopy",
+      "mems",
+      "sensors"
+     ],
+     "skills": [
+      "microfabrication process flow",
+      "photolithography",
+      "AFM imaging"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Georg Fantner"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Contact Resonance Measurements with AFM in vacuum",
+     "lab_acronym": null,
+     "summary": "Enable contact resonance AFM (CR-AFM) measurements inside the SEM chamber by sending a signal to the sample and tracking the contact resonance frequency with a lock-in amplifier. The aim is to map sample mechanical properties and complement SEM chemical contrast.",
+     "project_types": [],
+     "domains": [
+      "atomic force microscopy",
+      "instrumentation",
+      "materials characterization",
+      "vacuum technology"
+     ],
+     "skills": [
+      "lock-in amplifier",
+      "AFM imaging",
+      "SEM imaging",
+      "frequency tracking"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Marcos Penedo Garcia",
+      "Prabhu Prasad Swain"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "AFM image processing plugin for converting high-speed AFM data to video (Gwyddion)",
+     "lab_acronym": null,
+     "summary": "Design and test a Gwyddion plugin that automatically processes series of high-speed AFM images from the same experiment and converts them into video format. The goal is to replace slow one-by-one image processing.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "atomic force microscopy",
+      "image processing",
+      "biophysics",
+      "scientific software"
+     ],
+     "skills": [
+      "Python",
+      "Gwyddion",
+      "AFM image processing"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lbo/student-projects/": {
+   "key": {
+    "content_hash": "49d51f59d17ca8096010b8bd7d7fa26dc4e79245e3a3ab748e6d249e874647cc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbo"
+   ],
+   "extracted_at": "2026-11-24T10:13:05+00:00",
+   "input_tokens": 4648,
+   "output_tokens": 174,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lbp/home/beta_2b-research-topics-2021/": {
+   "key": {
+    "content_hash": "92cc72b23724712de4c00b212b58307fed544a1ec9adbe3bc10ad56f1e39c508",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbp"
+   ],
+   "extracted_at": "2026-11-24T10:13:10+00:00",
+   "input_tokens": 4415,
+   "output_tokens": 263,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lbp/page-85598-en-html/": {
+   "key": {
+    "content_hash": "3fe4f85f704121c4edacc7a1a163db061590ae68ff80719452b68ae86dbdbeb0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lbp"
+   ],
+   "extracted_at": "2026-11-24T10:13:16+00:00",
+   "input_tokens": 6031,
+   "output_tokens": 626,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Long- and short- range structure in electrolyte solutions",
+     "lab_acronym": null,
+     "summary": "PhD project using home-built nonlinear optical scattering and imaging methods (second harmonic imaging, angle-resolved second harmonic scattering, correlated vibrational spectroscopy) to study the multi-scale structure of concentrated electrolyte solutions in water and at aqueous interfaces.",
+     "project_types": [],
+     "domains": [
+      "nonlinear optics",
+      "ultrafast spectroscopy",
+      "electrolyte solutions",
+      "physical chemistry"
+     ],
+     "skills": [
+      "free space optics",
+      "microscopy",
+      "nonlinear optics",
+      "ultrafast spectroscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Sylvie Roke"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Interfacial Imaging of Membrane Water",
+     "lab_acronym": null,
+     "summary": "PhD project developing second harmonic water imaging to image interfacial water and electrostatic field lines on lipid membrane models, and to image membrane fusion and osmosis in real time, linking molecular information to membrane electrostatics and mechanics.",
+     "project_types": [],
+     "domains": [
+      "nonlinear optics",
+      "biophysics",
+      "membrane science",
+      "ultrafast spectroscopy"
+     ],
+     "skills": [
+      "nonlinear optics",
+      "microscopy",
+      "ultrafast spectroscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Sylvie Roke"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lcn/student-html/page-28063-en-html/": {
    "key": {
     "content_hash": "f94accd0359b984befaf27fdcb59ba9a860b16bf146e1c6ece22acab464dcadd",
@@ -19900,6 +23792,274 @@
      "supervisors": [],
      "status": "available",
      "academic_period": "Autumn 2025"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/leap/openings/": {
+   "key": {
+    "content_hash": "fff80b9ea4dc9e040bd454cd0ad22a32a3cdc70831780a11083506e28f9ae2fa",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-leap"
+   ],
+   "extracted_at": "2026-11-24T10:13:23+00:00",
+   "input_tokens": 4151,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/leap/student-projects/": {
+   "key": {
+    "content_hash": "4f9401a4ad017d376da1edb0a4ccfd84a98e50f9a75648e84a5c91099d7e6dd7",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-leap"
+   ],
+   "extracted_at": "2026-11-24T10:13:28+00:00",
+   "input_tokens": 4141,
+   "output_tokens": 275,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Machine Learning for the Parametric Optimization of Metasurface Photonic Devices",
+     "lab_acronym": null,
+     "summary": "Apply machine learning to the parametric optimization of metasurface-based photonic devices. The page gives no further detail.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "photonics",
+      "metasurfaces",
+      "machine learning",
+      "electromagnetics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/leap/wp-content/uploads/2024/09/LEAP_master_project_machine_learning.pdf": {
+   "key": {
+    "content_hash": "df5ebc179f7a3129c2970fdba4ff684df5c22d9da608c46fffda1708c2487dbc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-leap"
+   ],
+   "extracted_at": "2026-11-24T10:13:35+00:00",
+   "input_tokens": 5266,
+   "output_tokens": 793,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Machine Learning for the Parametric Optimization of Metasurface Photonic Devices",
+     "lab_acronym": null,
+     "summary": "The student develops a physics-informed machine learning model to find the metasurface parameters that achieve target optical responses, such as vortex light, asymmetric angular scattering or pseudochiral effects. The work also covers inverse design of scattering particles by interfacing Python or MATLAB with COMSOL, with electromagnetic simulation and optimization of metasurfaces based on the GSTC framework.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metasurfaces",
+      "photonics",
+      "machine learning",
+      "electromagnetics",
+      "inverse design"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "COMSOL Multiphysics",
+      "CST",
+      "GitHub"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Karim Achouri",
+      "Mustafa Yucel"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lfmi/projects/": {
+   "key": {
+    "content_hash": "a784dcac16da2a14ae9b05ff052a07564f87fdb00a1f8e3187e4c7ebc539f8f3",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lfmi"
+   ],
+   "extracted_at": "2026-11-24T10:13:43+00:00",
+   "input_tokens": 4413,
+   "output_tokens": 1100,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Wave interactions in Faraday instability",
+     "lab_acronym": null,
+     "summary": "Project on wave interactions in the Faraday instability, the surface-wave pattern that forms on a fluid layer under vertical vibration.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "fluid mechanics",
+      "instabilities",
+      "nonlinear waves"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Model reduction for bouncing drops",
+     "lab_acronym": null,
+     "summary": "Project on building reduced-order models of drops bouncing on a vibrating liquid bath.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "fluid mechanics",
+      "model reduction",
+      "droplet dynamics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Tears of rain – fingering instability without a contact line",
+     "lab_acronym": null,
+     "summary": "Project on the fingering instability of a liquid film flowing down a surface without a contact line, inspired by the formation of tears of rain.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "fluid mechanics",
+      "instabilities",
+      "thin films"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lfmi/projects/accomplished-projects/": {
+   "key": {
+    "content_hash": "7e28c247f37532f9904ed3d00887a1ba4e5f24b2ac6bb86ea64d9674fc97fbb8",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lfmi"
+   ],
+   "extracted_at": "2026-11-24T10:13:52+00:00",
+   "input_tokens": 5316,
+   "output_tokens": 187,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lfmi/projects/semester-and-master-projects/": {
+   "key": {
+    "content_hash": "be3677f7e0e02d915aaad6fddc4c04ea4e28c2b23dcf897126f38d9957fe961d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lfmi"
+   ],
+   "extracted_at": "2026-11-24T10:13:58+00:00",
+   "input_tokens": 4293,
+   "output_tokens": 921,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Wave interactions in Faraday instability",
+     "lab_acronym": null,
+     "summary": "The project studies how waves interact in the Faraday instability, a pattern-forming instability of fluid surfaces under vertical vibration.",
+     "project_types": [],
+     "domains": [
+      "fluid mechanics",
+      "instabilities",
+      "nonlinear waves"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Model reduction for bouncing drops",
+     "lab_acronym": null,
+     "summary": "The project develops a reduced-order model of drops bouncing on a surface.",
+     "project_types": [],
+     "domains": [
+      "fluid mechanics",
+      "droplets",
+      "model reduction"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Tears of rain – fingering instability without a contact line",
+     "lab_acronym": null,
+     "summary": "The project investigates the fingering instability of a liquid film that forms on a surface without a contact line, inspired by tears of rain.",
+     "project_types": [],
+     "domains": [
+      "fluid mechanics",
+      "instabilities",
+      "thin films"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
     }
    ]
   },
@@ -20089,6 +24249,24 @@
      "academic_period": null
     }
    ]
+  },
+  "https://www.epfl.ch/labs/lhtc/index-html/student-projects/": {
+   "key": {
+    "content_hash": "ac62874fdc7717548b4351c37f8e21310961c4bdfdf4fcfffbae06a01e78b885",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lhtc"
+   ],
+   "extracted_at": "2026-11-24T10:14:07+00:00",
+   "input_tokens": 4339,
+   "output_tokens": 184,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": "2026-07-15",
+   "projects": []
   },
   "https://www.epfl.ch/labs/lions/student-projects/": {
    "key": {
@@ -20578,6 +24756,78 @@
      "academic_period": null
     }
    ]
+  },
+  "https://www.epfl.ch/labs/lmam/page-55711-en-html/page-55713-en-html/": {
+   "key": {
+    "content_hash": "45989d54314083afa8e2f26f175a61dce7a3a5f09a799429706c18ed59944d1a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmam"
+   ],
+   "extracted_at": "2026-11-24T10:14:12+00:00",
+   "input_tokens": 4220,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmam/page-55711-en-html/page-55714-en-html/": {
+   "key": {
+    "content_hash": "c8c248954e6a7a52adba28da1f7a095eb68113524a55f17d03ee34f7525ee60f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmam"
+   ],
+   "extracted_at": "2026-11-24T10:14:18+00:00",
+   "input_tokens": 4251,
+   "output_tokens": 163,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmam/student-projects/": {
+   "key": {
+    "content_hash": "8d5190940160b52cf44437fcc2b581dbc6b98ed95b4f5bb0ac1f2f0f34d293ba",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmam"
+   ],
+   "extracted_at": "2026-11-24T10:14:23+00:00",
+   "input_tokens": 4172,
+   "output_tokens": 192,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmc/page-39752-en-html/page-156319-en-html/": {
+   "key": {
+    "content_hash": "736420e9d2d976dd106bc50274a95749ece34e4a4699ebeaddef4f965aebeec2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmc"
+   ],
+   "extracted_at": "2026-11-24T10:14:29+00:00",
+   "input_tokens": 4120,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/lmd/student-projects/": {
    "key": {
@@ -21496,6 +25746,1564 @@
      "language": "EN",
      "supervisors": [
       "Kostas Karapiperis"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmgn/page-126609-en-html/": {
+   "key": {
+    "content_hash": "b3f0300f707a704d7445c25747fc79d74c6bcd17c57f09d714c9202ad003fef5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmgn"
+   ],
+   "extracted_at": "2026-11-24T10:14:34+00:00",
+   "input_tokens": 6230,
+   "output_tokens": 154,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmgn/page-145002-en-html/": {
+   "key": {
+    "content_hash": "dfabf1c7bdbf4850b2c8f0f6dad14a614a50a14e68e878155e6b2a3885c0a133",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmgn"
+   ],
+   "extracted_at": "2026-11-24T10:14:40+00:00",
+   "input_tokens": 4604,
+   "output_tokens": 1715,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Characterization of TiN layers deposited with Plasma Enhanced Atomic Layer Deposition (PEALD) for 3D Superconducting nanostructures",
+     "lab_acronym": null,
+     "summary": "Characterize titanium nitride (TiN) layers deposited by plasma-enhanced atomic layer deposition (PEALD), for use in 3D superconducting nanostructures.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "superconductivity",
+      "thin films",
+      "nanofabrication"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Oujin Huang"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Fabrication and characterization of ferromagnetic Josephson junctions for superspintronics",
+     "lab_acronym": null,
+     "summary": "Fabricate and characterize ferromagnetic Josephson junctions for superspintronics, combining superconducting and spintronic functionality.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "superconductivity",
+      "spintronics",
+      "nanofabrication"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Ferdinand Posva"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Investigation of vortex dynamics in 3D superconducting nano-structures using Time-Dependent Ginzburg-Landau theory with COMSOL Multiphysics",
+     "lab_acronym": null,
+     "summary": "Study vortex dynamics in 3D superconducting nanostructures by simulation with Time-Dependent Ginzburg-Landau theory in COMSOL Multiphysics.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "superconductivity",
+      "numerical simulation",
+      "vortex dynamics"
+     ],
+     "skills": [
+      "COMSOL Multiphysics",
+      "Time-Dependent Ginzburg-Landau theory"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maria Mihaescu"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    },
+    {
+     "title": "Spectroscopy on spin waves in ferromagnet/ferrimagnet hybrid nanostructures",
+     "lab_acronym": null,
+     "summary": "Perform spectroscopy measurements of spin waves in hybrid nanostructures combining a ferromagnet and a ferrimagnet.",
+     "project_types": [
+      "semester_master",
+      "semester_bachelor"
+     ],
+     "domains": [
+      "magnonics",
+      "spintronics",
+      "spin waves"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Giulio Zagari"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/projects/": {
+   "key": {
+    "content_hash": "90e4024c00cbe02476324d246e673aea8c1d2411faf3d7e51874a815a299d0ec",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:14:51+00:00",
+   "input_tokens": 5731,
+   "output_tokens": 482,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmis1/student-projects/": {
+   "key": {
+    "content_hash": "e5cf45d6c5cd5af844cb87f8b19d21f361e04c1dc9ca66734174b8c7a92a7142",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:14:58+00:00",
+   "input_tokens": 9297,
+   "output_tokens": 2596,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Amplification of greyscale nanopatterning via thermal scanning probe lithography and dry etching techniques",
+     "lab_acronym": null,
+     "summary": "Combine thermal scanning probe lithography (t-SPL) with plasma dry etching to amplify nanoscale greyscale resist topographies into dielectric substrates while keeping pattern fidelity and reproducibility. The work includes AFM and SEM characterization of the resulting surface topography. Applications mentioned are photonics and nanoelectronics.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "nanofabrication",
+      "lithography",
+      "microfabrication",
+      "photonics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Chenhao Wang",
+      "Shulang Shen",
+      "Prof. Jürgen Brugger"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Optimization of Ion Beam Etching for IGZO Thin-Film Transistors on Biodegradable Substrates",
+     "lab_acronym": null,
+     "summary": "Optimize ion beam etching parameters for IGZO films patterned by stencil lithography, aiming for steep edges and controllable etch rate. The project may extend the process to biodegradable substrates and to closed-loop IGZO structures made with bridge stencils.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "thin-film transistors",
+      "transient electronics",
+      "microfabrication",
+      "flexible electronics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Chenxiang Zhang"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Characterization of Ultrasound-Activated Piezoelectric Microbeads for Bioelectronic Applications",
+     "lab_acronym": null,
+     "summary": "Experimentally characterize the piezoelectric response of ultrasound-activated composite microbeads made by microfluidics, to measure how effectively they convert ultrasound into electrical signals. The goal is a step toward wireless neural stimulation and minimally invasive biomedical devices.",
+     "project_types": [],
+     "domains": [
+      "bioelectronics",
+      "microfluidics",
+      "piezoelectric materials",
+      "neural interfaces"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tao Zhang",
+      "Prof. Yujia Zhang",
+      "Prof. Juergen Brugger"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Designing MR Guidance for Microfabrication via Real-World Interaction",
+     "lab_acronym": null,
+     "summary": "Develop and test mixed-reality guidance for microfabrication learning using Unity 3D, with real-world object interaction and sensor events. The project also includes a small usability study and iterative design based on the feedback.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "mixed reality",
+      "human-computer interaction",
+      "microfabrication training"
+     ],
+     "skills": [
+      "Unity 3D",
+      "C#",
+      "Python",
+      "Azure IoT Hub",
+      "HoloLens"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Qinglan Shan"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Microchannel characterization of liquid sample for Dynamic Nuclear Polarization (DNP) measurements",
+     "lab_acronym": null,
+     "summary": "Develop methods for filling, sealing and characterizing microchannels so that liquid samples can be measured on an in-house miniaturized DNP chip at nanoliter scale. A new device concept, possibly with clean-room fabrication, may also be investigated.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "dynamic nuclear polarization",
+      "nmr spectroscopy",
+      "microfluidics",
+      "microfabrication"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Xinwei Li",
+      "Mohammadparsa Mirzaeisarmad",
+      "Prof. Giovanni Boero"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/student-projects/information/": {
+   "key": {
+    "content_hash": "719a35f9200185f2b13c1f90982b1929bbe00aa61020cb5a236d9d60f8293975",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:11+00:00",
+   "input_tokens": 6488,
+   "output_tokens": 173,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmis1/student-projects/reports/": {
+   "key": {
+    "content_hash": "7937e9c82c01a099c41e289ab78436227d8d6a3f9b45332a7362e8f8be8c671a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:16+00:00",
+   "input_tokens": 8584,
+   "output_tokens": 223,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmis1/wp-content/uploads/2025/07/C_ZHANG_Optimization-of-Ion-Beam-Etching-for-IGZO-Thin-Film-Transistors-on-Biodegradable-Substrates.pdf": {
+   "key": {
+    "content_hash": "eb002394c4c3029f55684303484b29423b30bea95b887c2b0c3889a2d3269037",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:21+00:00",
+   "input_tokens": 5355,
+   "output_tokens": 750,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Optimization of Ion Beam Etching for IGZO Thin-Film Transistors on Biodegradable Substrates",
+     "lab_acronym": null,
+     "summary": "The project aims to optimize ion beam etching parameters for IGZO films patterned by stencil lithography, targeting the steepest possible edge with a controllable etching rate. It may extend to biodegradable substrates and to closed-loop IGZO structures made with bridge stencils.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "thin-film transistors",
+      "microfabrication",
+      "biodegradable electronics",
+      "semiconductors"
+     ],
+     "skills": [
+      "ion beam etching",
+      "stencil lithography",
+      "AFM",
+      "SEM"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Chenxiang Zhang"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/wp-content/uploads/2025/07/Qinglan_Shan_Student_project_proposal_2025fall.pdf": {
+   "key": {
+    "content_hash": "bd551bcfec067291023e0fef3bda6655afbb9ae8fc10152a2bdc91615f6cec58",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:28+00:00",
+   "input_tokens": 4913,
+   "output_tokens": 394,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Designing MR Guidance for Microfabrication via Real-World Interaction",
+     "lab_acronym": null,
+     "summary": "Develop and evaluate a mixed reality system for microfabrication learning, using Unity 3D and HoloLens, with real-world object interaction, sensor data via Azure IoT Hub, and a small usability study to drive iterative design.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "mixed reality",
+      "microengineering",
+      "human-computer interaction",
+      "extended reality"
+     ],
+     "skills": [
+      "Unity 3D",
+      "C#",
+      "Python",
+      "HoloLens",
+      "Azure IoT Hub",
+      "network communication"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Qinglan Shan",
+      "Prof. J. Brugger"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2025"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/wp-content/uploads/2026/09/Chenhao_student-project-for-lmis1-1.pdf": {
+   "key": {
+    "content_hash": "08a9976f16ac20082a9275260b735cb106a7fb4f44443c529ac3be507ef27da5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:34+00:00",
+   "input_tokens": 4825,
+   "output_tokens": 414,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Amplification of greyscale nanopatterning via thermal scanning probe lithography and dry etching techniques",
+     "lab_acronym": null,
+     "summary": "The project aims to combine thermal scanning probe lithography (t-SPL) with plasma dry etching to amplify nanoscale resist topographies into dielectric substrates while keeping pattern fidelity and reproducibility. Surface topography will be characterised by AFM and SEM to assess pattern transfer and amplification.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "nanofabrication",
+      "microengineering",
+      "photonics",
+      "additive manufacturing"
+     ],
+     "skills": [
+      "thermal scanning probe lithography",
+      "plasma dry etching",
+      "atomic force microscopy",
+      "scanning electron microscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Chenhao Wang",
+      "Shulang Shen",
+      "Jürgen Brugger"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/wp-content/uploads/2026/09/Tao_Zhang_Semester_student_project_proposal.pdf": {
+   "key": {
+    "content_hash": "d72cda148ee854cbc8c58eca6774c788f95f747f645ad14b2ed29a0cb51f043e",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:40+00:00",
+   "input_tokens": 5089,
+   "output_tokens": 402,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Characterization of Ultrasound-Activated Piezoelectric Microbeads for Bioelectronic Applications",
+     "lab_acronym": null,
+     "summary": "Experimental characterization of the piezoelectric response of ultrasound-activated composite microbeads (BaTiO₃ and Fe₃O₄ particles) made by microfluidics, to quantify how they convert ultrasound into electrical signals for wireless neural stimulation and minimally invasive biomedical devices.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "bioelectronics",
+      "microfluidics",
+      "piezoelectric materials",
+      "neural interfaces"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Tao Zhang",
+      "Prof. Yujia Zhang",
+      "Prof. Juergen Brugger"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmis1/wp-content/uploads/2026/09/Xinwei_student-project-for-lmis1.pdf": {
+   "key": {
+    "content_hash": "3f45a3edb40501985eb3400e007ef33543994eb5988192c97c07fffc2ee507ab",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmis1"
+   ],
+   "extracted_at": "2026-11-24T10:15:45+00:00",
+   "input_tokens": 4758,
+   "output_tokens": 860,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Microchannel characterization of liquid sample for Dynamic Nuclear Polarization (DNP) measurements",
+     "lab_acronym": null,
+     "summary": "Develop and validate methods for filling, sealing, and characterizing microchannels for liquid samples on an in-house miniaturized DNP chip. If needed, the project also explores a new microchannel device concept, possibly involving clean-room fabrication.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "microfabrication",
+      "nmr spectroscopy",
+      "microfluidics",
+      "microengineering"
+     ],
+     "skills": [
+      "microfabrication",
+      "device characterization",
+      "clean-room fabrication"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Xinwei Li",
+      "Mohammadparsa Mirzaeisarmad",
+      "Prof. Giovanni Boero"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmm/about-us/lab-openings/": {
+   "key": {
+    "content_hash": "13d9def6cffebb8667efae35bf146dca944a80ccdbe070025c2087534a7b3e1f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmm"
+   ],
+   "extracted_at": "2026-11-24T10:15:53+00:00",
+   "input_tokens": 4211,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmm/fr/laboratoire-lmm/enseignement/projets-semestre/": {
+   "key": {
+    "content_hash": "385cdae984452a527ffca4dbafc2221e89b5fb8cbd74b351ebda7cd216918e73",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmm"
+   ],
+   "extracted_at": "2026-11-24T10:15:57+00:00",
+   "input_tokens": 4816,
+   "output_tokens": 657,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Parametric study of induction sintering iron",
+     "lab_acronym": null,
+     "summary": "Study of induction sintering of iron, an advanced powder metallurgy technique in which electromagnetic induction heats conductive material directly. The induced eddy currents heat the material by Joule effect and hysteresis and help break down oxide barriers between particles through local discharges. The project is a parametric study of this process.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "powder metallurgy",
+      "induction sintering",
+      "metallurgy"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmm/research/current-projects/": {
+   "key": {
+    "content_hash": "c247376dccddc2f6a01d3f3ba9cd3d6598538f47ef5b11e4a26a3a6e865dd633",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmm"
+   ],
+   "extracted_at": "2026-11-24T10:16:04+00:00",
+   "input_tokens": 4548,
+   "output_tokens": 681,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Harnessing Melt Pool Dynamics in Additive Manufacturing",
+     "lab_acronym": null,
+     "summary": "Studies how the melt pool formed by a high-energy source (laser, electron beam or plasma) solidifies metal in additive manufacturing, and how its dynamics can be exploited. The page text is truncated, so the full objectives are not visible.",
+     "project_types": [],
+     "domains": [
+      "additive manufacturing",
+      "metallurgy",
+      "solidification"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Titanium matrix composites produced by electro-sinter-forging",
+     "lab_acronym": null,
+     "summary": "Explores the electro-sinter-forging (ESF) field-assisted sintering process for producing titanium matrix composites, in collaboration with EPoS Technologies SA. The page text is truncated, so the full objectives are not visible.",
+     "project_types": [],
+     "domains": [
+      "metal matrix composites",
+      "powder metallurgy",
+      "sintering"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Structure and micromechanics of oxide inclusions in ferrous alloys",
+     "lab_acronym": null,
+     "summary": "Investigates the mechanical properties of oxide inclusions within an iron-based matrix and the characteristics of the inclusion-matrix interface. The page text is truncated, so the full objectives are not visible.",
+     "project_types": [],
+     "domains": [
+      "steel metallurgy",
+      "micromechanics",
+      "materials characterization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmm/teaching/semester-projects/": {
+   "key": {
+    "content_hash": "fbf1d3b9ee7003863f1ccf036db0927ac5b5e3589b1d02053216345b94b58ade",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmm"
+   ],
+   "extracted_at": "2026-11-24T10:16:10+00:00",
+   "input_tokens": 4681,
+   "output_tokens": 538,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Parametric study of induction sintering iron",
+     "lab_acronym": null,
+     "summary": "A parametric study of induction sintering of iron powder. Induction sintering uses electromagnetic induction to heat conductive materials directly, with eddy currents that also help break down oxide barriers between touching particles, and is compared with conventional furnace sintering.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "powder metallurgy",
+      "induction sintering",
+      "materials processing"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "Fall 2026"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmom/student-projects/": {
+   "key": {
+    "content_hash": "e836c7582b060bd54c571bdbf62483542dd12cd2181d25b95cd917b5027ecbdd",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmom"
+   ],
+   "extracted_at": "2026-11-24T10:16:16+00:00",
+   "input_tokens": 4252,
+   "output_tokens": 156,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lmtm/fr/projets-etudiants/": {
+   "key": {
+    "content_hash": "57398bb11579f741a82921747da2054e9752a16b8d1c375ef3e7d7c263e2aded",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmtm"
+   ],
+   "extracted_at": "2026-11-24T10:16:21+00:00",
+   "input_tokens": 4439,
+   "output_tokens": 1521,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Projet de Master: Intégration de fibres optiques dans des alliages haute résistance par impression laser sur lit de poudre",
+     "lab_acronym": null,
+     "summary": "Master project on integrating optical fibres into high-strength alloys during laser powder bed fusion additive manufacturing. The page gives no further details.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "additive manufacturing",
+      "metallurgy",
+      "materials science"
+     ],
+     "skills": [],
+     "language": "FR",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Projet de Master: Étude de la relation microstructure–propriétés d’un alliage de métaux précieux dédié à la fabrication additive",
+     "lab_acronym": null,
+     "summary": "Master project studying the relationship between microstructure and properties of a precious metal alloy designed for additive manufacturing. The page gives no further details.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "materials science",
+      "additive manufacturing",
+      "metallurgy"
+     ],
+     "skills": [],
+     "language": "FR",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Projet de Master en Entreprise: Mise en forme de produits en alliages de Titane",
+     "lab_acronym": null,
+     "summary": "Industry-based master project on forming products from titanium alloys. The page gives no further details.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metallurgy",
+      "metal forming",
+      "titanium alloys"
+     ],
+     "skills": [],
+     "language": "FR",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Laser Powder Bed Fusion manufacturing of ferromagnetic materials",
+     "lab_acronym": null,
+     "summary": "Master (PDM) project on laser powder bed fusion manufacturing of ferromagnetic materials, carried out in collaboration with CSEM in Neuchâtel. The page gives no further details.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "additive manufacturing",
+      "magnetic materials",
+      "materials science"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": "Fall 2022"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmtm/projects/": {
+   "key": {
+    "content_hash": "b4166b6e15a7d2e7c99ac83a6358f2e32c866b5ace6eeec5700f69820eab279a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmtm"
+   ],
+   "extracted_at": "2026-11-24T10:16:31+00:00",
+   "input_tokens": 4290,
+   "output_tokens": 1561,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Master thesis project Fall 2025: Study of the microstructure-properties relationship of a precious metal alloy dedicated to additive manufacturing",
+     "lab_acronym": null,
+     "summary": "Studies how the microstructure of a precious metal alloy relates to its properties, with the alloy intended for additive manufacturing.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metallurgy",
+      "additive manufacturing",
+      "materials characterization"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": "Fall 2025"
+    },
+    {
+     "title": "Master project in industry: Titanium alloy product forming",
+     "lab_acronym": null,
+     "summary": "Master project in an industrial setting on forming products made from titanium alloys.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metallurgy",
+      "metal forming",
+      "titanium alloys"
+     ],
+     "skills": [],
+     "language": "FR",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Laser Powder Bed Fusion manufacturing of ferromagnetic materials",
+     "lab_acronym": null,
+     "summary": "Explores laser powder bed fusion manufacturing of ferromagnetic materials, as a collaboration between CSEM and EPFL.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "additive manufacturing",
+      "ferromagnetic materials",
+      "metallurgy"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "unknown",
+     "academic_period": "Fall 2022"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmtm/wp-content/uploads/2022/04/MSc_2022_Ferromagnetics.pdf": {
+   "key": {
+    "content_hash": "4a5b3f6e17d15e886b89344de999a80f6d73cef9a3098503cea6f2a41f2a9b18",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmtm"
+   ],
+   "extracted_at": "2026-11-24T10:16:41+00:00",
+   "input_tokens": 4934,
+   "output_tokens": 425,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Laser Powder Bed Fusion manufacturing of ferromagnetic materials",
+     "lab_acronym": null,
+     "summary": "Investigates Laser Powder Bed Fusion (LPBF) processing of ferromagnetic materials to produce complex-geometry magnetic parts, studying how process parameters affect magnetic properties and microstructure. The final goal is a miniaturized high-performance magnetic demonstrator.",
+     "project_types": [
+      "master_thesis",
+      "other"
+     ],
+     "domains": [
+      "additive manufacturing",
+      "magnetic materials",
+      "metallurgy",
+      "materials characterization"
+     ],
+     "skills": [
+      "Laser Powder Bed Fusion",
+      "metallography",
+      "Scanning Electron Microscopy",
+      "X-ray diffraction",
+      "density analysis",
+      "mechanical testing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Nikola Kalentics",
+      "Roland Logé"
+     ],
+     "status": "available",
+     "academic_period": "Fall 2022"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmtm/wp-content/uploads/2025/03/PDME-2025PA_PX-Group.pdf": {
+   "key": {
+    "content_hash": "aac3135b4ea517f71f41786bf35c3362c88fd3d84c8baf9af7a7499c8c7f0efd",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmtm"
+   ],
+   "extracted_at": "2026-11-24T10:16:47+00:00",
+   "input_tokens": 5021,
+   "output_tokens": 829,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Projet de Master en Entreprise – PX Group (Printemps ou automne 2025)",
+     "lab_acronym": null,
+     "summary": "Characterise the chemical nature and thickness of the layer formed during the initial annealing of titanium alloys before forming, using heat treatments at PX Group and analyses such as XPS and electron microscopy. Then study the tribological behaviour of this layer and its role in lubrication during the drawing process, including its friction properties and failure limits.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metallurgy",
+      "titanium alloys",
+      "tribology",
+      "surface characterisation",
+      "materials science"
+     ],
+     "skills": [
+      "XPS",
+      "electron microscopy",
+      "dilatometry",
+      "differential scanning calorimetry (DSC)",
+      "tribological testing"
+     ],
+     "language": "FR",
+     "supervisors": [
+      "Prof. Roland Logé",
+      "Dr Anna Neus Igual Muñoz",
+      "Aymeric DOMINE (PX Group)"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2025 or Autumn 2025"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmtm/wp-content/uploads/2025/09/MScT_2025_fall_Projet_de_these_de_master-EN.pdf": {
+   "key": {
+    "content_hash": "082df8ed270cf10ac3d67fff9b1a902dcd71397cda4c74b0f2d5e48ed0dc9ac0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmtm"
+   ],
+   "extracted_at": "2026-11-24T10:16:54+00:00",
+   "input_tokens": 4666,
+   "output_tokens": 420,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Microstructure-properties relationships in a precious metallic alloy dedicated to additive manufacturing",
+     "lab_acronym": null,
+     "summary": "Study the relationship between microstructure and mechanical properties of a precious metallic alloy produced by additive manufacturing, covering sample preparation, microscopy, hardness measurements and in situ acoustic emission monitoring of the process. The work is done in collaboration with a major watchmaker.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "metallurgy",
+      "additive manufacturing",
+      "materials characterization",
+      "mechanical properties"
+     ],
+     "skills": [
+      "metallographic preparation",
+      "optical microscopy",
+      "electron microscopy",
+      "hardness testing",
+      "acoustic emission"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maxence Buttard",
+      "Jamasp Jhabvala",
+      "Roland Logé"
+     ],
+     "status": "unknown",
+     "academic_period": "Fall 2025"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmts/msc-bsc-projects/": {
+   "key": {
+    "content_hash": "8b07acc320b4f0b970cf998cbb1573e4dba1633b49003f2797fdb263f3f32cce",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmts"
+   ],
+   "extracted_at": "2026-11-24T10:17:00+00:00",
+   "input_tokens": 11271,
+   "output_tokens": 4281,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Development of a mechanical fluidic guide wire for intravascular procedures",
+     "lab_acronym": null,
+     "summary": "Develop a manually operated, fluidically untethered, steerable guide wire for vascular intervention, in parallel with an electrofluidic version. The project includes interfacing with clinical collaborators to turn their feedback into product development benchmarks.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "medical robotics",
+      "medical devices"
+     ],
+     "skills": [
+      "CAD (Autodesk)",
+      "design for manufacturing",
+      "rapid prototyping",
+      "medical device development"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Jacob Rogatinski"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Numerical simulation and optimization of electrohydrodynamic pumps",
+     "lab_acronym": null,
+     "summary": "Continue developing a COMSOL Multiphysics numerical model of electrohydrodynamic (EHD) pumps, validate it against experimental data, and then pursue topological optimization of the pump. Optimized designs may be prototyped and tested on a high-voltage bench.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "electrohydrodynamics",
+      "numerical simulation"
+     ],
+     "skills": [
+      "numerical methods",
+      "finite element analysis",
+      "COMSOL Multiphysics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Jacob Rogatinski"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Decoding the Propagation of Tactile Waves",
+     "lab_acronym": null,
+     "summary": "Study how elastic waves generated by touch propagate through skin by mapping them in vivo with skin-conformal wearable haptic devices. The work also includes multilayer skin phantoms and a finite element model with a fast surrogate model validated against experiments.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "haptics",
+      "tactile perception",
+      "biomechanics"
+     ],
+     "skills": [
+      "vibration analysis",
+      "solid mechanics",
+      "finite element analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Thomas Daunizeau"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Automated Winding Machine for Meter-long Fiber Motors",
+     "lab_acronym": null,
+     "summary": "Design, build and test an improved winding machine able to produce fiber motors up to 5 m long, compared with the current 50 cm. The project also includes characterizing fiber quality such as pitch uniformity, electrode continuity and insulation integrity.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "actuators",
+      "mechatronics"
+     ],
+     "skills": [
+      "mechatronic systems",
+      "motors and sensors",
+      "microcontrollers",
+      "CAD",
+      "design for manufacturing",
+      "motion control"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Rohit K. John"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "FiberMotor at company Elecsyor",
+     "lab_acronym": null,
+     "summary": "Develop advanced manufacturing methods and automated test benches for a flexible fiber-format electrostatic linear motor, working with the start-up Elecyor near Lyon, France. The project is a master project carried out in a company.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "soft robotics",
+      "actuators",
+      "technology transfer"
+     ],
+     "skills": [
+      "electronics",
+      "mechanics",
+      "physics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Sylvain Schaller"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Eco-friendly Disposable Wireless Biochemical Sensor for Point of Care Diagnostics",
+     "lab_acronym": null,
+     "summary": "Design, fabricate and characterize biodegradable zinc-based wireless LC sensing labels with microfluidic channels for detecting ionic solutions. As a master project, the platform can be biofunctionalized to detect specific analytes in body fluids such as sweat.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "biosensors",
+      "printed electronics",
+      "wireless sensing"
+     ],
+     "skills": [
+      "printed electronics",
+      "RF sensors",
+      "additive manufacturing",
+      "chemical functionalization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Lorenzo Travaglini",
+      "Danick Briand"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Zinc Electroplating on Laser Induced Graphene for Transient Eco-Friendly Electronics",
+     "lab_acronym": null,
+     "summary": "Develop transient zinc metallization by electroplating zinc onto laser-induced graphene patterned on biodegradable substrates such as wood or paper. The work covers process optimization, device demonstrators, and, for master projects, reliability and end-of-life studies.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "transient electronics",
+      "additive manufacturing",
+      "sensors"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Lorenzo Travaglini",
+      "Danick Briand"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    },
+    {
+     "title": "Eco-friendly Degradable and Recyclable Wireless RFID Sensing Tags for Logistics",
+     "lab_acronym": null,
+     "summary": "Develop biodegradable RFID and NFC sensing tags printed on paper substrates for item identification and monitoring of perishable goods. Master projects focus on temperature threshold sensors, tag design and fabrication, and biodegradation; semester projects cover one or more of these aspects.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "RFID",
+      "printed electronics",
+      "sustainable electronics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Danick Briand"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Time temperature indicator microfluidic module with integrated capacitive sensor",
+     "lab_acronym": null,
+     "summary": "Design, fabricate and characterize a battery-free microfluidic module with embedded phase-change material and a capacitive transducer, for cold-chain temperature monitoring. The goal is to discriminate between a few and several hours spent above 8°C.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cold chain monitoring",
+      "microfluidics",
+      "sensors"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Danick Briand"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Embedding Sensors into Microfluidics using Vat photopolymerization (VPP) 3D printing",
+     "lab_acronym": null,
+     "summary": "Fabricate electrodes and embed them as sensors into 3D-printed microfluidic channels using a print-pause-print process, then characterize and biofunctionalize them for saliva biomarker analysis in a smart denture.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "3D printing",
+      "microfluidics",
+      "biosensors"
+     ],
+     "skills": [
+      "additive manufacturing",
+      "microfluidics",
+      "sensors"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Seonyeop Kim",
+      "Danick Briand"
+     ],
+     "status": "available",
+     "academic_period": "Spring 2027"
+    },
+    {
+     "title": "Transient Electrode Biointerfaces: Functionalization of Zn/Carbon for Multi-Analyte Recognition",
+     "lab_acronym": null,
+     "summary": "Develop biodegradable biointerfaces on zinc and carbon electrodes that can be functionalized with receptors for a range of analytes while preserving transience. Work includes surface analysis and electrochemical impedance spectroscopy, with optional sensing and stability tests.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "biosensors",
+      "electrochemistry",
+      "transient electronics"
+     ],
+     "skills": [
+      "electrochemistry",
+      "electrochemical impedance spectroscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Lorenzo Travaglini",
+      "Danick Briand"
+     ],
+     "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/lmts/wp-content/uploads/2025/10/Elecsyor-stage-master-25-26.pdf": {
+   "key": {
+    "content_hash": "252256bcf2609b59ba087a4f32d358c7c8c03e0193f8b3dbbcafd7ec15c631b5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lmts"
+   ],
+   "extracted_at": "2026-11-24T10:17:19+00:00",
+   "input_tokens": 5607,
+   "output_tokens": 764,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lnet/openings/": {
+   "key": {
+    "content_hash": "33f323373c806e001b4a34f6a513837e4f57d2684a186075f5d48f60f95d826f",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lnet"
+   ],
+   "extracted_at": "2026-11-24T10:17:27+00:00",
+   "input_tokens": 4257,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lnet/student-projects/": {
+   "key": {
+    "content_hash": "ba3c4373ef54bb48ed52adabe46ee531d796376894e6fc12e9dbbf8a6860bb2b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lnet"
+   ],
+   "extracted_at": "2026-11-24T10:17:31+00:00",
+   "input_tokens": 4243,
+   "output_tokens": 155,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lo/job/": {
+   "key": {
+    "content_hash": "bfacb89d87569a0e8f36cb827a906b7ae4989a5072886b9cbf485303bf3b3846",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lo"
+   ],
+   "extracted_at": "2026-11-24T10:17:36+00:00",
+   "input_tokens": 4874,
+   "output_tokens": 191,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lo/teaching/": {
+   "key": {
+    "content_hash": "1ba71f1d97e1ffea230dddd806553edec43d52a7f6c695147979c04906b38114",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lo"
+   ],
+   "extracted_at": "2026-11-24T10:17:41+00:00",
+   "input_tokens": 5208,
+   "output_tokens": 185,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lo/teaching/project/": {
+   "key": {
+    "content_hash": "91a2fa471d87d956c6f2b449c75c1d97e30abf52da92205087c67722e0c76f02",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sti-lo"
+   ],
+   "extracted_at": "2026-11-24T10:17:46+00:00",
+   "input_tokens": 4478,
+   "output_tokens": 1644,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Membrane Less Electrolyser Stack Characterization",
+     "lab_acronym": null,
+     "summary": "Characterize the performance of a membrane-less electrolyser stack. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "electrochemistry",
+      "hydrogen energy",
+      "energy storage"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Energy Storage In The Form Of Hydrogen Using Membrane Less Electrolyzers",
+     "lab_acronym": null,
+     "summary": "Study the use of membrane-less electrolyzers to store energy as hydrogen. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "hydrogen energy",
+      "energy storage",
+      "electrochemistry"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Dissolved Gas Separation From Liquid Electrolyte For Membrane Less Electrolyzers",
+     "lab_acronym": null,
+     "summary": "Separate dissolved gas from the liquid electrolyte of membrane-less electrolyzers. The page gives no further detail.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "electrochemistry",
+      "hydrogen energy",
+      "gas separation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Effect Of Different Catalysts On The Performance Of Membrane Less Water Electrolyzers",
+     "lab_acronym": null,
+     "summary": "Investigate how different catalysts affect the performance of membrane-less water electrolyzers.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "electrochemistry",
+      "catalysis",
+      "hydrogen energy"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multimode Fiber Based High Speed Optical Computing Modelling and Control with Neural Networks",
+     "lab_acronym": null,
+     "summary": "Model and control a high-speed optical computing system based on multimode fibers, using neural networks.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "optical computing",
+      "neural networks",
+      "photonics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Multimode Fiber Based Optical Computing Unit for Large Scale Neural Networks",
+     "lab_acronym": null,
+     "summary": "Develop an optical computing unit based on multimode fibers for large-scale neural networks.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "optical computing",
+      "neural networks",
+      "photonics"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Prof. Psaltis"
      ],
      "status": "available",
      "academic_period": null
