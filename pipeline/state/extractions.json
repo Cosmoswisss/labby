@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T11:14:52+00:00",
+ "updated_at": "2026-11-24T11:22:04+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -4942,6 +4942,24 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/ablasserlab/openings/": {
+   "key": {
+    "content_hash": "031e852cef60e5616aaf31e61fff3c368abdc6217c88fbeae95a81160c159d16",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upablasser"
+   ],
+   "extracted_at": "2026-11-24T11:15:10+00:00",
+   "input_tokens": 4608,
+   "output_tokens": 190,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/alchemy/available-projects/": {
    "key": {
     "content_hash": "c47f4ae1e339c1c969f03fa7bc745f869f859057bbd3fea4c69e74b426610a3f",
@@ -5110,6 +5128,24 @@
    "extracted_at": "2026-11-24T09:37:44+00:00",
    "input_tokens": 4705,
    "output_tokens": 492,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/antanasijevic-lab/open-positions/": {
+   "key": {
+    "content_hash": "822bf92011c57a03805b1c9e4c73d2afcbae83a184037b2181a4df41e0ee060c",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upantanasijevic"
+   ],
+   "extracted_at": "2026-11-24T11:15:17+00:00",
+   "input_tokens": 4536,
+   "output_tokens": 151,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -6170,6 +6206,24 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/auwerx-lab/index-html/open-positions/": {
+   "key": {
+    "content_hash": "48f85e41d3d39acb77d9390c33d3914d8116502ad952c0ea8cb567d17ac05563",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lisp"
+   ],
+   "extracted_at": "2026-11-24T11:15:23+00:00",
+   "input_tokens": 4109,
+   "output_tokens": 158,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/ban/research/": {
    "key": {
     "content_hash": "a17dca4eb3429597dc3f5f1f0b456d1a1ac98230091a4b076edc0065474a9ab1",
@@ -6831,6 +6885,63 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/bitbol-lab/join-us/": {
+   "key": {
+    "content_hash": "1407e8d828af1bb9acb2679b92094fae1e7ee48014567b3ca0347792a5efead1",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upbitbol"
+   ],
+   "extracted_at": "2026-11-24T11:15:29+00:00",
+   "input_tokens": 4601,
+   "output_tokens": 174,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/blokesch-lab/index-html/student-projects/": {
+   "key": {
+    "content_hash": "61b9bc8b5bbbcdb15d95619234efafa9d4c32425569f817eb50b551290d698bb",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upblo"
+   ],
+   "extracted_at": "2026-11-24T11:15:35+00:00",
+   "input_tokens": 4709,
+   "output_tokens": 771,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Regulation of natural competence and type VI secretion in Vibrio cholerae and non-cholera Vibrios",
+     "lab_acronym": null,
+     "summary": "Master thesis project on how natural competence and the type VI secretion system are regulated in Vibrio cholerae and related non-cholera Vibrios. The page links it to prior work on horizontal gene transfer mediated by type VI secretion.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "bacterial genetics",
+      "molecular biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Melanie Blokesch"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/bnms/home/students-projects/": {
    "key": {
     "content_hash": "0a22b2d5fd09a3e2cbe3da556b289b44a11eccf29ef8f7c313504cf19e975d74",
@@ -7319,6 +7430,99 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/brisken-lab/studentsprojects/": {
+   "key": {
+    "content_hash": "a82ec53b0f89ec7be9525b857c0d06e045f01be68b902ecb0f8b14c7293942a2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upbri"
+   ],
+   "extracted_at": "2026-11-24T11:15:44+00:00",
+   "input_tokens": 7190,
+   "output_tokens": 1454,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Regulation of metastatic dormancy in hormone receptor-positive breast cancer",
+     "lab_acronym": null,
+     "summary": "The project aims to identify global regulators of epithelial-to-mesenchymal transition (EMT) and metastatic dormancy in HR+ breast cancer using the MIND model. The student would gain experience with in vitro cell culture, ex vivo models and molecular biology techniques.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "breast cancer",
+      "metastasis",
+      "cancer biology",
+      "tumour dormancy"
+     ],
+     "skills": [
+      "in vitro cell culture",
+      "ex vivo models",
+      "molecular biology techniques"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2025-2026"
+    },
+    {
+     "title": "Optimizing an ex vivo assay for testing hormone and drug response in hormone-sensitive breast cancer",
+     "lab_acronym": null,
+     "summary": "The project proposes a biomaterial-based 3D system to test hormone and drug sensitivity of patient-derived xenografts and patient tumour biopsies, to support tailored endocrine therapy. The student would learn to encapsulate tumours in biomaterials and assess gene and protein expression.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "breast cancer",
+      "endocrine therapy",
+      "biomaterials",
+      "translational cancer research"
+     ],
+     "skills": [
+      "molecular biology",
+      "immunohistochemistry",
+      "biomaterial encapsulation of tumours"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2025-2026"
+    },
+    {
+     "title": "Beyond Estrogen: The Overlooked Role of Androgens in normal breast epithelium and breast cancer",
+     "lab_acronym": null,
+     "summary": "The project investigates androgen receptor signalling in normal human breast epithelium and in breast cancer development, including the effects of testosterone and androgenic versus antiandrogenic progestins. The student would work with patient samples, patient-derived xenografts and mice.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "breast cancer",
+      "androgen signaling",
+      "mammary epithelium",
+      "hormone signaling"
+     ],
+     "skills": [
+      "Western blotting",
+      "qPCR",
+      "immunofluorescence",
+      "immunohistochemistry",
+      "FACS"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": "2025-2026"
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/cam-x/8-2/student-projects/": {
    "key": {
     "content_hash": "9c5c2d71240ffdfa51764852d75ed8bb537e5711ab25223bf9ebb50816eab12e",
@@ -7761,6 +7965,95 @@
       "Edoardo Bargis"
      ],
      "status": "unknown",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/constam-lab/index-html/studentprojects-en-html/": {
+   "key": {
+    "content_hash": "ba655dba7f455c4cd0178c824ff1cd386f7a25f6568f521e02159a51ad82bfdf",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upcda"
+   ],
+   "extracted_at": "2026-11-24T11:15:54+00:00",
+   "input_tokens": 4809,
+   "output_tokens": 1219,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Effect of Ca2+ flux on Bicc1 protein interactions",
+     "lab_acronym": null,
+     "summary": "Assess how Ca2+/CaMKII signaling affects Bicc1 self-polymerization and other protein-protein interactions involved in metabolic regulation, using proteomics and imaging. The work is linked to polycystic kidney disease, where Bicc1 mutations cause renal cysts.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "molecular biology",
+      "cell signaling",
+      "kidney disease",
+      "proteomics"
+     ],
+     "skills": [
+      "proteomics",
+      "imaging",
+      "molecular and cell biology",
+      "biochemistry"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Dynamics of cytoplasmic Bicc1 self-polymers",
+     "lab_acronym": null,
+     "summary": "Image fluorescent, photoconvertible Bicc1 fusion proteins in cultured renal epithelial cells to determine the dynamics of their self-association and how interacting mRNAs and proteins regulate them.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cell biology",
+      "live-cell imaging",
+      "RNA biology",
+      "kidney disease"
+     ],
+     "skills": [
+      "fluorescence imaging",
+      "molecular and cell biology",
+      "imaging techniques"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Role of Bicc1 as an RNA chaperone",
+     "lab_acronym": null,
+     "summary": "Test whether Bicc1 acts as an mRNA chaperone that controls access of miRNAs and other regulatory factors to target sites masked in stable RNA hairpins, using recombinant purified Bicc1 and mutant derivatives in cell-free assays.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "RNA biology",
+      "biochemistry",
+      "post-transcriptional regulation"
+     ],
+     "skills": [
+      "recombinant protein purification",
+      "cell-free assays",
+      "biochemistry",
+      "molecular biology"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
      "academic_period": null
     }
    ]
@@ -9035,6 +9328,53 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/dangelo-lab/open-positions/": {
+   "key": {
+    "content_hash": "3a2ca903e9d01853ec359c058302646af7827925e5d4664dfffaf4c52d1649f0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-dangelolab"
+   ],
+   "extracted_at": "2026-11-24T11:16:03+00:00",
+   "input_tokens": 4918,
+   "output_tokens": 451,
+   "truncated": false,
+   "error": null,
+   "page_kind": "single_project",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "In silico screening and AI-assisted discovery of small-molecule inhibitors targeting the ceramide transfer protein CERT in CerTra syndrome",
+     "lab_acronym": null,
+     "summary": "An in silico screen of a large compound library (over 100,000 molecules) to find small-molecule inhibitors of the ceramide transfer protein CERT, using molecular docking and AI/machine learning for scoring, clustering and ADMET prediction. The project also models disease-associated CERT mutants to assess differences in compound binding, with the aim of identifying candidate leads for CerTra syndrome.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "computational biology",
+      "drug discovery",
+      "molecular docking",
+      "machine learning",
+      "lipid biology"
+     ],
+     "skills": [
+      "molecular docking",
+      "machine learning",
+      "ADMET prediction",
+      "computational modeling"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giovanni D'Angelo",
+      "Matteo Dal Peraro"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/data/teaching/student-projects/": {
    "key": {
     "content_hash": "b0f7ca46ef9ef7eb42e67da8fb4687a2024ee8912a1f658d345dedb510ba1714",
@@ -9634,6 +9974,90 @@
    "extracted_at": "2026-11-24T11:01:27+00:00",
    "input_tokens": 5873,
    "output_tokens": 158,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/depalma-lab/page-103910-en-html/": {
+   "key": {
+    "content_hash": "56a0f9b67e6488c6e24051cf3bcae3e4bebc30a793bf8b6ec87a9b4176cc1bed",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-updepalma"
+   ],
+   "extracted_at": "2026-11-24T11:16:10+00:00",
+   "input_tokens": 4293,
+   "output_tokens": 359,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/deplanckelab/masters-internship-projects/": {
+   "key": {
+    "content_hash": "1539bc0c20a19c308d77437edfa2dbb6ae1307e7641dd03fd0d45aa859c603da",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-updepla"
+   ],
+   "extracted_at": "2026-11-24T11:16:17+00:00",
+   "input_tokens": 4986,
+   "output_tokens": 1059,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Master's Engineering Internship | Instrument Development (Microfluidics, Electronics & Optics)",
+     "lab_acronym": null,
+     "summary": "Two master's internship positions to help develop the next generation of the IRIS instrument, a deterministic microfluidic platform for high-throughput live-cell imaging and AI-driven single-cell phenomics. Tracks cover mechatronics and microfluidics (mechanical and fluidic assemblies) or electronics and optics (control systems and optical subsystems).",
+     "project_types": [
+      "other"
+     ],
+     "domains": [
+      "microfluidics",
+      "instrument development",
+      "single-cell phenomics",
+      "optics",
+      "electronics"
+     ],
+     "skills": [
+      "CAD",
+      "electronics",
+      "embedded systems",
+      "optics",
+      "microfluidics",
+      "lab instrumentation"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Dr. Johannes Bues"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/deplanckelab/open-position/": {
+   "key": {
+    "content_hash": "0e79c2edcafaf17edd8e075a85e12373fcb3a5691d5e2bbafeff3810a537e5cc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-updepla"
+   ],
+   "extracted_at": "2026-11-24T11:16:27+00:00",
+   "input_tokens": 4588,
+   "output_tokens": 197,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -13933,6 +14357,83 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/fellay-lab/index-html/page-103907-en-html/": {
+   "key": {
+    "content_hash": "e8000b66fd74c41a00caaf5b2c5c8e78f351d56ffc49ed367c6a127b955c57ee",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-fe"
+   ],
+   "extracted_at": "2026-11-24T11:16:33+00:00",
+   "input_tokens": 5668,
+   "output_tokens": 1201,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Investigating Genomic Data Transformations for Predicting Disease Outcomes using Machine Learning",
+     "lab_acronym": null,
+     "summary": "Investigates how large-scale SNP genotype data can be transformed into compact, biologically meaningful features for disease prediction, including transformations based on biological databases, polygenic risk scores, and foundational DNA models. The goal is to improve genomic disease prediction with machine learning and deep learning.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "genomics",
+      "machine learning",
+      "deep learning",
+      "disease prediction"
+     ],
+     "skills": [
+      "Python",
+      "PyTorch",
+      "Sklearn",
+      "machine learning",
+      "data science",
+      "genomic data",
+      "bioinformatic tools",
+      "GitHub"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Barry Ryan",
+      "Jacques Fellay"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Enhancing Cardiovascular Disease Prediction by Integrating Rare Variants into Polygenic Risk Scores",
+     "lab_acronym": null,
+     "summary": "Aims to improve polygenic risk scores for cardiovascular disease by integrating rare, high-impact genetic variants with a baseline common-variant PRS built from UK Biobank data. The project compares the integrated model against the baseline and optionally tests generalizability on Swiss HIV Cohort Study data.",
+     "project_types": [],
+     "domains": [
+      "genomics",
+      "cardiovascular disease",
+      "polygenic risk scores",
+      "statistical genetics"
+     ],
+     "skills": [
+      "Bash",
+      "R",
+      "Docker",
+      "genomic data",
+      "bioinformatic tools"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Simon Boutry",
+      "Chritian Thorball",
+      "Jacques Fellay"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/fimap/page-122118-en-html/": {
    "key": {
     "content_hash": "de78991404db43dd610eb1d4c32e51935764518277004eaa000098c1a7166fcf",
@@ -16068,6 +16569,289 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/gonczy-lab/bachelor-and-master-projects/": {
+   "key": {
+    "content_hash": "3fd93b11ef84dfecc886168e420c992556ac63bb20d0ea9231db4bc5bc6d5ab2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upgon"
+   ],
+   "extracted_at": "2026-11-24T11:16:42+00:00",
+   "input_tokens": 5289,
+   "output_tokens": 2157,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Engineering a modified centriole duplication cycle in human cells",
+     "lab_acronym": null,
+     "summary": "Engineer and analyze the centriole duplication cycle in human cells with altered control of organelle number. The project relies on molecular and cell biology, expansion microscopy, super-resolution microscopy and live imaging.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cell biology",
+      "molecular biology",
+      "microscopy"
+     ],
+     "skills": [
+      "molecular biology",
+      "cell biology",
+      "expansion microscopy",
+      "super-resolution microscopy",
+      "live imaging"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    },
+    {
+     "title": "Analyzing novel centriolar proteins in Chlamydomonas reinhardtii",
+     "lab_acronym": null,
+     "summary": "Identify the localization and test the function of novel centriolar proteins in the green alga Chlamydomonas reinhardtii, using CRISPR/Cas9-mediated GFP tagging and disruption together with expansion and super-resolution microscopy.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cell biology",
+      "molecular biology",
+      "microscopy"
+     ],
+     "skills": [
+      "CRISPR/Cas9",
+      "expansion microscopy",
+      "super-resolution microscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    },
+    {
+     "title": "Investigate mechanisms of centriole elimination using C. elegans",
+     "lab_acronym": null,
+     "summary": "Discover the mechanisms that regulate centriole half-life during C. elegans oogenesis and embryogenesis, using an RNAi-based functional genomic screen and live imaging.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cell biology",
+      "developmental biology",
+      "functional genomics"
+     ],
+     "skills": [
+      "RNAi",
+      "live imaging",
+      "image analysis",
+      "molecular biology",
+      "cell biology"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    },
+    {
+     "title": "Analyzing centriole fate during zebrafish muscle formation",
+     "lab_acronym": null,
+     "summary": "Monitor centrosome and centriole fate during muscle formation in zebrafish embryos using 4D light-sheet live imaging, RNA/DNA injection, and tracking algorithms developed and applied by the student.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "developmental biology",
+      "live imaging",
+      "cell biology"
+     ],
+     "skills": [
+      "light-sheet microscopy",
+      "zebrafish embryo injection",
+      "tracking algorithms",
+      "image analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    },
+    {
+     "title": "Single cell RNA-seq of centriole biogenesis in Naegleria",
+     "lab_acronym": null,
+     "summary": "Discover and characterize components induced during de novo centriole biogenesis in the protist Naegleria gruberi, using single-cell RNA-seq together with cell biology, immunofluorescence, expansion microscopy and live imaging.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cell biology",
+      "genomics",
+      "evolutionary biology"
+     ],
+     "skills": [
+      "RNA-seq",
+      "single-cell RNA-seq",
+      "immunofluorescence",
+      "expansion microscopy",
+      "live imaging"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    },
+    {
+     "title": "Evolutionary diversity and origin of centriolar proteins",
+     "lab_acronym": null,
+     "summary": "Identify homologues of fundamental centriolar proteins across the domains of life to help trace the origin of the centriole, and test candidates in cell-free assays. The project is a collaboration between the Bitbol and Gönczy laboratories.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "computational biology",
+      "evolutionary biology",
+      "structural biology"
+     ],
+     "skills": [
+      "AlphaFold",
+      "Foldseek",
+      "phylogenomics",
+      "structural prediction",
+      "computational biology"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Pierre Gönczy"
+     ],
+     "status": "available",
+     "academic_period": "2025"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/gr-maynard/open-positions/": {
+   "key": {
+    "content_hash": "f44aa59c6a3563ee040c1d0ea28e6b2c802c01a3eff16a5a91e826a1001db61b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-maynard"
+   ],
+   "extracted_at": "2026-11-24T11:16:55+00:00",
+   "input_tokens": 4803,
+   "output_tokens": 143,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/gr-paoli/open-positions/": {
+   "key": {
+    "content_hash": "1a5275ce9308cc2d541846f2e907eff89262eb856389c13b2191e91c45d89f27",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-paoli"
+   ],
+   "extracted_at": "2026-11-24T11:17:01+00:00",
+   "input_tokens": 4379,
+   "output_tokens": 156,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/gr-priestley/student-projects/": {
+   "key": {
+    "content_hash": "08ce3514b0e031dff40defd5dc4dee1a26503d7f08784f7b58008f112e3bc2de",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-priestley"
+   ],
+   "extracted_at": "2026-11-24T11:17:07+00:00",
+   "input_tokens": 5092,
+   "output_tokens": 827,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Reconstructing experience through real-time decoding of neural data",
+     "lab_acronym": null,
+     "summary": "Develop a fast pipeline that compresses and extracts features directly from streaming calcium imaging video of the mouse hippocampus. The features are used for real-time decoding of the animal's position in a virtual environment, and decoding accuracy is compared to decoding from ground-truth neuron segmentation.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroscience",
+      "machine learning",
+      "calcium imaging",
+      "brain-computer interfaces"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/gr-schuhmacher/open-positions/": {
+   "key": {
+    "content_hash": "04987b2aad88aa6a4da9954be46c9c2cee15112fbc4ce1fd15164c9b7bfc8ad5",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-schuhmacher"
+   ],
+   "extracted_at": "2026-11-24T11:17:16+00:00",
+   "input_tokens": 4248,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/graefflab/index-html/student-projects/": {
+   "key": {
+    "content_hash": "cabe0ad8a4e91249c5a1e04ef1ee3ea1d79d7d2e28818d4f0b9773582fbb134b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upgraeff"
+   ],
+   "extracted_at": "2026-11-24T11:17:22+00:00",
+   "input_tokens": 4544,
+   "output_tokens": 568,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/grid-ess/grid-integrated-energy-storage-systems-lab/student-projects/": {
    "key": {
     "content_hash": "78b9b0e3e21cca326248fe55c4f2c009ff32f5b01e152a9f5ec97a4a16aea0c7",
@@ -16643,6 +17427,24 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/hanahan-lab/teaching/": {
+   "key": {
+    "content_hash": "8a0c068a48bbb425ffd6e09fdcc149a208cd8d67469bb1bb113d845d65387b04",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-hanahan-lab"
+   ],
+   "extracted_at": "2026-11-24T11:17:30+00:00",
+   "input_tokens": 4115,
+   "output_tokens": 150,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/head/open-masters-projects/": {
    "key": {
     "content_hash": "d48078e1c97e38dbf5336f59e63b3872fa56bf9c3b32e9a87c9d8f046b81e671",
@@ -16729,6 +17531,314 @@
      "supervisors": [],
      "status": "available",
      "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/hessbellwald-lab/positions/": {
+   "key": {
+    "content_hash": "596daa7e1c30719fc3e8ad5874819c4dec7b822fa89ddb3353178b87bd81886a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uphess"
+   ],
+   "extracted_at": "2026-11-24T11:17:36+00:00",
+   "input_tokens": 4197,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/hessbellwald-lab/teaching/": {
+   "key": {
+    "content_hash": "0aa8921a5d948317abe537c3d23366a89e4a333cec4e836aef60c94473f0c3ea",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uphess"
+   ],
+   "extracted_at": "2026-11-24T11:17:42+00:00",
+   "input_tokens": 4114,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/huelsken-lab/page-98369-en-html/": {
+   "key": {
+    "content_hash": "54df0c89e8661286bbd718591789137f28a8668d7a5a61612280b4074d03ba8b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uphuelsken"
+   ],
+   "extracted_at": "2026-11-24T11:17:48+00:00",
+   "input_tokens": 4169,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/hummel-lab/student-projects/": {
+   "key": {
+    "content_hash": "6549c00e469cc7d293548dad6c2ffd4714ab31ada476b71780fb22eaeb322bdc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uphummel"
+   ],
+   "extracted_at": "2026-11-24T11:17:53+00:00",
+   "input_tokens": 12013,
+   "output_tokens": 3691,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "FLEX-TUS: fMRI Data Acquisition During a Reversal Learning Task After Thalamic TUS in a Healthy Cohort",
+     "lab_acronym": null,
+     "summary": "Collect structural and functional MRI data from a healthy cohort (n=20) performing a reversal-learning task after transcranial ultrasound stimulation of the mediodorsal thalamus, including recruitment and data collection. A side project on reinforcement learning modelling, ultrasound acoustic simulations or sonication placement planning may also be included.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "neuroimaging",
+      "neuromodulation",
+      "reinforcement learning",
+      "cognitive neuroscience"
+     ],
+     "skills": [
+      "Python",
+      "Matlab",
+      "fMRI"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Thomas Paul"
+     ],
+     "status": "available",
+     "academic_period": "From beginning of July 2026"
+    },
+    {
+     "title": "Understanding the electrophysiological impact of striatal tTIS on the STN during effort-based decision-making through invasive recordings",
+     "lab_acronym": null,
+     "summary": "Study how striatal temporal interference stimulation (tTIS) affects subthalamic nucleus local field potentials recorded through new-generation DBS implants in Parkinson's disease patients during an effort-based decision-making task, ON and OFF dopaminergic treatment, to find a neural signature of tTIS.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroscience",
+      "deep brain stimulation",
+      "decision-making",
+      "neural signal processing"
+     ],
+     "skills": [
+      "statistical analysis",
+      "R",
+      "good computational skills"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Simona Losacco"
+     ],
+     "status": "available",
+     "academic_period": "From Spring 2026"
+    },
+    {
+     "title": "Neural network correlates of Temporal Interference Stimulation in human decision-making",
+     "lab_acronym": null,
+     "summary": "Investigate the neural network correlates of effort-based decision-making and the neural effects of striatal temporal interference stimulation (tTIS) in healthy older participants scanned with fMRI, combining fMRI analysis and computational modelling.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroimaging",
+      "decision-making",
+      "non-invasive brain stimulation",
+      "computational modeling"
+     ],
+     "skills": [
+      "fMRI analysis",
+      "computational modelling",
+      "French"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Michele Di Ponzio"
+     ],
+     "status": "available",
+     "academic_period": "From Spring 2026"
+    },
+    {
+     "title": "Dynamic coactivation patterns of motor networks in stroke patients during hand-gripper tasks",
+     "lab_acronym": null,
+     "summary": "Use coactivation pattern (CAP) analysis of task-based fMRI to characterise time-resolved motor network dynamics during hand-gripper tasks in stroke patients, and relate CAP measures to motor performance and recovery.",
+     "project_types": [
+      "semester_master"
+     ],
+     "domains": [
+      "neuroimaging",
+      "stroke rehabilitation",
+      "motor control",
+      "brain networks"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "fMRI preprocessing",
+      "time-resolved functional connectivity"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron",
+      "Lisa Fleury"
+     ],
+     "status": "available",
+     "academic_period": "From Spring/Summer 2026"
+    },
+    {
+     "title": "From slow waves to perturbational complexity: nonequilibrium brain dynamics after stroke",
+     "lab_acronym": null,
+     "summary": "Link slow-wave dynamics measured with TMS-EEG and resting-state fMRI to temporal irreversibility and the perturbational complexity index in stroke patients, to understand network dysfunction and recovery potential.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroimaging",
+      "stroke",
+      "brain dynamics",
+      "TMS-EEG"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "TMS/EEG/fMRI analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron",
+      "Lisa Fleury"
+     ],
+     "status": "available",
+     "academic_period": "From January 2026"
+    },
+    {
+     "title": "Hybrid EEG–fMRI mapping after stroke",
+     "lab_acronym": null,
+     "summary": "Apply hybrid connectivity independent component analysis (connICA) to resting-state EEG and fMRI data from stroke patients to identify joint EEG–fMRI connectivity networks that differ between lesioned and healthy regions and track their changes during recovery.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroimaging",
+      "stroke",
+      "functional connectivity",
+      "EEG-fMRI"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron"
+     ],
+     "status": "available",
+     "academic_period": "From January 2026"
+    },
+    {
+     "title": "Longitudinal analysis of post-stroke brain dynamics using DySCo",
+     "lab_acronym": null,
+     "summary": "Apply the Dynamic Symmetric Connectivity Matrix (DySCo) framework to longitudinal fMRI data from stroke patients to derive time-varying connectivity and relate network dynamics measures to recovery.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroimaging",
+      "dynamic functional connectivity",
+      "stroke",
+      "brain networks"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "high-dimensional data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron"
+     ],
+     "status": "available",
+     "academic_period": "From January 2026"
+    },
+    {
+     "title": "Dissecting stimulation-induced mechanisms of post-stroke brain reorganization through BOLD co-fluctuation dynamics",
+     "lab_acronym": null,
+     "summary": "Apply a cascade-based framework of BOLD co-fluctuation dynamics to resting-state fMRI from stroke patients acquired with and without temporal interference stimulation of the striatum, to identify stimulation-specific changes in brain dynamics and functional connectivity.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "neuroimaging",
+      "stroke",
+      "neuromodulation",
+      "resting-state fMRI"
+     ],
+     "skills": [
+      "Python",
+      "MATLAB",
+      "resting-state fMRI analysis",
+      "signal processing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron",
+      "Camille Proulx"
+     ],
+     "status": "available",
+     "academic_period": "From January 2026"
+    },
+    {
+     "title": "Behavioral dynamics of hand motor performance in stroke patients: longitudinal and virtual lesion analyses",
+     "lab_acronym": null,
+     "summary": "Analyse behavioural data from stroke patients performing an isometric hand-gripper task, comparing grip force performance across time points and between baseline and TMS-induced virtual lesion conditions to identify behavioural markers of recovery.",
+     "project_types": [
+      "semester_bachelor",
+      "semester_master"
+     ],
+     "domains": [
+      "stroke rehabilitation",
+      "motor control",
+      "behavioral analysis",
+      "motor neuroscience"
+     ],
+     "skills": [
+      "Python",
+      "R",
+      "MATLAB",
+      "statistics",
+      "time-series analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Giorgia Baron",
+      "Lisa Fleury"
+     ],
+     "status": "available",
+     "academic_period": "From Spring 2026"
     }
    ]
   },
@@ -18955,6 +20065,24 @@
    "extracted_at": "2026-11-24T11:11:14+00:00",
    "input_tokens": 7076,
    "output_tokens": 197,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/jaksic-lab/homepage/masters-projects/": {
+   "key": {
+    "content_hash": "dce3ab01bdd30a0af62aa42d343131dedcd0d9150931addfa5564139fac7dc74",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-jaksic"
+   ],
+   "extracted_at": "2026-11-24T11:18:11+00:00",
+   "input_tokens": 4127,
+   "output_tokens": 178,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -21968,6 +23096,42 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/lbm/teaching/": {
+   "key": {
+    "content_hash": "1ea5b21c17bc27b96ed7f74991e46ed22942888007f0353802084950386d9cfa",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-updalpe"
+   ],
+   "extracted_at": "2026-11-24T11:18:17+00:00",
+   "input_tokens": 4493,
+   "output_tokens": 653,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lbm/wp-content/uploads/2018/10/BSM-Syllabus-Final.pdf": {
+   "key": {
+    "content_hash": "f6830ef79f96889161dc54454205a4b46feaf4bf118e8f709aedc4d41192315c",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-updalpe"
+   ],
+   "extracted_at": "2026-11-24T11:18:25+00:00",
+   "input_tokens": 6568,
+   "output_tokens": 232,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/lbmm/students-projects/": {
    "key": {
     "content_hash": "e452a61147f9083b2d0c5f46df05e2a5a706a0059ec7758142a53dff9990859d",
@@ -22612,6 +23776,79 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/lemaitrelab/lemaitre-lab/studentprojects/": {
+   "key": {
+    "content_hash": "65aeab853e4c0c5201eb149b2e7aca0bb8732aac037ba4d64f365e97d893b3b6",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uplem"
+   ],
+   "extracted_at": "2026-11-24T11:18:32+00:00",
+   "input_tokens": 5376,
+   "output_tokens": 1401,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Drosophila innate immunity",
+     "lab_acronym": null,
+     "summary": "Bachelor and master projects on how Drosophila detects and neutralizes microbial infection. Students generate CRISPR-based mutations in potential immunity-related genes and analyse their function to decipher recognition, signalling and effector mechanisms of the insect immune system.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "immunology",
+      "genetics",
+      "insect immunity",
+      "molecular biology"
+     ],
+     "skills": [
+      "CRISPR",
+      "genetics",
+      "molecular biology",
+      "genomics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Bruno Lemaitre"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Psychology of Science",
+     "lab_acronym": null,
+     "summary": "Bachelor and master projects studying psychological and sociological factors that influence career success in academia, including how romantic relationships (homogamy), personality traits and thinking styles shape the scientific community. Students use quantitative tools, validated personality and cognitive measures, surveys and interviews, and may develop their own project in personality and evolutionary psychology.",
+     "project_types": [
+      "semester_bachelor",
+      "master_thesis"
+     ],
+     "domains": [
+      "metascience",
+      "psychology",
+      "personality psychology",
+      "evolutionary psychology"
+     ],
+     "skills": [
+      "quantitative methods",
+      "survey design",
+      "semi-structured interviews",
+      "statistics"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Bruno Lemaitre"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lfmi/projects/": {
    "key": {
     "content_hash": "a784dcac16da2a14ae9b05ff052a07564f87fdb00a1f8e3187e4c7ebc539f8f3",
@@ -22775,6 +24012,24 @@
      "academic_period": null
     }
    ]
+  },
+  "https://www.epfl.ch/labs/lgc/index-html/student-projects/": {
+   "key": {
+    "content_hash": "6f6c705e6ce1e0b20baf3de64b2d4d395a083eebdccd17ff78c2ae969d74d6cc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lgc"
+   ],
+   "extracted_at": "2026-11-24T11:18:43+00:00",
+   "input_tokens": 4096,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/": {
    "key": {
@@ -22981,6 +24236,24 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": "2026-07-15",
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lingner-lab/page-106722-en-html/": {
+   "key": {
+    "content_hash": "73f8eb8703627e38902055316e9d7255a2965852a0980abe7e970e78294fec0b",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uplin"
+   ],
+   "extracted_at": "2026-11-24T11:18:48+00:00",
+   "input_tokens": 4200,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
    "projects": []
   },
   "https://www.epfl.ch/labs/lions/student-projects/": {
@@ -25816,6 +27089,97 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/lnco/student_projects/": {
+   "key": {
+    "content_hash": "f1710cdc762a7826503c1f5abb9980c8e86bde8e17b5910edcfa99e1054bde60",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lnco"
+   ],
+   "extracted_at": "2026-11-24T11:18:54+00:00",
+   "input_tokens": 5102,
+   "output_tokens": 1826,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Neural correlates of memory, navigation, and bodily self",
+     "lab_acronym": null,
+     "summary": "Open student project in the lab's area of neural correlates of memory, navigation, and bodily self. The page gives no further detail beyond this topic.",
+     "project_types": [],
+     "domains": [
+      "cognitive neuroscience",
+      "memory",
+      "spatial navigation"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Dr Qiaoyue Ren"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Investigating bodily self-conciousness using virtual reality",
+     "lab_acronym": null,
+     "summary": "Student project investigating bodily self-consciousness using virtual reality. The page gives no further detail beyond this topic.",
+     "project_types": [],
+     "domains": [
+      "cognitive neuroscience",
+      "virtual reality",
+      "bodily self-consciousness"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Dr Qiaoyue Ren"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Vestibular contributions to bodily self-consciousness (motion platform)",
+     "lab_acronym": null,
+     "summary": "Student project studying vestibular contributions to bodily self-consciousness, using a motion platform. The page gives no further detail beyond this topic.",
+     "project_types": [],
+     "domains": [
+      "cognitive neuroscience",
+      "vestibular system",
+      "bodily self-consciousness"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Dr Qiaoyue Ren"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Investigating hallucinations in Parkinson's Disease",
+     "lab_acronym": null,
+     "summary": "Student project investigating hallucinations in Parkinson's disease. The page gives no further detail beyond this topic.",
+     "project_types": [],
+     "domains": [
+      "cognitive neuroscience",
+      "neurology",
+      "parkinson's disease"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Dr Qiaoyue Ren"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/lnet/openings/": {
    "key": {
     "content_hash": "33f323373c806e001b4a34f6a513837e4f57d2684a186075f5d48f60f95d826f",
@@ -27194,6 +28558,42 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/lpsy/research/overview/": {
+   "key": {
+    "content_hash": "403a4f8a90784a945dad9587b96272753e51d208f68c511d44a7de74a9275284",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lpsy"
+   ],
+   "extracted_at": "2026-11-24T11:19:06+00:00",
+   "input_tokens": 6024,
+   "output_tokens": 158,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lpsy/student-projects/": {
+   "key": {
+    "content_hash": "feccdc383509476d0a23ad4f2e0eb5c11f9b3c37f0b9198231cdb59235a77606",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lpsy"
+   ],
+   "extracted_at": "2026-11-24T11:19:12+00:00",
+   "input_tokens": 4109,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/lrese/education/": {
    "key": {
     "content_hash": "eeb192ec551068f2c32ff9d08ddd531d840a831a5ff8d8718131e31ae98cb899",
@@ -27945,6 +29345,42 @@
    "extracted_at": "2026-11-23T12:53:12+00:00",
    "input_tokens": 4021,
    "output_tokens": 160,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lsym/393-2/": {
+   "key": {
+    "content_hash": "abd869ffdbc24106b05ac3513beb9cb77ce8a74f98ab1a90aa1ae5e548741614",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lsym"
+   ],
+   "extracted_at": "2026-11-24T11:19:18+00:00",
+   "input_tokens": 4148,
+   "output_tokens": 167,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/lsym/studentprojects/": {
+   "key": {
+    "content_hash": "9aa68048d6384c5e79756da2bd3919c87b05aafca07f8438dc0a5b192be658be",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lsym"
+   ],
+   "extracted_at": "2026-11-24T11:19:24+00:00",
+   "input_tokens": 4176,
+   "output_tokens": 175,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
@@ -29470,6 +30906,103 @@
      "supervisors": [
       "Erik Algarp",
       "Anja Skrivervik"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/markram-lab/page-76422-en-html/": {
+   "key": {
+    "content_hash": "9f1a14d5ea7877c46f9ea0ada52ed75fdb24ffab127c0bc0e38669c5d73e7b37",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lnmc"
+   ],
+   "extracted_at": "2026-11-24T11:19:30+00:00",
+   "input_tokens": 4161,
+   "output_tokens": 161,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/mccabelab/positions/": {
+   "key": {
+    "content_hash": "3d0a11786543a94c818f1cbb66cf772393f5dbf1284806efe8b41e37bc4c7efc",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upmccabe"
+   ],
+   "extracted_at": "2026-11-24T11:19:36+00:00",
+   "input_tokens": 5128,
+   "output_tokens": 194,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/mckinney-lab/student-projects/": {
+   "key": {
+    "content_hash": "3a409a3a6d5c90f103141ecf2d2bba5f0c2b3343ebf6fad4162645e19085126a",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-lmic"
+   ],
+   "extracted_at": "2026-11-24T11:19:42+00:00",
+   "input_tokens": 4307,
+   "output_tokens": 1270,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Type VII Secretion Systems in Mycobacteria",
+     "lab_acronym": null,
+     "summary": "Master's research and thesis projects on the mechanisms of Type VII Secretion Systems in Mycobacteria. The page indicates both computational/bioinformatics and wet-lab options.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "mycobacteria",
+      "bacterial secretion systems"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Luca Schlotheuber"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Macrophage killing by mycobacteria",
+     "lab_acronym": null,
+     "summary": "Master's research and thesis projects on macrophage killing, offered as both computational/bioinformatics and wet-lab projects. The work is linked to the mechanisms of Type VII Secretion Systems in Mycobacteria.",
+     "project_types": [
+      "semester_master",
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "immunology",
+      "host-pathogen interactions"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [
+      "Luca Schlotheuber"
      ],
      "status": "available",
      "academic_period": null
@@ -31013,15 +32546,16 @@
   "https://www.epfl.ch/labs/naef-lab/page-115324-en-html/": {
    "key": {
     "content_hash": "5920e8acde9942c4ceb1d1e26e3e4fc523fcba7704318f801cf5656ea04e38dd",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
-    "sv-upnae"
+    "sv-upnae",
+    "sv-naef-lab"
    ],
-   "extracted_at": "2026-11-23T12:56:15+00:00",
-   "input_tokens": 4136,
-   "output_tokens": 1331,
+   "extracted_at": "2026-11-24T11:19:53+00:00",
+   "input_tokens": 4346,
+   "output_tokens": 1055,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -31030,15 +32564,15 @@
     {
      "title": "Deep Learning Analysis of Human Histology Images",
      "lab_acronym": null,
-     "summary": "A semester project applying deep learning to analyse human histology images, as listed under the available semester projects. The page gives only the title and no further details.",
+     "summary": "Semester project applying deep learning to analyse images of human histology tissue. Details are only given in the title on the listing.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
       "deep learning",
-      "histology",
-      "biological image analysis"
+      "computational biology",
+      "image analysis"
      ],
      "skills": [],
      "language": "EN",
@@ -31049,15 +32583,15 @@
     {
      "title": "Latent space models for cyclic biomolecular processes and application to live microscopy imaging",
      "lab_acronym": null,
-     "summary": "A semester project developing latent space models for cyclic biomolecular processes, with application to live microscopy imaging. The page gives only the title and no further details.",
+     "summary": "Semester project developing latent space models for cyclic biomolecular processes, applied to live microscopy imaging data.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
-      "latent variable models",
-      "live microscopy",
-      "systems biology"
+      "machine learning",
+      "computational biology",
+      "live cell microscopy"
      ],
      "skills": [],
      "language": "EN",
@@ -31068,7 +32602,7 @@
     {
      "title": "Machine learning multiomics data to identify gene regulatory networks across time, sex and tissues",
      "lab_acronym": null,
-     "summary": "A semester project using machine learning on multiomics data to identify gene regulatory networks across time, sex and tissues. The page gives only the title and no further details.",
+     "summary": "Semester project using machine learning on multiomics data to identify gene regulatory networks across time, sex and tissues.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
@@ -31087,15 +32621,15 @@
     {
      "title": "Circadian clocks in disease states and cancer",
      "lab_acronym": null,
-     "summary": "A semester project studying circadian clocks in disease states and cancer. The page gives only the title and no further details.",
+     "summary": "Semester project studying circadian clocks in disease states and cancer.",
      "project_types": [
       "semester_bachelor",
       "semester_master"
      ],
      "domains": [
       "circadian biology",
-      "cancer",
-      "systems biology"
+      "cancer biology",
+      "computational biology"
      ],
      "skills": [],
      "language": "EN",
@@ -31108,14 +32642,15 @@
   "https://www.epfl.ch/labs/naef-lab/page-34749-en-html/": {
    "key": {
     "content_hash": "db83567ee6e3b6975257dabc955f5701f1d0196d09c9332b23a631c0cebcf0c6",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
-    "sv-upnae"
+    "sv-upnae",
+    "sv-naef-lab"
    ],
-   "extracted_at": "2026-11-23T12:56:24+00:00",
-   "input_tokens": 4217,
+   "extracted_at": "2026-11-24T11:20:02+00:00",
+   "input_tokens": 4425,
    "output_tokens": 106,
    "truncated": false,
    "error": null,
@@ -31702,6 +33237,24 @@
      "academic_period": "2026/2027"
     }
    ]
+  },
+  "https://www.epfl.ch/labs/navarro-lab/open-positions/": {
+   "key": {
+    "content_hash": "6925560320e24054f60e11ee53139ed3f57f6ee058949223ded712f7eccf1397",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upnavarro"
+   ],
+   "extracted_at": "2026-11-24T11:20:08+00:00",
+   "input_tokens": 4196,
+   "output_tokens": 106,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/nems/student-projects/": {
    "key": {
@@ -32367,6 +33920,282 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/oateslab/master-projects-in-oates-lab/": {
+   "key": {
+    "content_hash": "7a8697422354389f6afec66048b69bda5f0fb63aad0a7b2fd17aaa6c8c5dc3da",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upoates"
+   ],
+   "extracted_at": "2026-11-24T11:20:14+00:00",
+   "input_tokens": 6700,
+   "output_tokens": 1593,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Biochemical Characterization of the Her1 Interactome via ScFv Pull-down",
+     "lab_acronym": null,
+     "summary": "Develop a protocol to pull down Her1 proteins from zebrafish embryo lysates using three new ScFv antibody clones, with the aim of identifying Her1 protein partners, possibly followed by mass spectrometry.",
+     "project_types": [],
+     "domains": [
+      "developmental biology",
+      "protein biochemistry",
+      "molecular biology"
+     ],
+     "skills": [
+      "protein biochemistry",
+      "pull-down assay",
+      "mass spectrometry"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Virginie Braman"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Combining Expansion Microscopy and In-situ Reverse Transcription in Zebrafish Embryos",
+     "lab_acronym": null,
+     "summary": "Develop a hybrid protocol combining expansion microscopy with in-situ reverse transcription in zebrafish embryos to link super-resolution imaging with bulk sequencing data, and quantify nuclear protein distribution by FISH.",
+     "project_types": [],
+     "domains": [
+      "developmental biology",
+      "imaging",
+      "molecular biology"
+     ],
+     "skills": [
+      "molecular biology",
+      "expansion microscopy",
+      "in-situ RT",
+      "FISH"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Emanuel Vasquez"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Computational Analysis of Cell Morphology During Zebrafish Body Axis Segmentation",
+     "lab_acronym": null,
+     "summary": "Use image analysis and machine learning on fixed zebrafish embryo microscopy data to extract single-cell morphological descriptors and predict developmental progression and cell types.",
+     "project_types": [],
+     "domains": [
+      "computational biology",
+      "image analysis",
+      "machine learning"
+     ],
+     "skills": [
+      "machine learning",
+      "data science",
+      "image processing"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Feyza Nur Arslan"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Fabricating a Fiber Optic System for Localized Heat Shock in Light-Sheet Microscopy",
+     "lab_acronym": null,
+     "summary": "Design and fabricate a fiber optic localized-heating system for a light-sheet microscope to deliver thermal stimuli to specific regions of zebrafish embryos and study how localized stress affects somitogenesis timing.",
+     "project_types": [],
+     "domains": [
+      "developmental biology",
+      "instrumentation",
+      "live-cell imaging"
+     ],
+     "skills": [
+      "computer aided design",
+      "3D printing",
+      "fiber optics",
+      "light-sheet microscopy"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Emanuel Vasquez"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Morphogen Gradients and Oscillatory Signaling in Zebrafish Development",
+     "lab_acronym": null,
+     "summary": "Quantify signaling dynamics in zebrafish embryos and primary stem cell cultures using light-sheet microscopy to understand how morphogen gradients regulate oscillatory signaling and muscle cell differentiation.",
+     "project_types": [],
+     "domains": [
+      "developmental biology",
+      "signaling dynamics",
+      "image analysis"
+     ],
+     "skills": [
+      "light-sheet microscopy",
+      "immunohistochemistry",
+      "image processing",
+      "cell biology"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Feyza Nur Arslan"
+     ],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Validation of Novel ScFv Antibodies for Her1 Immunostaining in Zebrafish",
+     "lab_acronym": null,
+     "summary": "Test three newly generated ScFv antibody clones for whole-mount immunostaining of Her1 in zebrafish embryos, adapting in-situ hybridization protocols, and then compare Her1 behaviour in wild-type and Her1-YFP reporter embryos by light-sheet microscopy.",
+     "project_types": [],
+     "domains": [
+      "developmental biology",
+      "immunostaining",
+      "imaging"
+     ],
+     "skills": [
+      "immunostaining",
+      "protocol optimization",
+      "light-sheet microscopy",
+      "in-situ hybridization"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Andrew Oates",
+      "Virginie Braman"
+     ],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/oricchiolab/openings/": {
+   "key": {
+    "content_hash": "58211afd21767a6de192c336f4dd70246eefa20cd144f2ac065c0836bc4d976d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uporicchio"
+   ],
+   "extracted_at": "2026-11-24T11:20:24+00:00",
+   "input_tokens": 4797,
+   "output_tokens": 1624,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Define the functional role of frequently altered genes in lymphoma",
+     "lab_acronym": null,
+     "summary": "Study the role in tumor pathogenesis of genes frequently altered in Non-Hodgkin lymphoma patients, by mimicking these alterations in vitro and in vivo with genome-editing technologies. The project combines genomic data analysis with molecular and cellular biology techniques.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "cancer genomics",
+      "lymphoma",
+      "functional genomics"
+     ],
+     "skills": [
+      "genome editing",
+      "cloning",
+      "western blot",
+      "cell infection",
+      "cell sorting",
+      "genomic data analysis"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Stephanie Sunglee"
+     ],
+     "status": "available",
+     "academic_period": "2019/2020"
+    },
+    {
+     "title": "Genetic screenings to identify novel therapeutic targets",
+     "lab_acronym": null,
+     "summary": "Use CRISPR/Cas9 libraries combined with targeted inhibitors to identify new therapeutic targets in lymphoma, and find genes that act synergistically or induce resistance. The project involves library preparation, cell infection, sequencing analysis and cloning.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "cancer genomics",
+      "lymphoma",
+      "drug target discovery"
+     ],
+     "skills": [
+      "CRISPR/Cas9",
+      "cell infection",
+      "sequencing analysis",
+      "cloning"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Elena Battistello"
+     ],
+     "status": "available",
+     "academic_period": "2019/2020"
+    },
+    {
+     "title": "Metabolic characterization of Primitive Neuro-Ectodermal tumors",
+     "lab_acronym": null,
+     "summary": "Define metabolic and epigenetic changes associated with the development of Primitive Neuro-Ectodermal tumors (PNET), a rare pediatric brain tumor, using a mouse model built from human iPS cells. The student would differentiate iPS cells into neural precursors, genetically modify them and test the effect of altered genes on tumor development.",
+     "project_types": [
+      "master_thesis",
+      "semester_master"
+     ],
+     "domains": [
+      "cancer metabolism",
+      "neuro-oncology",
+      "stem cells"
+     ],
+     "skills": [
+      "iPS cell culture and differentiation",
+      "genetic modification of cells"
+     ],
+     "language": "EN",
+     "supervisors": [
+      "Maria Donaldson"
+     ],
+     "status": "available",
+     "academic_period": "2019/2020"
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/oricchiolab/page-134955-en-html/": {
+   "key": {
+    "content_hash": "220b23ee64af8d99582259b28a336a61a039d5efb9efae8e1a568bd9ee46b7e4",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-uporicchio"
+   ],
+   "extracted_at": "2026-11-24T11:20:35+00:00",
+   "input_tokens": 4390,
+   "output_tokens": 156,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/pbl/open-positions/": {
    "key": {
     "content_hash": "b9ab2dc5162a18968b267f0b5411557f26fa6f3d8639f2609c3b3ea67e4de79e",
@@ -32997,15 +34826,16 @@
   "https://www.epfl.ch/labs/ramdya-lab/available-projects/": {
    "key": {
     "content_hash": "f5f8d1ee09514606b50255d06154e6c105a6401ea9b4e749e01c6289b9fa3c43",
-    "prompt": "extract_v2:22458c0d",
+    "prompt": "extract_v3:51fd7149",
     "engine": "claude-code:haiku"
    },
    "lab_ids": [
-    "sv-ramdya-lab"
+    "sv-ramdya-lab",
+    "sv-upramdya"
    ],
-   "extracted_at": "2026-11-23T12:56:53+00:00",
-   "input_tokens": 6428,
-   "output_tokens": 1994,
+   "extracted_at": "2026-11-24T11:20:41+00:00",
+   "input_tokens": 6638,
+   "output_tokens": 2004,
    "truncated": false,
    "error": null,
    "page_kind": "project_list",
@@ -33014,7 +34844,7 @@
     {
      "title": "Use computational tools to study neural circuit activity",
      "lab_acronym": null,
-     "summary": "Use computer vision and machine learning to extract neural activity patterns during behavior and make predictions linking behavioral and internal states. The project sits at the interface of computer science and neurobiology.",
+     "summary": "Use computer vision and machine learning to extract neural activity patterns during behavior and predict relations between behavioral and internal states. The project sits between computer science and neurobiology.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -33037,9 +34867,9 @@
      "academic_period": null
     },
     {
-     "title": "Build artificial neural networks to control a simulated fly.",
+     "title": "Build artificial neural networks to control a simulated fly",
      "lab_acronym": null,
-     "summary": "Develop biorealistic controllers for a physics-based neuromechanical simulation of the fruit fly Drosophila melanogaster. The project lies at the interface of robotics, computer science and neuroscience, possibly in collaboration with the BioRobotics Laboratory.",
+     "summary": "Develop biorealistic neural controllers for a physics-based neuromechanical simulation of the fruit fly Drosophila melanogaster. The project lies at the interface of robotics, computer science and neuroscience.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -33064,7 +34894,7 @@
     {
      "title": "Use robotic systems to automate biological experimentation",
      "lab_acronym": null,
-     "summary": "Develop automated vision-guided robotic systems that perform behavioral and/or neural experiments, to automate and democratize biological experimentation. The project sits at the interface of robotics and neurobiology, possibly in collaboration with the Microrobotics Laboratory.",
+     "summary": "Develop automated vision-guided robotic systems that perform behavioral and/or neural experiments, to make biological experimentation more accessible and less repetitive. The project sits at the interface of robotics and neurobiology.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -33073,7 +34903,7 @@
      "domains": [
       "robotics",
       "neuroscience",
-      "automation"
+      "laboratory automation"
      ],
      "skills": [
       "robotics",
@@ -33089,17 +34919,16 @@
     {
      "title": "Use computational tools to study animal behavior",
      "lab_acronym": null,
-     "summary": "Use computational and machine learning approaches to quantify and segment fly behaviors into individual actions, and link these behavioral sequences to simultaneously acquired neuroimaging data.",
+     "summary": "Use computational and machine learning approaches to quantify and segment fly behavior into individual actions, and link these behavioral sequences to simultaneously acquired neuroimaging data.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
       "master_thesis"
      ],
      "domains": [
-      "machine learning",
-      "computer vision",
       "animal behavior",
-      "neuroscience"
+      "machine learning",
+      "computer vision"
      ],
      "skills": [
       "C/C++",
@@ -33115,7 +34944,7 @@
     {
      "title": "Study the full graph (connectome) of the fly nervous system",
      "lab_acronym": null,
-     "summary": "Improve and explore the fly connectome graph to answer specific questions about neural circuit motifs underlying complex motor behaviors. The project sits at the interface of computer science, mathematics and biology.",
+     "summary": "Improve and explore the connectome graph of the fly nervous system to answer questions about neural circuit motifs underlying complex motor behaviors. The project sits at the interface of computer science, mathematics and biology.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -33139,7 +34968,7 @@
     {
      "title": "Behavioral studies in the laboratory",
      "lab_acronym": null,
-     "summary": "Hands-on experimental work with flies to examine how neural activation or other perturbations modulate animal behavior. The student designs experiments and analyzes their own data.",
+     "summary": "Hands-on experiments with flies to examine how neural activation or other perturbations modulate animal behavior. The student designs experiments and analyzes their own data.",
      "project_types": [
       "semester_bachelor",
       "semester_master",
@@ -33162,7 +34991,7 @@
     {
      "title": "Build a robotic fly",
      "lab_acronym": null,
-     "summary": "Construct an insect-inspired robot and test bioinspired algorithms of limb control, in collaboration with EPFL robotics groups. Nature's solutions to autonomous behavioral control are to be leveraged in robotics.",
+     "summary": "Construct an insect-inspired robot and test bioinspired algorithms of limb control. The project is at the interface of robotics and biology, in collaboration with EPFL robotics groups.",
      "project_types": [
       "master_thesis"
      ],
@@ -33585,6 +35414,59 @@
     }
    ]
   },
+  "https://www.epfl.ch/labs/schoonjans-lab/index-html/student-projects/": {
+   "key": {
+    "content_hash": "fe5ebd90cddbba8196947ead4d559cab293e7e44977565d797024d98673040ca",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upschoonjans"
+   ],
+   "extracted_at": "2026-11-24T11:20:53+00:00",
+   "input_tokens": 4673,
+   "output_tokens": 815,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Master's Project Opportunity: Metabolic Regulation of Liver Cell Function and Stress Response",
+     "lab_acronym": null,
+     "summary": "Investigate how specific metabolites influence hepatic energy metabolism, oxidative stress resilience, and mitochondrial function in liver cells. The project combines metabolomics, transcriptomics, mitochondrial functional assays, redox biology and advanced liver cell culture.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "cellular metabolism",
+      "liver biology",
+      "mitochondrial biology",
+      "functional genomics"
+     ],
+     "skills": [
+      "metabolomics",
+      "LC-MS/MS",
+      "GC-MS",
+      "RNA-seq",
+      "qPCR",
+      "RT-qPCR",
+      "Seahorse XF",
+      "Oroboros O2k",
+      "ROS detection",
+      "GSH/GSSG assays",
+      "NADPH measurements",
+      "primary hepatocytes",
+      "3D hepatic spheroids",
+      "multi-omics data integration"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
   "https://www.epfl.ch/labs/schrimpflab/#prospective": {
    "key": {
     "content_hash": "089045dcaec5426c7be3530091fb25ee726666260eecce62a7c71a3227e29247",
@@ -33671,6 +35553,24 @@
      "academic_period": null
     }
    ]
+  },
+  "https://www.epfl.ch/labs/schueder-lab/open-positions/": {
+   "key": {
+    "content_hash": "1a00b04bff2ef5fd70ef2a4e3fb815df0691d23da8393772517648e1f7a28848",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upschueder"
+   ],
+   "extracted_at": "2026-11-24T11:21:01+00:00",
+   "input_tokens": 5637,
+   "output_tokens": 200,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/smal/projects/": {
    "key": {
@@ -34021,6 +35921,24 @@
      "academic_period": "Spring 2026"
     }
    ]
+  },
+  "https://www.epfl.ch/labs/suter-lab/page-103049-en-html/": {
+   "key": {
+    "content_hash": "346e7741a2fcbd0eb6d69f77b55ac18d422d7f8a6d640c79e651fc9c59447948",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upsuter"
+   ],
+   "extracted_at": "2026-11-24T11:21:08+00:00",
+   "input_tokens": 4150,
+   "output_tokens": 213,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
   },
   "https://www.epfl.ch/labs/sycamore/action-space-reduction-for-learning-robotic-manipulation-semester-project/": {
    "key": {
@@ -35898,6 +37816,24 @@
    "page_updated_at": null,
    "projects": []
   },
+  "https://www.epfl.ch/labs/thoma-lab/join-us/": {
+   "key": {
+    "content_hash": "5dcfab74198f23cf7ff06ec829c883515382f88bf1d15ad645e240c461c6a3c0",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upthomae"
+   ],
+   "extracted_at": "2026-11-24T11:21:14+00:00",
+   "input_tokens": 4437,
+   "output_tokens": 190,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
   "https://www.epfl.ch/labs/tic/page-25453-en-html/page-39144-en-html/": {
    "key": {
     "content_hash": "1fa55d6b099a55a8a531b984663cbb0d8117d345c1eb06f633833ea2b23912b1",
@@ -36074,6 +38010,241 @@
    "extracted_at": "2026-11-24T10:27:47+00:00",
    "input_tokens": 7423,
    "output_tokens": 254,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/upgoemans/open-positions/": {
+   "key": {
+    "content_hash": "a62a2221f1168a3f164cfbb0539696ab2a66096d8a19196bae300cfc8f75fd9d",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upgoemans"
+   ],
+   "extracted_at": "2026-11-24T11:21:20+00:00",
+   "input_tokens": 5394,
+   "output_tokens": 944,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Master's Project 1",
+     "lab_acronym": null,
+     "summary": "Investigates whether collateral sensitivity patterns can be identified in clinical E. coli isolates with diverse antibiotic resistance profiles, using MIC measurements and comparison with data from laboratory-evolved resistant strains. Genomic analysis of selected isolates may be included.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "antimicrobial resistance",
+      "infectious disease"
+     ],
+     "skills": [
+      "minimum inhibitory concentration (MIC) testing",
+      "antimicrobial susceptibility testing",
+      "experimental design",
+      "data analysis",
+      "genomic analysis"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master's Project 2",
+     "lab_acronym": null,
+     "summary": "Studies why integrative and conjugative elements (ICEs) transfer efficiently between some gut Bacteroides strains and not others, by separating element-level from host-cell-level effects. It also screens gut-relevant conditions beyond tetracycline (such as bile salts, short-chain fatty acids and oxidative stress) for their ability to trigger ICE excision.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "microbiology",
+      "mobile genetic elements",
+      "horizontal gene transfer",
+      "gut microbiota"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/upkim/join-us/": {
+   "key": {
+    "content_hash": "a71b03ee3de9564eafddb323fbf47353fe7381033d3b5e3ddb514aaa68b80732",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upkim"
+   ],
+   "extracted_at": "2026-11-24T11:21:29+00:00",
+   "input_tokens": 4673,
+   "output_tokens": 198,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/upwaszak/teaching/": {
+   "key": {
+    "content_hash": "235b42760afca8398d68386f312b83dd1096daeb77734b3f7160f64745af0bac",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upwaszak"
+   ],
+   "extracted_at": "2026-11-24T11:21:35+00:00",
+   "input_tokens": 4336,
+   "output_tokens": 154,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/upzenk/bachelor-and-master-projects/": {
+   "key": {
+    "content_hash": "d901bdc12529708a482cc3d9a181d2c0ed1d5eeed4e1bded6c4fb826a2f36e10",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-upzenk"
+   ],
+   "extracted_at": "2026-11-24T11:21:41+00:00",
+   "input_tokens": 4424,
+   "output_tokens": 1566,
+   "truncated": false,
+   "error": null,
+   "page_kind": "project_list",
+   "page_updated_at": null,
+   "projects": [
+    {
+     "title": "Bachelor projects: organoid models of epigenetic control of cell type differentiation",
+     "lab_acronym": null,
+     "summary": "Small 6-credit bachelor projects characterizing and generating organoid models to study the epigenetic control of cell type differentiation. Work includes molecular cloning, PCR and qPCR, immunofluorescence staining, and organoid and iPS cell culture.",
+     "project_types": [
+      "semester_bachelor"
+     ],
+     "domains": [
+      "epigenetics",
+      "developmental biology",
+      "stem cells",
+      "organoids"
+     ],
+     "skills": [
+      "molecular cloning",
+      "PCR",
+      "qPCR",
+      "immunofluorescence",
+      "organoid culture",
+      "iPS cell culture"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master project: epigenetic regulation of cellular stress",
+     "lab_acronym": null,
+     "summary": "Full-time master thesis topic on the epigenetic regulation of cellular stress. The page lists it among the lab's current master topics.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "epigenetics",
+      "cell biology",
+      "molecular biology"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master project: imaging epigenetic transitions within the nucleus",
+     "lab_acronym": null,
+     "summary": "Full-time master thesis topic on imaging epigenetic transitions within the cell nucleus. The page lists it among the lab's current master topics.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "epigenetics",
+      "cell biology",
+      "microscopy"
+     ],
+     "skills": [],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    },
+    {
+     "title": "Master project: role of epigenetics in cellular ageing",
+     "lab_acronym": null,
+     "summary": "Full-time master thesis topic on the role of epigenetics in cellular ageing. The page lists it among the lab's current master topics.",
+     "project_types": [
+      "master_thesis"
+     ],
+     "domains": [
+      "epigenetics",
+      "ageing",
+      "molecular biology"
+     ],
+     "skills": [
+      "bioinformatics"
+     ],
+     "language": "EN",
+     "supervisors": [],
+     "status": "available",
+     "academic_period": null
+    }
+   ]
+  },
+  "https://www.epfl.ch/labs/vdg/van-der-goot-lab-laboratory-of-cell-and-membrane-biology/teaching/": {
+   "key": {
+    "content_hash": "cfdde4e65f796ba949b1e528a9cefdb1299eb3f71eb03a4695934c0b67a47eb9",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-vdg"
+   ],
+   "extracted_at": "2026-11-24T11:21:52+00:00",
+   "input_tokens": 4813,
+   "output_tokens": 193,
+   "truncated": false,
+   "error": null,
+   "page_kind": "no_projects",
+   "page_updated_at": null,
+   "projects": []
+  },
+  "https://www.epfl.ch/labs/westmann-lab/open-positions/": {
+   "key": {
+    "content_hash": "c053a331209ef5a4ec7efa35fb4683c5cb176736de6959717bac01142413cba2",
+    "prompt": "extract_v3:51fd7149",
+    "engine": "claude-code:haiku"
+   },
+   "lab_ids": [
+    "sv-gr-westmann"
+   ],
+   "extracted_at": "2026-11-24T11:21:58+00:00",
+   "input_tokens": 4607,
+   "output_tokens": 161,
    "truncated": false,
    "error": null,
    "page_kind": "no_projects",
