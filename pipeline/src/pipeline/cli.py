@@ -85,6 +85,7 @@ def discover(
     faculty: list[str] = typer.Option(None, "--faculty", help="Only labs of these faculties."),
     lab: list[str] = typer.Option(None, "--lab", help="Only these lab ids."),
     limit: int = typer.Option(None, help="Max labs processed in this run."),
+    redo: bool = typer.Option(False, "--redo", help="Also retry labs already processed."),
     labs_file: Path = typer.Option(config.LABS_FILE, help="Path to labs.yaml."),
 ) -> None:
     """Find the student-project page of labs that only have a homepage (writes labs.yaml)."""
@@ -101,6 +102,7 @@ def discover(
         if not x.projects_url
         and x.homepage_url
         and x.source_type == "auto"
+        and (redo or not (x.notes or "").endswith("review"))
         and (not faculty or x.faculty in {f.upper() for f in faculty})
         and (not lab or x.id in lab)
     ][:limit]
@@ -108,7 +110,12 @@ def discover(
     results = []
     with Fetcher(config.CACHE_DIR) as fetcher:
         for n, x in enumerate(todo, 1):
-            result = discover_lab(fetcher, x)
+            try:
+                result = discover_lab(fetcher, x)
+            except Exception as exc:  # one broken site must not stop the run
+                from pipeline.discover import DiscoverResult
+
+                result = DiscoverResult(x.id, "error", detail=f"{type(exc).__name__}: {exc}"[:200])
             apply_result(x, result)
             counts[result.status] += 1
             results.append(result.__dict__)

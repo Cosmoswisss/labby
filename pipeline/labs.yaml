@@ -41,13 +41,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cfi/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/cfi/teaching-2/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: cdm-csf
   acronym: CSF
   name: Swissquote Chair in Quantitative Finance
@@ -63,7 +63,7 @@ labs:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: cdm-entc
   acronym: ENTC
   name: Entrepreneurship and Technology Commercialization
@@ -96,13 +96,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/stip/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/stip/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MTEI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: cdm-mtei-ge
   acronym: MTEI-GE
   name: AI & Digital Education
@@ -133,13 +133,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/oes/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/oes/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MTEI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: cdm-pasu
   acronym: PASU
   name: Chaire en politique publique et durabilité
@@ -149,13 +149,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/pasu/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/pasu/pasu-chair-of-policy-and-sustainability/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MTEI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: cdm-rao
   acronym: RAO
   name: Risk Analytics and Optimization Chair
@@ -165,13 +165,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/rao/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/rao/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MTEI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: cdm-sfi-em
   acronym: SFI-EM
   name: Professor Erwan Morellec
@@ -187,7 +187,7 @@ labs:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: cdm-sfi-jh
   acronym: SFI-JH
   name: Professor Julien Hugonnier
@@ -203,7 +203,7 @@ labs:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: cdm-sfi-pcd
   acronym: SFI-PCD
   name: Pierre Collin-Dufresne
@@ -213,13 +213,14 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-pcd/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/sfi-pcd/wp-content/uploads/2024/12/gutman_disc_2007.pdf
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: 'auto-discovered (low confidence, link ''Credit Risk Markets: Opportunities and Challenges''),
+    review'
 - id: cdm-sfi-rf
   acronym: SFI-RF
   name: Chair of Prof. Fahlenbrach
@@ -235,7 +236,7 @@ labs:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: cdm-sfi-sm
   acronym: SFI-SM
   name: Professor Semyon Malamud
@@ -251,7 +252,7 @@ labs:
   - epfl-all
   institutes:
   - SFI
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: cdm-tom
   acronym: TOM
   name: Chair of Technology & Operations Management
@@ -261,13 +262,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/tom/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/tom/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MTEI
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-adher
   acronym: ADHER
   name: Architectural Design and Heritage
@@ -277,13 +278,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/adher/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/adher/teaching-and-research/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching and Research'), review
 - id: enac-alice
   acronym: ALICE
   name: Atelier de la conception de l'espace
@@ -293,13 +294,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/alice/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/alice/index-fr-html/teaching/masterprojects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'MASTER PROJECTS'), review
 - id: enac-cdt
   acronym: CDT
   name: Chaire de droit
@@ -314,7 +315,7 @@ labs:
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-ceat
   acronym: CEAT
   name: Urban and regional planning community
@@ -324,13 +325,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ceat/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/ceat/projet-de-master/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Projet de master'), review
 - id: enac-chaart
   acronym: CHAART
   name: Critical Histories of Architecture and Art
@@ -346,7 +347,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-change
   acronym: CHANGE
   name: Laboratory of Catchment Hydrology and Geomorphology
@@ -356,13 +357,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/change/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/change/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-construct
   acronym: CONSTRUCT
   name: Concrete Behaviour and Structural Design Laboratory
@@ -372,13 +373,14 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/construct/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/construct/wp-content/uploads/2025/08/Semester-Project-Model-Code-2020.pdf
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Assessment of Reinforced Concrete Structures by fib Model-Code
+    2020'), review
 - id: enac-crcl
   acronym: CRCL
   name: Laboratory for Creative Computation
@@ -394,7 +396,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-cryos
   acronym: CRYOS
   name: Laboratory of Cryospheric Sciences
@@ -404,13 +406,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cryos/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/cryos/page-90725-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-dc-lab
   acronym: DC-LAB
   name: Domestic City laboratory
@@ -420,13 +422,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/dc-lab/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/dc-lab/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Design studios'), review
 - id: enac-disal
   acronym: DISAL
   name: Distributed Intelligent Systems and Algorithms
@@ -469,7 +471,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-eceo
   acronym: ECEO
   name: Environmental Computational Science and Earth Observation
@@ -500,13 +502,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/eerl/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/eerl/eerl-home-page/master-and-sie-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master and semester projects / Internships'), review
 - id: enac-eesd
   acronym: EESD
   name: Earthquake Engineering and Structural Dynamics Laboratory
@@ -516,13 +518,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/eesd/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/eesd/all-student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Teaching - Student projects'), review
 - id: enac-eml
   acronym: EML
   name: Environmental Microbiology Laboratory
@@ -532,13 +534,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/eml/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/eml/page-20105-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master's Projects'), review
 - id: enac-eso
   acronym: ESO
   name: Environmental Sensing Observatory
@@ -573,13 +575,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ethos/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/ethos/ethos-student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-far
   acronym: FAR
   name: Laboratory of Construction and Architecture
@@ -589,13 +591,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/far/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/far/position/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'POSITIONING'), review
 - id: enac-gel
   acronym: GEL
   name: Geo-energy Laboratory - Gaznat Chair on Geo-energy
@@ -605,13 +607,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gel/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/gel/students-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Students projects'), review
 - id: enac-gr-cel
   acronym: GR-CEL
   name: Central Environmental Laboratory
@@ -621,13 +623,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gr-cel/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/gr-cel/page-10579-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Teaching & Student Projects'), review
 - id: enac-gr-mec
   acronym: GR-MEC
   name: Group of Composite Mechanics
@@ -637,13 +639,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gr-mec/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/gr-mec/education/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Education'), review
 - id: enac-gr-urbdemo
   acronym: GR-URBDEMO
   name: Urban Demography
@@ -653,13 +655,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/urbdemo/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/urbdemo/urbdemo/education/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-hat
   acronym: HAT
   name: Heritage, Anthropology and Technologies Research Group
@@ -669,12 +671,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/hat/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/hat/semester-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Semester projects'), review
 - id: enac-herus
   acronym: HERUS
   name: Laboratory for Human-Environment Relations in Urban Systems
@@ -684,13 +686,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/herus/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/herus/index-html/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-hitam
   acronym: HITAM
   name: History and Theories of Architecture, Technology and Media
@@ -700,13 +702,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/hitam/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/hitam/masters-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master’s Projects'), review
 - id: enac-hobel
   acronym: HOBEL
   name: Human-Oriented Built Environment Lab
@@ -716,13 +718,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/hobel/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/hobel/home-2/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-homes
   acronym: HOMES
   name: Laboratory for Human-Oriented Mobility Eco-system
@@ -732,13 +734,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/homes/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/homes/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-ibeton
   acronym: IBETON
   name: Structural Concrete Laboratory
@@ -754,7 +756,9 @@ labs:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: 'homepage unreachable during discovery (ConnectTimeout: [WinError 10060] Une tentative de connexion
+    a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une
+    connexion établie a échoué car l’hôte de connexion n’a pas répondu), review'
 - id: enac-ibois
   acronym: IBOIS
   name: Laboratory for Timber Constructions
@@ -764,13 +768,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ibois/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/ibois/jobs-semester-project/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Open positions'), review
 - id: enac-ice
   acronym: ICE
   name: Thermal Engineering for the Built Environment Laboratory
@@ -780,13 +784,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ice/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/ice/ms-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master Projects'), review
 - id: enac-imos
   acronym: IMOS
   name: Intelligent Maintenance and Operations Systems
@@ -819,13 +823,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lab-u/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lab-u/page-144598-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'TEACHING'), review
 - id: enac-lace
   acronym: LACE
   name: Laboratory of Aquatic Chemistry & Engineering
@@ -841,7 +845,7 @@ labs:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-land
   acronym: LAND
   name: Laboratory of Landscape Development
@@ -851,13 +855,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/land/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/land/fr/master-thesis/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master Thesis'), review
 - id: enac-lapi
   acronym: LAPI
   name: Laboratory of atmospheric processes and their impacts
@@ -867,13 +871,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lapi/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lapi/projects-for-students/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Projects for students'), review
 - id: enac-lapis
   acronym: LAPIS
   name: Arts of sciences laboratory
@@ -883,13 +887,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lapis/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lapis/enseignement/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'ENSEIGNEMENT'), review
 - id: enac-lasig
   acronym: LASIG
   name: Laboratory of Geographic Information Systems
@@ -899,13 +903,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lasig/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lasig/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-last
   acronym: LAST
   name: Laboratoire d'architecture et technologies durables
@@ -915,13 +919,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/last/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/last/teaching/masters-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master’s projects'), review
 - id: enac-lasur
   acronym: LASUR
   name: Urban Sociology Laboratory
@@ -931,13 +935,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lasur/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lasur/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-lbe
   acronym: LBE
   name: Laboratory for Environmental Biotechnology
@@ -953,7 +957,7 @@ labs:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-lch
   acronym: LCH
   name: Laboratory of Hydraulic Constructions
@@ -963,13 +967,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lch/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lch/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-lemr
   acronym: LEMR
   name: Laboratory of Experimental Rock Mechanics
@@ -979,13 +983,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lemr/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lemr/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-lesc
   acronym: LESC
   name: Laboratory for Environmental Spectrochemistry
@@ -995,13 +999,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lesc/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lesc/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-leso-pb
   acronym: LESO-PB
   name: Solar Energy and Building Physics Laboratory
@@ -1011,13 +1015,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/leso/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/leso/education/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-leure
   acronym: LEURE
   name: Laboratory of Environmental and Urban Economics -
@@ -1027,13 +1031,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/leure/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/leure/projets-de-semestre/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Projets de semestre ou de master'), review
 - id: enac-lev
   acronym: LEV
   name: Laboratory of Environmental Virology
@@ -1043,13 +1047,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lev/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lev/index-html/sie-project/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Open Student Projects'), review
 - id: enac-lgb
   acronym: LGB
   name: Laboratory for Biological Geochemistry
@@ -1059,13 +1063,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lgb/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lgb/open-positions/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Open Positions'), review
 - id: enac-lhe
   acronym: LHE
   name: Laboratoire d'Hydraulique Environnementale
@@ -1075,13 +1079,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lhe/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lhe/enseignement/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Enseignement'), review
 - id: enac-lhst
   acronym: LHST
   name: History of Science and Technology
@@ -1113,13 +1117,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lif/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lif/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'TEACHING'), review
 - id: enac-lipid
   acronym: LIPID
   name: Laboratory of Integrated Performance in Design
@@ -1129,13 +1133,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lipid/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lipid/open_masters_semester_projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Open Student Projects'), review
 - id: enac-lmd
   acronym: LMD
   name: Data-Driven Mechanics
@@ -1165,13 +1169,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lmd/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lmd/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-lms
   acronym: LMS
   name: Laboratory of Soil Mechanics
@@ -1181,13 +1185,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lms/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lms/internships-and-student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Internships and Student Projects'), review
 - id: enac-lsms
   acronym: LSMS
   name: Computational Solid Mechanics Laboratory
@@ -1197,13 +1201,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsms/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lsms/semester-and-master-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Teaching – Student Projects'), review
 - id: enac-lsr
   acronym: LSR
   name: Laboratory of Sustainability Robotics
@@ -1213,13 +1217,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsr/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lsr/homepage/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-lte
   acronym: LTE
   name: Environmental Remote Sensing Laboratory
@@ -1229,13 +1233,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lte/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lte/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-ltqe
   acronym: LTQE
   name: Laboratory for Water Quality and Treatment
@@ -1245,13 +1249,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ltqe/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/ltqe/page-73621-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Semester Project Proposals'), review
 - id: enac-luts
   acronym: LUTS
   name: Urban Transport Systems Laboratory
@@ -1261,13 +1265,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/luts/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/luts/semester-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-mace
   acronym: MACE
   name: Microbiome Adaptation to the Changing Environment
@@ -1277,13 +1281,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mace/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/mace/teaching/master-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master & Semester Projects'), review
 - id: enac-matr
   acronym: MATR
   name: Materials in Transition Laboratory
@@ -1293,13 +1297,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/matr/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/matr/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-mcs
   acronym: MCS
   name: Laboratory for Maintenance and Safety of Structures
@@ -1309,13 +1313,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mcs/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/mcs/mcs-laboratory-for-maintenance-and-safety-of-structures/education-nouvelle/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Education'), review
 - id: enac-microbe
   acronym: MICROBE
   name: Laboratory of microbial physiology and resource biorecovery
@@ -1325,13 +1329,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/microbe/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/microbe/student-project/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Project'), review
 - id: enac-pal
   acronym: PAL
   name: Plant Adaptation Laboratory
@@ -1341,13 +1345,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/pal/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/pal/open-positions/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Open positions'), review
 - id: enac-perl
   acronym: PERL
   name: Plant Ecology Research Laboratory
@@ -1357,13 +1361,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/perl/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/perl/perl-home/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-resslab
   acronym: RESSLAB
   name: Resilient Steel Structures Laboratory
@@ -1373,13 +1377,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/resslab/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/resslab/semester-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Semester projects'), review
 - id: enac-riot
   acronym: RIOT
   name: Research and development for Innovation On architecture, urban design and Territory
@@ -1395,7 +1399,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-river
   acronym: RIVER
   name: River Ecosystems Laboratory
@@ -1405,13 +1409,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/river/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/river/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: enac-rpgl
   acronym: RPGL
   name: Rock Physics and Geofluids Laboratory
@@ -1421,13 +1425,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/rpgl/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/rpgl/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-sci-enac-as
   acronym: SCI-ENAC-AS
   name: SCI ENAC AS Group
@@ -1437,13 +1441,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sci-enac-as/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/sci-enac-as/teaching/master-and-semester-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Master and semester projects'), review
 - id: enac-sense
   acronym: SENSE
   name: Smart Environmental Sensing in Extreme Environments
@@ -1453,13 +1457,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sense/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/sense/student-projects-2/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-skil
   acronym: SKIL
   name: Student Kreativity and Innovation Laboratory
@@ -1474,7 +1478,7 @@ labs:
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-soil
   acronym: SOIL
   name: Soil biogeochemistry laboratory
@@ -1484,13 +1488,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/soil/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/soil/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: enac-sono
   acronym: SONO
   name: Laboratory of South-North Sustainable Construction and Conservation
@@ -1506,7 +1510,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-streem
   acronym: STREEM
   name: Sustainable River Engineering, Energy and Morphodynamics
@@ -1516,13 +1520,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/streem/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/streem/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-sxl
   acronym: SXL
   name: Structural Xploration Lab
@@ -1532,13 +1536,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sxl/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/sxl/education/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'Education'), review
 - id: enac-texas
   acronym: TEXAS
   name: Studio d architecture théorie et expérience
@@ -1554,7 +1558,7 @@ labs:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: enac-thema
   acronym: THEMA
   name: Theory of Environment, Material, and Architecture
@@ -1564,13 +1568,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/thema/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/thema/teaching/masters-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'ET/PDM Theoretical Statements'), review
 - id: enac-tmu
   acronym: TMU
   name: Time Machine
@@ -1601,13 +1605,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/tpod/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/tpod/job-position/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (low confidence, link 'Job Positions'), review
 - id: enac-transp-or
   acronym: TRANSP-OR
   name: Transportation and Mobility Laboratory
@@ -1638,13 +1642,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/urbes/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/urbes/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IA
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-vita
   acronym: VITA
   name: Visual lntelligence for Transportation
@@ -1679,13 +1683,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/weir/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/weir/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIC
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student projects'), review
 - id: enac-wire
   acronym: WIRE
   name: Wind Engineering and Renewable Energy Laboratory
@@ -1695,13 +1699,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/wire/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/wire/ms-thesis-project/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - IIE
-  notes: null
+  notes: auto-discovered (high confidence, link 'Students Projects'), review
 - id: ent-cede
   acronym: CEDE
   name: Center for Digital Education
@@ -2174,12 +2178,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gr-pu/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/gr-pu/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-hexhive
   acronym: HEXHIVE
   name: HexHive
@@ -2216,12 +2220,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/iig/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/iig/page-40272-en-html/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects & Summer Internships'), review
 - id: ic-indy
   acronym: INDY
   name: lnformation and Network Dynamics Laboratory
@@ -2231,12 +2235,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://indy.epfl.ch/
-  projects_url: null
+  projects_url: https://indy.epfl.ch/projects
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-indy1
   acronym: INDY1
   name: Information and Network Dynamics 1
@@ -2293,12 +2297,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/schools/ic/ipg/
-  projects_url: null
+  projects_url: https://www.epfl.ch/schools/ic/ipg/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-ivrl
   acronym: IVRL
   name: Images and Visual Representation
@@ -2334,12 +2338,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lamp/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lamp/teaching/teaching-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-lamp1
   acronym: LAMP1
   name: Programming Methods 1
@@ -2469,12 +2473,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcav/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lcav/teaching/student_projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Semester and Masters Projects'), review
 - id: ic-lcn
   acronym: LCN
   name: Computational Neuroscience
@@ -2542,12 +2546,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lia/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lia/student-projects/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Projects'), review
 - id: ic-light
   acronym: LIGHT
   name: Intelligent Global Health & Humanitarian Response Technologies
@@ -2612,7 +2616,7 @@ labs:
   - epfl-all
   institutes:
   - IEM
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: ic-lsir
   acronym: LSIR
   name: Distributed Information Systems
@@ -2622,12 +2626,12 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsir/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/lsir/teaching/student-project-offers/
   source_type: auto
   listed_in:
   - epfl-all
   institutes: []
-  notes: null
+  notes: auto-discovered (high confidence, link 'Student Project Offers'), review
 - id: ic-lthc
   acronym: LTHC
   name: Communication Theory
@@ -2680,13 +2684,13 @@ labs:
   ic_domains: []
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mds/
-  projects_url: null
+  projects_url: https://www.epfl.ch/labs/mds/teaching/
   source_type: auto
   listed_in:
   - epfl-all
   institutes:
   - MATH
-  notes: null
+  notes: auto-discovered (low confidence, link 'Teaching'), review
 - id: ic-mds2
   acronym: MDS2
   name: Mathematical Data Science
@@ -2880,7 +2884,7 @@ labs:
   - epfl-all
   institutes:
   - Neuro-X
-  notes: null
+  notes: no student-project link found on the homepage, review
 - id: ic-nlp
   acronym: NLP
   name: Natural Language Processing

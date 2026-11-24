@@ -227,7 +227,11 @@ def find_subpage_links(html: str, page_url: str, limit: int = 25) -> list[Link]:
         href = a["href"].strip()
         if href.startswith(("mailto:", "tel:", "javascript:", "#")) or "@" in href:
             continue  # "@": e-mail addresses written without mailto:
-        url = _canonical(urljoin(page_url, href))
+        try:
+            url = _canonical(urljoin(page_url, href))
+            urlsplit(url)
+        except ValueError:  # malformed href: ignore the link
+            continue
         text = normalize_text(a.get_text(" "))
         key = url.rstrip("/")  # ".../aether-kite" and ".../aether-kite/" are the same page
         if key == page or key in seen:

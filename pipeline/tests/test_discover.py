@@ -107,3 +107,11 @@ def test_parse_epfl_list_and_merge_keeps_existing():
     assert cvlab.notes == "hand-made note"  # kept
     assert cvlab.homepage_url == "https://www.epfl.ch/labs/cvlab/"  # added
     assert "epfl-all" in cvlab.listed_in
+
+
+def test_malformed_href_is_ignored():
+    html = '<a href="http://[bad/student-projects">Student projects</a>'
+    html += '<a href="/labs/vision/student-projects/">Student projects</a>'
+    assert [c.url for c in candidate_links(html, HOME)] == [
+        "https://www.epfl.ch/labs/vision/student-projects/"
+    ]

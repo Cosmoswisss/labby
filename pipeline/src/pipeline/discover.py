@@ -80,10 +80,13 @@ def candidate_links(html: str, page_url: str) -> list[Candidate]:
         href = a["href"].strip()
         if href.startswith(("mailto:", "tel:", "javascript:", "#")) or "@" in href:
             continue
-        url, _ = urldefrag(urljoin(page_url, href))
-        if url.rstrip("/") == page_url.rstrip("/") or SKIP_URL_RE.search(url):
-            continue
-        if not in_scope(url, scope):
+        try:
+            url, _ = urldefrag(urljoin(page_url, href))
+            if url.rstrip("/") == page_url.rstrip("/") or SKIP_URL_RE.search(url):
+                continue
+            if not in_scope(url, scope):
+                continue
+        except ValueError:  # malformed href (e.g. "http://[bad"): ignore the link
             continue
         text = normalize_text(a.get_text(" ")).replace("\n", " ")[:120]
         score = score_link(text, url)
