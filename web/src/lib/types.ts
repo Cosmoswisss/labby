@@ -3,7 +3,7 @@
 export type ProjectType = "semester_bachelor" | "semester_master" | "master_thesis" | "other";
 export type ProjectStatus = "available" | "reserved" | "unknown";
 export type Language = "EN" | "FR" | "unknown";
-export type LabStatus = "ok" | "none" | "restricted" | "js_rendered" | "blocked" | "error" | "auto";
+export type LabStatus = "ok" | "none" | "restricted" | "js_rendered" | "blocked" | "error" | "auto" | "pending";
 
 export interface Project {
   id: string;

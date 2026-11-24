@@ -160,6 +160,7 @@ HEADER_COMMENT = """\
 #
 # source_type:
 #   auto         the crawler fetches projects_url and decides
+#   pending      not indexed yet: held out of crawl/extraction until the faculty is evaluated
 #   none         no public project list (personal / contact page only)
 #   restricted   list behind a login or the EPFL network: only the link is shown
 #   js_rendered  rendered by JavaScript (Notion…): not crawled in V1

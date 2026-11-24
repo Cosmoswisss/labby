@@ -12,7 +12,7 @@ Faculty = Literal["IC", "STI", "SB", "SV", "ENAC", "CDM", "CDH", "ENT", "OTHER"]
 #   restricted   -> list behind a login / EPFL network
 #   js_rendered  -> content rendered by JavaScript (e.g. Notion), not crawled in V1
 #   blocked      -> the site refuses our crawler (robots.txt or 403)
-SourceHint = Literal["auto", "none", "restricted", "js_rendered", "blocked"]
+SourceHint = Literal["auto", "pending", "none", "restricted", "js_rendered", "blocked"]
 
 # What the crawler actually observed for a lab.
 CrawlStatus = Literal["ok", "none", "restricted", "js_rendered", "blocked", "error"]

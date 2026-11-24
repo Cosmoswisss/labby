@@ -4,6 +4,7 @@
 #
 # source_type:
 #   auto         the crawler fetches projects_url and decides
+#   pending      not indexed yet: held out of crawl/extraction until the faculty is evaluated
 #   none         no public project list (personal / contact page only)
 #   restricted   list behind a login or the EPFL network: only the link is shown
 #   js_rendered  rendered by JavaScript (Notion…): not crawled in V1
@@ -42,7 +43,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cfi/
   projects_url: https://www.epfl.ch/labs/cfi/teaching-2/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -58,7 +59,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/csf/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -97,7 +98,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/stip/
   projects_url: https://www.epfl.ch/labs/stip/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -134,7 +135,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/oes/
   projects_url: https://www.epfl.ch/labs/oes/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -150,7 +151,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/pasu/
   projects_url: https://www.epfl.ch/labs/pasu/pasu-chair-of-policy-and-sustainability/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -166,7 +167,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/rao/
   projects_url: https://www.epfl.ch/labs/rao/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -182,7 +183,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-em/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -198,7 +199,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-jh/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -214,7 +215,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-pcd/
   projects_url: https://www.epfl.ch/labs/sfi-pcd/wp-content/uploads/2024/12/gutman_disc_2007.pdf
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -231,7 +232,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-rf/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -247,7 +248,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sfi-sm/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -263,7 +264,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/tom/
   projects_url: https://www.epfl.ch/labs/tom/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3598,7 +3599,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/metmrs/
   projects_url: https://www.epfl.ch/labs/metmrs/research/master-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3614,7 +3615,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mrs4brain/
   projects_url: https://www.epfl.ch/labs/mrs4brain/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes: []
@@ -3629,7 +3630,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/schools/sv/yang-group/
   projects_url: https://www.epfl.ch/schools/sv/yang-group/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes: []
@@ -3644,7 +3645,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/amcv/
   projects_url: https://www.epfl.ch/labs/amcv/amcv/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3660,7 +3661,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/anchp/
   projects_url: https://www.epfl.ch/labs/anchp/index-html/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3676,7 +3677,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/anmath/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3692,7 +3693,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/arg/
   projects_url: https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3708,7 +3709,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/biostat/
   projects_url: https://www.epfl.ch/labs/biostat/supervision/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3724,7 +3725,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/c3mp/
   projects_url: https://www.epfl.ch/labs/c3mp/index-html/positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3740,7 +3741,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cag/
   projects_url: https://www.epfl.ch/labs/cag/page-135646-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3756,7 +3757,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cmatd/
   projects_url: https://www.epfl.ch/labs/cmatd/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3772,7 +3773,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cmgr/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3788,7 +3789,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cqsl/
   projects_url: https://www.epfl.ch/labs/cqsl/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3804,7 +3805,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/crt/
   projects_url: https://www.epfl.ch/labs/crt/mainpage/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3820,7 +3821,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/csea/
   projects_url: https://www.epfl.ch/labs/csea/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3859,7 +3860,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/csqi/
   projects_url: https://www.epfl.ch/labs/csqi/page-99719-fr-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3875,7 +3876,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ctmc/
   projects_url: https://www.epfl.ch/labs/ctmc/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3891,7 +3892,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/cxi/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3952,7 +3953,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ecom/
   projects_url: https://www.epfl.ch/labs/ecom/ecom-chair-of-extremal-combinatorics/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3968,7 +3969,7 @@ labs:
   research_interests: []
   homepage_url: https://egg.epfl.ch/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -3984,7 +3985,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/erg/
   projects_url: https://www.epfl.ch/labs/erg/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4000,7 +4001,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/fsl/
   projects_url: https://www.epfl.ch/labs/fsl/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4016,7 +4017,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/galspec/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4032,7 +4033,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/scd/
   projects_url: https://www.epfl.ch/labs/scd/scd/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4048,7 +4049,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gr-ost/
   projects_url: https://www.epfl.ch/labs/gr-ost/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4064,7 +4065,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gscp/
   projects_url: https://www.epfl.ch/labs/gscp/gscp/master-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4080,7 +4081,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gse/
   projects_url: https://www.epfl.ch/labs/gse/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4096,7 +4097,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/het/
   projects_url: https://www.epfl.ch/labs/het/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4112,7 +4113,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/hpnalgs/
   projects_url: https://www.epfl.ch/labs/hpnalgs/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4128,7 +4129,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/hqc/
   projects_url: https://www.epfl.ch/labs/hqc/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4145,7 +4146,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/k-lab/
   projects_url: https://www.epfl.ch/labs/k-lab/positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4162,7 +4163,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/las/
   projects_url: https://www.epfl.ch/labs/las/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4178,7 +4179,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/laspe/
   projects_url: https://www.epfl.ch/labs/laspe/open-position/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4194,7 +4195,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lastro/
   projects_url: https://www.epfl.ch/labs/lastro/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4210,7 +4211,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lbem/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4226,7 +4227,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lbs/
   projects_url: https://www.epfl.ch/labs/lbs/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4242,7 +4243,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcbc/
   projects_url: https://www.epfl.ch/labs/lcbc/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4258,7 +4259,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcbm/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4274,7 +4275,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcmd/
   projects_url: https://www.epfl.ch/labs/lcmd/page-50412-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4290,7 +4291,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcom/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4306,7 +4307,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcps/
   projects_url: https://www.epfl.ch/labs/lcps/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4322,7 +4323,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcpt/
   projects_url: https://www.epfl.ch/labs/lcpt/wp-content/uploads/2018/08/Master_projects_2012.pdf
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4338,7 +4339,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcs/
   projects_url: https://www.epfl.ch/labs/lcs/master-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4354,7 +4355,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcsa/
   projects_url: https://www.epfl.ch/labs/lcsa/job-openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4371,7 +4372,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcsb/
   projects_url: https://www.epfl.ch/labs/lcsb/master-and-semester-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4387,7 +4388,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lcso/
   projects_url: https://www.epfl.ch/labs/lcso/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4403,7 +4404,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/leb/
   projects_url: https://www.epfl.ch/labs/leb/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4419,7 +4420,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lem/
   projects_url: https://www.epfl.ch/labs/lem/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4435,7 +4436,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lesm/
   projects_url: https://www.epfl.ch/labs/lesm/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4451,7 +4452,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lfim/
   projects_url: https://www.epfl.ch/labs/lfim/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4488,7 +4489,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/libn/
   projects_url: https://www.epfl.ch/labs/libn/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4504,7 +4505,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lifmet/
   projects_url: https://www.epfl.ch/labs/lifmet/teaching/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4520,7 +4521,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/limno/
   projects_url: https://www.epfl.ch/labs/limno/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4536,7 +4537,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lltcp/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4552,7 +4553,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lmer/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4569,7 +4570,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lmsc/
   projects_url: https://www.epfl.ch/labs/lmsc/wp-content/uploads/2022/05/Overview-Projects_2022.pdf
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4587,7 +4588,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lnb/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4603,7 +4604,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lnce/
   projects_url: https://www.epfl.ch/labs/lnce/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4619,7 +4620,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lnd/
   projects_url: https://www.epfl.ch/labs/lnd/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4635,7 +4636,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lnq/
   projects_url: https://www.epfl.ch/labs/lnq/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4651,7 +4652,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lns/
   projects_url: https://www.epfl.ch/labs/lns/page-92568-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4667,7 +4668,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpap/
   projects_url: https://www.epfl.ch/labs/lpap/?page_id=910
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4683,7 +4684,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpbs/
   projects_url: https://www.epfl.ch/labs/lpbs/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4699,7 +4700,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpdc/
   projects_url: https://www.epfl.ch/labs/lpdc/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4715,7 +4716,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lphe/
   projects_url: https://www.epfl.ch/labs/lphe/tp3/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4731,7 +4732,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpi/
   projects_url: https://www.epfl.ch/labs/lpi/jobs/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4747,7 +4748,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpl/
   projects_url: https://www.epfl.ch/labs/lpl/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4763,7 +4764,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lpmt/
   projects_url: https://www.epfl.ch/labs/lpmt/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4779,7 +4780,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lppt/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4795,7 +4796,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lptp/
   projects_url: https://www.epfl.ch/labs/lptp/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4811,7 +4812,7 @@ labs:
   research_interests: []
   homepage_url: https://lqg.epfl.ch/
   projects_url: https://quantumgases.ch/teaching
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4827,7 +4828,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lqm/
   projects_url: https://www.epfl.ch/labs/lqm/jobs-and-student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4843,7 +4844,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lqno/
   projects_url: https://www.epfl.ch/labs/lqno/openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4859,7 +4860,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lqp/
   projects_url: https://www.epfl.ch/labs/lqp/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4875,7 +4876,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lrm/
   projects_url: https://www.epfl.ch/labs/lrm/job-openings/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4891,7 +4892,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lrs/
   projects_url: https://www.epfl.ch/labs/lrs/project-proposals-for-students/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4908,7 +4909,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsam/
   projects_url: https://www.epfl.ch/labs/lsam/join-us/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4924,7 +4925,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsci/
   projects_url: https://www.epfl.ch/labs/lsci/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4940,7 +4941,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsme/
   projects_url: https://www.epfl.ch/labs/lsme/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4956,7 +4957,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lsmo/
   projects_url: https://www.epfl.ch/labs/lsmo/page-110175-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4972,7 +4973,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lspn/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -4988,7 +4989,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ltfp/
   projects_url: https://www.epfl.ch/labs/ltfp/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5004,7 +5005,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ltm/
   projects_url: https://www.epfl.ch/labs/ltm/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5020,7 +5021,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/ltpn/
   projects_url: https://www.epfl.ch/labs/ltpn/index-html/page-70697-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5036,7 +5037,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/lumes/
   projects_url: https://www.epfl.ch/labs/lumes/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5052,7 +5053,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/luxs/
   projects_url: https://www.epfl.ch/labs/luxs/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5068,7 +5069,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mathicse/
   projects_url: https://www.epfl.ch/labs/mathicse/page-142879-en-html/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5084,7 +5085,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/matmat/
   projects_url: https://www.epfl.ch/labs/matmat/matmat/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5100,7 +5101,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mns/
   projects_url: https://www.epfl.ch/labs/mns/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5117,7 +5118,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mrism/
   projects_url: https://www.epfl.ch/labs/mrism/mrism/students-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5134,7 +5135,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/nxm/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5150,7 +5151,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/optim/
   projects_url: https://www.epfl.ch/labs/optim/student-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5166,7 +5167,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/pcsl/
   projects_url: https://www.epfl.ch/labs/pcsl/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5182,7 +5183,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/pde/
   projects_url: https://www.epfl.ch/labs/pde/fr/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5198,7 +5199,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/prob/
   projects_url: https://www.epfl.ch/labs/prob/enseignement/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5214,7 +5215,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/propde/
   projects_url: https://www.epfl.ch/labs/propde/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5230,7 +5231,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/prst/
   projects_url: https://www.epfl.ch/labs/prst/enseignement/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5246,7 +5247,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/qic/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5262,7 +5263,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/rgm/
   projects_url: https://www.epfl.ch/labs/rgm/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5278,7 +5279,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/mechanical-spectroscopy/
   projects_url: https://www.epfl.ch/labs/mechanical-spectroscopy/education/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5294,7 +5295,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gcc/
   projects_url: https://www.epfl.ch/labs/gcc/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5310,7 +5311,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sci-sb-pj/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5326,7 +5327,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sci-sb-sd/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5342,7 +5343,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/gbf/
   projects_url: https://www.epfl.ch/labs/gbf/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5358,7 +5359,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sds/
   projects_url: https://www.epfl.ch/labs/sds/students-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5374,7 +5375,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/smat/
   projects_url: https://www.epfl.ch/labs/smat/semester-projects/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5390,7 +5391,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sois/
   projects_url: https://www.epfl.ch/labs/sois/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5406,7 +5407,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/sqil/
   projects_url: null
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5422,7 +5423,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/stoan/
   projects_url: https://www.epfl.ch/labs/stoan/open-positions/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5438,7 +5439,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/tan/
   projects_url: https://www.epfl.ch/labs/tan/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:
@@ -5454,7 +5455,7 @@ labs:
   research_interests: []
   homepage_url: https://www.epfl.ch/labs/tn/
   projects_url: https://www.epfl.ch/labs/tn/number-theory-tn/teaching/
-  source_type: auto
+  source_type: pending
   listed_in:
   - epfl-all
   institutes:

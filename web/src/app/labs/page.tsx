@@ -25,6 +25,7 @@ const STATUS_INFO: Partial<Record<LabStatus, { label: string; tone: BadgeTone }>
   restricted: { label: "EPFL login required", tone: "warning" },
   js_rendered: { label: "Not indexed yet", tone: "neutral" },
   auto: { label: "Coming soon", tone: "neutral" },
+  pending: { label: "Coming soon", tone: "neutral" },
   blocked: { label: "Not indexable", tone: "neutral" },
   error: { label: "Page unreachable", tone: "warning" },
 };
