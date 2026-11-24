@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T14:02:48+00:00",
+ "updated_at": "2026-11-23T14:52:29+00:00",
  "pages": {
   "http://bigwww.epfl.ch/teaching/projects/subject.html": {
    "key": {
@@ -236,7 +236,9 @@
      "status": "unknown",
      "academic_period": "Autumn 2022"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:45:17+00:00"
   },
   "https://aimm.epfl.ch/openings/": {
    "key": {
@@ -328,7 +330,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:45:26+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00452": {
    "key": {
@@ -373,7 +377,9 @@
      "status": "reserved",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:45:36+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00453": {
    "key": {
@@ -418,7 +424,9 @@
      "status": "reserved",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:45:45+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00454": {
    "key": {
@@ -462,7 +470,9 @@
      "status": "available",
      "academic_period": "Spring 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:45:55+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00457": {
    "key": {
@@ -504,7 +514,9 @@
      "status": "unknown",
      "academic_period": "Automn 2024"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:05+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00458": {
    "key": {
@@ -548,7 +560,9 @@
      "status": "available",
      "academic_period": "Autumn 2024"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:15+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00459": {
    "key": {
@@ -596,7 +610,9 @@
      "status": "available",
      "academic_period": "Spring 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:24+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00460": {
    "key": {
@@ -614,7 +630,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:34+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00461": {
    "key": {
@@ -656,7 +674,9 @@
      "status": "available",
      "academic_period": "Spring 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:44+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00462": {
    "key": {
@@ -698,7 +718,9 @@
      "status": "unknown",
      "academic_period": "Spring 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:46:53+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00463": {
    "key": {
@@ -746,7 +768,9 @@
      "status": "unknown",
      "academic_period": "Autumn 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:02+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00464": {
    "key": {
@@ -792,7 +816,9 @@
      "status": "unknown",
      "academic_period": "Autumn 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:12+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00465": {
    "key": {
@@ -836,7 +862,9 @@
      "status": "available",
      "academic_period": "Spring 2026"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:21+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00466": {
    "key": {
@@ -878,7 +906,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:31+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00467": {
    "key": {
@@ -924,7 +954,9 @@
      "status": "unknown",
      "academic_period": "Spring 2026"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:40+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00468": {
    "key": {
@@ -965,7 +997,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:47:49+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00469": {
    "key": {
@@ -1008,7 +1042,9 @@
      "status": "unknown",
      "academic_period": "Spring 2026"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:00+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00470": {
    "key": {
@@ -1051,7 +1087,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:09+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00471": {
    "key": {
@@ -1091,7 +1129,9 @@
      "status": "unknown",
      "academic_period": "Autumn 2025"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:20+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00472": {
    "key": {
@@ -1109,7 +1149,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:30+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00473": {
    "key": {
@@ -1150,7 +1192,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:39+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00474": {
    "key": {
@@ -1190,7 +1234,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:48+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/abstract.html?f=00475": {
    "key": {
@@ -1208,7 +1254,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:48:58+00:00"
   },
   "https://bigwww.epfl.ch/teaching/projects/index.html?view=all": {
    "key": {
@@ -1377,7 +1425,9 @@
      "status": "reserved",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:08+00:00"
   },
   "https://biorob2.epfl.ch/pages/projects/index.php?keyword=32": {
    "key": {
@@ -1586,7 +1636,9 @@
      "status": "available",
      "academic_period": "Spring 2027"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:19+00:00"
   },
   "https://brbiclab.epfl.ch/join-us/": {
    "key": {
@@ -1709,7 +1761,9 @@
      "status": "available",
      "academic_period": "2026-27 spring semester"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:29+00:00"
   },
   "https://cibm.ch/open-positions/": {
    "key": {
@@ -1833,7 +1887,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:39+00:00"
   },
   "https://compsec.epfl.ch/": {
    "key": {
@@ -1895,7 +1951,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:49+00:00"
   },
   "https://datascience.ch/call-for-projects-2026": {
    "key": {
@@ -1913,7 +1971,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:49:59+00:00"
   },
   "https://datascience.ch/call-for-projects/call-for-vaud-projects": {
    "key": {
@@ -1931,7 +1991,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:09+00:00"
   },
   "https://datascience.ch/domains/engineering-topic": {
    "key": {
@@ -1949,7 +2011,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:18+00:00"
   },
   "https://datascience.ch/projects": {
    "key": {
@@ -1967,7 +2031,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:28+00:00"
   },
   "https://datascience.ch/projects/aicades": {
    "key": {
@@ -1985,7 +2051,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:37+00:00"
   },
   "https://datascience.ch/students-projects/": {
    "key": {
@@ -2142,7 +2210,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:46+00:00"
   },
   "https://dcl.epfl.ch/site/Education": {
    "key": {
@@ -2222,7 +2292,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:50:56+00:00"
   },
   "https://dcl.epfl.ch/site/education/secure_distributed_computing": {
    "key": {
@@ -2240,7 +2312,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": "2009-11-23",
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:05+00:00"
   },
   "https://dcl.epfl.ch/site/erc-aoc_project": {
    "key": {
@@ -2258,7 +2332,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:14+00:00"
   },
   "https://dslab.epfl.ch/projects/": {
    "key": {
@@ -2357,7 +2433,9 @@
      "status": "available",
      "academic_period": "Fall 2026"
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:24+00:00"
   },
   "https://dslab.epfl.ch/projects/guide": {
    "key": {
@@ -2375,7 +2453,9 @@
    "error": null,
    "page_kind": "no_projects",
    "page_updated_at": null,
-   "projects": []
+   "projects": [],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:33+00:00"
   },
   "https://esl.epfl.ch/studentprojects/": {
    "key": {
@@ -3334,7 +3414,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:43+00:00"
   },
   "https://hexhive.epfl.ch/epflprojects/": {
    "key": {
@@ -3407,7 +3489,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:51:52+00:00"
   },
   "https://imaging.epfl.ch/students-projects": {
    "key": {
@@ -3517,7 +3601,9 @@
      "status": "available",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:52:02+00:00"
   },
   "https://indy.epfl.ch/project/78": {
    "key": {
@@ -3556,7 +3642,9 @@
      "status": "unknown",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:52:11+00:00"
   },
   "https://indy.epfl.ch/project/79": {
    "key": {
@@ -3600,7 +3688,9 @@
      "status": "unknown",
      "academic_period": null
     }
-   ]
+   ],
+   "last_error": "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)",
+   "last_error_at": "2026-11-23T14:52:21+00:00"
   },
   "https://indy.epfl.ch/project/81": {
    "key": {

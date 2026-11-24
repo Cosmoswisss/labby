@@ -216,3 +216,11 @@ def test_failed_reextraction_keeps_previous_projects(tmp_path):
     assert "Not logged in" in entry["last_error"]
     # still pending: retried next run
     assert make_extractor(tmp_path, FakeEngine([])).pending_pages() == ["https://a.ch/p"]
+
+
+def test_five_hour_limit_message_is_recognised():
+    from pipeline.extract import USAGE_LIMIT_RE
+
+    msg = "claude error: You've hit your 5-hour limit · resets 6:10pm (Europe/Paris)"
+    assert USAGE_LIMIT_RE.search(msg)
+    assert not USAGE_LIMIT_RE.search("claude error: invalid output: missing field")

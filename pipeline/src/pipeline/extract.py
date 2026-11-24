@@ -27,7 +27,12 @@ PROMPTS_DIR = Path(__file__).parent / "prompts"
 PROMPT_NAME = "extract_v3"
 MAX_PAGE_CHARS = 120_000  # ~30k tokens; longer pages are truncated (and flagged)
 EXTRACTIONS_VERSION = 1
-USAGE_LIMIT_RE = re.compile(r"usage limit|rate limit|limit reached|429|overloaded", re.I)
+# Subscription / API limits: stop the run instead of failing every remaining page.
+# e.g. "Claude usage limit reached", "You've hit your 5-hour limit · resets 6:10pm".
+USAGE_LIMIT_RE = re.compile(
+    r"usage limit|rate limit|limit reached|hit your .{0,20}limit|resets? \d|429|overloaded",
+    re.I,
+)
 
 
 def load_prompt(name: str = PROMPT_NAME) -> tuple[str, str]:
